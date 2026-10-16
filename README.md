@@ -8,13 +8,13 @@
 
 ## 運作方式
 
-GitHub Actions **每小時**執行 `scraper/collect.py`：每小時檢查網店庫存，台灣時間 **08:00、18:00** 再把下面所有來源完整搜一遍。
+GitHub Actions **每 15 分鐘**執行 `scraper/collect.py`：每 15 分鐘檢查網店庫存（庫存沒變就不更新），台灣時間 **08:00、18:00** 再把下面所有來源完整搜一遍。
 
 | 來源 | 內容 |
 |---|---|
 | Google 新聞 | 「戰鬥陀螺 到貨／補貨／開賣」、超商、門市等新聞 |
 | PTT（Toy、BabyMother、Lifeismoney、Gossiping） | 網友回報現貨、補貨 |
-| 網店庫存（`scraper/stock.py`） | 直接讀店家網店的商品庫存（目前支援 CYBERBIZ），補貨、新上架馬上列出；「🛒 網店庫存」分頁可看每項商品有沒有貨 |
+| 網店庫存（`scraper/stock.py`） | 直接讀店家網店的商品庫存（目前支援 CYBERBIZ），補貨、新上架（快閃商品先上架、還沒開賣也會通知）馬上列出；「🛒 網店庫存」分頁可看每項商品有沒有貨 |
 | Facebook 文具店／書局 | 文具店、書局的到貨貼文（比玩具店更難得知） |
 | Facebook 公開貼文 | 透過 Google 新聞收錄的公開粉專／社團貼文（店家到貨公告、網友轉售）。只收得到 Google 有收錄的部分 |
 | YouTube（選填） | 近 14 天「到貨／補貨／開箱」影片，需要免費 API 金鑰 |
@@ -47,7 +47,7 @@ GitHub Actions **每小時**執行 `scraper/collect.py`：每小時檢查網店�
 ]
 ```
 
-有網店的店家（例如森森文具，用 CYBERBIZ 架站）加上 `store`，就會每小時監控庫存：
+有網店的店家（例如森森文具，用 CYBERBIZ 架站）加上 `store`，就會每 15 分鐘監控庫存：
 
 ```json
 {"name": "森森文具", "store": {"type": "cyberbiz", "url": "https://www.sen-sen.com.tw/collections/戰鬥陀螺x"}}

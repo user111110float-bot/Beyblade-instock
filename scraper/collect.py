@@ -429,10 +429,11 @@ def redact(msg: str) -> str:
 
 
 def is_full_run(prev: dict) -> bool:
-    """每小時都會跑；只有 08、18 點（或手動、改程式後）才把所有來源搜一遍，其他時間只查網店庫存。"""
-    if os.environ.get("FULL") == "1" or NOW.hour in (8, 18) or not prev.get("updated_full"):
+    """每 15 分鐘跑一次；08、18 點（或手動、改程式後）才把所有來源搜一遍，其他時間只查網店庫存。"""
+    if os.environ.get("FULL") == "1" or not prev.get("updated_full"):
         return True
-    return NOW - dt.datetime.fromisoformat(prev["updated_full"]) >= dt.timedelta(hours=11)
+    since = NOW - dt.datetime.fromisoformat(prev["updated_full"])
+    return (NOW.hour in (8, 18) and since >= dt.timedelta(hours=2)) or since >= dt.timedelta(hours=11)
 
 
 def main() -> int:
@@ -442,7 +443,10 @@ def main() -> int:
     print("完整收集" if full else "只查網店庫存")
     stamp = NOW.isoformat(timespec="minutes")
 
-    stock, stock_events, stock_status = check_stores(SHOPS, fetch, NOW)
+    stock, stock_events, stock_status, stock_changed = check_stores(SHOPS, fetch, NOW)
+    if not full and not stock_changed:
+        print("庫存沒變，不更新")  # 不寫檔，workflow 就不會 commit、不會重新部署
+        return 0
     for e in stock_events:
         history[e["id"]] = e
 

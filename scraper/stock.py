@@ -9,11 +9,14 @@ from __future__ import annotations
 
 import hashlib
 import json
+import re
 import urllib.parse
 from pathlib import Path
 
 STOCK_FILE = Path(__file__).resolve().parent.parent / "data" / "stock.json"
 MAX_PAGES = 5
+# 只有陀螺本體（有型號）才發補貨／新上架消息，收納箱、手套等周邊不發
+BEY_CODE = re.compile(r"\b(?:BX|UX|CX|BXG)-?\d+", re.I)
 
 
 def _quote_url(url: str) -> str:
@@ -54,8 +57,8 @@ def load_state() -> dict[str, dict]:
     return {}
 
 
-def check_stores(shops: list[dict], fetch, now) -> tuple[list[dict], list[dict], list[dict]]:
-    """回傳 (目前所有商品, 補貨／新上架消息, 來源狀態)。"""
+def check_stores(shops: list[dict], fetch, now) -> tuple[list[dict], list[dict], list[dict], bool]:
+    """回傳 (目前所有商品, 補貨／新上架消息, 來源狀態, 庫存有沒有變)。"""
     state = load_state()
     stamp = now.isoformat(timespec="minutes")
     products, events, status = [], [], []
@@ -85,23 +88,29 @@ def check_stores(shops: list[dict], fetch, now) -> tuple[list[dict], list[dict],
                 kind = "補貨"
             if kind:
                 p["restocked_at"] = stamp
-                if p["in_stock"]:
+                # 快閃商品常常先上架、時間到才開賣，所以新上架就算還沒貨也先通知
+                if BEY_CODE.search(p["title"]):
                     events.append(_event(p, shop, kind, now))
             products.append(p)
         status.append({"name": name, "ok": True, "count": sum(p["in_stock"] for p in found)})
         print(f"[ok] {name}: {len(found)} 項商品，有貨 {sum(p['in_stock'] for p in found)} 項")
 
-    STOCK_FILE.parent.mkdir(parents=True, exist_ok=True)
-    STOCK_FILE.write_text(json.dumps(products, ensure_ascii=False, indent=1), "utf-8")
+    snapshot = lambda ps: sorted((p["url"], p["in_stock"], p["qty"]) for p in ps)  # noqa: E731
+    changed = snapshot(products) != snapshot(state.values())
+    if changed:
+        STOCK_FILE.parent.mkdir(parents=True, exist_ok=True)
+        STOCK_FILE.write_text(json.dumps(products, ensure_ascii=False, indent=1), "utf-8")
     # 有貨的排前面，各自再依最近補貨／上架時間由新到舊
     products.sort(key=lambda p: p["restocked_at"] or p["first_seen"] or "", reverse=True)
     products.sort(key=lambda p: not p["in_stock"])
-    return products, events, status
+    return products, events, status, changed
 
 
 def _event(p: dict, shop: dict, kind: str, now) -> dict:
     stamp = now.isoformat(timespec="minutes")
     price = f"（${p['price']:g}）" if p.get("price") else ""
+    if not p["in_stock"]:
+        price += "　目前還沒開賣／已售完"
     return {
         "id": hashlib.sha1(f"{p['url']}|{kind}|{stamp}".encode()).hexdigest()[:16],
         "title": f"【{shop['name']}網店{kind}】{p['title']}{price}",
