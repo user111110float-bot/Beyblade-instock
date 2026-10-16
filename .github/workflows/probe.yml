@@ -1,0 +1,35 @@
+name: 臨時探測（看完會刪）
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          mkdir -p probe-icons
+          python3 - <<'PY'
+          import json, urllib.request, urllib.parse, re
+          UA = {"User-Agent": "BeybladeRadar/1.0 (personal project; github.com/user111110float-bot)"}
+          def get(u): return urllib.request.urlopen(urllib.request.Request(u, headers=UA), timeout=30).read()
+          out = []
+          for cat in ("Category:Beyblades", "Category:Beyblade"):
+              q = urllib.parse.urlencode({"action": "query", "generator": "categorymembers", "gcmtitle": cat,
+                  "gcmtype": "file", "gcmlimit": 50, "prop": "imageinfo", "iiprop": "url|extmetadata|size",
+                  "iiurlwidth": 512, "format": "json"})
+              d = json.loads(get("https://commons.wikimedia.org/w/api.php?" + q))
+              for p in (d.get("query") or {}).get("pages", {}).values():
+                  ii = p["imageinfo"][0]; m = ii.get("extmetadata", {})
+                  lic = (m.get("LicenseShortName") or {}).get("value", "")
+                  artist = re.sub("<[^>]+>", "", (m.get("Artist") or {}).get("value", ""))[:60]
+                  out.append((p["title"], lic, artist, ii.get("thumburl"), ii.get("width"), ii.get("height")))
+          for i, (t, lic, a, thumb, w, h) in enumerate(out):
+              print(i, t, "|", lic, "|", a, "|", w, "x", h)
+              if thumb and not t.lower().endswith((".svg", ".pdf")):
+                  open(f"probe-icons/{i:02d}.jpg", "wb").write(get(thumb))
+          PY
+          ls -la probe-icons
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add probe-icons && git commit -qm "臨時：圖示候選（之後刪除）" && git pull -q --rebase origin "$GITHUB_REF_NAME" && git push -q
