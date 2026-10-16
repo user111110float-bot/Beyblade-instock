@@ -14,6 +14,7 @@ GitHub Actions 每天台灣時間 **08:00、18:00** 執行 `scraper/collect.py`�
 |---|---|
 | Google 新聞 | 「戰鬥陀螺 到貨／補貨／開賣」、超商、門市等新聞 |
 | PTT（Toy、BabyMother、Lifeismoney、Gossiping） | 網友回報現貨、補貨 |
+| Facebook 公開貼文 | 透過 Google 新聞收錄的公開粉專／社團貼文（店家到貨公告、網友轉售）。只收得到 Google 有收錄的部分 |
 | YouTube（選填） | 近 14 天「到貨／補貨／開箱」影片，需要免費 API 金鑰 |
 | Threads（選填） | 官方 API 關鍵字搜尋，需要 Meta App 權杖（見下方限制） |
 
@@ -45,7 +46,9 @@ GitHub Actions 每天台灣時間 **08:00、18:00** 執行 `scraper/collect.py`�
 
 **Threads 的限制**：Meta 規定 App 沒通過 `threads_keyword_search` 審核前，只搜得到**自己帳號**的貼文；要通過 App Review 才搜得到公開貼文。長期權杖 60 天到期，到期要重新產生並更新 Secret。
 
-**Facebook／Instagram 沒有支援**：這兩個平台的社團、粉專、貼文都要登入才看得到，也沒有開放關鍵字搜尋的 API，用帳號登入去爬違反使用條款，帳號可能被停權，所以不做。建議直接追蹤常發到貨消息的店家粉專並開啟通知。
+**Facebook／Instagram**：不直接爬（要登入、沒有搜尋 API，登入去爬違反使用條款、帳號可能被停權）。
+Facebook 改從 Google 新聞收錄的公開貼文間接取得；個人二手／轉售貼文會標「二手／轉售」，不會出現在「到貨／補貨」分頁。
+Instagram 目前沒有可行的管道。
 
 ## 自訂
 

@@ -75,6 +75,13 @@ STORES = [
 ]
 
 
+# 出現這些字就不收：香港／外地貼文、不是戰鬥陀螺的商品、「本店沒有陀螺」公告
+EXCLUDE_WORDS = [
+    "香港", "銅鑼灣", "旺角", "尖沙咀", "啟德", "嚟", "冇", "馬來西亞",
+    "指尖陀螺", "奶粉", "沒有戰鬥陀螺", "無戰鬥陀螺",
+]
+# 個人二手／轉售（不是店家到貨）：保留但另外標記
+RESALE = re.compile(r"出售|【售】|^售|售售|出清|面交|賣貨便|myship|二手|轉售|徵收|收購")
 PRODUCT_CODE = re.compile(r"\b(?:BX|UX|CX)-\d+", re.I)
 
 
@@ -262,6 +269,8 @@ def classify(item: dict) -> dict | None:
         text, ARRIVAL_WORDS
     ):
         return None
+    if has_any(text, EXCLUDE_WORDS):
+        return None
     arrival, stores = has_any(text, ARRIVAL_WORDS), has_any(text, STORES)
     # 只提到陀螺的新聞（政治人物、明星比賽…）不算；要有到貨字眼、通路或型號
     if not arrival and not stores and not PRODUCT_CODE.search(text):
@@ -270,6 +279,7 @@ def classify(item: dict) -> dict | None:
     item["region"] = region
     item["arrival"] = arrival
     item["stores"] = stores
+    item["resale"] = bool(RESALE.search(item["title"]))
     item["score"] = 2 * bool(region) + 2 * bool(item["arrival"]) + bool(item["stores"])
     return item
 
@@ -296,6 +306,7 @@ def reclassify(items) -> list[dict]:
         c = classify({"title": i["title"], "summary": i["summary"]})
         if c:
             i.update(region=c["region"], arrival=c["arrival"], stores=c["stores"], score=c["score"],
+                     resale=c["resale"],
                      social=i["source"].startswith(SOCIAL_PREFIXES))
             out.append(i)
     return out
@@ -387,6 +398,7 @@ def main() -> int:
                 "region": it["region"],
                 "arrival": it["arrival"],
                 "stores": it["stores"],
+                "resale": it["resale"],
                 "score": it["score"],
             }
         status.append({"name": name, "ok": True, "count": kept})
