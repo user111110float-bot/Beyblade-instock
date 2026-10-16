@@ -88,11 +88,15 @@ def funbox_products(url: str, fetch) -> list[dict]:
     return out
 
 
-def pchome_products(queries: str, fetch, name_filter: str | list[str] = "") -> list[dict]:
+def pchome_products(queries: str, fetch, name_filter: str | list[str] = "",
+                    ids: list[dict] | None = None, known: dict[str, str] | None = None) -> list[dict]:
     """PChome 24h：用站內搜尋找商品（分類列表沒收麗嬰的商品），只留 24h 自營、名稱符合 name_filter 的，
     再用 button API 查庫存與販售狀態。queries 用「｜」分隔多組關鍵字；name_filter 可以是多個條件（全部都要符合）。"""
     filters = [re.compile(f, re.I) for f in ([name_filter] if isinstance(name_filter, str) else name_filter) if f]
-    prods: dict[str, str] = {}
+    # 搜尋只會列出「現在買得到」的商品，尚未開賣／售完的搜不到，
+    # 所以設定檔裡的商品編號（ids）和以前看過的商品（known）都直接查販售狀態
+    prods: dict[str, str] = {i["id"]: i["name"] for i in ids or []}
+    prods.update(known or {})
     for q in queries.split("｜"):
         for n in range(1, 11):
             params = urllib.parse.urlencode({"q": q, "page": n})
@@ -171,7 +175,10 @@ def check_stores(shops: list[dict], fetch, now) -> tuple[list[dict], list[dict],
             continue
         name = f"網店庫存：{shop['name']}"
         try:
-            extra = {"name_filter": store["name_filter"]} if store.get("name_filter") else {}
+            extra = {k: store[k] for k in ("name_filter", "ids") if store.get(k)}
+            if store["type"] == "pchome":
+                extra["known"] = {p["url"].rsplit("/", 1)[1]: p["title"]
+                                  for p in state.values() if p["shop"] == shop["name"]}
             found = PLATFORMS[store["type"]](store["url"], fetch, **extra)
         except Exception as e:  # noqa: BLE001 - 網店掛掉不影響其他來源
             status.append({"name": name, "ok": False, "count": 0, "error": str(e)[:120]})

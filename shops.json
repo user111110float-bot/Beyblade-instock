@@ -64,6 +64,20 @@
         "name_filter": [
           "^funbox 麗嬰",
           "陀螺|BEYBLADE"
+        ],
+        "ids": [
+          {
+            "id": "DEASSW-A900JK8BK",
+            "name": "funbox 麗嬰國際 BEYBLADE X 戰鬥陀螺X BX-46 無限衝擊對戰組"
+          },
+          {
+            "id": "DEASSW-A900HJQHR",
+            "name": "funbox 麗嬰國際 BEYBLADE X 戰鬥陀螺X UX-04 極限衝擊對戰組U"
+          },
+          {
+            "id": "DEASSW-A900HJQHQ",
+            "name": "funbox 麗嬰國際 BEYBLADE X 戰鬥陀螺X BXG-04 銀牙烈虎S"
+          }
         ]
       }
     }
