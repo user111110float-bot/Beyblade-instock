@@ -56,12 +56,15 @@
       }
     },
     {
-      "name": "PChome 24h（麗嬰公司貨）",
+      "name": "PChome 24h（Funbox 麗嬰供貨）",
       "facebook": false,
       "store": {
         "type": "pchome",
-        "url": "funbox 戰鬥陀螺｜麗嬰 戰鬥陀螺｜funbox BEYBLADE",
-        "name_filter": "麗嬰|funbox"
+        "url": "funbox 戰鬥陀螺｜funbox BEYBLADE｜麗嬰國際 戰鬥陀螺",
+        "name_filter": [
+          "^funbox 麗嬰",
+          "陀螺|BEYBLADE"
+        ]
       }
     }
   ]

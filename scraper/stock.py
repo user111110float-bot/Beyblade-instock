@@ -8,7 +8,7 @@
     "store": {"type": "funbox", "url": "https://shop.funbox.com.tw/categories/XI/KB"}
 - pchome：PChome 24h 站內搜尋（多組關鍵字用「｜」分隔），只留 24h 自營、名稱符合 name_filter 的商品
   （例如只要麗嬰公司貨，排除平行輸入、黃牛賣場）。
-    "store": {"type": "pchome", "url": "funbox 戰鬥陀螺｜麗嬰 戰鬥陀螺", "name_filter": "麗嬰|funbox"}
+    "store": {"type": "pchome", "url": "funbox 戰鬥陀螺｜funbox BEYBLADE", "name_filter": ["^funbox 麗嬰", "陀螺|BEYBLADE"]}
 - toysrus：玩具反斗城官網（Salesforce 平台），讀商品列表上的「暫時缺貨」標示。
     "store": {"type": "toysrus", "url": "https://www.toysrus.com.tw/on/demandware.store/.../Search-ShowAjax?cgid=beyblade&sz=96"}
 """
@@ -88,17 +88,17 @@ def funbox_products(url: str, fetch) -> list[dict]:
     return out
 
 
-def pchome_products(queries: str, fetch, name_filter: str = "") -> list[dict]:
+def pchome_products(queries: str, fetch, name_filter: str | list[str] = "") -> list[dict]:
     """PChome 24h：用站內搜尋找商品（分類列表沒收麗嬰的商品），只留 24h 自營、名稱符合 name_filter 的，
-    再用 button API 查庫存與販售狀態。queries 用「｜」分隔多組關鍵字。"""
-    keep = re.compile(name_filter, re.I) if name_filter else None
+    再用 button API 查庫存與販售狀態。queries 用「｜」分隔多組關鍵字；name_filter 可以是多個條件（全部都要符合）。"""
+    filters = [re.compile(f, re.I) for f in ([name_filter] if isinstance(name_filter, str) else name_filter) if f]
     prods: dict[str, str] = {}
     for q in queries.split("｜"):
         for n in range(1, 11):
             params = urllib.parse.urlencode({"q": q, "page": n})
             data = json.loads(fetch(f"https://ecshweb.pchome.com.tw/search/v4.3/all/results?{params}"))
             for p in data.get("Prods") or []:
-                if p.get("isPChome") == 1 and (not keep or keep.search(p["Name"])):
+                if p.get("isPChome") == 1 and all(f.search(p["Name"]) for f in filters):
                     prods[p["Id"]] = p["Name"]
             if n >= (data.get("TotalPage") or 1):
                 break
