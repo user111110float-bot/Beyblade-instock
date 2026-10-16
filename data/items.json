@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-17T01:39+08:00",
- "updated_full": "2026-10-17T01:39+08:00",
+ "updated": "2026-10-17T01:41+08:00",
+ "updated_full": "2026-10-17T01:41+08:00",
  "new_today": 342,
  "sources": [
   {
@@ -41,22 +41,22 @@
   {
    "name": "Facebook 公開貼文：戰鬥陀螺",
    "ok": true,
-   "count": 18
+   "count": 20
   },
   {
    "name": "Facebook 公開貼文：到貨",
    "ok": true,
-   "count": 78
+   "count": 79
   },
   {
    "name": "Facebook 玩具店",
    "ok": true,
-   "count": 58
+   "count": 60
   },
   {
    "name": "Facebook 文具店",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "name": "Facebook 書局",
@@ -120,12 +120,12 @@
   {
    "name": "Facebook 各縣市：台北",
    "ok": true,
-   "count": 42
+   "count": 45
   },
   {
    "name": "Facebook 各縣市：新北",
    "ok": true,
-   "count": 40
+   "count": 41
   },
   {
    "name": "Facebook 各縣市：桃園",
@@ -135,22 +135,22 @@
   {
    "name": "Facebook 各縣市：新竹",
    "ok": true,
-   "count": 44
+   "count": 43
   },
   {
    "name": "Facebook 各縣市：苗栗",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "name": "Facebook 各縣市：台中",
    "ok": true,
-   "count": 44
+   "count": 42
   },
   {
    "name": "Facebook 各縣市：彰化",
    "ok": true,
-   "count": 46
+   "count": 48
   },
   {
    "name": "Facebook 各縣市：南投",
@@ -160,12 +160,12 @@
   {
    "name": "Facebook 各縣市：雲林",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "name": "Facebook 各縣市：嘉義",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "name": "Facebook 各縣市：台南",
@@ -175,17 +175,17 @@
   {
    "name": "Facebook 各縣市：高雄",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "name": "Facebook 各縣市：屏東",
    "ok": true,
-   "count": 27
+   "count": 30
   },
   {
    "name": "Facebook 各縣市：宜蘭",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "name": "Facebook 各縣市：花蓮",
@@ -200,7 +200,7 @@
   {
    "name": "Facebook 各縣市：澎湖",
    "ok": true,
-   "count": 6
+   "count": 3
   },
   {
    "name": "Facebook 各縣市：金門",
@@ -225,7 +225,7 @@
   {
    "name": "追蹤店家：森森文具",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "name": "追蹤店家：玩具反斗城",
@@ -8199,6 +8199,39 @@
    "shop": "森森文具",
    "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 BEYBLADE X 戰鬥陀螺X BX-46 無限衝擊對戰組",
+   "url": "https://24h.pchome.com.tw/prod/DEASSW-A900JK8BK",
+   "price": 1999,
+   "qty": 0,
+   "in_stock": false,
+   "shop": "PChome 24h（Funbox 麗嬰供貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:41+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 BEYBLADE X 戰鬥陀螺X UX-04 極限衝擊對戰組U",
+   "url": "https://24h.pchome.com.tw/prod/DEASSW-A900HJQHR",
+   "price": 1599,
+   "qty": 0,
+   "in_stock": false,
+   "shop": "PChome 24h（Funbox 麗嬰供貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:41+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 BEYBLADE X 戰鬥陀螺X BXG-04 銀牙烈虎S",
+   "url": "https://24h.pchome.com.tw/prod/DEASSW-A900HJQHQ",
+   "price": 334,
+   "qty": 0,
+   "in_stock": false,
+   "shop": "PChome 24h（Funbox 麗嬰供貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:41+08:00",
    "restocked_at": null
   },
   {
