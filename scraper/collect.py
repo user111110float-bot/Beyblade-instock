@@ -140,23 +140,6 @@ def google_news(query: str) -> list[dict]:
     return rss_items(fetch(url), "Google 新聞")
 
 
-def wordpress_search(base: str, query: str, name: str) -> list[dict]:
-    params = urllib.parse.urlencode({
-        "search": query, "per_page": 20, "_fields": "link,date_gmt,title,excerpt",
-    })
-    posts = json.loads(fetch(f"{base}/wp-json/wp/v2/posts?{params}"))
-    return [
-        {
-            "title": strip_tags(p["title"]["rendered"]),
-            "url": p["link"],
-            "summary": strip_tags(p.get("excerpt", {}).get("rendered", ""))[:200],
-            "date": parse_date(p["date_gmt"] + "Z"),
-            "source": name,
-        }
-        for p in posts
-    ]
-
-
 PTT_ENTRY = re.compile(
     r'<div class="r-ent">.*?<div class="title">\s*(?:<a href="([^"]+)">(.*?)</a>)?.*?'
     r'<div class="date">\s*([\d/ ]+)</div>',
@@ -253,7 +236,6 @@ SOURCES = [
     ("Google 新聞：門市", lambda: google_news("戰鬥陀螺 門市 OR 玩具反斗城")),
     ("Google 新聞：超商", lambda: google_news("戰鬥陀螺 7-ELEVEN OR 全家 OR 萊爾富")),
     ("Google 新聞：BEYBLADE X", lambda: google_news("BEYBLADE X 台灣")),
-    ("玩具人 toy-people", lambda: wordpress_search("https://www.toy-people.com", "戰鬥陀螺", "玩具人")),
     ("PTT Toy", lambda: ptt_search("Toy", "陀螺")),
     ("PTT BabyMother", lambda: ptt_search("BabyMother", "陀螺")),
     ("PTT Lifeismoney", lambda: ptt_search("Lifeismoney", "陀螺")),
