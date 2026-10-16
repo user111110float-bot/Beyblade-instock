@@ -83,7 +83,9 @@ EXCLUDE_WORDS = [
     "指尖陀螺", "奶粉", "沒有戰鬥陀螺", "無戰鬥陀螺",
 ]
 # 個人二手／轉售（不是店家到貨）：保留但另外標記
-RESALE = re.compile(r"出售|【售】|^售|售售|出清|面交|賣貨便|myship|二手|轉售|徵收|收購")
+RESALE = re.compile(r"出售|【售】|^售|售售|出清|面交|賣貨便|myship|二手|轉售|徵收|收購|競標|截標|自取")
+# 比賽、報名、得獎公告（小店貼文很多是這類）：保留但另外標記
+EVENT = re.compile(r"比賽|賽事|報名|冠軍|亞軍|季軍|自辦賽|參賽|名單|[^\s]盃|積分|店鋪賽|G3|對戰會")
 PRODUCT_CODE = re.compile(r"\b(?:BX|UX|CX)-\d+", re.I)
 
 
@@ -277,10 +279,8 @@ def shop_names(shop: dict) -> list[str]:
 
 def shop_search(shop: dict) -> list[dict]:
     names = " OR ".join(f'"{n}"' for n in shop_names(shop))
-    items = google_news(f"({names}) 陀螺 site:facebook.com")
-    for it in items:
-        it["shop"] = shop["name"]
-    return items
+    # 搜尋結果會混到其他店的貼文，店名要在貼文內容裡出現才算（見 match_shop）
+    return google_news(f"({names}) 陀螺 site:facebook.com")
 
 
 # 小玩具店的貼文多半只在 Facebook，而且常常只寫縣市不寫「戰鬥陀螺」全名，所以每個縣市各搜一次
@@ -292,9 +292,9 @@ SOURCES += [
 SOURCES += [(f"追蹤店家：{shop['name']}", lambda shop=shop: shop_search(shop)) for shop in SHOPS]
 
 
-def match_shop(text: str, preset: str | None) -> dict | None:
+def match_shop(text: str) -> dict | None:
     for shop in SHOPS:
-        if shop["name"] == preset or has_any(text, shop_names(shop)):
+        if has_any(text, shop_names(shop)):
             return shop
     return None
 
@@ -303,7 +303,7 @@ def find_branch(text: str, shop: dict) -> str | None:
     """連鎖店的分店名，例如「玩具e哥 新莊昌隆店」→「新莊昌隆店」。"""
     for n in shop_names(shop):
         m = re.search(re.escape(n) + r"[\s\-－–_|｜.·]*([\u4e00-\u9fff]{2,6}店)", text, re.I)
-        if m:
+        if m and m.group(1) not in shop["name"]:  # 「胖寶貝」＋「玩具店」不是分店
             return m.group(1)
     return None
 
@@ -315,7 +315,7 @@ def classify(item: dict) -> dict | None:
     text = f"{item['title']} {item['summary']}"
     if not has_any(text, BEY_WORDS):
         return None
-    shop = match_shop(text, item.get("shop"))
+    shop = match_shop(text)
     # 單獨的「陀螺」容易誤判，要再搭配其他線索（追蹤店家的貼文例外）
     if not shop and not has_any(text, [w for w in BEY_WORDS if w != "陀螺"]) and not has_any(
         text, ARRIVAL_WORDS
@@ -336,6 +336,9 @@ def classify(item: dict) -> dict | None:
     item["arrival"] = arrival
     item["stores"] = stores
     item["resale"] = bool(RESALE.search(item["title"]))
+    # 有開賣字眼又有通路／型號的（例如「萊爾富…比賽據點…限量開賣」）仍算販售消息
+    selling = bool(arrival) and bool(stores or PRODUCT_CODE.search(text))
+    item["event"] = bool(EVENT.search(item["title"])) and not selling
     item["score"] = 2 * bool(region) + 2 * bool(item["arrival"]) + bool(item["stores"])
     return item
 
@@ -359,10 +362,10 @@ def reclassify(items) -> list[dict]:
             i["title"] = i["title"][: -len(i["source"]) - 3]
         if i["summary"].startswith(i["title"]):
             i["summary"] = ""
-        c = classify({"title": i["title"], "summary": i["summary"], "shop": i.get("shop")})
+        c = classify({"title": i["title"], "summary": i["summary"]})
         if c:
             i.update(region=c["region"], arrival=c["arrival"], stores=c["stores"], score=c["score"],
-                     resale=c["resale"], shop=c["shop"], branch=c["branch"],
+                     resale=c["resale"], event=c["event"], shop=c["shop"], branch=c["branch"],
                      social=i["source"].startswith(SOCIAL_PREFIXES))
             out.append(i)
     return out
@@ -455,6 +458,7 @@ def main() -> int:
                 "arrival": it["arrival"],
                 "stores": it["stores"],
                 "resale": it["resale"],
+                "event": it["event"],
                 "shop": it["shop"],
                 "branch": it["branch"],
                 "score": it["score"],
