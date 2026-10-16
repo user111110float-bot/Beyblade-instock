@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T01:55+08:00",
- "updated_full": "2026-10-17T01:55+08:00",
- "new_today": 346,
+ "updated": "2026-10-17T01:56+08:00",
+ "updated_full": "2026-10-17T01:56+08:00",
+ "new_today": 343,
  "sources": [
   {
    "name": "Google 新聞：到貨",
@@ -16,7 +16,7 @@
   {
    "name": "Google 新聞：台北新北",
    "ok": true,
-   "count": 7
+   "count": 9
   },
   {
    "name": "Google 新聞：中南部",
@@ -41,12 +41,12 @@
   {
    "name": "Facebook 公開貼文：戰鬥陀螺",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "name": "Facebook 公開貼文：到貨",
    "ok": true,
-   "count": 76
+   "count": 78
   },
   {
    "name": "Facebook 玩具店",
@@ -56,7 +56,7 @@
   {
    "name": "Facebook 文具店",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "name": "Facebook 書局",
@@ -115,22 +115,22 @@
   {
    "name": "Facebook 各縣市：基隆",
    "ok": true,
-   "count": 42
+   "count": 43
   },
   {
    "name": "Facebook 各縣市：台北",
    "ok": true,
-   "count": 46
+   "count": 47
   },
   {
    "name": "Facebook 各縣市：新北",
    "ok": true,
-   "count": 33
+   "count": 40
   },
   {
    "name": "Facebook 各縣市：桃園",
    "ok": true,
-   "count": 51
+   "count": 50
   },
   {
    "name": "Facebook 各縣市：新竹",
@@ -140,12 +140,12 @@
   {
    "name": "Facebook 各縣市：苗栗",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "name": "Facebook 各縣市：台中",
    "ok": true,
-   "count": 43
+   "count": 42
   },
   {
    "name": "Facebook 各縣市：彰化",
@@ -155,7 +155,7 @@
   {
    "name": "Facebook 各縣市：南投",
    "ok": true,
-   "count": 24
+   "count": 22
   },
   {
    "name": "Facebook 各縣市：雲林",
@@ -175,12 +175,12 @@
   {
    "name": "Facebook 各縣市：高雄",
    "ok": true,
-   "count": 40
+   "count": 42
   },
   {
    "name": "Facebook 各縣市：屏東",
    "ok": true,
-   "count": 27
+   "count": 30
   },
   {
    "name": "Facebook 各縣市：宜蘭",
@@ -195,12 +195,12 @@
   {
    "name": "Facebook 各縣市：台東",
    "ok": true,
-   "count": 3
+   "count": 0
   },
   {
    "name": "Facebook 各縣市：澎湖",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "name": "Facebook 各縣市：金門",
@@ -210,7 +210,7 @@
   {
    "name": "Facebook 各縣市：連江",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "name": "追蹤店家：胖寶貝玩具店",
@@ -235,7 +235,7 @@
   {
    "name": "追蹤店家：Funbox",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "name": "網店庫存：森森文具",
@@ -468,26 +468,6 @@
    "arrival": [
     "現貨"
    ],
-   "stores": [],
-   "resale": true,
-   "event": false,
-   "shop": null,
-   "branch": null,
-   "score": 2
-  },
-  {
-   "id": "4a9b6eb828473207",
-   "title": "售 Bx-48 02小鯊魚（湖水綠E軸） 1300 （兩顆一起帶2500） 皆全新內袋未拆🈚️QR 板橋面交/店到店+60 🈚️賣貨便 議價訊息不回覆",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUSEtvMEtrWXE1WDFNblQxZW1QY05iTHI4RnlJbk91TF9kb1c2ZUVBMHdBeE9BaWxVdm90bEtnZXo3WkJOZ29lSDFjWWRVc3RoSENVT0FndU16Q2F3LVA1bTRIOWhKblFEbGdKWEp3X3djWnJGdS1LaGZaQQ?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-16T18:46+08:00",
-   "first_seen": "2026-10-17T01:55+08:00",
-   "region": [
-    "新北"
-   ],
-   "arrival": [],
    "stores": [],
    "resale": true,
    "event": false,
@@ -2044,7 +2024,7 @@
     },
     {
      "source": "Facebook",
-     "url": "https://news.google.com/rss/articles/CBMilAZBVV95cUxQWTA0U0JjRTd0OHlWalVIeVAtN2tEYnpqS0wwclEwTDJiUm8tTHZDcm9zQ3RRSzNyR0lwV3hGLVBMX0FrQk5oNXlTNWdPRDBYUmJ1QkROWmwwUDhHRHEzcWlCdG8xMHc4OG1RY3ViTmtDM3poZGxneDh0YV9fSGo0a0o5dmxfUkgwbExBZmdLTkNrNlRsLWg4OUFRM3ZqeEJERW5vNGtac1BTYnJibWpaVDlucXU5RW5BWDd1UWlYUDJHYTFOeFVIejRxX2FJckZEOHVGMThBT0hpT1JBbVFEa2x1bFFnbkctTVJaOG1HR3RqMkpIa0FsdWR2ZDMyWkl4eVBndkJWVTU3MmQ1Q0JXZVlOSFduSVA2U3NXM2FPeWxvcTBZR3dvNEJFRVRxOXRBUEFETlNfUEx4cEpaVUpQUUxyZHB2bE9yTWwtbDdzeE01aHBrTHc4cV82dXVvLWxSUE5jUU8wQnRBbjF0STk1OVJoYU1VbWNmdkRsUmtHN2xIdzFXZDR6QjdtXzFVZnFqck5QNVFxUmdubU1fTDZQS3NIR1Y4blJWbVQ3WF9nQVlRY3NoZWtpcjhXcnAzR1BlZWQzWXhFeTk0cHFyWUVfOWJldUkxaXdQUmVubk9QSE0weUQza0VoaVNEdmFpZHFwb2N2LWVPQ3lJaUcwSFk4Z01Xb0JVYVRUNThRamZwUExURTdMVmhrM1FPcmdwbEM1R3lxeFJKVjVlT2lBWUNfc2J5eEduQjFjWXZnVmF5cTk3WDVLSXRTQ21vdmVZeHdSOWRFWFJBVkZzM2lLNVpaVkhlek5uM2M0QmhSd2FIOTVJaXhEYmZtR19OX0JkYjhCeXFKQnNqS0hGM2F4M1hWTVoza0JzdVpQYTdDZWRRNjFmOEJYZDZoRzVmLVVaa19FQ0pEQm1pOWU0aXdXOWJYVFhfODZpd0NqQnZIZ3NoVDhLTzU5elpVNXBTcS14T0wyb1lPanlIMzBsd3RNLWVCeUk4aHVNZDhucFRIaGJsY0N6T0NuelVESUJWYTRoczY4V19ZUQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WUkVxMEx0Nk9aMTVqVDVMeWpHclhTUDVoNE5wM1diUDd1Znh6SWRsamU0TXFYMWE4ZzEtYkV1UFE2OGxhbFBFSjROMC1yeXdpOGdZMFQzMDNzZWdLZ25NNkxwb2dhNzAzOEtrWnh1VXcyOTlqdGduc0wtTQ?oc=5"
     }
    ],
    "resale": true,
@@ -3138,26 +3118,6 @@
    "shop": null,
    "branch": null,
    "event": false
-  },
-  {
-   "id": "b71177d180bbd38f",
-   "title": "新品上市嘍 我的陀螺被箱子吃掉啦~ 蠻多人問說收到商品是不是跟圖片一樣 在這裡跟大家說是一模一樣的 不用擔心 喜歡可以私訊我詢問價錢 在下面留言我也會私訊你 訊息比較多 會盡快回覆 寄貨方式：賣貨便 排單出貨 現在單比較多 可以等的在下單歐 拜託 下單以後",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3VWs3S053Uy16Z0lqQWJHV1V0TUpUcG4tOUtYREZaVjR2eF96UlAzdjdmU1g4T0NxbVhSMzY5dWVDSTZnUnhuN0EtajVuU25iYW5xV1VoV0lYdE1zWFNmbUV6Y0ZSd2ZHazdBZzNreXpWNko3WUduQ0RSUQ?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-13T16:13+08:00",
-   "first_seen": "2026-10-17T01:55+08:00",
-   "region": [],
-   "arrival": [
-    "上市"
-   ],
-   "stores": [],
-   "resale": true,
-   "event": false,
-   "shop": null,
-   "branch": null,
-   "score": 2
   },
   {
    "id": "a1b51e20f4c20c13",
@@ -5567,24 +5527,6 @@
    "shop": null,
    "branch": null,
    "score": 2
-  },
-  {
-   "id": "579b9dd36c82084c",
-   "title": "賣陀螺 及 配件（沒有美版） 不議價 資訊已更新降價 ———————————— 賣QR台版10萬點 $6990 UX-15鯊魚（H標）$1990 ———————————— 高重 全新上蓋 以我磅秤為主 鯊魚37.85（$1990) 鳳凰38.73（$990） 38.90（$1390) 隕龍39.33 ($1190) 39.42 (",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ueGo0SXUySnNMdnZ6TFF2OFB4a0lqbFhHMWNhbWdWNjY2eDBCNTFYcXVOSDcxVlFxQ3NRYlh0QXFBQmFGdG85VE44aC16MzdVdUh2b1djQXpuSHNlSVNna3J1dHRwekI3S1JZUnR4U0VoeHdqVFFHcmN5UQ?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-09T15:42+08:00",
-   "first_seen": "2026-10-17T01:55+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "event": false,
-   "shop": null,
-   "branch": null,
-   "score": 0
   },
   {
    "id": "82b477745cd8f669",
