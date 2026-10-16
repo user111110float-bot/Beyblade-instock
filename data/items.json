@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-17T01:34+08:00",
- "updated_full": "2026-10-17T01:34+08:00",
- "new_today": 341,
+ "updated": "2026-10-17T01:36+08:00",
+ "updated_full": "2026-10-17T01:36+08:00",
+ "new_today": 339,
  "sources": [
   {
    "name": "Google 新聞：到貨",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "name": "Google 新聞：補貨",
@@ -16,7 +16,7 @@
   {
    "name": "Google 新聞：台北新北",
    "ok": true,
-   "count": 9
+   "count": 7
   },
   {
    "name": "Google 新聞：中南部",
@@ -46,7 +46,7 @@
   {
    "name": "Facebook 公開貼文：到貨",
    "ok": true,
-   "count": 78
+   "count": 79
   },
   {
    "name": "Facebook 玩具店",
@@ -56,7 +56,7 @@
   {
    "name": "Facebook 文具店",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "name": "Facebook 書局",
@@ -120,7 +120,7 @@
   {
    "name": "Facebook 各縣市：台北",
    "ok": true,
-   "count": 47
+   "count": 45
   },
   {
    "name": "Facebook 各縣市：新北",
@@ -140,17 +140,17 @@
   {
    "name": "Facebook 各縣市：苗栗",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "name": "Facebook 各縣市：台中",
    "ok": true,
-   "count": 42
+   "count": 43
   },
   {
    "name": "Facebook 各縣市：彰化",
    "ok": true,
-   "count": 47
+   "count": 48
   },
   {
    "name": "Facebook 各縣市：南投",
@@ -160,7 +160,7 @@
   {
    "name": "Facebook 各縣市：雲林",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "name": "Facebook 各縣市：嘉義",
@@ -170,7 +170,7 @@
   {
    "name": "Facebook 各縣市：台南",
    "ok": true,
-   "count": 47
+   "count": 45
   },
   {
    "name": "Facebook 各縣市：高雄",
@@ -180,7 +180,7 @@
   {
    "name": "Facebook 各縣市：屏東",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "name": "Facebook 各縣市：宜蘭",
@@ -200,7 +200,7 @@
   {
    "name": "Facebook 各縣市：澎湖",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "name": "Facebook 各縣市：金門",
@@ -225,17 +225,17 @@
   {
    "name": "追蹤店家：森森文具",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "name": "追蹤店家：玩具反斗城",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "name": "追蹤店家：Funbox",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "name": "網店庫存：森森文具",
@@ -255,7 +255,7 @@
   {
    "name": "網店庫存：PChome 24h（麗嬰公司貨）",
    "ok": true,
-   "count": 0
+   "count": 40
   }
  ],
  "items": [
@@ -559,26 +559,6 @@
    "score": 4,
    "branch": null,
    "event": false
-  },
-  {
-   "id": "d7870125564c342a",
-   "title": "**出售:** **全新麗嬰代理(含QR) BX-50-01 天堂日輪 G0-80DS 價格950元** **全新麗嬰代理(含QR) BX-50-02 天堂日輪 6-60TP 價格2500元** **全新拆賣無QR 小鯊魚上蓋 如照片 價格140元** **全新拆賣無QR 3-85固鎖 如照片 價格110元** **全新碳纖維紋路頂配厚",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aQkxCVmxPVGstOE9UM09oc1hxcjY5bS1tUnZ3cXJXVkJzUGZCcnN3SWU3bC05aXZ5cnFaeHI4SUdPZ1lPcGU2N3FpNzZNUDJQQjRScm5ranVMNVNPdFNPQjJ1NUtWS2hhekJ2d0k2VE9KeHJzVDFMay1vdw?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-16T17:18+08:00",
-   "first_seen": "2026-10-17T01:34+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [
-    "麗嬰"
-   ],
-   "resale": true,
-   "event": false,
-   "shop": "Funbox",
-   "branch": null,
-   "score": 1
   },
   {
    "id": "c26fd866a1742a78",
@@ -6433,26 +6413,6 @@
    "event": false
   },
   {
-   "id": "18d6d71bbed02964",
-   "title": "小編~陀螺~客戶寄賣~數量少 全新正版(麗嬰)台貨~有QR可掃 #拆封確認版~ 我們是實體店面 可供自取~❤ ----------------------------------- BX-35-01 玄冥戰甲 $700 BX-35-02 玄冥戰龜 $600 BX-35-03 獨角刺心 $700 BX-35-04 魔導綠神杖 $2200 BX-35-05 鳳凰飛翼 $150",
-   "url": "https://news.google.com/rss/articles/CBMixgVBVV95cUxPOXFwRzVUN1dLc3pKZUtEVkU2Skg2QXZZOER4MzlmUWVURFA1azVMZ202X3VGMHIydU1CdEQ2bUFkQVMweERVakxZRFpQOHB3aHU1Z284TGJFcG9pX01yaVR4cUpYdEl5SWp1bDFVcUlMdnhKc1RmbUNhWmhuUW9jRWhSQVY3X0J0elZSWnp6T0c4b2JhbnJlYWlFVWdaYjYta0RFRlpjbkhxNU5UT0l5R19yaDBWNVZGMkdKZDU3U0ZROWlhTGJ1YWRCVDdjenpYSy1VY0s2bzdKbldfdDBkM2lpQmc1UUwzbEtsVlBWRWFuUjh4bkd4VlVGclJfU2ZaZVNtMUtEV200QVR3d281cUFVbHJXQ3NwUURXVGRjMTZ1TUZIcDY3YzJxNFNvN1d1Tm02WG4tNG5xTVZxU2R2UTgtN0sxdlY5YzFwWGt5WWVuMnNoWWlSbmxXN3V4MWh5eUtLeHJ4NU5kTkhEbkF5bmlmRTZhVDljMTY3NGNodXJEaEMwVFlEZUpJVks3QnhMZ2l1My1KQmZYNFd0a0JfZnF0ekw1Sk1yalV1MFg5UWNaeTM3aXRJZlRSaXQyaVphaTlhRVF1TlJzYUlkR1hsV0xJb2FiTGJTN1lqRzJ0d2RQQU1SR2tDQmY3OUFfQ3JkTG5MQ3k0d1JOSWtHYlI4TTVCRFVsaGpQVGpDajN1U3VHZFFEd1lSanRKWURtTEIxSTViUFFqRWRoZllvNW5UOWVCMllQYmc3SGZFRzY4NU5BRng1U1B0cmNtY203NmNVazduSTlPRDJlbkxoQ19WcGg4eTI2Ulo3Nk5WLXNYNk1nVFJ3YzFPZWJ2bjRmajczbnZiYUo3NkcyQ1ZLcUxEX1gzM191S0dlbFdVYVp4SzQyNVlvMTFFbVNtV0N4b2loNlg5czRaTWVUTmNfT1JjSGEtLXZrQQ?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-07T20:19+08:00",
-   "first_seen": "2026-10-17T01:34+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [
-    "麗嬰"
-   ],
-   "resale": true,
-   "event": false,
-   "shop": "Funbox",
-   "branch": null,
-   "score": 1
-  },
-  {
    "id": "4a7adc7bb64fbd34",
    "title": "友情提醒~ 明天早上11:00 有戰鬥陀螺X抽選喔~~ 此次販售時間10/8~10/9 (21:00) 記得來抽唷~~ #戰鬥陀螺X #FUNBOX #桃園環球A19 #麗嬰國際",
    "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxONklOVm9zZmxuYW9nZ0dXQks4RWdEV25rZVRHSGVXRmJXc3d5YlZfbFRQZS02dUdPWGQwcHNaSW9EaHVEWXI5RjlPOTZDLWhXdEt4czVWUUVfR1JIYkhHSzZLcG4xYVcyV2tBRmt3LVk0QWVGMGJSdlh1Q1RMVzdYNlFyajBGbVdHTDM5RzFDYnZhWGZnWmZwMHAxekNZREZkemJQbWRVOFJEUjVQTlFOQU9oUlAzT0RLYXU3aFJ6bFBjbk9ST1ExdExHTnlNTGQ3eUtkU1c5THo2aktwbEhmQS1tR3ZyZXQwWnZuaXBSd01fZkJIWUZSaFQ3ZmlraGUyZHRPTnRHY3ZRNWNkd0N1WWxGNUQxNUhVdWdXMzZRLW9fTHM1a0lIZHloRVZiMUc5QWtPWEgzdHVlSTdGajVqRC1iOUdfNW9kbFphdDVETFgtWEJTVGtKNVpVS0J1dW1KRGRJTnpQTEkyTi1rUFhDcWZsVnk2Rk5LekRzMEdhN2tKeFZCREx5U0MwRFlLUm1keUt1SjBTbmZ2dEY4UXdBWVZPcS12QTdScWVNdTMtM0xSTXpYbU5Xd2VnT3hEVWItdTlSc3Z2aFgySHVjY2ZIcGxXVS1kNGVBbkJHN2c0RUV1UGZWOTVRNUtiSm13Sy1DeU9Nbnc3THFUeUM5eTgtenFWZTVLZFVuN2cyZ0Q3R3FONWtEMWUtVVRmMnVrQXFVaVMtQnNCR3MtY0diLTNvZ0JObzNWZWVqYlE4aGdVT0tUWmN6UFJOaXkxcWZhNHVTR3FNNWhXVTM5ZXBDa1k2TVRraUVqRzRMeUNOWg?oc=5",
@@ -8060,12 +8020,452 @@
  ],
  "stock": [
   {
+   "title": "TAKARA TOMY 戰鬥陀螺 CX-00 迪卡狂怒FT3-60T BXG-70 台版 麗嬰代理",
+   "url": "https://24h.pchome.com.tw/prod/DEASR1-B900KFZPJ",
+   "price": 1899,
+   "qty": 3,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "TAKARA TOMY 戰鬥陀螺 CX-00 新世紀福音戰士改造組 BXG-57 台版 麗嬰代理",
+   "url": "https://24h.pchome.com.tw/prod/DEASR1-B900KFFGB",
+   "price": 3299,
+   "qty": 4,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "TAKARA TOMY 戰鬥陀螺 UX-20 榮耀武神LF 右旋 BEYBLADE X 台灣版 麗嬰代理",
+   "url": "https://24h.pchome.com.tw/prod/DEASR1-B900K8AYJ",
+   "price": 1699,
+   "qty": 3,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "TAKARA TOMY 戰鬥陀螺 UX-19 子彈獅鷲 H 台灣版 麗嬰代理 附 QRCODE BEYBLADE X",
+   "url": "https://24h.pchome.com.tw/prod/DEASR1-B900K7V73",
+   "price": 1650,
+   "qty": 2,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 賽車 SKYLINE GT-R ARTA",
+   "url": "https://24h.pchome.com.tw/prod/DEAS1I-A900ICUP9",
+   "price": 450,
+   "qty": 2,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 TOMICA 消防訓練中心",
+   "url": "https://24h.pchome.com.tw/prod/DEAS1I-A900JSCI1",
+   "price": 1999,
+   "qty": 3,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 BLUEY 妙妙犬布麗 溫馨小屋",
+   "url": "https://24h.pchome.com.tw/prod/DEAS30-A900JKC7P",
+   "price": 1995,
+   "qty": 3,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 MONCOLLE 悖謬 破空焰",
+   "url": "https://24h.pchome.com.tw/prod/DEAS2N-A900I4G7D",
+   "price": 250,
+   "qty": 2,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 QMAN 寶可夢 圓頭系列積木 波加曼",
+   "url": "https://24h.pchome.com.tw/prod/DEAEM9-A900HGRKL",
+   "price": 350,
+   "qty": 1,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 新幹線變形機器人 變革世代 H5 隼號 推土機型態",
+   "url": "https://24h.pchome.com.tw/prod/DEAS1V-A900I4G8J",
+   "price": 1299,
+   "qty": 2,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 Dream TOMICA 183 迪士尼遊園列車 雪寶",
+   "url": "https://24h.pchome.com.tw/prod/DEAS7T-A900HP5G5",
+   "price": 281,
+   "qty": 1,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 TOMICA PREMIUM 車組-三菱 LANCER EVOLUTION",
+   "url": "https://24h.pchome.com.tw/prod/DEAS1I-A900HVR7F",
+   "price": 895,
+   "qty": 3,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 TOMICA 多美小汽車 NO.036 大發 Rocky 初回",
+   "url": "https://24h.pchome.com.tw/prod/DEAS1I-A900B0V0V",
+   "price": 150,
+   "qty": 1,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 PLARAIL 台北捷運動物園站遊戲組",
+   "url": "https://24h.pchome.com.tw/prod/DEAS1V-A900JLAD1",
+   "price": 1499,
+   "qty": 2,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 精靈寶可夢 寶可夢圖鑑-手機洛托姆電子機(拍照連動)",
+   "url": "https://24h.pchome.com.tw/prod/DEAS2N-A900JL4N4",
+   "price": 2861,
+   "qty": 1,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 精靈寶可夢 快樂遊行 皮卡丘!",
+   "url": "https://24h.pchome.com.tw/prod/DEAS2N-A900JL4N6",
+   "price": 953,
+   "qty": 2,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 小荳娃娃 溫馨鬆餅店",
+   "url": "https://24h.pchome.com.tw/prod/DEASKH-A900JLFTG",
+   "price": 1799,
+   "qty": 3,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 精靈寶可夢 ML-13 伊裴爾塔爾",
+   "url": "https://24h.pchome.com.tw/prod/DEAS2N-A900H39VW",
+   "price": 450,
+   "qty": 2,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 無極限PRM05_魯邦三世 Fiat 500",
+   "url": "https://24h.pchome.com.tw/prod/DEAS1I-A900ICUP7",
+   "price": 350,
+   "qty": 2,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 KONGSUNI 新小荳娃娃繽紛麵包店",
+   "url": "https://24h.pchome.com.tw/prod/DEASKH-A900JLFTA",
+   "price": 1499,
+   "qty": 3,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 迪士尼小汽車 遊園列車(杯子蛋糕)-大眼仔",
+   "url": "https://24h.pchome.com.tw/prod/DEAS3D-A900HCBZQ",
+   "price": 250,
+   "qty": 3,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 KONGSUNI 小荳娃娃美味鯛魚燒機",
+   "url": "https://24h.pchome.com.tw/prod/DEASKH-A900JLFSE",
+   "price": 1499,
+   "qty": 1,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 15 日產FAIRLADY Z Z31",
+   "url": "https://24h.pchome.com.tw/prod/DEAS1I-A900I9LUN",
+   "price": 250,
+   "qty": 2,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 EPOCH 小小兵AVL迷宮任務",
+   "url": "https://24h.pchome.com.tw/prod/DEAS0F-A900JL3JD",
+   "price": 695,
+   "qty": 3,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 賽車 日產Skyline GTR Pennzoil",
+   "url": "https://24h.pchome.com.tw/prod/DEAS1I-A900ICUP8",
+   "price": 450,
+   "qty": 2,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 QMAN 三麗鷗 Hello Kitty 迷你巴士",
+   "url": "https://24h.pchome.com.tw/prod/DEAMEQ-A900DFDU1",
+   "price": 350,
+   "qty": 1,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 迪士尼小汽車 新城鎮-漢堡店(附小車)",
+   "url": "https://24h.pchome.com.tw/prod/DEAS3D-A900HAQF9",
+   "price": 695,
+   "qty": 1,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 迪士尼小汽車 唐老鴨衝浪旅行車-附人偶",
+   "url": "https://24h.pchome.com.tw/prod/DEAS3D-A900HGRGK",
+   "price": 295,
+   "qty": 2,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 精靈寶可夢 ML12 哲爾尼亞斯",
+   "url": "https://24h.pchome.com.tw/prod/DEAS2N-A900JSB1R",
+   "price": 450,
+   "qty": 2,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 迪士尼小汽車 遊園列車(杯子蛋糕)-跳跳虎",
+   "url": "https://24h.pchome.com.tw/prod/DEAS3D-A900HCC01",
+   "price": 250,
+   "qty": 3,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 新幹線變形機器人 變革世代 N700S 牽引車強化",
+   "url": "https://24h.pchome.com.tw/prod/DEAS1V-A900I4G8K",
+   "price": 1650,
+   "qty": 2,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 KEEPPLAY 蠟筆小新公仔 鱷魚山先生小新",
+   "url": "https://24h.pchome.com.tw/prod/DEASI3-A900JSCFJ",
+   "price": 295,
+   "qty": 3,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 多美動物 ANIA 冒險王國 大猩猩Silva",
+   "url": "https://24h.pchome.com.tw/prod/DEASL1-A900G9K0D",
+   "price": 195,
+   "qty": 1,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 多美動物ANIA AC-11 長鼻猴",
+   "url": "https://24h.pchome.com.tw/prod/DEASL1-A900FP83C",
+   "price": 150,
+   "qty": 1,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 迪士尼小汽車 遊園列車-經典米奇",
+   "url": "https://24h.pchome.com.tw/prod/DEAS3D-A900HGRGI",
+   "price": 295,
+   "qty": 3,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 UTC07-超人力霸王 特利卡",
+   "url": "https://24h.pchome.com.tw/prod/DEAS1I-A900I9LUO",
+   "price": 250,
+   "qty": 2,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 KEEPPLAY 寶可夢 小場景系列 珍藏心意",
+   "url": "https://24h.pchome.com.tw/prod/DEASI3-A900JSCDD",
+   "price": 295,
+   "qty": 3,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 迪士尼小汽車 遊園列車(杯子蛋糕)-胡迪",
+   "url": "https://24h.pchome.com.tw/prod/DEAS3D-A900HCBZZ",
+   "price": 250,
+   "qty": 3,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 QMAN 寶可夢 圓頭系列積木 胖丁",
+   "url": "https://24h.pchome.com.tw/prod/DEAEM9-A900HGRS1",
+   "price": 350,
+   "qty": 1,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 精靈寶可夢 ML05 烈空坐",
+   "url": "https://24h.pchome.com.tw/prod/DEAS2N-A900JSB1P",
+   "price": 450,
+   "qty": 3,
+   "in_stock": true,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
+   "restocked_at": null
+  },
+  {
    "title": "【APP兌換】交換票券_戰鬥陀螺 CX-00 龍神勇氣G4-70I 金屬塗裝：水藍",
    "url": "https://shop.funbox.com.tw/products/bbpr08914",
-   "price": 999999.0,
+   "price": null,
    "qty": 89,
    "in_stock": true,
-   "sell_from": "2026-09-16T10:00+08:00",
+   "sell_from": null,
    "shop": "Funbox",
    "upcoming": false,
    "first_seen": "2026-10-17T01:32+08:00",
@@ -8168,6 +8568,17 @@
    "shop": "森森文具",
    "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "funbox 麗嬰國際 TOMICA 多美小汽車 NO.038 豐田Land Cruiser 300 初回",
+   "url": "https://24h.pchome.com.tw/prod/DEAS1I-A900G6SSH",
+   "price": 150,
+   "qty": 0,
+   "in_stock": false,
+   "shop": "PChome 24h（麗嬰公司貨）",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:36+08:00",
    "restocked_at": null
   },
   {
