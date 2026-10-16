@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T23:47+08:00",
+ "updated": "2026-10-16T23:48+08:00",
  "new_today": 0,
  "sources": [
   {
@@ -15,7 +15,7 @@
   {
    "name": "Google 新聞：台北新北",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "name": "Google 新聞：中南部",
@@ -36,12 +36,6 @@
    "name": "Google 新聞：BEYBLADE X",
    "ok": true,
    "count": 6
-  },
-  {
-   "name": "玩具人 toy-people",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 404: Not Found"
   },
   {
    "name": "PTT Toy",
