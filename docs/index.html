@@ -31,6 +31,7 @@ a.card{display:block;text-decoration:none;color:inherit;background:var(--card);b
 .empty{text-align:center;color:var(--muted);padding:40px 0}
 details{margin-top:24px;color:var(--muted);font-size:13px}
 details li.bad{color:var(--tp)}
+details li.off{opacity:.6}
 </style>
 </head>
 <body>
@@ -41,6 +42,7 @@ details li.bad{color:var(--tp)}
   <div class="tabs" id="tabs">
     <button data-f="all">全部消息</button>
     <button data-f="arrival">📦 到貨／補貨</button>
+    <button data-f="social">💬 社群</button>
     <button data-f="new">🆕 今天新增</button>
   </div>
 </header>
@@ -55,6 +57,7 @@ const ALL = '全台';
 const FILTERS = {
   all: () => true,
   arrival: i => i.arrival.length > 0,
+  social: i => i.social ?? /^(PTT|Dcard|YouTube|Threads)/.test(i.source),
   new: (i, d) => i.first_seen === d.updated,
 };
 const load = (k, def) => { try { return JSON.parse(localStorage.getItem(k)) ?? def; } catch (e) { return def; } };
@@ -121,11 +124,13 @@ document.getElementById('regions').addEventListener('click', e => {
 fetch('data.json?' + Date.now()).then(r => r.json()).then(d => {
   data = d;
   const ok = d.sources.filter(s => s.ok).length;
+  const on = d.sources.filter(s => s.ok !== null).length;
   document.getElementById('meta').textContent = d.updated
-    ? `更新：${d.updated.replace('T', ' ').slice(0, 16)}　今日新增 ${d.new_today} 筆　來源 ${ok}/${d.sources.length}`
+    ? `更新：${d.updated.replace('T', ' ').slice(0, 16)}　今日新增 ${d.new_today} 筆　來源 ${ok}/${on}`
     : '還沒有資料，等第一次自動收集完成';
-  document.getElementById('sources').innerHTML = d.sources.map(s =>
-    `<li class="${s.ok ? '' : 'bad'}">${esc(s.name)}：${s.ok ? s.count + ' 筆' : '失敗 ' + esc(s.error || '')}</li>`).join('');
+  document.getElementById('sources').innerHTML = d.sources.map(s => s.ok === null
+    ? `<li class="off">${esc(s.name)}：${esc(s.error || '未設定')}</li>`
+    : `<li class="${s.ok ? '' : 'bad'}">${esc(s.name)}：${s.ok ? s.count + ' 筆' : '失敗 ' + esc(s.error || '')}</li>`).join('');
   render();
 }).catch(() => { document.getElementById('meta').textContent = '資料載入失敗，請稍後再試'; });
 </script>

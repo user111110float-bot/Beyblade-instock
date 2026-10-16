@@ -11,6 +11,7 @@ import email.utils
 import hashlib
 import html
 import json
+import os
 import re
 import sys
 import urllib.parse
@@ -189,6 +190,64 @@ def dcard_search(query: str) -> list[dict]:
     return out
 
 
+class NotConfigured(Exception):
+    """需要金鑰的來源還沒設定：顯示「未設定」，不算失敗。"""
+
+
+def youtube_search(query: str) -> list[dict]:
+    """YouTube Data API v3（免費金鑰，每次搜尋耗 100 單位，每天額度約 10,000）。"""
+    key = os.environ.get("YOUTUBE_API_KEY")
+    if not key:
+        raise NotConfigured("未設定 YOUTUBE_API_KEY")
+    after = (NOW - dt.timedelta(days=14)).astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    params = urllib.parse.urlencode({
+        "part": "snippet", "type": "video", "order": "date", "maxResults": 25,
+        "q": query, "regionCode": "TW", "relevanceLanguage": "zh-Hant",
+        "publishedAfter": after, "key": key,
+    })
+    data = json.loads(fetch(f"https://www.googleapis.com/youtube/v3/search?{params}"))
+    out = []
+    for v in data.get("items", []):
+        sn = v["snippet"]
+        out.append({
+            "title": html.unescape(sn["title"]),
+            "url": f"https://www.youtube.com/watch?v={v['id']['videoId']}",
+            "summary": html.unescape(sn.get("description", ""))[:200],
+            "date": parse_date(sn.get("publishedAt")),
+            "source": f"YouTube {sn.get('channelTitle', '')}".strip(),
+        })
+    return out
+
+
+def threads_search(query: str) -> list[dict]:
+    """Threads 官方 API 關鍵字搜尋。
+
+    注意：Meta 規定 App 未通過 threads_keyword_search 審核前，只會搜到「自己帳號」的貼文；
+    通過審核後才搜得到公開貼文。長期權杖 60 天到期，需要重新產生後更新 Secret。
+    """
+    token = os.environ.get("THREADS_ACCESS_TOKEN")
+    if not token:
+        raise NotConfigured("未設定 THREADS_ACCESS_TOKEN")
+    params = urllib.parse.urlencode({
+        "q": query, "search_type": "RECENT",
+        "fields": "id,text,permalink,timestamp,username", "access_token": token,
+    })
+    data = json.loads(fetch(f"https://graph.threads.net/v1.0/keyword_search?{params}"))
+    out = []
+    for p in data.get("data", []):
+        text = p.get("text") or ""
+        out.append({
+            "title": text.split("\n")[0][:80] or "(Threads 貼文)",
+            "url": p.get("permalink", ""),
+            "summary": text[:200],
+            "date": parse_date(p.get("timestamp")),
+            "source": f"Threads @{p.get('username', '')}",
+        })
+    return out
+
+
+SOCIAL_PREFIXES = ("PTT", "Dcard", "YouTube", "Threads")
+
 SOURCES = [
     ("Google 新聞：到貨", lambda: google_news("戰鬥陀螺 到貨")),
     ("Google 新聞：補貨", lambda: google_news("戰鬥陀螺 補貨 OR 開賣 OR 現貨")),
@@ -205,6 +264,10 @@ SOURCES = [
     ("PTT Gossiping", lambda: ptt_search("Gossiping", "戰鬥陀螺")),
     ("Dcard", lambda: dcard_search("戰鬥陀螺 到貨")),
     ("Dcard 補貨", lambda: dcard_search("戰鬥陀螺 補貨")),
+    ("YouTube：到貨", lambda: youtube_search("戰鬥陀螺 到貨|補貨|開箱")),
+    ("YouTube：BEYBLADE X", lambda: youtube_search("BEYBLADE X 台灣")),
+    ("Threads：戰鬥陀螺", lambda: threads_search("戰鬥陀螺")),
+    ("Threads：到貨", lambda: threads_search("陀螺 到貨")),
 ]
 
 
@@ -239,6 +302,14 @@ def load_history() -> dict[str, dict]:
     return {}
 
 
+def redact(msg: str) -> str:
+    """錯誤訊息會公開在網頁上，先把金鑰遮掉。"""
+    for var in ("YOUTUBE_API_KEY", "THREADS_ACCESS_TOKEN"):
+        if os.environ.get(var):
+            msg = msg.replace(os.environ[var], "***")
+    return msg
+
+
 def main() -> int:
     history = load_history()
     status = []
@@ -246,9 +317,13 @@ def main() -> int:
     for name, fn in SOURCES:
         try:
             raw = fn()
+        except NotConfigured as e:
+            status.append({"name": name, "ok": None, "count": 0, "error": str(e)})
+            print(f"[-] {name}: {e}")
+            continue
         except Exception as e:  # noqa: BLE001 - 任何來源失敗都只記錄
-            status.append({"name": name, "ok": False, "count": 0, "error": str(e)[:120]})
-            print(f"[x] {name}: {e}", file=sys.stderr)
+            status.append({"name": name, "ok": False, "count": 0, "error": redact(str(e))[:120]})
+            print(f"[x] {name}: {redact(str(e))}", file=sys.stderr)
             continue
         kept = 0
         for it in raw:
@@ -269,6 +344,7 @@ def main() -> int:
                 "url": it["url"],
                 "summary": it["summary"],
                 "source": it["source"],
+                "social": it["source"].startswith(SOCIAL_PREFIXES),
                 "date": date,
                 "first_seen": NOW.isoformat(timespec="minutes"),
                 "region": it["region"],

@@ -16,6 +16,8 @@ GitHub Actions 每天台灣時間 **08:00、18:00** 執行 `scraper/collect.py`�
 | 玩具人 toy-people | 新品與上市資訊 |
 | PTT（Toy、Beyblade、BabyMother、Lifeismoney、Gossiping） | 網友回報現貨、補貨 |
 | Dcard | 網友回報（Dcard 常擋機器人，失敗屬正常） |
+| YouTube（選填） | 近 14 天「到貨／補貨／開箱」影片，需要免費 API 金鑰 |
+| Threads（選填） | 官方 API 關鍵字搜尋，需要 Meta App 權杖（見下方限制） |
 
 每則消息會自動標記：📍 縣市（依縣市名、行政區、商圈判斷）、📦 到貨關鍵字、🏬 通路（玩具反斗城、Funbox…）。
 資料保留 30 天，存在 `data/items.json`。
@@ -26,6 +28,21 @@ GitHub Actions 每天台灣時間 **08:00、18:00** 執行 `scraper/collect.py`�
    （免費帳號需要 repo 是 Public）
 2. Repo → **Actions** → 「每日收集陀螺到貨資訊」→ **Run workflow** 手動跑第一次
 3. 跑完後打開上面的網頁網址
+
+## 開啟社群來源（選填）
+
+到 Repo → **Settings → Secrets and variables → Actions → New repository secret** 新增：
+
+| Secret 名稱 | 怎麼取得 |
+|---|---|
+| `YOUTUBE_API_KEY` | [Google Cloud Console](https://console.cloud.google.com/apis/library/youtube.googleapis.com) 啟用 YouTube Data API v3 → 憑證 → 建立 API 金鑰（免費，本專案每天約用 400 / 10,000 額度） |
+| `THREADS_ACCESS_TOKEN` | 在 [Meta for Developers](https://developers.facebook.com/) 建立 App 並加入 Threads 使用案例，取得 `threads_basic`、`threads_keyword_search` 權限的長期權杖 |
+
+沒設定的來源會在網頁「資料來源狀態」顯示「未設定」，不影響其他來源。
+
+**Threads 的限制**：Meta 規定 App 沒通過 `threads_keyword_search` 審核前，只搜得到**自己帳號**的貼文；要通過 App Review 才搜得到公開貼文。長期權杖 60 天到期，到期要重新產生並更新 Secret。
+
+**Facebook／Instagram 沒有支援**：這兩個平台的社團、粉專、貼文都要登入才看得到，也沒有開放關鍵字搜尋的 API，用帳號登入去爬違反使用條款，帳號可能被停權，所以不做。建議直接追蹤常發到貨消息的店家粉專並開啟通知。
 
 ## 自訂
 

@@ -34,6 +34,10 @@ jobs:
 
       - name: 收集資料
         run: python scraper/collect.py
+        env:
+          # 選填：在 Settings → Secrets and variables → Actions 設定後才會啟用
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
 
       - name: 存回 repo（保留歷史紀錄）
         run: |
