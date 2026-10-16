@@ -1,0 +1,17 @@
+name: 臨時探測（看完會刪）
+on: workflow_dispatch
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          UA="Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 Chrome/126.0 Mobile Safari/537.36"
+          U='https://www.toysrus.com.tw/zh-tw/beyblade/'
+          curl -sSL -A "$UA" -o p.html -w "HTTP %{http_code} size %{size_download} final %{url_effective}\n" "$U"
+          echo "== platform"; grep -oiE "demandware|salesforce|sfcc|dwvar|shopify|cyberbiz|shopline|91app|magento|vtex" p.html | sort | uniq -c
+          echo "== product tiles"; grep -oE 'data-pid="[^"]+"' p.html | head -5; grep -c 'data-pid=' p.html
+          echo "== availability words"; grep -oE "暫時缺貨|缺貨|已售完|加入購物車|貨到通知|available|InStock|OutOfStock|in-stock|out-of-stock" p.html | sort | uniq -c
+          echo "== ld+json"; grep -o '"@type":"[A-Za-z]*"' p.html | sort | uniq -c | head
+          echo "== sample tile"; grep -m1 -A40 'class="product-tile' p.html | sed 's/  */ /g' | head -60
+          echo "== search show ajax"; grep -oE '/on/demandware.store/[^"'"'"' ]{0,120}' p.html | sort -u | head -15
+          echo "== pagination"; grep -oE '(sz|start)=[0-9]+' p.html | sort -u | head
