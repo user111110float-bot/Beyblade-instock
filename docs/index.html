@@ -11,7 +11,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="陀螺雷達">
 <style>
-:root{--bg:#f5f6f8;--card:#fff;--fg:#1b1d21;--muted:#6b7280;--line:#e5e7eb;--accent:#0f62fe;--tp:#d6336c;--ntp:#0ca678;--warn:#f59f00}
+:root{--on:#1c7ed6;--st:#f76707;--bg:#f5f6f8;--card:#fff;--fg:#1b1d21;--muted:#6b7280;--line:#e5e7eb;--accent:#0f62fe;--tp:#d6336c;--ntp:#0ca678;--warn:#f59f00}
 @media (prefers-color-scheme:dark){:root{--bg:#111318;--card:#1b1e25;--fg:#e8eaed;--muted:#9aa0a6;--line:#2c313a;--accent:#5b8cff}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 -apple-system,"PingFang TC","Noto Sans TC",sans-serif}
@@ -39,6 +39,24 @@ main{padding:12px 16px 40px;max-width:720px;margin:0 auto}
 .tag.shop{background:var(--accent);color:#fff}
 .src{color:var(--muted)}
 .card.off{opacity:.55}
+.tag.on{background:var(--on);color:#fff}.tag.st{background:var(--st);color:#fff}
+.cal-head{display:flex;align-items:center;justify-content:space-between;margin:4px 0 8px}
+.cal-head b{font-size:17px}
+.cal-head button{border:1px solid var(--line);background:var(--card);color:var(--fg);border-radius:8px;width:40px;height:34px;font-size:18px}
+.legend{display:flex;flex-wrap:wrap;gap:10px;font-size:12px;color:var(--muted);margin-bottom:8px}
+.dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:3px;vertical-align:middle}
+.dot.on{background:var(--on)}.dot.st{background:var(--st)}.dot.un{background:var(--muted)}
+.dot.plan{background:none;border:2px solid var(--warn);width:6px;height:6px}
+.cal{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:4px}
+.cal .wd{text-align:center;font-size:12px;color:var(--muted);padding:2px 0}
+.cal button{min-width:0;overflow:hidden;aspect-ratio:1;min-height:44px;border:1px solid var(--line);background:var(--card);color:var(--fg);border-radius:8px;
+  padding:4px 2px;display:flex;flex-direction:column;align-items:center;justify-content:space-between;font-size:14px}
+.cal button.blank{visibility:hidden}
+.cal button.today{border-color:var(--accent);font-weight:700}
+.cal button.sel{background:var(--accent);color:#fff;border-color:var(--accent)}
+.cal button.sel .dot{box-shadow:0 0 0 1.5px #fff}
+.cal .dots{display:flex;flex-wrap:wrap;justify-content:center;gap:2px;min-height:10px}
+.cal .dot{margin:0;width:7px;height:7px}.cal .dot.plan{width:5px;height:5px}
 .empty{text-align:center;color:var(--muted);padding:40px 0}
 details{margin-top:24px;color:var(--muted);font-size:13px}
 details li.bad{color:var(--tp)}
@@ -52,6 +70,7 @@ details li.off{opacity:.6}
   <div class="tabs" id="regions"></div>
   <div class="tabs" id="tabs">
     <button data-f="all">全部消息</button>
+    <button data-f="calendar">📅 日曆</button>
     <button data-f="arrival">📦 到貨／補貨</button>
     <button data-f="social">💬 社群</button>
     <button data-f="stock">🛒 網店庫存</button>
@@ -79,6 +98,7 @@ const FILTERS = {
   resale: i => !!i.resale,
   new: (i, d) => plain(i) && isNew(i, d),
   stock: () => false,  // 網店庫存另外顯示，見 renderStock
+  calendar: () => false,  // 日曆另外顯示，見 renderCalendar
 };
 const load = (k, def) => { try { return JSON.parse(localStorage.getItem(k)) ?? def; } catch (e) { return def; } };
 const save = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} };
@@ -132,6 +152,7 @@ function render() {
   document.querySelectorAll('#tabs button').forEach(b => b.classList.toggle('on', b.dataset.f === filter));
   renderRegions();
   if (filter === 'stock') return renderStock();
+  if (filter === 'calendar') return renderCalendar();
   const items = data.items.filter(i => inRegion(i) && FILTERS[filter](i, data));
   const list = document.getElementById('list');
   if (!items.length) {
@@ -142,7 +163,13 @@ function render() {
   for (const i of items) {
     const d = i.date.slice(0, 10);
     if (d !== day) { day = d; html += `<div class="day">${d.replace(/-/g, '/')}</div>`; }
-    const tags = [
+    html += cardHtml(i);
+  }
+  list.innerHTML = html;
+}
+
+function cardHtml(i, extra = []) {
+    const tags = [...extra,
       ...(isNew(i, data) ? ['<span class="tag new">NEW</span>'] : []),
       ...(i.shop ? [`<span class="tag shop">🏪 ${esc(i.shop)}${i.branch ? ' ' + esc(i.branch) : ''}</span>`] : []),
       ...(online(i) ? ['<span class="tag ntp">🛒 網店</span>']
@@ -156,13 +183,100 @@ function render() {
       ? `<details><summary>另有 ${i.also.length} 則相關報導</summary><ul>${i.also.map(a =>
           `<li><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.source)}</a></li>`).join('')}</ul></details>`
       : '';
-    html += `<div class="card">
+    return `<div class="card">
       <a class="t" href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a>
       ${i.summary ? `<div class="s">${esc(i.summary)}</div>` : ''}
       <div class="tags">${tags}<span class="src">${esc(i.source)}</span></div>${also}</div>`;
+}
+
+// ---- 日曆：哪天有陀螺上架／實體販售，線上（藍）、實體（橘）分開標 ----
+const CHAN = {
+  online: {cls: 'on', label: '🛒 線上'}, store: {cls: 'st', label: '🏪 實體'},
+};
+const isSale = i => plain(i) && (i.kind === 'stock' || i.arrival.length > 0);
+const chanOf = i => i.channel || (i.kind === 'stock' ? 'online' : null);
+let calMonth = null, calDay = null;
+
+function calEntries() {
+  const map = {};  // 'YYYY-MM-DD' → [{i, planned}]
+  const add = (d, i, planned) => {
+    const list = (map[d] ||= []);
+    if (!list.some(e => e.i.url === i.url)) list.push({i, planned});
+  };
+  for (const i of data.items) {
+    if (!inRegion(i) || !isSale(i)) continue;
+    const posted = i.date.slice(0, 10);
+    add(posted, i, false);
+    // 標題寫的開賣日（例如「11/21開賣」）也標上去
+    for (const d of i.sale_dates || []) if (d !== posted) add(d, i, true);
   }
+  // 網店裡還沒開賣的商品：標在開賣那天
+  for (const p of data.stock || []) {
+    if (!p.upcoming) continue;
+    add(p.sell_from.slice(0, 10), {
+      title: `【${p.shop}】${p.title}`, url: p.url, summary: '', source: `網店｜${p.shop}`,
+      kind: 'stock', channel: 'online', region: [], stores: [], arrival: ['開賣'], date: p.sell_from,
+      first_seen: p.first_seen || '',
+    }, true);
+  }
+  return map;
+}
+
+function chanTags(i, planned) {
+  const c = chanOf(i);
+  return [
+    ...(planned ? ['<span class="tag new">⏰ 預計開賣</span>'] : []),
+    ...(c === 'online' || c === 'both' ? [`<span class="tag on">${CHAN.online.label}</span>`] : []),
+    ...(c === 'store' || c === 'both' ? [`<span class="tag st">${CHAN.store.label}</span>`] : []),
+  ];
+}
+
+function renderCalendar() {
+  const list = document.getElementById('list');
+  const today = data.updated.slice(0, 10);
+  const entries = calEntries();
+  // 預設選今天；今天還沒消息就選最近一個有消息的日子
+  calDay ||= entries[today] ? today : Object.keys(entries).filter(d => d <= today).sort().pop() || today;
+  calMonth ||= calDay.slice(0, 7);
+  const [y, m] = calMonth.split('-').map(Number);
+  const firstWd = new Date(y, m - 1, 1).getDay();
+  const days = new Date(y, m, 0).getDate();
+  const pad = n => String(n).padStart(2, '0');
+
+  let html = `<div class="cal-head"><button data-nav="-1" aria-label="上個月">‹</button>
+    <b>${y} 年 ${m} 月</b><button data-nav="1" aria-label="下個月">›</button></div>
+    <div class="legend"><span><i class="dot on"></i>線上（網店／官網）</span><span><i class="dot st"></i>實體（門市／現場）</span>
+    <span><i class="dot un"></i>未分類</span><span><i class="dot plan"></i>預計開賣</span></div>
+    <div class="cal">${'日一二三四五六'.split('').map(w => `<div class="wd">${w}</div>`).join('')}`;
+  for (let k = 0; k < firstWd; k++) html += '<button class="blank" tabindex="-1"></button>';
+  for (let d = 1; d <= days; d++) {
+    const key = `${calMonth}-${pad(d)}`;
+    const es = entries[key] || [];
+    const has = c => es.some(e => { const x = chanOf(e.i); return c === 'un' ? !x : x === c || x === 'both'; });
+    const dots = [has('online') && 'on', has('store') && 'st', has('un') && 'un', es.some(e => e.planned) && 'plan']
+      .filter(Boolean).map(c => `<i class="dot ${c}"></i>`).join('');
+    const cls = [key === today && 'today', key === calDay && 'sel'].filter(Boolean).join(' ');
+    html += `<button data-d="${key}" class="${cls}" aria-label="${m}月${d}日 ${es.length} 則">${d}<span class="dots">${dots}</span></button>`;
+  }
+  html += '</div>';
+
+  const sel = (entries[calDay] || []).sort((a, b) => a.planned - b.planned);
+  html += `<div class="day">${calDay.replace(/-/g, '/')}　${sel.length ? sel.length + ' 則' : '沒有上架或販售消息'}</div>`;
+  html += sel.map(e => cardHtml(e.i, chanTags(e.i, e.planned))).join('');
   list.innerHTML = html;
 }
+
+document.getElementById('list').addEventListener('click', e => {
+  const nav = e.target.closest('[data-nav]'), day = e.target.closest('[data-d]');
+  if (nav) {
+    const [y, m] = calMonth.split('-').map(Number);
+    const t = new Date(y, m - 1 + Number(nav.dataset.nav), 1);
+    calMonth = `${t.getFullYear()}-${String(t.getMonth() + 1).padStart(2, '0')}`;
+    renderCalendar();
+  } else if (day) {
+    calDay = day.dataset.d; renderCalendar();
+  }
+});
 
 document.getElementById('tabs').addEventListener('click', e => {
   const b = e.target.closest('button'); if (!b) return;

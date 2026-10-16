@@ -85,10 +85,49 @@ EXCLUDE_WORDS = [
     "指尖陀螺", "奶粉", "沒有戰鬥陀螺", "無戰鬥陀螺",
 ]
 # 個人二手／轉售（不是店家到貨）：保留但另外標記
-RESALE = re.compile(r"出售|【售】|^售|售售|出清|面交|賣貨便|myship|二手|轉售|徵收|收購|競標|截標|自取")
+RESALE = re.compile(r"出售|【售】|^售|售售|出清|面交|賣貨便|myship|二手|轉售|徵收|收購|競標|截標|自取|報價|價格可討論")
 # 比賽、報名、得獎公告（小店貼文很多是這類）：保留但另外標記
 EVENT = re.compile(r"比賽|賽事|報名|冠軍|亞軍|季軍|自辦賽|參賽|名單|[^\s]盃|積分|店鋪賽|G3|對戰會")
+# 線上／實體：日曆用不同顏色標
+ONLINE_WORDS = ["官網", "網購", "線上", "網路", "網店", "蝦皮", "momo", "PChome", "博客來", "賣場",
+                "下單", "官方商城", "購物網", "shopee", "連結", "宅配", "超取"]
+STORE_WORDS = ["門市", "現場", "店內", "來店", "到店", "排隊", "號碼牌", "櫃", "實體", "店面",
+               "百貨", "夜市", "店鋪", "現貨販售", "直接購買", "店家"]
+# 實體連鎖通路（沒寫線上字眼時算實體）
+STORE_CHAINS = ["玩具反斗城", "萊爾富", "7-11", "7-ELEVEN", "統一超商", "全家", "OK超商", "家樂福",
+                "全聯", "大買家", "好市多", "Costco", "誠品", "金石堂", "小北百貨", "湯姆熊", "大魯閣"]
+# 標題裡的開賣日期：「11/21開賣」「10/13 限量開賣」「11月5日登場」
+SALE_DATE = re.compile(
+    r"(\d{1,2})\s*[/月]\s*(\d{1,2})\s*日?[^/\n]{0,14}?"
+    r"(?:開賣|發售|上市|販售|開搶|開抽|登場|到貨|預購|上架)")
 PRODUCT_CODE = re.compile(r"\b(?:BX|UX|CX)-\d+", re.I)
+
+
+def channel_of(text: str, stores: list[str]) -> str | None:
+    """online（網路）／store（實體）／both／None（看不出來）。"""
+    on = bool(has_any(text, ONLINE_WORDS))
+    st = bool(has_any(text, STORE_WORDS)) or (not on and bool(has_any(text, STORE_CHAINS)))
+    return "both" if on and st else "online" if on else "store" if st else None
+
+
+def sale_dates(title: str, posted: dt.datetime | None) -> list[str]:
+    """標題提到的開賣日期（YYYY-MM-DD），年份照發文日推。"""
+    base = posted or NOW
+    out = []
+    for m, d in SALE_DATE.findall(title):
+        try:
+            day = dt.date(base.year, int(m), int(d))
+        except ValueError:
+            continue
+        if day < base.date() - dt.timedelta(days=30):
+            # 年底發文提到 1～3 月才算明年（例如 12 月說「1/5 開賣」），其他太舊的日期多半是回顧，略過
+            if base.month >= 10 and day.month <= 3:
+                day = day.replace(year=day.year + 1)
+            else:
+                continue
+        if day.isoformat() not in out:
+            out.append(day.isoformat())
+    return out
 
 
 def has_any(text: str, words: list[str]) -> list[str]:
@@ -343,6 +382,11 @@ def classify(item: dict) -> dict | None:
     item["arrival"] = arrival
     item["stores"] = stores
     item["resale"] = bool(RESALE.search(item["title"]))
+    item["channel"] = channel_of(text, stores)
+    posted = item.get("date")
+    if isinstance(posted, str):
+        posted = dt.datetime.fromisoformat(posted)
+    item["sale_dates"] = sale_dates(item["title"], posted)
     # 有開賣字眼又有通路／型號的（例如「萊爾富…比賽據點…限量開賣」）仍算販售消息
     selling = bool(arrival) and bool(stores or PRODUCT_CODE.search(text))
     item["event"] = bool(EVENT.search(item["title"])) and not selling
@@ -372,10 +416,11 @@ def reclassify(items) -> list[dict]:
             i["title"] = i["title"][: -len(i["source"]) - 3]
         if i["summary"].startswith(i["title"]):
             i["summary"] = ""
-        c = classify({"title": i["title"], "summary": i["summary"]})
+        c = classify({"title": i["title"], "summary": i["summary"], "date": i["date"]})
         if c:
             i.update(region=c["region"], arrival=c["arrival"], stores=c["stores"], score=c["score"],
                      resale=c["resale"], event=c["event"], shop=c["shop"], branch=c["branch"],
+                     channel=c["channel"], sale_dates=c["sale_dates"],
                      social=i["source"].startswith(SOCIAL_PREFIXES))
             out.append(i)
     return out
@@ -490,6 +535,8 @@ def main() -> int:
                 "arrival": it["arrival"],
                 "stores": it["stores"],
                 "resale": it["resale"],
+                "channel": it["channel"],
+                "sale_dates": it["sale_dates"],
                 "event": it["event"],
                 "shop": it["shop"],
                 "branch": it["branch"],

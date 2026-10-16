@@ -242,6 +242,9 @@ def _event(p: dict, shop: dict, kind: str, now) -> dict:
         "stores": [],
         "resale": False,
         "event": False,
+        "channel": "online",
+        # 還沒開賣的新品，日曆也標在開賣那天
+        "sale_dates": [p["sell_from"][:10]] if p.get("upcoming") else [],
         "shop": shop["name"],
         "branch": None,
         "score": 4,
