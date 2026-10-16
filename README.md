@@ -1,10 +1,12 @@
 # 🌀 陀螺到貨雷達（全台）
 
-每天自動收集全台近期**戰鬥陀螺 BEYBLADE** 到貨、補貨、開賣消息，整理成手機好讀的網頁。
-網頁上方可以自己選縣市（可複選，或選「全台」），選擇會記在手機上，下次打開不用重選。
+## 👉 [打開網頁：user111110float-bot.github.io/Beyblade-instock](https://user111110float-bot.github.io/Beyblade-instock/)
 
-- 📱 網頁：`https://<你的帳號>.github.io/Beyblade-instock/`（開啟 GitHub Pages 後可用，建議加到手機主畫面）
-- 📄 備用：直接在 GitHub App 打開 [`LATEST.md`](LATEST.md)
+> 手機用瀏覽器打開後，按「分享 → 加入主畫面」，之後點圖示就能看。
+
+每天自動收集全台**戰鬥陀螺 BEYBLADE** 到貨、補貨、開賣消息，以及店家網店的即時庫存，整理成手機好讀的網頁。
+網頁上方可以自己選縣市（可複選，或選「全台」），選擇會記在手機上，下次打開不用重選。
+備用：直接在 GitHub App 打開 [`LATEST.md`](LATEST.md)。
 
 ## 運作方式
 
