@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T01:29+08:00",
- "updated_full": "2026-10-17T01:29+08:00",
- "new_today": 334,
+ "updated": "2026-10-17T01:32+08:00",
+ "updated_full": "2026-10-17T01:32+08:00",
+ "new_today": 339,
  "sources": [
   {
    "name": "Google 新聞：到貨",
@@ -16,7 +16,7 @@
   {
    "name": "Google 新聞：台北新北",
    "ok": true,
-   "count": 7
+   "count": 9
   },
   {
    "name": "Google 新聞：中南部",
@@ -41,7 +41,7 @@
   {
    "name": "Facebook 公開貼文：戰鬥陀螺",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "name": "Facebook 公開貼文：到貨",
@@ -51,12 +51,12 @@
   {
    "name": "Facebook 玩具店",
    "ok": true,
-   "count": 59
+   "count": 58
   },
   {
    "name": "Facebook 文具店",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "name": "Facebook 書局",
@@ -115,17 +115,17 @@
   {
    "name": "Facebook 各縣市：基隆",
    "ok": true,
-   "count": 42
+   "count": 39
   },
   {
    "name": "Facebook 各縣市：台北",
    "ok": true,
-   "count": 41
+   "count": 45
   },
   {
    "name": "Facebook 各縣市：新北",
    "ok": true,
-   "count": 40
+   "count": 38
   },
   {
    "name": "Facebook 各縣市：桃園",
@@ -135,7 +135,7 @@
   {
    "name": "Facebook 各縣市：新竹",
    "ok": true,
-   "count": 45
+   "count": 46
   },
   {
    "name": "Facebook 各縣市：苗栗",
@@ -145,7 +145,7 @@
   {
    "name": "Facebook 各縣市：台中",
    "ok": true,
-   "count": 43
+   "count": 42
   },
   {
    "name": "Facebook 各縣市：彰化",
@@ -155,37 +155,37 @@
   {
    "name": "Facebook 各縣市：南投",
    "ok": true,
-   "count": 21
+   "count": 23
   },
   {
    "name": "Facebook 各縣市：雲林",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "name": "Facebook 各縣市：嘉義",
    "ok": true,
-   "count": 34
+   "count": 36
   },
   {
    "name": "Facebook 各縣市：台南",
    "ok": true,
-   "count": 46
+   "count": 44
   },
   {
    "name": "Facebook 各縣市：高雄",
    "ok": true,
-   "count": 39
+   "count": 41
   },
   {
    "name": "Facebook 各縣市：屏東",
    "ok": true,
-   "count": 30
+   "count": 26
   },
   {
    "name": "Facebook 各縣市：宜蘭",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "name": "Facebook 各縣市：花蓮",
@@ -220,17 +220,22 @@
   {
    "name": "追蹤店家：玩具e哥",
    "ok": true,
-   "count": 36
+   "count": 34
   },
   {
    "name": "追蹤店家：森森文具",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "name": "追蹤店家：玩具反斗城",
    "ok": true,
    "count": 14
+  },
+  {
+   "name": "追蹤店家：Funbox",
+   "ok": true,
+   "count": 32
   },
   {
    "name": "網店庫存：森森文具",
@@ -239,6 +244,16 @@
   },
   {
    "name": "網店庫存：玩具反斗城",
+   "ok": true,
+   "count": 0
+  },
+  {
+   "name": "網店庫存：Funbox",
+   "ok": true,
+   "count": 1
+  },
+  {
+   "name": "網店庫存：PChome 24h（麗嬰公司貨）",
    "ok": true,
    "count": 0
   }
@@ -629,6 +644,26 @@
    "event": false
   },
   {
+   "id": "4e755fdf0da8cca5",
+   "title": "10/16 CX-11 抽選結果公布 CX-11 帝王威能 抽選結果如下，恭喜中選的2名陀螺戰士 取貨時間：公布後 10/16 15：55到 10/19（一）21：40，在營業時間（早上8點30-晚上9：40）本人或家人攜帶證件（身分證或健保卡等身份證明文件）來店進行身份確認、選購商品（$995）與",
+   "url": "https://news.google.com/rss/articles/CBMimAVBVV95cUxPZXROd2lnOF9FWEdXNjA3U1FTeS1WWGoyRjV4ZW1MWFV4bHNpMGZHbk0tUjlxUTNrdzhEUjRkQlZ6UUNtRGUtOFRsUHUzbmwtc3JpaHZ3Rmk5RkRZLTBSNUs5TGdUclhoSl9HNUNxX0VnWlY4R2J0VENtaUFMb1o1Y09QMFZoanlyZVNhMVJqVkRFN2cwWnVlYkVfbGhJS0pudnlBdWplOWhKakpaelU1aFVMUEtTaGY4TWNNSnRyM1c4RjdGNGx5OHlBWDQ3cTd5VmNCaTY3OUM5RHpFb043Y1FabXFXZjlPaENOTTd6SHA4REJIQXhnN0FGcHo2MG9UUzVMZkhNazdhTThnZ1ZqalZWV1ZydWRydWdIOUtnUjQ2cFhXb3JGTURJX3dPd2RYOE4wRFhBSW1oQWhaSS1jMGFYcEpUWk9IdHpkZWk3N21LRHRTYTdUSG9LVTRwOF9vamJScE1tZ2Zfc0dTMV9jazlTZnRDR3lnRWstZ1BWWF9uc3VIdkctcWExbmFHYUJRUlVwa3N1NC00YVp2enBTU25jVnJiWVNmMHhNVEZ4QVY2am1WcWF0aUNGUmVZZWlSMDVkRVhsbzFobnhuMG13aWp4Q2t2RGU4a3RQSE1kYVA1NUliYWlRZWp0dU1DZVpaRXRfbjc2cmFXQWszMXhFM08yc3V6V1VSdkZjcGZRRHhGX0RGSy1Sck9qQU40Q184ZUNsZjZpeS1HTGtSQWNvZ05SOEFMYUVqNmJkN21aVEw5QkVMWUhUZXVlb3pJRFVoV01ybGJXYVc1UlNXV3BrSGVVS0I2Snl0MTBzcFg3TGxINVpOT1FHNDV3OWJjLXpLVk42TjhpTHNIb3lubTlKRGF3UnVEOVpi?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-16T15:55+08:00",
+   "first_seen": "2026-10-17T01:32+08:00",
+   "region": [],
+   "arrival": [
+    "抽選"
+   ],
+   "stores": [],
+   "resale": false,
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
    "id": "7e6677b361940070",
    "title": "售正版陀螺 BX-00 CX-10 兩顆一起賣$1000 #永寧捷運站面交 #夾物已拆檢介意別來 #內容物沒問題 #感謝平台感謝大家",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZdkdGb1BaLVFxMmg3akZqSkt6Zng1S2Q3WlBhODBZQVg0THJ5R2dXTXcyYWJfTDhGUXRzVTNXdzlOeDlsSUJKREJLb0tPbzhaV1lzdWxSdVRlZFp5UzQxWk1waU0yT1VoQ1BkNWZiWUZxVm8?oc=5",
@@ -931,7 +966,7 @@
    ],
    "resale": false,
    "score": 5,
-   "shop": null,
+   "shop": "Funbox",
    "branch": null,
    "event": false
   },
@@ -1601,10 +1636,20 @@
     "Funbox"
    ],
    "resale": false,
-   "shop": null,
+   "shop": "Funbox",
    "score": 5,
-   "branch": null,
-   "event": false
+   "branch": "桃園遠東店",
+   "event": false,
+   "also": [
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMiiAdBVV95cUxOMXprTTB0OEhhaGFNanc5UFltbk5KQUJ6Z3VoQ0JhV2ZOdmlCaDdwczFIdHZmVjZCcklCdDV6aWo3cmF6ak93RnEzXzJ2cXBRaEtzVEo3WDdpTllaR0I4WnRlM2tWcTlQS2ZyQTk4SG5EZjhiSHoyZzBYZHp3U2toaklENEdVSTc5YlowbEhsb3RiTklJT2NpT3liQVN0eV9CelRaeHVKZGZmUHF2YTJMbkU0RWtEWWd4WUNNLXlDLXlDWF9KMFBUbXh5WnYya0luMm1ZWUlZd21MVlp0b2U3Y3AtYlcyWG9NbUUwMjB2dFpXNjlBRTBxODMzY01yQ0tEZnFfcUJxM3pGUVVYOVNzcUxNamxFb291OTQ2SjFuVnhsR0prNkY3WC1DR3RDY3FZZ1F1cmViMjVLSHJKaFlZUmQwUHhOUVkyeERSRjVYUGpDUlpRQTRyekRjbDlOOGdDWHFhRzlvTjJKQW0wMEpadGlRYW9yUjNidjM3dC1GWUp4a2RPNTFUdkJJWjdvOGRURkd6cnBLUnV4cEI2OVRESXRSbGZFVFRfN2VsbjFYZERuUjJqQ1YwSVpRWDNNZThBM2NYYlRoOHhYMmxwTFZQMXVmMU1XOS1XYktfN2FWeENCUElGMEQ5S2R0U0d5dnpPdHEwS0tXMTB5TnlqejY1cU9OWmdPSFRBTFYyVjczS2dBc0RPeXBRNEVlb0tRQTRSZXZtemVRd1ZWU0V0TjFtRS1GY3REUHhURUZQMkFNdmNxV3ZIa2RONlFtZlp6Ui05NUYzZ3Q3c3MwM2NTRXR5WW1yZDJtem1RRTNqSlY5X3NKRktfS0hVTVpNenZNMWI5R0JOM014WDVWeVpaTzRhZkFGaVpUTU45dHdfOFJVQTdPQ2MyRGg1bGRxeE5welh0cXZmZjVIVm9sZ1RUbzRnbC1CTzQwZFVrWjJjX1NyYmtyeVZrSXZuQURNMjdZQlFvaWhjSDB6QWpLM2hkd1RKdThkR1czZEZ5Tm9TTkw3bDFIMFFUaDRhLXF3T3pMakJXUlAzM1ljX3V1X0VkTURJNjhjbk03b0RHZzhnZkRXdTZTV0VmcTN0MC1FNThOT3QtVmtPX1RSS29FcndYcU5CaVRVX1JjZ3lVU09VM1hhU2JsM0swMjRRWkJvOWt5N09Oa1pBWWFvQ1hjRUpWMnllTklieTEyVGxa?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxYk9TbnFuXzEtWWhDaFl0Y0czbEo2d05yNDVKSjBtLThjQ0JKMHdnQjNCU2JfLTMydElxUTQ1SzB6dGFIZ2hXTXpkVDNJZDRoR1VtellqOGp5d3MzSlMyQjM2V3k3X2NvNnAwSC1VWVByblY2TzdPdnhaYw?oc=5"
+    }
+   ]
   },
   {
    "id": "3cd74dd037869c62",
@@ -3372,6 +3417,31 @@
    "event": false
   },
   {
+   "id": "3c27695f79de695d",
+   "title": "羅東金玉堂看到正版的戰鬥陀螺！ 這顆沒有人要？ Funbox宜蘭新月的抽選已經抽了40幾次，都沒中！ #羅東金玉堂戰鬥陀螺 #戰鬥陀螺 #羅東金玉堂 #戰鬥陀螺UX13 #魔像奇岩160UN #石頭巨人 #戰鬥陀螺魔像奇岩 #戰鬥陀螺石頭巨人 #takaratomy #tomy",
+   "url": "https://news.google.com/rss/articles/CBMi_gZBVV95cUxNdmJuZ09KcW9iT3hjZFpXYmRwTWlycHNGY3JVRVBiQlAxNHdOSTJQZnYxdS0ta1NYbHBla1ZEUnZqaEQ1WnBWRUtBR2ZIYkxObDM1SFdqR21iOWdrQTMyVmk1am4tRk9UYkhreVZpR3ctVDhOV1plRXlpaHNMbmRMRkJnajlfbEFBNVVPZHJCbzJjSGU5MXVxUDhzcV9rSkNUdVVDdnVPam9IQkctQzM3YkYyTmp3Ny12SkYwdnNOTDF2S3BCTXM2TVUyZWY5UjZhUjFrTVpWWm5KMjdHdXg4cFNETlJrV0tVd3k0RVFydWFlbi1WYzhlYmU3emVHM203R3R4ZzlQcWNtR1VTUFB6Umt1RV9lcnVrc1B5WnZWUHhvNXFtNnpuX3dQQTJIWVpZX2Q4Nmt1eVNSMVM2M1ZwM3B4aWNFekpQSWpmMkJKVUF5VnRrODdzcndyd2NMUUptTTltdXJzQThTR2lSZU1tMUxJaGNDQkswa0Zzb281dUJ2N0xVdlhJcW9PcmpnSVlyZU94QWY1UHQ5RGxqcDB0Y2FQMzhibXJYekJ6UTFFcDRuTkxOQXZKQldrZWZnYU5XZzlHclBzUVRMYkozQno0MlN3WmNyZndEaHlHbDZSOTJFOWliem04UUt6TnhVMEF1cmQtR0V1ekVkU3pBdkVBbkk3bEIxTHAyNXdDdy1UMXhCeVFNNFdTakw5bDRYWVNXMUUzU09vdDJ0LW9NLTRiNUQ1VktnSS1TSW9aeHpIOXI3cHBLam9mak9nOWFKMWFiYV9STFJjckNjcDZNdzNlcFp6RG5zell0N3d4NUNVbHVxNDJjYjNTYXVkc3BleDZhcW9IWFpMU0dTQ3ZWUll3bHBCSXozYnhSSkE3dkJMTU5TakFzdmh2UUhiTFRGUXBGNUJBdzhPdF9pOWYwbVRyMk8xQnNGUlFSZlNiQnBxeG1TVVpjbU5ZY2Rub05vZ3Y1bV91WW5pSHFWSDBKVzlWZUtkU3lLXzdmWUpHLThHX21lMTEybUg0SEkyQXc1Tk5Ta1gtMzIxWTlITUNIQlNaVG5mVnVCa25hUEY5SUNiZUVvWXY5UGxQQlZBN0pwMnc4Tk5JZEMxdThGa0NKcURRRnEyV0Z4QXl3VW40QjRNZ1FQMUhEYlVVRld4Wnl6X3Z1Qm1fUjNBa0FJUzIzUEE?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-13T09:33+08:00",
+   "first_seen": "2026-10-17T01:32+08:00",
+   "region": [
+    "宜蘭"
+   ],
+   "arrival": [
+    "抽選"
+   ],
+   "stores": [
+    "Funbox",
+    "TAKARA"
+   ],
+   "resale": false,
+   "event": false,
+   "shop": "Funbox",
+   "branch": null,
+   "score": 5
+  },
+  {
    "id": "f75e283cd8ad1a09",
    "title": "#售陀螺 UX-17 隕星龍騎士（日版） UX-20 榮耀女武神（日版） BX-23 鳳凰飛翼（日版） ------------------------------ 以上1：850 CX-10+CX-18 合售1000 南高雄面交/賣貨便 意者私訊",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FX2xrRlhCQkc3Z3loZF9OMDh0Ym44c1d2TG9kMXZaamtjbnJkbEx1blVlQXJuSERQSjN0SWNHRDFVREJvcGRyeFVpdWwtWUR4Zk5oMFpnQjUycjQ2VkZNWm00OUo2VXkwZlRDaEVRaGY4Ul9FWTlscEpKZw?oc=5",
@@ -3715,6 +3785,28 @@
    "event": false
   },
   {
+   "id": "7f1427356a79e02c",
+   "title": "！！戰鬥陀螺販售規則調整公告！！ 因配合公司策略調整，10/12起，戰鬥陀螺系列商品，取消抽籤制改為現場販售。 現場販售，並不代表每天有貨！ 現場販售，並不代表每天有貨！ 現場販售，並不代表每天有貨！ 欲購買戰鬥陀螺之玩家，請勿在賣場奔跑，請注意自身",
+   "url": "https://news.google.com/rss/articles/CBMiiAhBVV95cUxPZU10cms2ZDBaVEhTdWI2SlRFVzY3TnRZYVJCUmFGNUNBTllRbmJ6SHZiWjA1Q2EwLTE5Vjh4MUtqRjJXNXU1bmMxSkljcjkzLXRtY2I2TGtPVnl0aWlTMDhKbjB4RXN4bGdoYXlHUzNURWxGWVY0MDJCb2hGSW4yUkdJTW9JcW5VTzR6LXRzRHFIcWJZMUlvNjV4V1lBeVdpLUd6OGNaU0E4a1pIYVZTZXU3WTJQVGhFZndJSzJCOGhiejcxNHRIUmZCZW9sWk90ZUZKMVZGZGMtWlZLLWkzdHFIQnBiRU15MjlWejRJU1NsdW9wOUE2bnlWTjdwdkVBOTBHbjlDOE80cEJ0SjVYMFhwbFR1UGE0YTNIcWVoLUdXWWtYb3ZKOXlQMFdnVzBKTWl0Uk9zS1Zybk5pdGRiSzdnQ0VCNFBvb2w3OW5pbkdJUlFNWnlMVlRPdE14c0hCcGsxODNqd1FUUDZOU0w5S2FoVWxiQVk5UFlRV0FHVC14QzBYd0ZzcURuQ2tqRkV2ZXpsUEVEc0ZKZ3FNVTg2TGcwcm9xRzZ2RUVQSHJzWnBCcHQ2WFZRNGQybENKcUxiNS1waVVPaVhZSS0tQkMtOWNWVFRiU3FjcEw0YzhzNmE4bnBwUTM5SDFZMDdsZ3lkZkJmODVnUWVkcnktZHE4NE1hUmdvWElGbk4ySFhLbkc1bk1ZQVFLc2tad2ZGRTI5LV9EUzFsdU9PTjN6REdGTUhYekhRM29BalhxUEdTN185ejJwVGNPOXRfVi1jYXU3NFZNLWhPNHRBX29xdHVoTDlfazBQcHJRNmdFRzZaVkFOQ2Y2QU5RUUlUN3pRU3R5eXA3N1p6b2NMRDQ5Wi1vZnZOV2pfSm1DLTJldjhYcDZwVEhWc1U5a2JJZG5mQnBSLUR0MlJNOFpVbEkzbzBUUEQyUUlQVEFFREpGN3VsVTJ2Z2k3NV80dzM0NWQ0UzgzYUhjZy1sZk1EQXg3TW1yVnRxazBWc1BPWUlXN1FuOFFUS1VMaDRVRU8telFZdjBJbXBTVHVOMXdMRWcwNUlEV1lQS2pjQk16THRvWEQyeGtxNDJhSVdtZTVfZVA3dHpTM1puVWlFUk5yZm1RVlFmZzRuRlpEVmg3NVhhSktZbVNaZnNaWk5vMlZoVG5lNjRJQlR4RU9kd2hzcEFNZ1RVZlEyVWZBYTVtQS12WW40UTlHeER5SGUxeXloWWRCTTBLODZTX3VBaTctQk1SNVFlU0JaRXpMMzlYU0xDTl9CRnVwd3RIMXg5dEpPOUMtTGF1cHE3WDd6OGJ1a0tMMGs2MzdrVkhmWGxLLXlmeFZCSkFVUnVnV2NNOFRSX1JZZUJGT1Yzc1VPYjI?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-12T15:24+08:00",
+   "first_seen": "2026-10-17T01:32+08:00",
+   "region": [],
+   "arrival": [
+    "販售",
+    "抽籤",
+    "有貨"
+   ],
+   "stores": [],
+   "resale": false,
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
    "id": "5112562384710f74",
    "title": "賣 1. UX-16時鐘幻象（台版）全新未拆$550 交易方式 1.匯款後店到店+60 寄出 2.員林面交",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzRVFDQ04tU1JaNG9NeC05V0x3MlJMckp5NWQzVWllLVF4UGtsUmFXMUNZeEFUOU1tTmc1a21JYUJHR0o1Qm13V1o1ZU82anlvQkxhbkYzckstSlRqMnpvQmN1Vjluc2Fuc1VmUE5lUGR4RW8xRDdsejVoVQ?oc=5",
@@ -3905,7 +3997,7 @@
    ],
    "score": 5,
    "resale": false,
-   "shop": null,
+   "shop": "Funbox",
    "branch": null,
    "event": false
   },
@@ -6203,6 +6295,26 @@
    "event": false
   },
   {
+   "id": "558c411752196d88",
+   "title": "義大世界fun box 2館 本次陀螺抽選/購買時間 2026/10/08 11：00迄 2026/10/09 21：00止 抽選連結: UX-16 時鐘幻象 隨機強化組 https://lin.ee/7lWvEEg CX-08 隨機強化組Vol.7 https://lin.ee/RUAB6Aj CX-05 隨機強化組 Vol.6 https://lin.ee/sqR6knc CX-03 英仙幽冥 htt",
+   "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxQTHBMOU5MTU1pRHRxQ211SnlJUmVVUktOMzVsbFRmZ2ZSSExYYVc0SzczM1pkcjU1Rm1NeWprVWNxcGl1Q0NWUTNOdHFzVUZFdmtremJXYlBQa0w0bWpyQUVTQm9iREFmM21kNGZfU3hLNG9DV2lZdHpqb1FKSU1rMUNSRUZYelo0eWV0OHRzbXVTTHRaa0d2ajBhNEdZYW5FcTk3dXBfbldLa3YwOXU3NzVXcjBnY0E2T2VTa2JKN1NEODdpMFVHQm1IUGNlYi13QU8tYS1PM0FueXNVMWVXMDdkYnpVZDhXTVQ5UGgtNFdmY05kS1E3WE5SUElkMjhTVEsyVEh3YXluUTBtZkFDZThwTW1panVtVHBWQ3poREFGVi1tWkVBdGtKbFdfbmpKZjBhM294cnV4YjJhb0NCYTl3OEprQXhVVUs3S2FmV1c2a1B4WWQ4MVMyazhDM0hpRHk3RGpuRDJMNHVickFiNjhCRmcycHYzU0hmODVOTUpWT3dDczA5Wkd1NnM1aHVUSjIzMXlHQkZOaVl1aGMybVQzSVJaUk5fSFdYS3lFOE1rMm9PQXMtckxYeDc4STdXMWo1Y0lNN2lldWpEazlCX1l2MVdYWWR6NTgxM3dUeXJqblcyVDlMVFJjOWE0M0ZnZ09sM1pWU2RNYk1YSjJkV0xFTHFGNVJGRDBiTE04WWRqVlRoSHhDbEVlaGNNa2RoSExqTkdBS1Y?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-08T11:00+08:00",
+   "first_seen": "2026-10-17T01:32+08:00",
+   "region": [],
+   "arrival": [
+    "抽選"
+   ],
+   "stores": [],
+   "resale": false,
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
    "id": "5fbbd4d18669781e",
    "title": "售 全新未拆陀螺 台版全新未拆封 可掃QR CX-13 龍王閃擊 650 BX-26 獨角刺心 450 BX-50 抽包 450 CX-17 抽包 售出 新加坡購入 全新未拆封 台灣可掃QR CX-11 帝王威能 售出 二手區 BX-09 通行證 （韓版） 1350 極新 有盒裝 全新拆檢未下場上蓋 紫銀狼（雙A1) 36.8",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ONGo4dDRGVUk2Y3I5SHIwVXZXZnJTNDlMbXlwby1STElYMll5anB2VmlzOEI1bHp2UVlzX1hNVVFpLWVtcnp1eXJkalEySUx1ZFBubjVoNGF3QThYZ2ppUTFlMURwdjh4eTlBOWI0NV9zRFd3SlY2UnliNA?oc=5",
@@ -6299,6 +6411,32 @@
    "score": 1,
    "branch": null,
    "event": false
+  },
+  {
+   "id": "4a7adc7bb64fbd34",
+   "title": "友情提醒~ 明天早上11:00 有戰鬥陀螺X抽選喔~~ 此次販售時間10/8~10/9 (21:00) 記得來抽唷~~ #戰鬥陀螺X #FUNBOX #桃園環球A19 #麗嬰國際",
+   "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxONklOVm9zZmxuYW9nZ0dXQks4RWdEV25rZVRHSGVXRmJXc3d5YlZfbFRQZS02dUdPWGQwcHNaSW9EaHVEWXI5RjlPOTZDLWhXdEt4czVWUUVfR1JIYkhHSzZLcG4xYVcyV2tBRmt3LVk0QWVGMGJSdlh1Q1RMVzdYNlFyajBGbVdHTDM5RzFDYnZhWGZnWmZwMHAxekNZREZkemJQbWRVOFJEUjVQTlFOQU9oUlAzT0RLYXU3aFJ6bFBjbk9ST1ExdExHTnlNTGQ3eUtkU1c5THo2aktwbEhmQS1tR3ZyZXQwWnZuaXBSd01fZkJIWUZSaFQ3ZmlraGUyZHRPTnRHY3ZRNWNkd0N1WWxGNUQxNUhVdWdXMzZRLW9fTHM1a0lIZHloRVZiMUc5QWtPWEgzdHVlSTdGajVqRC1iOUdfNW9kbFphdDVETFgtWEJTVGtKNVpVS0J1dW1KRGRJTnpQTEkyTi1rUFhDcWZsVnk2Rk5LekRzMEdhN2tKeFZCREx5U0MwRFlLUm1keUt1SjBTbmZ2dEY4UXdBWVZPcS12QTdScWVNdTMtM0xSTXpYbU5Xd2VnT3hEVWItdTlSc3Z2aFgySHVjY2ZIcGxXVS1kNGVBbkJHN2c0RUV1UGZWOTVRNUtiSm13Sy1DeU9Nbnc3THFUeUM5eTgtenFWZTVLZFVuN2cyZ0Q3R3FONWtEMWUtVVRmMnVrQXFVaVMtQnNCR3MtY0diLTNvZ0JObzNWZWVqYlE4aGdVT0tUWmN6UFJOaXkxcWZhNHVTR3FNNWhXVTM5ZXBDa1k2TVRraUVqRzRMeUNOWg?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-07T18:28+08:00",
+   "first_seen": "2026-10-17T01:32+08:00",
+   "region": [
+    "桃園"
+   ],
+   "arrival": [
+    "販售",
+    "抽選"
+   ],
+   "stores": [
+    "Funbox",
+    "麗嬰"
+   ],
+   "resale": false,
+   "event": false,
+   "shop": "Funbox",
+   "branch": null,
+   "score": 5
   },
   {
    "id": "8fe13f1cd72ac143",
@@ -6429,9 +6567,23 @@
    ],
    "score": 3,
    "resale": false,
-   "shop": null,
+   "shop": "Funbox",
    "branch": null,
-   "event": false
+   "event": false,
+   "also": [
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMiqAZBVV95cUxPMHpQRmU1ZTRpTnhCdHhTZ21sYnVXd2VSVzRXQUR3MjdNOTB1UkpXUEFOeHI5UHk2Q3VKNERGeV9IVGtIbl9DZXk2c2xyRVBaOEV6cEV6MW5JRVd6Z0VJbVpreC1HYzh3aENsNVFpVXJ4RDNQX0NoWVgwV3l1SWhQZW1ha3JiejA1Rm5XdmR4RW5pVWNKRy1wZTJJNnU5aWxLaUNqbGt0MjE1ODNNSnNVR1JfcF9vVVFrS0JzQUdBR0lvYndsa2V5RWhZUHRhQU51aE5NdS1xSVc4Mmo5dVJwQ3NDSUtzeDF1UEJleDZoSWZMU3BjYW1kMF9vOTZOSVlxcW9UU0hXTVl2OXotZW1wNk5QN2JNTFZlb1A1NTBrMG1uQzBUSURYT2kxNFNhTFYxblc0RktHOWtONU5UMWZTTWJmZndDQUFNWWItOU1zeG1xZ0hQckYzdjJPVWNwQzBYQWFOa2phd1JjMnk1YnJ1OWI5dWk1dDFPQUNsT1otZG5LcHlFbjR6T3poLTBwRE5yYTRtb1V3akpRcWFvLVAwajNQQWNsODJaMUpFdjEzNUtTOUc4dlBMVUUxWF81VTEyOXNtWFdBTW9iSU53WVk0V0RMTHdza2RyMTRET1BFR081ckUtYzdIOUNsRzRzU2lBTzRadDBWN0QtWFhPdUtUOUNwYTh6MTdzdURwWnFFZEI1M0d4YmM0a2ViX29GS09zWFpZRnQ0aFQ1azJnU2FtRjlIYW9VTEN4dEVhOHpHalJQWHRubTFZWHl0VGtOem52czQzcGlyOXU0ekdmczlpYjRleUNDTXIwbzRpRHpXeGdpYzhRRjJNX3VFbW9Hd05yVjhVUFJYazFNWEM2QVV6ZEQtVWd5dl9jLXlFcEE0a2I0MnFSWm1xMkw0cFpRR2diMVF6dmUtT0loU01BR0JwWEoyU2hPd2JXWGljYlB6UE42TndMRU9QUDZSQjdIaUdVYm1VcXRRSUlxa1BxVV90cjM3cTB4REVCTzhFZkVqSl9US2JpQUIzcXhZaVYwTlhnUTV2am9YMmlhWEFWSHhQLVk1RkFQeHNf?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMi6gVBVV95cUxQNG9NZWVXNGc4b19oajM5WldYZUV1RlBwN2h3RkhoYW9xMmJfOUhZUlp3c0lSTjg2VW1FSnhnLUNyams3eXB0Y1JpTkZaSnBuQXAxSEltcDBhQXNQaVpleVE3eWJRR0pVTUZNS0g3emoxWGlTa1hlREZhN2xLa3lybjc4ZktTb00tSmpPQ0tvU0toZUN3eDh4c3pBM0pOakFDalNGMjB3YWRYdWRTWmFZZUZ6enpfMXFjUDlabHhodTB4cl9rakF0WmJseTVqa3hfOVROVE1kVnRIYzd5d2MtdkhsdlBYWmVCNkdoZk9jYWJTS190bWFsUDFBMU5aaUJSUHI2Q2ZMZGFJZnJscTkyemhqdnhHOWZ2UnJyc0lMTjdXaEVfMTJ4UTVaQkYyM2pOZW1HQlZ5UkFQcFJEN19JdWhGWldlNkVFZUZ2NGxzTkNfVFJlSGI5RTZUS1ktUDZISGVmUlV0Z0lDOWpxY1lyaWhzNDVwNVVKcld0Z09EdWhaS0VpOTRxUFFGLW5JVUxTM05qRFpJNHFtT3ZDZ3FseVNjSlcwek4yOGxBMW80U3BtS2locmVwTTdreDJqaWVzR3cxdGdRVHRZdmFqSlUzU0VhWWdNU3lCbWhzOXc3N0hjYTNuYXIzWm5kSGFNRW9RWXZKNGJva25oWm80ZFFST2ZreDhtVEFzVFFnemlGdWRFUDBveWdMSUZiUGFZdFBVcnhNeEE5RXRtc3A0dVVKeDlibHV1aU5sWUhlNGdqeW5qZ0pnTzRfLW92ZVFOamdaQlpHM1ZxM185cjdqS1NyaE5mZGlCT0xJbTJRRzIyVjliMko0UlR2S3BlVVpUWnNrNEZXTVJTV1BFeExEMHVzSkxmMkNndGpHSTdMbF9uOVVwR2ptbmdGbmxMbm9zeXhfcmRVR3V2OEhobm91UmRUYkZlVm4tSlpFYzdNdzFZcjdtRVVfSm43STlPUVRBS2hudXZvbzBhZkR3UQ?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMinghBVV95cUxNZnQ2T3U0MzgtaGxsYXkxZ2tJTFhVOXpVUnVDcTdjX2p0cXJDNUhvdnowRnBsa0RyZjBtZ2kzSDJKTU5NV0pLYXFaY254c1FJSTlJMEF6Wjh2ZFA0VmxNeVRseVgzYWdsZzVWU3ZVeWlQWll2SGZOY19ScVRjc0xZM0ZDUWxWQlBja2dZcEwzLTNqZWt4MlctSnJGVF9YRFNFUDdlYndrNU5vdnpZcFFhUGNUMS0tN2tMU1ZWeC04QkpDZl9JWmtNNnlGa1JlTzNTXzJieHo2Zl9tdzFBQzFibER2Z3NiX3hNc212Y3dLWjZQU1dCVHRidXV3ZkZBOHo1cnFfMnVmTWZpYUplcTU0bnJlTXo0M0drWGdNSTlIaXIwNUVIOWotNjlkdXpscXBiSWFGaEhtRXRWbklDd3l3Qmw2OW04X29WSGNBTU0xLTBidzRGQmw1MkFCcFhWY0g0RUZOU2VBeGtXTnU1ek8tWkJmY0REcUxZdXRxdXVraXJyMWJMUVZjTWRUd3htOE5MR2hRbnY3RDcxdTc3WDExc0tPck5xeTFGOVpza3hva0ZVNFZNajNPanBxc096LUh4RXIyMHllaFlrNDJhQ3QyQnpRZGxDQVA1YWg1WHVnOVR0UVhpT0hEcVNCY0hueEVBX3BjalBNTWY3OTVHakEzVV8xUTIxV3VGTVNOdEIybnFHaEpEMFlzNE94N2k1cE9SdW9TRGxnMi00cUtFbE9sY0VWbmowS3lBa0duOEdwaHBtZDFBU09NY040ZlBzalB2U3I1S2RjYU9ldG5wbjc5c3JFSlU5WmdpQWp5UzVudUdmSUxOUGJvQ09VdERNTHVYUUZXRmI5WlZFdjJ1Y3hPcXBMZi03eXdrODBBcllLSVNydEhVVnQ2UU1jLWJqVjNqWUNOYlR5OExDNTlzN2R2Y1F5Q3Y0cEVCelBFb200UF9FVkc2VnduT0VpWGRJR0ZoeWdNSkVzeGZQeU44V1dYYVhvaXNBd19uVFFGUEowNjVnMXY1WGFKamdxVVB3VUVoc0ZOc3RrRTJuanVzejJoQVd6NmNoTV9kdTZTNXpSY044TjBiaVdPUHgwQTQ1YXRubjZzbTdwb2U0V195U1BOOE1NNWNHYjY1UnhVRXBrZnJhTmRUcElnWVFSZEhRbHo5SnpFdDRaWXZMUnNSdlNLQkJVdmJhbElRLUFFOHd4bXpLSkpIdjZ3NXJ5RVlfaTU2NnBCbHJHTnprSnNMQW5lMHVHLU10M0xnOXNlZVNRUzREaFM3X2IyX1g0djhFejViWi1UaFhaMkZFLW9zN0duSjZRZ0RqSE9sSW1Cd1N3OVdIdWJEZkJrUzRRTTNzR0ZCcncwQXA3VHMySmRkdTlTSHctRUVKS3dEZWNkYTN3?oc=5"
+    }
+   ]
   },
   {
    "id": "b306c4787b0cdc44",
@@ -7868,12 +8020,25 @@
  ],
  "stock": [
   {
+   "title": "【APP兌換】交換票券_戰鬥陀螺 CX-00 龍神勇氣G4-70I 金屬塗裝：水藍",
+   "url": "https://shop.funbox.com.tw/products/bbpr08914",
+   "price": 999999.0,
+   "qty": 89,
+   "in_stock": true,
+   "sell_from": "2026-09-16T10:00+08:00",
+   "shop": "Funbox",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:32+08:00",
+   "restocked_at": null
+  },
+  {
    "title": "【訂製款】客製化戰鬥盒｜戰鬥陀螺X三格收納盒｜磁吸式設計｜BX UX CX系列適用｜專屬圖案印刷",
    "url": "https://www.sen-sen.com.tw/products/x-battle-case-blade-magnetic-beyblade-storage-box-20261011103215",
    "price": 650.0,
    "qty": 1,
    "in_stock": true,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   },
@@ -7884,6 +8049,7 @@
    "qty": 5,
    "in_stock": true,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   },
@@ -7894,6 +8060,7 @@
    "qty": 6,
    "in_stock": true,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   },
@@ -7904,6 +8071,7 @@
    "qty": 1,
    "in_stock": true,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   },
@@ -7914,6 +8082,7 @@
    "qty": 0,
    "in_stock": true,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   },
@@ -7924,6 +8093,7 @@
    "qty": 65,
    "in_stock": true,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   },
@@ -7934,6 +8104,7 @@
    "qty": 0,
    "in_stock": true,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   },
@@ -7944,6 +8115,7 @@
    "qty": 0,
    "in_stock": true,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   },
@@ -7954,6 +8126,7 @@
    "qty": 0,
    "in_stock": true,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   },
@@ -7964,6 +8137,7 @@
    "qty": 0,
    "in_stock": false,
    "shop": "玩具反斗城",
+   "upcoming": false,
    "first_seen": "2026-10-17T01:23+08:00",
    "restocked_at": null
   },
@@ -7974,6 +8148,7 @@
    "qty": 0,
    "in_stock": false,
    "shop": "玩具反斗城",
+   "upcoming": false,
    "first_seen": "2026-10-17T01:23+08:00",
    "restocked_at": null
   },
@@ -7984,6 +8159,7 @@
    "qty": 0,
    "in_stock": false,
    "shop": "玩具反斗城",
+   "upcoming": false,
    "first_seen": "2026-10-17T01:23+08:00",
    "restocked_at": null
   },
@@ -7994,6 +8170,7 @@
    "qty": 0,
    "in_stock": false,
    "shop": "玩具反斗城",
+   "upcoming": false,
    "first_seen": "2026-10-17T01:23+08:00",
    "restocked_at": null
   },
@@ -8004,6 +8181,7 @@
    "qty": 0,
    "in_stock": false,
    "shop": "玩具反斗城",
+   "upcoming": false,
    "first_seen": "2026-10-17T01:23+08:00",
    "restocked_at": null
   },
@@ -8014,6 +8192,7 @@
    "qty": 0,
    "in_stock": false,
    "shop": "玩具反斗城",
+   "upcoming": false,
    "first_seen": "2026-10-17T01:23+08:00",
    "restocked_at": null
   },
@@ -8024,6 +8203,7 @@
    "qty": 0,
    "in_stock": false,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   },
@@ -8034,6 +8214,7 @@
    "qty": 0,
    "in_stock": false,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   },
@@ -8044,6 +8225,7 @@
    "qty": 0,
    "in_stock": false,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   },
@@ -8054,6 +8236,7 @@
    "qty": 0,
    "in_stock": false,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   },
@@ -8064,6 +8247,7 @@
    "qty": 0,
    "in_stock": false,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   },
@@ -8074,6 +8258,7 @@
    "qty": 0,
    "in_stock": false,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   },
@@ -8084,6 +8269,7 @@
    "qty": 0,
    "in_stock": false,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   },
@@ -8094,6 +8280,7 @@
    "qty": 0,
    "in_stock": false,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   },
@@ -8104,6 +8291,7 @@
    "qty": 0,
    "in_stock": false,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   },
@@ -8114,6 +8302,7 @@
    "qty": 0,
    "in_stock": false,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   },
@@ -8124,6 +8313,7 @@
    "qty": 0,
    "in_stock": false,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   },
@@ -8134,6 +8324,7 @@
    "qty": 0,
    "in_stock": false,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   },
@@ -8144,6 +8335,7 @@
    "qty": 0,
    "in_stock": false,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   },
@@ -8154,6 +8346,7 @@
    "qty": 0,
    "in_stock": false,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   },
@@ -8164,6 +8357,7 @@
    "qty": 0,
    "in_stock": false,
    "shop": "森森文具",
+   "upcoming": false,
    "first_seen": "2026-10-17T00:37+08:00",
    "restocked_at": null
   }
