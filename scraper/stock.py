@@ -3,6 +3,11 @@
 支援的平台：
 - cyberbiz：台灣很多小店、文具店用的網店平台，商品分類網址後面加 /products.json 就有每個商品的庫存。
     "store": {"type": "cyberbiz", "url": "https://店家網址/collections/分類"}
+- funbox：Funbox 官網（麗嬰國際直營，也是 CYBERBIZ，但分類網址是 /categories/...），
+  會自動找出所有子分類，分類網址後面加 .json 就有庫存和開賣時間。
+    "store": {"type": "funbox", "url": "https://shop.funbox.com.tw/categories/XI/KB"}
+- pchome：PChome 24h 的商品分類，只留名稱符合 name_filter 的商品（例如只要麗嬰公司貨，排除平行輸入、黃牛賣場）。
+    "store": {"type": "pchome", "url": "DEASSW", "name_filter": "麗嬰|funbox"}
 - toysrus：玩具反斗城官網（Salesforce 平台），讀商品列表上的「暫時缺貨」標示。
     "store": {"type": "toysrus", "url": "https://www.toysrus.com.tw/on/demandware.store/.../Search-ShowAjax?cgid=beyblade&sz=96"}
 """
@@ -51,6 +56,71 @@ def cyberbiz_products(url: str, fetch) -> list[dict]:
     return out
 
 
+def _sell_from(raw: str | None) -> str | None:
+    """CYBERBIZ 的開賣時間「2026-10-20 12:00:00」（台灣時間）轉成 ISO 格式。"""
+    return raw.replace(" ", "T")[:16] + "+08:00" if raw else None
+
+
+def funbox_products(url: str, fetch) -> list[dict]:
+    root = "https://shop.funbox.com.tw"
+    path = urllib.parse.urlsplit(url).path.rstrip("/")
+    # 商品放在子分類裡（基本組、APP 專屬組…），從分類頁找出所有子分類
+    page = fetch(root + path)
+    cats = sorted(set(re.findall(re.escape(path) + r"(?:/[A-Za-z0-9_-]+)+", page)) | {path})
+    out, seen = [], set()
+    for cat in cats:
+        for n in range(1, MAX_PAGES + 1):
+            data = json.loads(fetch(f"{root}{cat}.json?page={n}"))
+            new = [p for p in data if p["url"] not in seen]
+            if not new:
+                break
+            for p in new:
+                seen.add(p["url"])
+                variants = p.get("variants") or []
+                qty = sum(max(v.get("inventory_quantity") or 0, 0) for v in variants)
+                out.append({
+                    "title": p["title"],
+                    "url": root + urllib.parse.quote(p["url"]),
+                    "price": p.get("price"),
+                    "qty": qty,
+                    "in_stock": qty > 0 and p.get("sales_mode_purchasable", True),
+                    "sell_from": _sell_from(p.get("sell_from")),
+                })
+    return out
+
+
+def pchome_products(store: str, fetch, name_filter: str = "") -> list[dict]:
+    """PChome 24h 分類（例如 DEASSW＝戰鬥陀螺）：先列出商品，再用 button API 查庫存與販售狀態。"""
+    api = "https://ecapi-cdn.pchome.com.tw/cdn/ecshop/prodapi/v2"
+    keep = re.compile(name_filter, re.I) if name_filter else None
+    prods = []
+    for n in range(20):  # 每頁 36 筆，最多 720 筆
+        raw = fetch(f"{api}/store/{store}/prod&offset={n * 36 + 1}&limit=36&fields=Id,Name&_callback=cb")
+        m = re.search(r"cb\((.*)\);?\s*}\s*catch", raw, re.S)
+        page = json.loads(m.group(1)) if m else []
+        prods += [p for p in page if not keep or keep.search(p.get("Name") or "")]
+        if len(page) < 36:
+            break
+    out = []
+    for i in range(0, len(prods), 20):
+        batch = prods[i:i + 20]
+        ids = ",".join(p["Id"] for p in batch)
+        raw = fetch(f"https://ecapi.pchome.com.tw/ecshop/prodapi/v2/prod/button&id={ids}"
+                    "&fields=Id,Price,Qty,ButtonType")
+        buttons = {b["Id"]: b for b in json.loads(raw)}
+        for p in batch:
+            b = buttons.get(p["Id"], {})
+            out.append({
+                "title": p["Name"],
+                "url": "https://24h.pchome.com.tw/prod/" + p["Id"].rsplit("-", 1)[0],
+                "price": (b.get("Price") or {}).get("P"),
+                "qty": b.get("Qty") or 0,
+                # ForSale＝可購買；NotReady＝尚未開賣；SoldOut＝售完
+                "in_stock": b.get("ButtonType") == "ForSale",
+            })
+    return out
+
+
 def toysrus_products(url: str, fetch) -> list[dict]:
     page = fetch(url)
     root = "https://www.toysrus.com.tw"
@@ -75,7 +145,12 @@ def toysrus_products(url: str, fetch) -> list[dict]:
     return out
 
 
-PLATFORMS = {"cyberbiz": cyberbiz_products, "toysrus": toysrus_products}
+PLATFORMS = {
+    "cyberbiz": cyberbiz_products,
+    "funbox": funbox_products,
+    "toysrus": toysrus_products,
+    "pchome": lambda url, fetch, **kw: pchome_products(url, fetch, **kw),
+}
 
 
 def load_state() -> dict[str, dict]:
@@ -95,7 +170,8 @@ def check_stores(shops: list[dict], fetch, now) -> tuple[list[dict], list[dict],
             continue
         name = f"網店庫存：{shop['name']}"
         try:
-            found = PLATFORMS[store["type"]](store["url"], fetch)
+            extra = {"name_filter": store["name_filter"]} if store.get("name_filter") else {}
+            found = PLATFORMS[store["type"]](store["url"], fetch, **extra)
         except Exception as e:  # noqa: BLE001 - 網店掛掉不影響其他來源
             status.append({"name": name, "ok": False, "count": 0, "error": str(e)[:120]})
             # 抓不到就沿用上次的資料，不要讓整家店從清單消失
@@ -106,13 +182,17 @@ def check_stores(shops: list[dict], fetch, now) -> tuple[list[dict], list[dict],
         for p in found:
             old = state.get(p["url"])
             p["shop"] = shop["name"]
+            # 還沒到開賣時間的商品就算有庫存也買不到
+            p["upcoming"] = bool(p.get("sell_from") and p["sell_from"] > stamp)
+            if p["upcoming"]:
+                p["in_stock"] = False
             p["first_seen"] = old["first_seen"] if old else stamp
             p["restocked_at"] = old.get("restocked_at") if old else None
             kind = None
             if old is None and known_shop:
                 kind = "新上架"
             elif old is not None and not old["in_stock"] and p["in_stock"]:
-                kind = "補貨"
+                kind = "開賣" if old.get("upcoming") else "補貨"
             if kind:
                 p["restocked_at"] = stamp
                 # 快閃商品常常先上架、時間到才開賣，所以新上架就算還沒貨也先通知
@@ -127,16 +207,18 @@ def check_stores(shops: list[dict], fetch, now) -> tuple[list[dict], list[dict],
     if changed:
         STOCK_FILE.parent.mkdir(parents=True, exist_ok=True)
         STOCK_FILE.write_text(json.dumps(products, ensure_ascii=False, indent=1), "utf-8")
-    # 有貨的排前面，各自再依最近補貨／上架時間由新到舊
+    # 有貨的排前面、其次是即將開賣，各自再依最近補貨／上架時間由新到舊
     products.sort(key=lambda p: p["restocked_at"] or p["first_seen"] or "", reverse=True)
-    products.sort(key=lambda p: not p["in_stock"])
+    products.sort(key=lambda p: (not p["in_stock"], not p.get("upcoming")))
     return products, events, status, changed
 
 
 def _event(p: dict, shop: dict, kind: str, now) -> dict:
     stamp = now.isoformat(timespec="minutes")
     price = f"（${p['price']:g}）" if p.get("price") else ""
-    if not p["in_stock"]:
+    if p.get("upcoming"):
+        price += f"　⏰ {p['sell_from'][5:16].replace('-', '/').replace('T', ' ')} 開賣"
+    elif not p["in_stock"]:
         price += "　目前還沒開賣／已售完"
     return {
         "id": hashlib.sha1(f"{p['url']}|{kind}|{stamp}".encode()).hexdigest()[:16],

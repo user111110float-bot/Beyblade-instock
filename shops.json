@@ -1,5 +1,5 @@
 {
-  "說明": "在 shops 裡加上你常去的店，每天會專門搜這幾家的 Facebook 貼文。name＝粉專名稱，city＝縣市（連鎖店或網店不用填），keywords＝其他寫法或簡稱（可留空），store＝網店庫存監控（目前支援 CYBERBIZ 網店的商品分類網址，每小時檢查補貨、新上架）。",
+  "說明": "在 shops 裡加上你常去的店，每天會專門搜這幾家的 Facebook 貼文。name＝粉專名稱，city＝縣市（連鎖店或網店不用填），keywords＝其他寫法或簡稱（可留空），store＝網店庫存監控（目前支援 CYBERBIZ 網店的商品分類網址，每小時檢查補貨、新上架）。 facebook＝false 表示不搜這家的 Facebook（例如純網店）。",
   "範例": {
     "name": "某某玩具店",
     "city": "新北",
@@ -42,6 +42,26 @@
       "store": {
         "type": "toysrus",
         "url": "https://www.toysrus.com.tw/on/demandware.store/Sites-ToysRUs_TW-Site/zh_TW/Search-ShowAjax?cgid=beyblade&start=0&sz=96"
+      }
+    },
+    {
+      "name": "Funbox",
+      "keywords": [
+        "FUNBOX",
+        "麗嬰"
+      ],
+      "store": {
+        "type": "funbox",
+        "url": "https://shop.funbox.com.tw/categories/XI/KB"
+      }
+    },
+    {
+      "name": "PChome 24h（麗嬰公司貨）",
+      "facebook": false,
+      "store": {
+        "type": "pchome",
+        "url": "DEASSW",
+        "name_filter": "麗嬰|funbox"
       }
     }
   ]

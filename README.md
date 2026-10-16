@@ -16,7 +16,7 @@ GitHub Actions **每 15 分鐘**執行 `scraper/collect.py`：每 15 分鐘檢�
 |---|---|
 | Google 新聞 | 「戰鬥陀螺 到貨／補貨／開賣」、超商、門市等新聞 |
 | PTT（Toy、BabyMother、Lifeismoney、Gossiping） | 網友回報現貨、補貨 |
-| 網店庫存（`scraper/stock.py`） | 直接讀網店的商品庫存（森森文具 CYBERBIZ、玩具反斗城官網），補貨、新上架（快閃商品先上架、還沒開賣也會通知）馬上列出；「🛒 網店庫存」分頁可看每項商品有沒有貨 |
+| 網店庫存（`scraper/stock.py`） | 直接讀網店的商品庫存：Funbox 官網（含開賣時間）、PChome 24h（只看麗嬰公司貨）、森森文具、玩具反斗城官網，補貨、新上架（快閃商品先上架、還沒開賣也會通知）馬上列出；「🛒 網店庫存」分頁可看每項商品有沒有貨 |
 | Facebook 文具店／書局 | 文具店、書局的到貨貼文（比玩具店更難得知） |
 | Facebook 公開貼文 | 透過 Google 新聞收錄的公開粉專／社團貼文（店家到貨公告、網友轉售）。只收得到 Google 有收錄的部分 |
 | YouTube（選填） | 近 14 天「到貨／補貨／開箱」影片，需要免費 API 金鑰 |
@@ -74,6 +74,8 @@ GitHub Actions **每 15 分鐘**執行 `scraper/collect.py`：每 15 分鐘檢�
 沒設定的來源會在網頁「資料來源狀態」顯示「未設定」，不影響其他來源。
 
 **Threads 的限制**：Meta 規定 App 沒通過 `threads_keyword_search` 審核前，只搜得到**自己帳號**的貼文；要通過 App Review 才搜得到公開貼文。長期權杖 60 天到期，到期要重新產生並更新 Secret。
+
+**momo**：momo 會擋 GitHub 的伺服器（Access Denied），讀不到；而且黃牛商品多，改看 Funbox 官網和 PChome 的麗嬰公司貨。
 
 **Facebook／Instagram**：不直接爬（要登入、沒有搜尋 API，登入去爬違反使用條款、帳號可能被停權）。
 Facebook 改從 Google 新聞收錄的公開貼文間接取得；個人二手／轉售貼文會標「二手／轉售」，不會出現在「到貨／補貨」分頁。

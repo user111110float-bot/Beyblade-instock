@@ -110,7 +110,9 @@ function renderStock() {
       const n = stock.filter(x => x.shop === shop && x.in_stock).length;
       html += `<div class="day">🛒 ${esc(shop)}　有貨 ${n} 項</div>`;
     }
-    const state = !p.in_stock ? '<span class="tag">已售完／未開賣</span>'
+    const when_ = t => t.slice(5, 16).replace('-', '/').replace('T', ' ');
+    const state = p.upcoming ? `<span class="tag new">⏰ ${when_(p.sell_from)} 開賣</span>`
+      : !p.in_stock ? '<span class="tag">已售完／未開賣</span>'
       : p.qty ? `<span class="tag ntp">有貨 ${p.qty}</span>` : '<span class="tag ntp">可下單</span>';
     const when = p.restocked_at ? `<span class="src">${ago(p.restocked_at)} 補貨／上架</span>` : '';
     html += `<div class="card${p.in_stock ? '' : ' off'}">

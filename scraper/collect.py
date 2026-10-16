@@ -295,7 +295,8 @@ SOURCES += [
      lambda city=city: google_news(f"陀螺 到貨 OR 現貨 OR 補貨 {city} site:facebook.com"))
     for city in REGIONS
 ]
-SOURCES += [(f"追蹤店家：{shop['name']}", lambda shop=shop: shop_search(shop)) for shop in SHOPS]
+SOURCES += [(f"追蹤店家：{shop['name']}", lambda shop=shop: shop_search(shop))
+            for shop in SHOPS if shop.get("facebook", True)]
 
 
 def match_shop(text: str) -> dict | None:
