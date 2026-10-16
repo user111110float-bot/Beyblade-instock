@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T00:37+08:00",
- "updated_full": "2026-10-17T00:37+08:00",
- "new_today": 321,
+ "updated": "2026-10-17T00:40+08:00",
+ "updated_full": "2026-10-17T00:40+08:00",
+ "new_today": 322,
  "sources": [
   {
    "name": "Google 新聞：到貨",
@@ -11,7 +11,7 @@
   {
    "name": "Google 新聞：補貨",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "name": "Google 新聞：台北新北",
@@ -115,17 +115,17 @@
   {
    "name": "Facebook 各縣市：基隆",
    "ok": true,
-   "count": 42
+   "count": 41
   },
   {
    "name": "Facebook 各縣市：台北",
    "ok": true,
-   "count": 46
+   "count": 45
   },
   {
    "name": "Facebook 各縣市：新北",
    "ok": true,
-   "count": 41
+   "count": 48
   },
   {
    "name": "Facebook 各縣市：桃園",
@@ -140,17 +140,17 @@
   {
    "name": "Facebook 各縣市：苗栗",
    "ok": true,
-   "count": 28
+   "count": 31
   },
   {
    "name": "Facebook 各縣市：台中",
    "ok": true,
-   "count": 43
+   "count": 44
   },
   {
    "name": "Facebook 各縣市：彰化",
    "ok": true,
-   "count": 49
+   "count": 48
   },
   {
    "name": "Facebook 各縣市：南投",
@@ -165,7 +165,7 @@
   {
    "name": "Facebook 各縣市：嘉義",
    "ok": true,
-   "count": 34
+   "count": 36
   },
   {
    "name": "Facebook 各縣市：台南",
@@ -175,7 +175,7 @@
   {
    "name": "Facebook 各縣市：高雄",
    "ok": true,
-   "count": 37
+   "count": 40
   },
   {
    "name": "Facebook 各縣市：屏東",
@@ -185,7 +185,7 @@
   {
    "name": "Facebook 各縣市：宜蘭",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "name": "Facebook 各縣市：花蓮",
@@ -2646,6 +2646,27 @@
    "score": 2,
    "branch": null,
    "event": false
+  },
+  {
+   "id": "59e39f233f74fc25",
+   "title": "從國外帶回有興趣可以來面交 10/10號發售的最新陀螺 現貨哦～",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01RjVxUVgxZEhRdjVNVy1UcVVhX0hzTnlFOTNCTHNuTnExQ2NvMUUyblZ3S2x2REl6d0Z4MGJNNUVSbkRTd0lJb2FycU5MUE43NWtUMUpYRjFBRHFrbm43NTAybDJCZDgzX1lSYXI3VzItZw?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-14T07:28+08:00",
+   "first_seen": "2026-10-17T00:40+08:00",
+   "region": [],
+   "arrival": [
+    "現貨",
+    "發售"
+   ],
+   "stores": [],
+   "resale": true,
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
   },
   {
    "id": "1e9c1859e1d22bfa",
