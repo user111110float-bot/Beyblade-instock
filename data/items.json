@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-17T02:00+08:00",
- "updated_full": "2026-10-17T02:00+08:00",
+ "updated": "2026-10-17T02:02+08:00",
+ "updated_full": "2026-10-17T02:02+08:00",
  "new_today": 343,
  "sources": [
   {
@@ -16,7 +16,7 @@
   {
    "name": "Google 新聞：台北新北",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "name": "Google 新聞：中南部",
@@ -46,17 +46,17 @@
   {
    "name": "Facebook 公開貼文：到貨",
    "ok": true,
-   "count": 78
+   "count": 70
   },
   {
    "name": "Facebook 玩具店",
    "ok": true,
-   "count": 59
+   "count": 60
   },
   {
    "name": "Facebook 文具店",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "name": "Facebook 書局",
@@ -120,7 +120,7 @@
   {
    "name": "Facebook 各縣市：台北",
    "ok": true,
-   "count": 48
+   "count": 46
   },
   {
    "name": "Facebook 各縣市：新北",
@@ -130,17 +130,17 @@
   {
    "name": "Facebook 各縣市：桃園",
    "ok": true,
-   "count": 50
+   "count": 49
   },
   {
    "name": "Facebook 各縣市：新竹",
    "ok": true,
-   "count": 43
+   "count": 44
   },
   {
    "name": "Facebook 各縣市：苗栗",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "name": "Facebook 各縣市：台中",
@@ -150,7 +150,7 @@
   {
    "name": "Facebook 各縣市：彰化",
    "ok": true,
-   "count": 49
+   "count": 48
   },
   {
    "name": "Facebook 各縣市：南投",
@@ -165,12 +165,12 @@
   {
    "name": "Facebook 各縣市：嘉義",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "name": "Facebook 各縣市：台南",
    "ok": true,
-   "count": 47
+   "count": 45
   },
   {
    "name": "Facebook 各縣市：高雄",
@@ -190,7 +190,7 @@
   {
    "name": "Facebook 各縣市：花蓮",
    "ok": true,
-   "count": 5
+   "count": 3
   },
   {
    "name": "Facebook 各縣市：台東",
@@ -225,7 +225,7 @@
   {
    "name": "追蹤店家：森森文具",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "name": "追蹤店家：玩具反斗城",
@@ -1797,7 +1797,13 @@
    "resale": true,
    "shop": null,
    "branch": null,
-   "event": false
+   "event": false,
+   "also": [
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EaDlaTmxhby10M1gzNUlncV85dS00aWxDU1JZa1RzZk1ISGdyTGlvLTJyN01rb2RYYU5tQUlfQmloRDJENVRUUHA4SUFndlk1UVUxdGlmMkFlcWU5MEZGZDBHTUU2ZFZkNFA4UDlwT1phQk9sb2pFbVZuTQ?oc=5"
+    }
+   ]
   },
   {
    "id": "cd8d0a970fc3ff87",
@@ -5932,6 +5938,10 @@
     {
      "source": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GZnZBa3I1OTlaWW4tTllCQWMydXFTaFNJbkY1TG9uWW9kT3NXNldLSE9Jb2hpXzBMV2Uya3Q2NFBmbHlDOVRJN0w4R1lxbHQyM2RoTEplVmRLcWpJSm9qTVc1RU9XcFpQVzgzc2I2MV9GMUc2X1VOVlU4UQ?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwdVBJR0RrWFBITDRiVU03UnRoZnk4YnFvSlFyMmlMYWxxZ3BjM3dwbE1lYnlQcThxUW5udnN0RTF5Zm4zT3ROZFlOaGFVVmVoVTA3TEo5cWdNQmROWGFaZzFkdV9Jc1Jka21OSHlZWHdZUGVSYWpPM0FlSQ?oc=5"
     }
    ],
    "branch": null,
@@ -7318,7 +7328,13 @@
    "shop": null,
    "score": 3,
    "branch": null,
-   "event": false
+   "event": false,
+   "also": [
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PaEtLQWw4ZjcyQ3BXU0M4VmJXWG9qRUtLRmViZWNpa3hvMXlzWmVRaDUwMDRxYWVUSzF3ZFRpQndFbDZtUVRwaFlRWnRGbFZyWXhQeWU5RUlLbE9XaW1XSTc2bUlCc1VVbm5hNm96UXZfNmhubllEaGt0akRPUQ?oc=5"
+    }
+   ]
   },
   {
    "id": "7c442a929b88067e",
