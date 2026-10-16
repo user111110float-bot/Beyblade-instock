@@ -2,7 +2,9 @@
 
 ## 👉 [打開網頁：user111110float-bot.github.io/Beyblade-instock](https://user111110float-bot.github.io/Beyblade-instock/)
 
-> 手機用瀏覽器打開後，按「分享 → 加入主畫面」，之後點圖示就能看。
+> 📲 **安裝成 App（不用 Google Play）**：Android 用 Chrome 打開，點網頁右上角「📲 安裝 App」
+> （或 Chrome 選單 ⋮ →「安裝應用程式／加到主畫面」）。iPhone 用 Safari →「分享」→「加入主畫面」。
+> 安裝後桌面有圖示、全螢幕開啟，沒網路也看得到上次的資料。
 
 每天自動收集全台**戰鬥陀螺 BEYBLADE** 到貨、補貨、開賣消息，以及店家網店的即時庫存，整理成手機好讀的網頁。
 網頁上方可以自己選縣市（可複選，或選「全台」），選擇會記在手機上，下次打開不用重選。

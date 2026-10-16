@@ -5,7 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>陀螺到貨雷達</title>
 <meta name="theme-color" content="#0f62fe">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌀</text></svg>">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="陀螺雷達">
 <style>
 :root{--bg:#f5f6f8;--card:#fff;--fg:#1b1d21;--muted:#6b7280;--line:#e5e7eb;--accent:#0f62fe;--tp:#d6336c;--ntp:#0ca678;--warn:#f59f00}
 @media (prefers-color-scheme:dark){:root{--bg:#111318;--card:#1b1e25;--fg:#e8eaed;--muted:#9aa0a6;--line:#2c313a;--accent:#5b8cff}}
@@ -13,6 +17,8 @@
 body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 -apple-system,"PingFang TC","Noto Sans TC",sans-serif}
 header{position:sticky;top:0;z-index:2;background:var(--bg);padding:14px 16px 8px;border-bottom:1px solid var(--line)}
 h1{font-size:20px;margin:0}
+.top{display:flex;align-items:center;justify-content:space-between;gap:8px}
+#install{border:0;border-radius:999px;background:var(--accent);color:#fff;padding:6px 12px;font-size:13px}
 .meta{color:var(--muted);font-size:13px;margin-top:2px}
 .tabs{display:flex;gap:8px;margin-top:10px;overflow-x:auto}
 .tabs button{flex:none;border:1px solid var(--line);background:var(--card);color:var(--fg);border-radius:999px;padding:6px 14px;font-size:14px}
@@ -41,7 +47,7 @@ details li.off{opacity:.6}
 </head>
 <body>
 <header>
-  <h1>🌀 陀螺到貨雷達</h1>
+  <div class="top"><h1>🌀 陀螺到貨雷達</h1><button id="install" hidden>📲 安裝 App</button></div>
   <div class="meta" id="meta">載入中…</div>
   <div class="tabs" id="regions"></div>
   <div class="tabs" id="tabs">
@@ -175,6 +181,19 @@ document.getElementById('regions').addEventListener('click', e => {
   }
   save('regions', picked); render();
 });
+
+// 安裝成 App（PWA）：Chrome 會在可安裝時觸發 beforeinstallprompt，點按鈕就跳出安裝視窗
+let installEvt;
+window.addEventListener('beforeinstallprompt', e => {
+  e.preventDefault(); installEvt = e; document.getElementById('install').hidden = false;
+});
+document.getElementById('install').addEventListener('click', async () => {
+  if (!installEvt) return;
+  installEvt.prompt(); await installEvt.userChoice; installEvt = null;
+  document.getElementById('install').hidden = true;
+});
+window.addEventListener('appinstalled', () => { document.getElementById('install').hidden = true; });
+if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
 
 fetch('data.json?' + Date.now()).then(r => r.json()).then(d => {
   data = d;
