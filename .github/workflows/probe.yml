@@ -1,0 +1,26 @@
+name: 臨時探測（看完會刪）
+on: workflow_dispatch
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          UA="Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 Chrome/126.0 Mobile Safari/537.36"
+          echo "######## FUNBOX"
+          curl -sSL -A "$UA" -o f.html -w "HTTP %{http_code} size %{size_download}\n" 'https://shop.funbox.com.tw/categories/XI/KB'
+          grep -oiE "shopline|shoplineapp|cyberbiz|shopify|91app|easystore|meepshop" f.html | sort | uniq -c
+          grep -oE "售完|已售完|缺貨|補貨中|加入購物車|預購|抽選|即將開賣" f.html | sort | uniq -c
+          grep -oE '/products/[^"?]{1,80}' f.html | sort -u | head -8; grep -oE '/products/[^"?]{1,80}' f.html | sort -u | wc -l
+          grep -oE '"(sold_out|quantity|total_orderable_quantity|is_sold_out|unlimited_quantity)":[^,]{1,12}' f.html | sort | uniq -c | head
+          curl -sSL -A "$UA" -w "\napi HTTP %{http_code}\n" 'https://shop.funbox.com.tw/api/merchants/_/product_ids?category_id=XI' | head -c 300; echo
+          echo "######## PCHOME"
+          curl -sSL -A "$UA" 'https://ecapi-cdn.pchome.com.tw/cdn/ecshop/prodapi/v2/store/DEASSW/prod&offset=1&limit=5&fields=Id,Nick,Price,isSpec&_callback=x' | head -c 800; echo
+          curl -sSL -A "$UA" 'https://ecshweb.pchome.com.tw/search/v4.3/all/results?q=funbox%20%E6%88%B0%E9%AC%A5%E9%99%80%E8%9E%BA&page=1&pageCount=5' | head -c 1200; echo
+          curl -sSL -A "$UA" 'https://ecapi.pchome.com.tw/ecshop/prodapi/v2/prod/button&id=DEASSW-A900JK8BK-000,DEASSW-A900HJQHR-000&fields=Seq,Id,Price,Qty,ButtonType,SaleStatus' | head -c 600; echo
+          echo "######## MOMO"
+          curl -sSL -A "$UA" -o m.html -w "HTTP %{http_code} size %{size_download}\n" 'https://m.momoshop.com.tw/category.momo?cn=2186500015'
+          grep -oE "戰鬥陀螺[^<\"]{0,30}" m.html | sort | uniq -c | head -10
+          grep -oE "售完|補貨中|缺貨|i_code=[0-9]+" m.html | sort | uniq -c | head -10
+          curl -sSL -A "$UA" -o m2.html -w "search HTTP %{http_code} size %{size_download}\n" 'https://m.momoshop.com.tw/search.momo?searchKeyword=funbox%20%E6%88%B0%E9%AC%A5%E9%99%80%E8%9E%BA'
+          grep -oE "goodsName[^<]{0,80}|prdName[^<]{0,80}|i_code=[0-9]+|售完|補貨中" m2.html | sort | uniq -c | sort -rn | head -15
+          head -c 600 m2.html; echo
