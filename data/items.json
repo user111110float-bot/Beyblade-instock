@@ -1,6 +1,7 @@
 {
- "updated": "2026-10-17T00:33+08:00",
- "new_today": 15,
+ "updated": "2026-10-17T00:37+08:00",
+ "updated_full": "2026-10-17T00:37+08:00",
+ "new_today": 321,
  "sources": [
   {
    "name": "Google 新聞：到貨",
@@ -10,7 +11,7 @@
   {
    "name": "Google 新聞：補貨",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "name": "Google 新聞：台北新北",
@@ -40,17 +41,32 @@
   {
    "name": "Facebook 公開貼文：戰鬥陀螺",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "name": "Facebook 公開貼文：到貨",
    "ok": true,
-   "count": 75
+   "count": 78
   },
   {
    "name": "Facebook 玩具店",
    "ok": true,
    "count": 59
+  },
+  {
+   "name": "Facebook 文具店",
+   "ok": true,
+   "count": 14
+  },
+  {
+   "name": "Facebook 書局",
+   "ok": true,
+   "count": 1
+  },
+  {
+   "name": "Google 新聞：文具店",
+   "ok": true,
+   "count": 0
   },
   {
    "name": "PTT Toy",
@@ -99,7 +115,7 @@
   {
    "name": "Facebook 各縣市：基隆",
    "ok": true,
-   "count": 40
+   "count": 42
   },
   {
    "name": "Facebook 各縣市：台北",
@@ -114,7 +130,7 @@
   {
    "name": "Facebook 各縣市：桃園",
    "ok": true,
-   "count": 50
+   "count": 51
   },
   {
    "name": "Facebook 各縣市：新竹",
@@ -124,7 +140,7 @@
   {
    "name": "Facebook 各縣市：苗栗",
    "ok": true,
-   "count": 31
+   "count": 28
   },
   {
    "name": "Facebook 各縣市：台中",
@@ -134,7 +150,7 @@
   {
    "name": "Facebook 各縣市：彰化",
    "ok": true,
-   "count": 48
+   "count": 49
   },
   {
    "name": "Facebook 各縣市：南投",
@@ -149,32 +165,32 @@
   {
    "name": "Facebook 各縣市：嘉義",
    "ok": true,
-   "count": 36
+   "count": 34
   },
   {
    "name": "Facebook 各縣市：台南",
    "ok": true,
-   "count": 46
+   "count": 48
   },
   {
    "name": "Facebook 各縣市：高雄",
    "ok": true,
-   "count": 40
+   "count": 37
   },
   {
    "name": "Facebook 各縣市：屏東",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "name": "Facebook 各縣市：宜蘭",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "name": "Facebook 各縣市：花蓮",
    "ok": true,
-   "count": 21
+   "count": 5
   },
   {
    "name": "Facebook 各縣市：台東",
@@ -184,7 +200,7 @@
   {
    "name": "Facebook 各縣市：澎湖",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "name": "Facebook 各縣市：金門",
@@ -205,6 +221,16 @@
    "name": "追蹤店家：玩具e哥",
    "ok": true,
    "count": 36
+  },
+  {
+   "name": "追蹤店家：森森文具",
+   "ok": true,
+   "count": 4
+  },
+  {
+   "name": "網店庫存：森森文具",
+   "ok": true,
+   "count": 9
   }
  ],
  "items": [
@@ -341,6 +367,24 @@
    "resale": false,
    "event": false,
    "shop": null,
+   "branch": null,
+   "score": 0
+  },
+  {
+   "id": "99a1194900a62ea4",
+   "title": "📢 10/16 21:00 開放線上報名 🔗 報名連結：https://www.sen-sen.com.tw/products/20261018 🔥 B4 店家據點賽｜陀螺手集合！🔥 帶上你的戰鬥陀螺，來森森挑戰對手、爭取勝利！⚡ 📅 比賽日期｜2026／10／18（日） 📍 比賽地點｜森森文具玩具 2 樓 🏆 比賽組別與時間 🕑",
+   "url": "https://news.google.com/rss/articles/CBMilgZBVV95cUxQdnFBU2FVUWg0SnZmaXpPT1FvRngwS2dETGhUQ1pFR2lUS3dEanhNVEFNSHdqdUxsY2NCbnBrX2FOeXNrdV9IaUtpN0k5dUlHMGRVa3VWVV9RZHpUQWlucWROTlYyRl9XZFdlMGNRQjFuMVQzNkowRXR0WVR3Z3prTkh4U3hGajRuMHBzNWpSSDhRUUtZZ1RBdlZVYmlUS2htTEdxWE5NVWJUQzZtUDlOZk9ndzBZV1htX2V1SmJsb1lsemZScmpiVlI3T3Rra2hKbFNVUkc0bnUydXdvSUl1ZkhyeXZvMjFaR01DQ3ZUczlfbmUwQS1rNE5DXzc0NzN3TEVFN01xMWE5U0ZSYUlTc3AxcXpIMHlnRFlpTUpaWGZ0aWN4S1UxSm9hSVFIZ2YzYk5jWElwVEVwSllqN1djVWRkNUFRRVduSGNOLThNRmtDc2NzeXFMRW16TlBQby1WR2lZc1Q3dk5UaV9Ycmh1M0otMzRBX1pPRl9nVTg1TmNSYUFkdXJQa0M0bmxqTjk0WlNKaGhEeVREVnRGVWZlZGpyU0ZSYkYyYmV3Z2treklfVmJMekx4NTFKVktjRFdiWHpjekJJTTZXTngxSW9xZm1UQjFXMmVySW9PanN6U1BFM1NIaE9fYkpRazVsNUF1Q0ZKTWhabmJGYzhDUnNVVHgxZ3Zub004aWpjN0t2dnViUEVzNEJiSC1TcFRuTzJLQzZFX0hFZEZHMDFHaWhYZ0J2bUFJeWhzNFQwOGRiZ2VWZFdQc21qZUt6clJxU2tDVEVNUG1LZmNkYkxqUmpwRVYwc2g1YU9yenVQQXQwbWdXc3MtczFMUlhMeHliZ1ZPSU10Sjh3cXMtOEZSTWJrSkV4Z290SmdHNGRoQzB4T3V2aGs4NlF5NC1lZ3BnajJtbGZzWkZDdlhZbFY2dE9ja1Npc0h4dUpaanB6TGV3TUFxTW00RDRiLUtydnd5cEJrUWNaLVR3U3V6ZWFnSjIzZ3E1bXJHdHo2LVZPY1hkUFJYd2N3WVU4SWltQVhfcm0wX3NXbW1B?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-16T19:38+08:00",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "region": [],
+   "arrival": [],
+   "stores": [],
+   "resale": false,
+   "event": true,
+   "shop": "森森文具",
    "branch": null,
    "score": 0
   },
@@ -744,7 +788,7 @@
    ],
    "stores": [],
    "resale": false,
-   "shop": null,
+   "shop": "森森文具",
    "score": 2,
    "branch": null,
    "event": false
@@ -2083,7 +2127,7 @@
    "stores": [],
    "score": 2,
    "resale": false,
-   "shop": null,
+   "shop": "森森文具",
    "also": [
     {
      "source": "Facebook",
@@ -3890,7 +3934,13 @@
    "event": false,
    "shop": null,
    "branch": null,
-   "score": 3
+   "score": 3,
+   "also": [
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02VHFRdjNrWndmeXFSOUlLT2FlOTl1QkdTVXRtLVMxT09oRG1QbVoxaW4zaUExbGZ2d1o0OHc3ZGVuNEpmblhCa3BxT0ttS29iMnBvdFc3dkRQVF96UVJGcUJFVERMOEdtcmc?oc=5"
+    }
+   ]
   },
   {
    "id": "50ff490792fa2be7",
@@ -3931,6 +3981,26 @@
    "branch": null,
    "score": 2,
    "event": false
+  },
+  {
+   "id": "17718d70f97c04c5",
+   "title": "戰鬥陀螺收納箱V2版本 歡迎選購￼￼ /預購5-10天/多色可選/有問題歡迎私訊詢問￼",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mQktkbEtzMnZ6NDhrZXczc29TUFNvTVI4blpSYlQwS3dZeWtncEc2MHRiSEhqdnBDZjlhM2JFQjhQVTBXVmhzaDRpcGNQVVRLemdwN0hfQmZfeFBZZjVHRm9PNE9Ia25hX09iTUExQmJPOGYxMWk3WWhzZw?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-11T18:57+08:00",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "region": [],
+   "arrival": [
+    "預購"
+   ],
+   "stores": [],
+   "resale": false,
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
   },
   {
    "id": "6f6c6264b7323e32",
@@ -5553,6 +5623,26 @@
    "event": false
   },
   {
+   "id": "70932e411f807b84",
+   "title": "🔥 駱駝週五賽｜10/9（五） 📅 比賽日期：10/9（五） ⏰ 開賽時間：晚上 7:00 💰 報名費：250 元 👥 16 人開賽 📍 地點：樹林興仁花園夜市（室內有冷氣） 🏆 比賽獎品 * UX-15 鯊鯊狂鱗改造組 * UX-00 小籠包 * UX-03 魔導神杖 ⚔️ 獎項規則 * 未滿 20 人：取冠軍 * 20～23 人：取冠",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54R0VZTGs1R2hhUXdlX3Z5MFdxQzBBSkVhVUptcUJaRHAtZHE2UkxuT09iRGRBLXh5NV9RdW1scjdJVFdsMlZmLUxqd2F0X3c2dmhyMW5pd1pqY2NtMWhfM2xVcGJzVW4tdmpDLW1wYzJFWHkzQUlHdFhRTQ?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-08T20:35+08:00",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "region": [
+    "新北"
+   ],
+   "arrival": [],
+   "stores": [],
+   "resale": false,
+   "event": true,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
    "id": "41b3301271b183b7",
    "title": "玩聚樂點. Global Genius · 8 Bit Breakthrough. 精緻戰鬥陀螺，紅空力天馬款式，到貨啦！ #玩聚樂點 #戰鬥陀螺 #BEYBLADE #空力天馬 #鯊魚",
    "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxNRjIzbTh1b04yWjJZanh5M1ZQQU1pakZPYzNVeVBXdzByUklOWXNId2RYd0tpZDRNV0wtcjgyUVg2RGxZQXYzSlI3OWFLNmJKWFpYYVlNcXRBY1NWVzFpb1dQX0dWVkNvbzJvaHlmOS1QUzV3WG5WaHBtV05TaWhlOUxwSy0xYjN0czRYZWlfZGdVSXpEZEcxemRaaXhwVV9OMnRYeUk5TjlKNkx4ZjZoeVd3TDNHLTBReWdzZEpIdXNEU1F1cUZKTjI2WURYWHZHZnZKTGVSR1NKaENydnFMU0MwWXpTZEJMRmE5OXJsaW1kUWF0YnlRSGxIR01WTm1sR2RiQjdFN1pPZFZGc2h1eGJuMkZCZXpXRDA4X0VkYjNrWWt5WFRrNm5uTzZNVzV6WWpXQUd3ZkVsb1A5X1pDeV9RemlfTFNIRllCckNpd2dib0ZwUldOeFhFY0Q1dk5Vb25GMnRpWlppRDJFS0dYcUZOSThOT2RIVG9XbnQyWGZtd0hvNEVTdVJKSE1YNXppOWdMSnl0amZnN2hVQVlSblQ4VzhxOFVwa2VrRlRHSTJOVVFmZGdwbUdxSC0zUW1DSU10MDgxVTBoQUx2amJybjZYLUoxWFZHQzdJb0l0VnI5MElVbG5vYQ?oc=5",
@@ -5571,6 +5661,48 @@
    "shop": null,
    "branch": null,
    "event": false
+  },
+  {
+   "id": "60e7304c847ed47a",
+   "title": "【💥 BeybladeX 粉絲召集令！新品發售日特別企劃 🌪️】 各位陀螺戰士請注意！萬眾期待的 Beyblade X 新品即將登陸南華體育會！為了迎接 11/10 的發售日，我們準備了特別項目——即場試玩活動！🔥 ✨ 購買後立即開戰！ 當天購買新款陀螺後，您可以立即在我們安排",
+   "url": "https://news.google.com/rss/articles/CBMi7wVBVV95cUxQM2xVMHo1R1Nfckx0WVU5MDFsT05iN0pZTVpPVGI1YnAwMExjNWNrS2pEZWNVaXJaNm04NVBmNmhkZ09jZ3NYM2ZfelZSWU11OXdoT3hIcFBEZXgtaDhOdnAxR0VsejhMUldtU0ZEYktOMTZ1TndwYWxIWXdTMGo1QTVIeXdKU1pTLUVKRkxlSXM1VHlOXzJLT0ZmRkhYS19XOVJTb20xbU5BUm9RMS1iclZaUE5LQ1phNTFMdUIwTXVXNWpWVXF3YjBkWEFKVVh4cU1hSWN5TTEybFdRZFVDMW04SVhWcDlleUZ2N3JiWkdRWmJtR0JWWFlvTU9EYldGUFRJeHptbTY5OEJaeWwwWUFmaXRHTTRIV25Eb1J6QlVLaGotcUhQc0d6UGxjNFdiYzBxVGtQV2syLWVrdHJKV0lxQl9ZZHpIa05qZGhoSTExOGhjQ2YxRUk1YlFkTDAwTDQzM3NnZ2ctazQtMjlXSE9TNk5WVlhnLUpIMXN6S1Y1Zl9CZE1KbTFYV1otYklQaEwzSExHeDVIYzNUZ1dHUURqVGs2bUJncHI3S3pQNkp5cHBLZzlKQkFmQ2RfX2RzRHowQjByUS1yNnVyejRzakpmcGdMLVZNRFFNSV80N0FkM0tWU1ljazBwQmVidlNkWm5SM1JoSm9zdm52UkNOYzlzNWNCOHdWSG82R3VNQ0loOGJNOTZfeTZCcndFbjduXzYxYi1UTXhqdkxzQVdyTnBFcUhmMXZBRXl0UlNpQ2gteDVwaUlmdFVmaEhja1dfVkZCelpIc3ZrbVM0QTJXcmUxUTR0ZzJ4eFlROXIwQ2R1VzBxZGNWQTBuZ29ob3owLUxYUDZ2Y0Q5VF9TcG9XeFdERXpHMURyWEd3OWlteGtuSkVDOC1kOG1qS3l5OG9nZFk4TWNQYWNGYnhkZUJTVWtlU3RUMGluVFFrUzlhVHFYM1N3a3hsbTZpN1ZZam9acnFHZ3JHSGM3bDRQSV9J?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-08T18:04+08:00",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "region": [],
+   "arrival": [
+    "發售"
+   ],
+   "stores": [],
+   "resale": false,
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "0519843cfc6ba553",
+   "title": "🇹🇼❤️‍🔥【國慶連假・唐采活動整理】❤️‍🔥🇹🇼 國慶連假來啦～🎉 連假不知道去哪裡玩？唐采準備好一系列免費活動，陪大家一起放假啦🤩 ⚔️ 戰鬥陀螺｜官方G3賽 🌟 可能獲得夢幻逸品「黃金邪神」 📍10/09（五）14:00 大里店 👉 已完成抽籤，現場可排候補 🃏 寶可夢卡牌教",
+   "url": "https://news.google.com/rss/articles/CBMirwdBVV95cUxNTlBGdWZIYUZqNUdmMzhfVlRndS1mbWhiMm5yN3h1SS1mUjhjRzUtRlJnWVFDZkhhN0wxY0o1N01RSkZJX3Z4Q2g3M2FJaXFSaUJGaG1TZWoxM3UzWkVKeWZLNGh4VG1nVUpnNWtCMHRiMmNmbUhGWmJwMDBObVh4WENYR3VSUklvSmJvdklyMUNHdC1xdk1NYmpXRmpkVXZLLTJqbGRUNHdPbDhSRWFsb3Z6VjhsZ3JKM2FRTUN0Z3hTbGxuYl9Ddm1mdkdlNU9XeERYalZuOTZmRjQ1M09KWVhtaTdPQ1Z4SmFVM2ExVVJ0QnNSOG4wRU1WeFB5aVMtYlRrZ2ZoeHFWdUtIMWZBbm4tYm1MYXpmM0JzMkFqUkZ1WTh0b1pYdzI1cVlQS25JMlROSUNGbjNFLUFZU19VR1RtcFhqcXZucDRSSm1KaGhSOWFySDBGOEY5QkdqaGN3SzJvWHV2NXBIdFRWNFVYVjJLYS1fTDVtdUdTOWlIaVk3SzJWNzlJNXY5bVpNMlJMZVctckdHcW5vZjltVHhINHBCeFVZVDN1a0pBcHlrb1RySHRJUFgwZHpGRE5CT1dxRXZnTmNzZlpjeVJKM3E4Tk9oVzM0VVFrRzBreUlQQVBlUjc2WUxrQWQ0d0M5VkZfaFVMWnhEdkMyOHFtUUVYZ1FPTk53LUFmLXNJU01td3JjZXE2aUVzUE5PUEl2T1lYdkZka2g2UnMzM1RFTzRmSEpfakhnSnVuMmFha3dWWTBzQWRXWGd1NlNaVDlkNm5uU3dHR2ZmRnR6ZVZwMmEyMzVFTDNrRm5CT3JSeTc3dng4MGYyMHZjTDBkdUxUdk5QUlV2VmZ5Uk95VVJpeXBVSnI0M295MnhMN0Q1UkF3N2duUllrSHR2MUhaN1NKX3NGOXd1U0xIN3Jmb2Y0dE1VRmJwX0dMeU1rUW1TRmVUak5wV3hlcXFKaDZqQ2VCWHotLU5sQzdTTFllMWJ3U2E4RWtNNnlnQjhNU2kyQWxzOS1XVm56ay03dDIwLUgyUXZHT2ZiTkIxTi1pYWVQcy1RNllxbklrVlNIQ1g2Y3hhRElYRmNiZFBleGp5cU9iVFlRXzZCS2xyamhFM05YazYwYzJjcWdNLUlLLTFiNmphUDRWTFE3el8ySGpLZnNYUk9ESFlrMnI4WFhvZG44NjRtVFNRUXZpbXNYTHdjb2MwdDg3eWJqS0pEOGtiVVZIcV82MXpCNmtYNnJOd3hOMUVn?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-08T17:32+08:00",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "region": [
+    "台中"
+   ],
+   "arrival": [
+    "抽籤"
+   ],
+   "stores": [],
+   "resale": false,
+   "event": true,
+   "shop": null,
+   "branch": null,
+   "score": 4
   },
   {
    "id": "32f0f31f92053a69",
@@ -6258,6 +6390,26 @@
    "score": 2
   },
   {
+   "id": "f389858a83283927",
+   "title": "現在每天還有人在排隊買陀螺嗎？",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CQVRWU1Rlb2tQYzdTTlA1bGgtaEFvWHdfS2ZaTTZIZnRxaFl2OUZEMVhKVm5NUU9DZnlxcGZwUHhfamt3blNQUnVzMklUcHg5S1U4QkNBLVE5MDItZWFrQ2lYMkhsRWNzZHJYdk1tN3ZyNG1HWGNqbW5Faw?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-06T15:04+08:00",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "region": [],
+   "arrival": [
+    "排隊"
+   ],
+   "stores": [],
+   "resale": false,
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
    "id": "79284eb5a51a587e",
    "title": "Toys\"R\"Us Hong Kong. . #獨家發售 【經典搖搖及陀螺結合 - Yo-Spin!​】 新一代玩具Yo-Spin!💥 結合陀螺極速旋轉及搖搖自由花式玩法! 無論喺屋企定戶外都可以隨時玩 簡單易上手👍🏻玩極唔厭 一齊解鎖全新花式玩法! 立即購買👉🏻https://shorturl.at/uofzF ⭐網店買滿$3",
    "url": "https://news.google.com/rss/articles/CBMiigdBVV95cUxOZ2RxVVNKZC1nNTFUZlpqQ0tFVXAwNGRfTVRnU2ZIVzY1czNMbngyUldNZms0b0hxX2pNaFFCV0NlV3F2SDdBLXlhMUlHNF9NRGpFRFhkU3FrdXlIMGFOaG5YSG9LM2ZjQnZhWUhndlVubFl1Ykhab3U5QXpLcEFySFp6YXl2T21GWW04QWtiVVh0cWI5X0EwMjdHVXZBekpYbm10c2NlbGtjNXhqenBKWG1OblhaZ3ZnRTA0U004eFA3V0tSWHdZYVRYckVmZmJvaWxaWm56a1daM2p3THdZdTF6LWhkYy1VM2pfSk9QaG9TanFkZU5ub2VpWHM2MkVmcl94VlZHVXRQaXo4Wlg1Nkhlb1JTY183RENfaTBzVDY3WnRJOHg0andESVdmTnJ6bFpaUGtSVDNmSEtzOUhVdUZSaVUyUHFxUF9SVm50Q1pLaE84c040MmRELUduS3dUNjJROXRzdEpua1UxZU9aT1VUU0EyUGRuNzJSMkx1OTI0d2VUR0tDcnV0Nm5WbS1FNGdPa1ZFcGJyN0dMUExKdTVmaURBcUtJOFFMb3B5RVZzc0NvV0t0WG5YdjBJZFFRWHJzS052eVB6NkIwNGR3NVgyQzZjMWxKd1ZVNnFNZDc1anN0TlZ2aWdOSU9tR1V4UlpyNlllS3AzZllzUUItMGZiSHNZTk5BYTVwTDJWMHJYSXZFNXlIZHlpUWlsdjEyTDdsNG0waWpfZlhWRHB4MkNzOUZtR3FYS3BMUUwtSmlZc1dEeDR4b1UxWF9waE5OM0tKVkF0NUJaZzM5SGZFdXo2R2Q5RVZKbk91NmZBR3JNVkMtRUNkZW5KaVBGVV9PaEt4Qzd1S0FHZjhGZjZ5eG5zbHA4T0dtTndsLTNRQWh2ajFseUVCaU1qeUhuOGxzbkRybEl2cEpKQmFuS28yckJ0Q1ZjRndtdWlqVTdIT3NleUV2R2FRamtUc2JjcTN4VVZlOXZOZ3htcGRzeURCRW8tekh3Vl9HY0doUzdQSzUxSVRDWkwwczc2R3l2WWJ2cWtZLXpTNWl4RERGQVBtZUJjX3pXTXdEeXlZV3VGWExPWW8wVURheTRmbk9fQnBCVmZ0ekJzbjh5T29uZmh2clF5d3RLWmZMakx4azI2MUtYWjBuSjNNdGwwVkxBc011WFpXX1JNZkZRM0V2YllvTkpWRDQ3bm1GMkE?oc=5",
@@ -6569,6 +6721,26 @@
    "shop": null,
    "branch": null,
    "event": false
+  },
+  {
+   "id": "2bdb3d90b0c411b8",
+   "title": "［出售--生活小物--戰鬥陀螺區（07）--全新未使用商品--戰鬥陀螺--絞鯊狂麟 UX-15 ］ 小編把身邊既有全新未使用商品--戰鬥陀螺--絞鯊狂麟，販售給有緣人，讓您們可以重溫舊夢、回味年輕時的樂趣 由於戰鬥陀螺--為一個，歡迎大家的選購 🛍️生活小物--戰鬥陀螺區（07）--",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QQXlBbmwxVF9vcHV2YkhJQ0pWMmQyWVFRZUJUallydDZNTVJoc0FrREhiMnZsNjhlR01TNzJvT3lTcWlsZWxlY3Z2ZG5PRG4wZzUyV01jR1VQNXNETGtFRkdrRkFZTzdHZ1JQOFhXU0ZHT0ZtRkNvV3pTaw?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-05T10:20+08:00",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "region": [],
+   "arrival": [
+    "販售"
+   ],
+   "stores": [],
+   "resale": true,
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
   },
   {
    "id": "d874659332ef955a",
@@ -7391,6 +7563,248 @@
    ],
    "branch": null,
    "event": false
+  }
+ ],
+ "stock": [
+  {
+   "title": "【訂製款】客製化戰鬥盒｜戰鬥陀螺X三格收納盒｜磁吸式設計｜BX UX CX系列適用｜專屬圖案印刷",
+   "url": "https://www.sen-sen.com.tw/products/x-battle-case-blade-magnetic-beyblade-storage-box-20261011103215",
+   "price": 650.0,
+   "qty": 1,
+   "in_stock": true,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "數碼寶貝對打機 原本新潮第2彈",
+   "url": "https://www.sen-sen.com.tw/products/%E6%95%B8%E7%A2%BC%E5%AF%B6%E8%B2%9D%E5%B0%8D%E6%89%93%E6%A9%9F-%E5%8E%9F%E6%9C%AC%E6%96%B0%E6%BD%AE%E7%AC%AC2%E5%BD%88",
+   "price": 799.0,
+   "qty": 5,
+   "in_stock": true,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "【森森文具玩具】口袋式電子秤 500g／0.01g｜LCD背光 多單位切換 去皮功能",
+   "url": "https://www.sen-sen.com.tw/products/pocket-digital-scale-500g-001g",
+   "price": 126.0,
+   "qty": 6,
+   "in_stock": true,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "【森森文具玩具】陀螺鬥士 30陀螺收納外出箱｜雙層分區 大容量硬殼陀螺收納箱",
+   "url": "https://www.sen-sen.com.tw/products/30-beyblade-storage-travel-case",
+   "price": 2100.0,
+   "qty": 1,
+   "in_stock": true,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "【森森文具玩具】陀螺鬥士 大容量硬殼收納箱｜分層配件收納・附三格對戰盒",
+   "url": "https://www.sen-sen.com.tw/products/beyblade-large-storage-case-with-battle-box",
+   "price": 2900.0,
+   "qty": 0,
+   "in_stock": true,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "【2026 G1 賽前必備】極限戰鬥台X 3.0《陀螺對戰台》- 3秒快速收摺",
+   "url": "https://www.sen-sen.com.tw/products/xtreme-battle-table-3-0",
+   "price": 683.0,
+   "qty": 65,
+   "in_stock": true,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "PENROTE 觸控防滑手套 Z401｜NBR丁腈橡膠｜陀螺活動／工作適用｜韓國製",
+   "url": "https://www.sen-sen.com.tw/products/penrote-z401-touchscreen-work-gloves",
+   "price": 82.0,
+   "qty": 0,
+   "in_stock": true,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "【森森文具玩具】隨身陀螺戰鬥桌｜S-30 極速戰鬥桌｜極限防護罩｜戰鬥陀螺競技桌",
+   "url": "https://www.sen-sen.com.tw/products/s30-beyblade-battle-table",
+   "price": 2099.0,
+   "qty": 0,
+   "in_stock": true,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "【森森文具玩具】陀螺戰鬥收納車 #C30｜慶祝新品上市，下單即贈CX-18｜台灣製造｜陀螺收納戰鬥桌",
+   "url": "https://www.sen-sen.com.tw/products/battle-storage-cart-c30",
+   "price": 4999.0,
+   "qty": 0,
+   "in_stock": true,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "【快閃】戰鬥陀螺X BX-51 旋風發射器 (黑綠)",
+   "url": "https://www.sen-sen.com.tw/products/bx-51-string-launcher-black-green-20261016114450",
+   "price": 229.0,
+   "qty": 0,
+   "in_stock": false,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "【快閃】BEYBLADE X 戰鬥陀螺X BX-45 武士魂斬",
+   "url": "https://www.sen-sen.com.tw/products/beyblade-x-%E6%88%B0%E9%AC%A5%E9%99%80%E8%9E%BAx-bx-45-%E6%AD%A6%E5%A3%AB%E9%AD%82%E6%96%AC-20261016113018",
+   "price": 325.0,
+   "qty": 0,
+   "in_stock": false,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "【快閃】BEYBLADE X 戰鬥陀螺 BX-25 戰鬥陀螺X專業收納包",
+   "url": "https://www.sen-sen.com.tw/products/beyblade-x-%E6%88%B0%E9%AC%A5%E9%99%80%E8%9E%BA-bx-25-%E6%88%B0%E9%AC%A5%E9%99%80%E8%9E%BAx%E5%B0%88%E6%A5%AD%E6%94%B6%E7%B4%8D%E5%8C%85-20261016112438",
+   "price": 850.0,
+   "qty": 0,
+   "in_stock": false,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "【快閃】BEYBLADE X 戰鬥陀螺X UX-13 魔像奇岩",
+   "url": "https://www.sen-sen.com.tw/products/beyblade-x-%E6%88%B0%E9%AC%A5%E9%99%80%E8%9E%BAx-ux-13-%E9%AD%94%E5%83%8F%E5%A5%87%E5%B2%A9",
+   "price": 295.0,
+   "qty": 0,
+   "in_stock": false,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "【快閃】BEYBLADE X 戰鬥陀螺X BX-42 X發射器改造型握把(藍/透明)",
+   "url": "https://www.sen-sen.com.tw/products/beyblade-x-%E6%88%B0%E9%AC%A5%E9%99%80%E8%9E%BAx-bx-42-x%E7%99%BC%E5%B0%84%E5%99%A8%E6%94%B9%E9%80%A0%E5%9E%8B%E6%8F%A1%E6%8A%8A%E8%97%8D%E9%80%8F%E6%98%8E-20261016111856",
+   "price": 250.0,
+   "qty": 0,
+   "in_stock": false,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "【快閃】 戰鬥陀螺X CX-00 迪卡狂怒 FT 3-60T",
+   "url": "https://www.sen-sen.com.tw/products/cx-00-dika-fury-ft-3-60t-b4-20261016111503",
+   "price": 595.0,
+   "qty": 0,
+   "in_stock": false,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "【快閃】BEYBLADE X 戰鬥陀螺X BX-46 無限衝擊對戰組",
+   "url": "https://www.sen-sen.com.tw/products/beyblade-x-%E6%88%B0%E9%AC%A5%E9%99%80%E8%9E%BAx-bx-46-%E7%84%A1%E9%99%90%E8%A1%9D%E6%93%8A%E5%B0%8D%E6%88%B0%E7%B5%84-20261016111053",
+   "price": 2500.0,
+   "qty": 0,
+   "in_stock": false,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "【快閃】BEYBLADE X 戰鬥陀螺 BX-32 寬型極限衝擊戰鬥盤",
+   "url": "https://www.sen-sen.com.tw/products/beyblade-x-%E6%88%B0%E9%AC%A5%E9%99%80%E8%9E%BA-bx-32-%E5%AF%AC%E5%9E%8B%E6%A5%B5%E9%99%90%E8%A1%9D%E6%93%8A%E6%88%B0%E9%AC%A5%E7%9B%A4-20261016110913",
+   "price": 1250.0,
+   "qty": 0,
+   "in_stock": false,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "【快閃】戰鬥陀螺 X  新世紀福音戰士 EVA 聯名款陀螺｜初號機限定配色｜全新限定機型",
+   "url": "https://www.sen-sen.com.tw/products/beyblade-x-evangelion-collaboration-unit-01-00-02-deluxe-set-20261015064322",
+   "price": 1395.0,
+   "qty": 0,
+   "in_stock": false,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "【快閃】戰鬥陀螺X CX-19 隨機強化組",
+   "url": "https://www.sen-sen.com.tw/products/beyblade-x-cx-19-random-booster-20261014114239",
+   "price": 350.0,
+   "qty": 0,
+   "in_stock": false,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "10月新品【BEYBLADE X】戰鬥陀螺X BX-56 線發射器 L｜白色×紫色｜左迴旋",
+   "url": "https://www.sen-sen.com.tw/products/beyblade-x-bx-56-string-launcher-l-white-purple",
+   "price": 0.0,
+   "qty": 0,
+   "in_stock": false,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "10月新品【BEYBLADE X】戰鬥陀螺X BX-53 全方位套裝（暫譯）",
+   "url": "https://www.sen-sen.com.tw/products/beyblade-x-bx-53-all-in-one-set",
+   "price": 0.0,
+   "qty": 0,
+   "in_stock": false,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "10月新品【BEYBLADE X】戰鬥陀螺X BX-52 光耀龍騎 6-60LC 左旋強攻啟動組（暫譯）",
+   "url": "https://www.sen-sen.com.tw/products/beyblade-x-bx-52-luster-dragoon-6-60lc",
+   "price": 0.0,
+   "qty": 0,
+   "in_stock": false,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "【預購至2026/8/28 早上10點 截止】戰鬥陀螺X一番賞 第三彈",
+   "url": "https://www.sen-sen.com.tw/products/%E9%A0%90%E8%B3%BC2026828-%E6%97%A9%E4%B8%8A10%E9%BB%9E-%E6%88%AA%E6%AD%A2%E6%88%B0%E9%AC%A5%E9%99%80%E8%9E%BAx%E4%B8%80%E7%95%AA%E8%B3%9E-%E7%AC%AC%E4%B8%89%E5%BD%88",
+   "price": 19000.0,
+   "qty": 0,
+   "in_stock": false,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
+  },
+  {
+   "title": "9月新品【BEYBLADE X】戰鬥陀螺X CX-19 隨機強化組",
+   "url": "https://www.sen-sen.com.tw/products/beyblade-x-cx-19-random-booster",
+   "price": 350.0,
+   "qty": 0,
+   "in_stock": false,
+   "shop": "森森文具",
+   "first_seen": "2026-10-17T00:37+08:00",
+   "restocked_at": null
   }
  ]
 }
