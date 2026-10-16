@@ -40,9 +40,12 @@ GitHub Actions 每天台灣時間 **08:00、18:00** 執行 `scraper/collect.py`�
 
 ```json
 "shops": [
-  {"name": "某某玩具店", "city": "新北", "keywords": ["某某玩具", "某某中和店"]}
+  {"name": "某某玩具店", "city": "新北", "keywords": ["某某玩具", "某某中和店"]},
+  {"name": "玩具e哥", "keywords": ["TOYeGO"]}
 ]
 ```
+
+連鎖店（例如玩具e哥）不用填 `city`，會從貼文裡的分店名（「新莊昌隆店」「台北松山店」）判斷縣市，卡片上也會顯示分店。
 
 手機上可以在 GitHub 打開 `shops.json` → 右上角 ✏️ 編輯 → Commit changes；或直接跟 Claude 說店名。
 另外每個縣市都會各搜一次「陀螺 到貨／現貨／補貨」的 Facebook 貼文。

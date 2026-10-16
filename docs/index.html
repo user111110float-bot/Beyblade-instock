@@ -103,7 +103,7 @@ function render() {
     if (d !== day) { day = d; html += `<div class="day">${d.replace(/-/g, '/')}</div>`; }
     const tags = [
       ...(i.first_seen === data.updated ? ['<span class="tag new">NEW</span>'] : []),
-      ...(i.shop ? [`<span class="tag shop">🏪 ${esc(i.shop)}</span>`] : []),
+      ...(i.shop ? [`<span class="tag shop">🏪 ${esc(i.shop)}${i.branch ? ' ' + esc(i.branch) : ''}</span>`] : []),
       ...(nationwide(i) ? ['<span class="tag ntp">全台通路</span>'] : []),
       ...(i.resale ? ['<span class="tag">二手／轉售</span>'] : []),
       ...i.region.map(r => `<span class="tag ${picked.includes(r) ? 'tp' : ''}">📍${esc(r)}</span>`),

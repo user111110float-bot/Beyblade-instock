@@ -271,8 +271,13 @@ def load_shops() -> list[dict]:
 SHOPS = load_shops()
 
 
+def shop_names(shop: dict) -> list[str]:
+    return [shop["name"], *shop.get("keywords", [])]
+
+
 def shop_search(shop: dict) -> list[dict]:
-    items = google_news(f'"{shop["name"]}" 陀螺 site:facebook.com')
+    names = " OR ".join(f'"{n}"' for n in shop_names(shop))
+    items = google_news(f"({names}) 陀螺 site:facebook.com")
     for it in items:
         it["shop"] = shop["name"]
     return items
@@ -289,8 +294,17 @@ SOURCES += [(f"追蹤店家：{shop['name']}", lambda shop=shop: shop_search(sho
 
 def match_shop(text: str, preset: str | None) -> dict | None:
     for shop in SHOPS:
-        if shop["name"] == preset or has_any(text, [shop["name"], *shop.get("keywords", [])]):
+        if shop["name"] == preset or has_any(text, shop_names(shop)):
             return shop
+    return None
+
+
+def find_branch(text: str, shop: dict) -> str | None:
+    """連鎖店的分店名，例如「玩具e哥 新莊昌隆店」→「新莊昌隆店」。"""
+    for n in shop_names(shop):
+        m = re.search(re.escape(n) + r"[\s\-－–_|｜.·]*([\u4e00-\u9fff]{2,6}店)", text, re.I)
+        if m:
+            return m.group(1)
     return None
 
 
@@ -317,6 +331,7 @@ def classify(item: dict) -> dict | None:
     if shop and shop.get("city") and shop["city"] not in region:
         region.insert(0, shop["city"])
     item["shop"] = shop["name"] if shop else None
+    item["branch"] = find_branch(text, shop) if shop else None
     item["region"] = region
     item["arrival"] = arrival
     item["stores"] = stores
@@ -347,7 +362,7 @@ def reclassify(items) -> list[dict]:
         c = classify({"title": i["title"], "summary": i["summary"], "shop": i.get("shop")})
         if c:
             i.update(region=c["region"], arrival=c["arrival"], stores=c["stores"], score=c["score"],
-                     resale=c["resale"], shop=c["shop"],
+                     resale=c["resale"], shop=c["shop"], branch=c["branch"],
                      social=i["source"].startswith(SOCIAL_PREFIXES))
             out.append(i)
     return out
@@ -441,6 +456,7 @@ def main() -> int:
                 "stores": it["stores"],
                 "resale": it["resale"],
                 "shop": it["shop"],
+                "branch": it["branch"],
                 "score": it["score"],
             }
         status.append({"name": name, "ok": True, "count": kept})
