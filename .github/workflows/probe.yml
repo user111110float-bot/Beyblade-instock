@@ -6,15 +6,26 @@ jobs:
     steps:
       - run: |
           UA="Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 Chrome/126.0 Mobile Safari/537.36"
-          for u in 'https://shop.funbox.com.tw/categories/XI/KB/products.json?limit=3' 'https://shop.funbox.com.tw/collections/XIKB/products.json?limit=3' 'https://shop.funbox.com.tw/categories/XI/KB.json' ; do
-            echo "== $u"; curl -sSL -A "$UA" -w "\nHTTP %{http_code}\n" "$u" | head -c 900; echo; done
-          curl -sSL -A "$UA" -o f.html 'https://shop.funbox.com.tw/categories/XI/KB'
-          echo "== funbox product links"; grep -oE 'href="/products/[^"]{1,100}"' f.html | sort -u | head -5; grep -oE 'href="/products/[^"]{1,100}"' f.html | sort -u | wc -l
-          echo "== funbox collection handles"; grep -oE '(collection_id|collectionId|handle)["=: ]+[A-Za-z0-9_-]{2,40}' f.html | sort | uniq -c | sort -rn | head
-          echo "== funbox json hints"; grep -oE '"(inventory_quantity|available|sold_out|variants)"' f.html | sort | uniq -c
-          echo "== funbox product block"; python3 -c "
-          import re;h=open('f.html',encoding='utf-8').read()
-          i=h.find('已售完'); print(re.sub(r'\s+',' ',h[max(0,i-2500):i+300]))"
-          echo "######## PCHOME list with Name"
-          for off in 1 37; do curl -sSL -A "$UA" "https://ecapi-cdn.pchome.com.tw/cdn/ecshop/prodapi/v2/store/DEASSW/prod&offset=$off&limit=36&fields=Id,Name,Nick" | python3 -c "
-          import sys,json;d=json.load(sys.stdin);print(len(d));[print(x['Id'],x.get('Name','')[:60]) for x in d[:40]]"; done
+          curl -sSL -A "$UA" 'https://shop.funbox.com.tw/categories/XI/KB.json' -o p1.json
+          curl -sSL -A "$UA" 'https://shop.funbox.com.tw/categories/XI/KB.json?page=2' -o p2.json
+          python3 - <<'PY'
+          import json
+          a=json.load(open('p1.json')); b=json.load(open('p2.json'))
+          print('page1',len(a),'page2',len(b), 'same first?', a[0]['url']==(b[0]['url'] if b else None))
+          print('keys', sorted(a[0].keys()))
+          print('variant keys', sorted(a[0]['variants'][0].keys()))
+          for p in a[:40]:
+              v=p['variants']
+              print(p['url'], '|', p['title'][:40], '| sell_from', p.get('sell_from'), '| avail', p.get('available'), '| qty', [x.get('inventory_quantity') for x in v][:3], [x.get('inventory_policy') for x in v][:1], '| purch', p.get('sales_mode_purchasable'))
+          PY
+          echo "######## PCHOME"
+          curl -sSL -A "$UA" 'https://ecapi-cdn.pchome.com.tw/cdn/ecshop/prodapi/v2/store/DEASSW/prod&offset=1&limit=36&fields=Id,Name,Nick&_callback=x' -o pc.txt
+          head -c 300 pc.txt; echo
+          python3 - <<'PY'
+          import json,re
+          t=open('pc.txt',encoding='utf-8').read()
+          m=re.search(r'x\((.*)\);?\s*}catch',t,re.S)
+          d=json.loads(m.group(1)) if m else []
+          print('n',len(d))
+          for x in d: print(x['Id'], (x.get('Name') or '')[:50], '|', (x.get('Nick') or '')[:40])
+          PY
