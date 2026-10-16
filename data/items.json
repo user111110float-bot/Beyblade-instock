@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-17T00:27+08:00",
- "new_today": 44,
+ "updated": "2026-10-17T00:31+08:00",
+ "new_today": 5,
  "sources": [
   {
    "name": "Google 新聞：到貨",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "name": "Google 新聞：補貨",
@@ -15,7 +15,7 @@
   {
    "name": "Google 新聞：台北新北",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "name": "Google 新聞：中南部",
@@ -45,12 +45,12 @@
   {
    "name": "Facebook 公開貼文：到貨",
    "ok": true,
-   "count": 76
+   "count": 75
   },
   {
    "name": "Facebook 玩具店",
    "ok": true,
-   "count": 58
+   "count": 57
   },
   {
    "name": "PTT Toy",
@@ -104,32 +104,32 @@
   {
    "name": "Facebook 各縣市：台北",
    "ok": true,
-   "count": 47
+   "count": 45
   },
   {
    "name": "Facebook 各縣市：新北",
    "ok": true,
-   "count": 38
+   "count": 34
   },
   {
    "name": "Facebook 各縣市：桃園",
    "ok": true,
-   "count": 49
+   "count": 47
   },
   {
    "name": "Facebook 各縣市：新竹",
    "ok": true,
-   "count": 44
+   "count": 45
   },
   {
    "name": "Facebook 各縣市：苗栗",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "name": "Facebook 各縣市：台中",
    "ok": true,
-   "count": 44
+   "count": 43
   },
   {
    "name": "Facebook 各縣市：彰化",
@@ -144,22 +144,22 @@
   {
    "name": "Facebook 各縣市：雲林",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "name": "Facebook 各縣市：嘉義",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "name": "Facebook 各縣市：台南",
    "ok": true,
-   "count": 48
+   "count": 47
   },
   {
    "name": "Facebook 各縣市：高雄",
    "ok": true,
-   "count": 39
+   "count": 41
   },
   {
    "name": "Facebook 各縣市：屏東",
@@ -184,7 +184,7 @@
   {
    "name": "Facebook 各縣市：澎湖",
    "ok": true,
-   "count": 5
+   "count": 3
   },
   {
    "name": "Facebook 各縣市：金門",
@@ -204,7 +204,7 @@
   {
    "name": "追蹤店家：玩具e哥",
    "ok": true,
-   "count": 72
+   "count": 36
   }
  ],
  "items": [
@@ -225,7 +225,8 @@
    "resale": true,
    "shop": null,
    "branch": null,
-   "score": 2
+   "score": 2,
+   "event": false
   },
   {
    "id": "a45972219de40962",
@@ -242,7 +243,8 @@
    "resale": true,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "7a6138ab8cf68f37",
@@ -258,10 +260,11 @@
     "現貨"
    ],
    "stores": [],
-   "resale": false,
+   "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "7bdd46249d69e28a",
@@ -282,7 +285,8 @@
    "resale": true,
    "shop": null,
    "score": 3,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "d8eb4bd2a259e428",
@@ -301,7 +305,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "689c996ecaab6125",
@@ -319,10 +324,11 @@
     "現貨"
    ],
    "stores": [],
-   "resale": false,
+   "resale": true,
    "shop": null,
    "score": 4,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "21a06101a25cd8f6",
@@ -343,7 +349,8 @@
    "resale": true,
    "shop": null,
    "score": 4,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "4ceddf5e3cca175a",
@@ -360,7 +367,8 @@
    "resale": true,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "e38ef03235754fa3",
@@ -382,7 +390,8 @@
    "resale": false,
    "shop": null,
    "score": 4,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "c26fd866a1742a78",
@@ -403,7 +412,8 @@
    "score": 4,
    "resale": true,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "9633ac51ef77e100",
@@ -420,7 +430,8 @@
    "resale": true,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "84dd7310be126e92",
@@ -439,7 +450,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "f52fed9d2fb69781",
@@ -461,7 +473,8 @@
    "score": 3,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "7e6677b361940070",
@@ -478,7 +491,8 @@
    "resale": true,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "407980d8d101aa33",
@@ -497,7 +511,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "c471f6d59e55b1e2",
@@ -520,7 +535,8 @@
    "score": 4,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "cf0245611d82da5b",
@@ -552,7 +568,8 @@
      "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxOLWFhSEtGVnRpUDc4eHlIUzNUNGlKOXhWb21sQkFMcGZYVjdSZzVZR21teUI5dFUzT29FOEZ5c2s4RVNuSWotWi1rUTZXUmdTdWFJSGQ0SUpYUkVQVVBYMUMzNkJzay1YZU9xbnJwaDYwOXgtREg2TF9ma2RVaGZXcU1YZnFKd1pvTUdxNzBSOVBGVTc5TWkxUzZSRG9NRDhYYVVXNmUxeUNjVTl6NUo0QXcyT2pfbVdEYzBoR0t1dGxRX0lpTDFHWUIyRC1sekdfUENQM2xvODRlUmt3VkI5enpuR0loWWF1ajBpVUN4N1d6NFc0ZkdKLW13enA4ZTVudVJkQk9FMzJ0TWZaR0RZSDh5MWZaaE1YcURERzdIbDlhZlp1dEQwUzJLUklLcVRWRjBxNlAtSk5BNm5YSjdlcjlSSUkzS0E4Z0ZNTDRmNkZpdldjaXhHWWpGQWg1WEZOVXpsV0VLbTdObE5LNWxBUkdNOGZ4c0t4WklVU05oVGtEd2Zpd2Y1TGRickV2LTV0WEdFMUJkRjVSaFVNTnphckJwWmJsSzR1V1d3YU8tc0JfR0Niem5FUVRITENKUTdvamd1cHVzN0xER1ZSLVJhMlNuYTlxSUdJczlfY0VnS0o3RGxYaWZ3YkNmbmZOR3dZUWQ1cVZqVWlGVTRRTUtDM0FMdnFvejdvekN5TVJHaWt0WWZPel9IZUMtMC0?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "2f00eb1e5d993583",
@@ -573,7 +590,8 @@
    "resale": true,
    "shop": null,
    "score": 4,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "cea5c91625ef2048",
@@ -594,7 +612,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "ecbc0d66548749d7",
@@ -611,7 +630,8 @@
    "resale": true,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "5dd7d3a18b7c127e",
@@ -631,7 +651,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "39aced6fcb64f878",
@@ -648,7 +669,8 @@
    "resale": false,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": true
   },
   {
    "id": "250b19c9c8fc676e",
@@ -668,7 +690,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "ad09eaf252c73481",
@@ -690,7 +713,8 @@
    "also": [],
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "31a17541444289dd",
@@ -711,7 +735,8 @@
    "resale": false,
    "shop": null,
    "score": 4,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "7d00749fd8fb207f",
@@ -730,7 +755,8 @@
    "resale": false,
    "shop": "玩具e哥",
    "branch": "新店中央店",
-   "score": 2
+   "score": 2,
+   "event": true
   },
   {
    "id": "82934d08a2cdc615",
@@ -754,7 +780,8 @@
    "resale": false,
    "score": 5,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "d3217095dff78e6e",
@@ -773,7 +800,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "e6d1110b2efa63d6",
@@ -790,7 +818,8 @@
    "resale": false,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "98ac130d911a48be",
@@ -804,10 +833,11 @@
    "region": [],
    "arrival": [],
    "stores": [],
-   "resale": false,
+   "resale": true,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "a444f703cb4da056",
@@ -824,7 +854,8 @@
    "resale": true,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "fa6b4977085fd905",
@@ -845,7 +876,8 @@
    "resale": true,
    "shop": null,
    "score": 4,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "5281d460dc3da33a",
@@ -864,7 +896,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "fdd10c1c538d932e",
@@ -883,7 +916,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "e0dd515d50ba5560",
@@ -904,7 +938,8 @@
    "score": 4,
    "resale": true,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "3ca1f121c2206bff",
@@ -923,7 +958,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "f5fe7f1a4a181894",
@@ -942,7 +978,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "3b21d53ddcf4bb18",
@@ -962,7 +999,28 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
+  },
+  {
+   "id": "00706c2a49a2c830",
+   "title": "賣 日版全新未拆含QR UX-11 衝龍 LR $780 UX-20 女武神 $780 自取在新北林口 先匯款後寄送",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JeTUzanQxcjJ6LWR0RHN5Vnp4dnZDWnJGRXZIYVRDY2ttYkJpZnVOeHJMVktiR2tzZkFFdng3TkRnNHVpdkJfREM5UURkbG5PSk5kWHpyRlJQb2NtYlhKaUNUdy15YTA4OU9FZjg1RHNPenEyQUZjZW9Vbw?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-16T03:08+08:00",
+   "first_seen": "2026-10-17T00:31+08:00",
+   "region": [
+    "新北"
+   ],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
   },
   {
    "id": "073cad00d57963a4",
@@ -982,7 +1040,8 @@
    "resale": false,
    "score": 2,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "f52c4b74bfd508fa",
@@ -1003,7 +1062,8 @@
    "resale": true,
    "shop": null,
    "score": 4,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "730a40fa314e9920",
@@ -1020,7 +1080,8 @@
    "resale": false,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": true
   },
   {
    "id": "b2a22105fe4fcc05",
@@ -1041,7 +1102,8 @@
    "score": 4,
    "resale": true,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "1cc88953df50c277",
@@ -1060,7 +1122,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "3ce4b41e7da6cd3f",
@@ -1079,7 +1142,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "39e34903abc2b23e",
@@ -1098,7 +1162,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "bd84bad4e4304ccd",
@@ -1117,7 +1182,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "9ee5bb524533be98",
@@ -1134,7 +1200,8 @@
    "score": 0,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "8dc4b2f70d882b79",
@@ -1153,7 +1220,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "9e6ec27b43fe4853",
@@ -1174,24 +1242,8 @@
    "score": 4,
    "resale": false,
    "shop": null,
-   "branch": null
-  },
-  {
-   "id": "1dc2189519f5fc44",
-   "title": "🔥10/17(六)戰鬥陀螺G3官方比賽 參加名單🔥 活動時間：10/17晚間18點 ❗️請在活動開始前完成報到，超時將取消參加資格。 1 謝慶勳 2 楊岡諭 3 陳彥仁 4 陳尚祐 5 蔡貽琛 6 白哲瑋 7 蔡佑謙 8 蔡博軒 9 李哲銘 10 謝良嶾 11 王冠智 12 陳渥恩 13 劉力瑋 14 劉承翰 15 游",
-   "url": "https://news.google.com/rss/articles/CBMiswZBVV95cUxNYjJsa1pwVjVmQmtfSzJFWVZCODRhdmFza1FCdld5aXY1Rmh6U2JtXzRzY3hscWlqT0xuNko1NmFYTzdsWVlwNEFqNWZiTVBoRXVQTkxTcUQ5LXQ2MmVyd3lYa3RsZTQ3TExwamMxeUxCNDFGSmlUSVh1YkZRN19WU2ZnN1BubU9xcGNsY0lXTzhVX3BBNVRPR0xaeDQxUGJINmY1blZiR05sUlBWMWRSdmM0SmJhQk5kdVZ0RGUxV1R5eWNhNXNHTF9fZzZEck8wMV9DVl84THV0S1pvc2JXYV9aREZWTjJGVnk4UXhuR0JrVXh5eVhtRExCRmRmTE5NektpV0I3c2xJR0RxWVJid2xxaFQ4eGk1ZlkwX3VfTVV0MnE1MkRGd1A4LUNjYTBHbk5LaDRpMm1OOThQNkwzcXlTQUVoVWktMm1jSHN5eThORkZYV25QWWc2YVZuY2Jtd3Bfczl1X0R0RHFBeHFzNXkyZk9EY2xNNlNrMUJLVm5yeHhSRElYZ0JtdkQxMlNraG9mT01pN0JlVXF2UmdiMWV2WnlGSU1NMWVMblMydmtyeEpQVVNYRFp2SXRRUERXLU5TU0wwd0Mzd05vbTNfT1NGNnJ1aE9udHF6akJkdHF4cW1CN2ZsUVNCT3g1Q1h4NnNYQXVaMTk2aEVGN1BOeHRHWHVTMXpMQWlVZkNUNzhFRURZdkdqS0EzZmkxRWF0QWpGeGpKZFp1NU81d0ZydzNGT0FIeWRCY0xYZkdyV1dvMnpVejcyZVdtTC1DQzY1YklEcTMwWXltTW1ZYlc4Y2lpNVBUWXpHR2J5Uk1GSEhTeDFEa3ctQkg4eGVSN3hoYlhMemRpcWVwZm1fdThGNmxaOFhJeGVGR0FkeVRGdXFYRFJYa0x2TU9iZzFrYkF5OGxBRFNtU1VYQmxZanBNdzZ6VFByM0JuRGtaYnRPUW83S21BQkdIblFnWW5UT1RDTjRfSjZadHdzNUQ2TklVcUpkMjAyRzBxZE4tcElBZ3E2eU9CZ2QwUzJ0YjRxNjNNM1RjckdVekFGWVdfUzdZTF92dDh2bFJ5Nl8wZmJNTXRIeHc?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-15T17:53+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 0
+   "event": false
   },
   {
    "id": "b5bbeb880b9c530f",
@@ -1208,7 +1260,8 @@
    "resale": true,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "5dacf4a7d351b1be",
@@ -1229,7 +1282,8 @@
    "score": 4,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "62a7941110b792de",
@@ -1250,7 +1304,8 @@
    "resale": true,
    "shop": null,
    "score": 4,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "306d8f85be4c124d",
@@ -1273,7 +1328,8 @@
    "resale": false,
    "shop": null,
    "score": 5,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "3cd74dd037869c62",
@@ -1292,7 +1348,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "60b0ecd075cc9a6b",
@@ -1311,7 +1368,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "eb30c39e4be66862",
@@ -1330,7 +1388,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "a01d83617530411c",
@@ -1349,7 +1408,8 @@
    "score": 2,
    "resale": true,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": true
   },
   {
    "id": "27f9b3b2444e831c",
@@ -1369,7 +1429,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "d014ab53250d3b28",
@@ -1393,7 +1454,8 @@
    "score": 4,
    "resale": true,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "cd8d0a970fc3ff87",
@@ -1413,7 +1475,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "e84ec7c7bba32908",
@@ -1434,7 +1497,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "c7bc543d1e645832",
@@ -1455,7 +1519,8 @@
    "score": 4,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "2ab104833e82c194",
@@ -1606,7 +1671,8 @@
    ],
    "resale": true,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "dcc6cad0061f4029",
@@ -1627,7 +1693,8 @@
    "resale": true,
    "shop": null,
    "score": 4,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "58317339a1959c98",
@@ -1646,7 +1713,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "3d83fa046cca3c82",
@@ -1660,7 +1728,7 @@
    "region": [],
    "arrival": [],
    "stores": [],
-   "resale": false,
+   "resale": true,
    "shop": null,
    "score": 0,
    "also": [
@@ -1669,7 +1737,8 @@
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FVVRYNXc2UGhRNmo5ZUMyZU1JRnRaMUw3N3QwdFJoLWFJaFRQcGZYaUJUN1RNNFZlaGdKWlN4QVV2YllLNEU5SGhXUWUyak1wMVpHUzFQRUZsODBLYXhCODdKV21DMjhOZXgzMzdYZVJnbno2NlNQbTlR?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "80c0ae99a9b31682",
@@ -1692,7 +1761,8 @@
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SSVpMLXhIUVZUY2tma2c1Q2dMdENocXJzdkZuQ0ZHbjVFazdNdGVBNW5GSW5LT1pGNGhVdHVYX043LWR6RnlmRmtWbXU5anBiQnJia2pKMG5YTjlTMUJKUUJpdTJJb1pKWTk1cTZhNFU2bXc2bVFSbWp3RQ?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "41dc2987aab6bca5",
@@ -1712,7 +1782,8 @@
    "also": [],
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "abad169828cce472",
@@ -1731,7 +1802,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "ddaabd4f76d1b361",
@@ -1750,7 +1822,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": true
   },
   {
    "id": "8c9836df4f4c6394",
@@ -1770,7 +1843,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "f3f105e2dc06f5c4",
@@ -1789,7 +1863,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "e0dd02d0243f42e8",
@@ -1806,7 +1881,8 @@
    "resale": false,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "bbf199e9bbc8caeb",
@@ -1825,7 +1901,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "dfd6279285402481",
@@ -1844,7 +1921,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "9bd2dd197e80d070",
@@ -1862,7 +1940,8 @@
    "also": [],
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "2d2a9d8ae3b44a5d",
@@ -1879,7 +1958,8 @@
    "score": 0,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "8def9406a7a7b2d4",
@@ -1906,7 +1986,8 @@
      "url": "https://news.google.com/rss/articles/CBMiqwZBVV95cUxPVW9na1MzenFmWERyMjNqQllxd0wwMDVqMmxIa0lHV2gtY0lCZ3VTY0liT21GN1o2bURCaXBxcXhKNGNjSmx6QUJRaWtMV3AwbzFqZm9yaHFSaFBubTBMUS10cVVTbERZQUE4NFF2by1ZZ2MtYkgtdjVKWFV4UmF0bWh6clFKcmQxbnFmVDctOFJHTHYteWZIZkxsbHB5NzdzTFJSbkFuMFpFcnFwYnJVdnlQVk80UUMxMWZUbEMyU3FaQWxnemxYcjNPamh3WnhzUVh6VTdjX1k0UG1kTWMzTk5oblIzdVlNem9TQnNqalJUR241Xzc2UURETzhyaTEwQV9zZ2U5T01VTnFCbllWZ1MxS0ZGMWp5UHZjZDhCUVM3YmRZcGI0dUhYb3haM1pJTDhxUE42aU1WVHBpQzlXZUhmUEgxcmVQeUZmSW52ZEVoVnA4ajhGTHRQUXVFUEJ5Qk5WYThvTm91UHFXN3lNT1RBQlVzRXNBRUdENENUZFdTbXNKenJFbWZOR2tZd2NSSmZaRkRmTkdJa2FxOWhKczktRTFQbFVJR0tlREFFbU5WdklPYlU1X3U0ejBRaG44WXhMNkhDWi1xYl9RcFowMEJUWUg1RGlHUWJFSWtPTGU5MG5nTjBkUWVmMlVKbWZUSERIX3dJMTlXQ1pqak5tX01VcGRucW9BOXBsc28wQ2RzQ1ZtT0VxVTFjY1NyMkNYY0tFcllObEZNbHctai1QWjhDNkRNbWNCWFVlSkV2SW40UXhGUjdhejg4WWhDSUlPTDF5UmoyMDlOalZ6RS1xdEZlckRKWDMzMnBkMHhTRXl4bjFINFUwNVYweGMtWmdhZURvZE45N2FEYWtXdHBPMndGSkRXOEltb3F6Vjg2SElSdW9ZdlphM1VveHB2QjhPa0hUY1lMaDMyekpnazdVamRwRDZYU2VaNUZCWDA0TlExUUFIMG1lcGpacDY4YjNUa09vX0ttcm9wVEVVd1RmTjdUTlFXQ3lQNFBOZXVxTWw3UWt6LVA2dXJrdm1LMU5xcjdHMEQyamU2UzhfSzFqaTNGeEd0MjAtNXQ4?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "cd770c82a0d57f8c",
@@ -1925,7 +2006,8 @@
    "score": 2,
    "resale": true,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "e81361d644f4c081",
@@ -1942,7 +2024,8 @@
    "resale": false,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": true
   },
   {
    "id": "bc9a3a8a6594e9df",
@@ -1959,7 +2042,8 @@
    "resale": false,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "8eef1701573e7602",
@@ -1979,7 +2063,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "bdb8a4842b8c3e14",
@@ -2004,24 +2089,8 @@
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0QWxlVndwd1FobXhJMmZUTnpTdTFLTEVRNmNFZy1SSVRJajVzU3F1WWo1eVVBNWExM2lWRU9sTmRiTXJNS0h1WXZ4YnE1dUwwR2tWSEl5eE1BMmVXU216OUlTMG9vcjdLTlQ4WDlLcGc3WHhSUFVPX2FlTQ?oc=5"
     }
    ],
-   "branch": null
-  },
-  {
-   "id": "fbdb1529de54bfea",
-   "title": "115-10/14 陀螺x 季賽積分自辦賽第一場 ，辛苦各位裁判了，大家都辛苦了",
-   "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOZXl5c2MxNVNsUGFyUERIWmNIQkZ3SHU2aEFrLUJ1QnpXRmZZNUZONUN6MTFtOG5UNktXcWtOSnNyTEN2cDJ2Z0RxajJwcktoRGdBMHhKc2RhUlZ2U2pjVEZXSlhmYUVqS2d5a0x6YWpIMlBmVTNPSjB4bUZrWFpiWUdmWlRHVVpPZEhXVS1RUlJ3X2dLMldRczVIUk5fc3J5MG5EeHk5bldzYWt3SHpmR3kwdHNucHdDNXFFZERXZnhjYVkwSjVGdm1fZGJuWDdVTTcwT2RXZzItMXhabDJPaGtveXZCM1NvWkZBUDgzdndzendVRHpIbUQ4UER3MENGMkc1M3hTS0wzOXFGZ3ktdlRTSldxSnROZXdWb1dlNEk2YTFfV2xENzdFT3ZHaXpLdFNmTWxEaTJHMVdaN21BVVJzSmRLT3N4eTl4NjFBek13U0NQdTduWVNBX1l6VXBGeF9NT3RyU0R4cTFob2RnX1pNWFdLbkpPaXA0WHQwdEtGQXFKOFpjdHdPeE5zbDJuMWphRDNLLVVBeHQ3NEpsUURpNEstelBNNmc?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-14T23:10+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 0
+   "event": false
   },
   {
    "id": "452d1e0639d98529",
@@ -2032,15 +2101,14 @@
    "social": true,
    "date": "2026-10-14T23:00+08:00",
    "first_seen": "2026-10-17T00:27+08:00",
-   "region": [
-    "新北"
-   ],
+   "region": [],
    "arrival": [],
    "stores": [],
    "resale": false,
-   "shop": "胖寶貝玩具店",
+   "shop": null,
    "branch": null,
-   "score": 2
+   "score": 0,
+   "event": true
   },
   {
    "id": "4fb8dd4dff59e7f9",
@@ -2061,7 +2129,28 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
+  },
+  {
+   "id": "a0d5f893f199e086",
+   "title": "售 全新未拆正版陀螺 UX-20 850元/個 BX-49 700元 BX-23 800元 CX-19 650元 BX-14 400元 BX-02 500元/個 高雄可面交 外縣市可寄",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE05VVJWaFJIN0Y2eGpLdUQ3RGg3YUhrQ3RvZGFNVTRSRGZNMUR2X2RQd0k2Q1lSSzdoYjhPcTFCbmxjV09TNDZ6VHVTU3VabjE5RzI0SDZsWXhvVjUxS1ZpRDhkUVpfb3Z6TmhOQ2cxd3Q4STNNdjQ3UTJmSQ?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-14T21:14+08:00",
+   "first_seen": "2026-10-17T00:31+08:00",
+   "region": [
+    "高雄"
+   ],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
   },
   {
    "id": "79fc88b8f9223850",
@@ -2080,7 +2169,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "0aa22d0c52b03414",
@@ -2101,7 +2191,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "368e9f44e82968c8",
@@ -2122,24 +2213,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
-  },
-  {
-   "id": "ae392aedd939522b",
-   "title": "【2026/10/17戰鬥陀螺G3大賽 公開組 名單公布】 【報到注意事項】 1.比賽當天請攜帶證件核對本人身份。 2.請於10:55前完成報到，11:00準時開賽，如現場唱名3次未到者，視同放棄比賽。 3.僅限使用官方正版「戰鬥陀螺X」系列陀螺參賽。 4.報名後若無法出席，請提前3日",
-   "url": "https://news.google.com/rss/articles/CBMiuAZBVV95cUxOMlZ3aks2VGl2bkdjMERkNlRzeU5aalFRYW43OERPRzdPSVI3cU5WUERMMXBnaV9BRkJwYUFKNmNqdXJrOGRCMndWd0FBRUpERVhqNlg4anQxTjdfZzAyRHd3NzZFNTZMYUVTZVk4dmpFVktZR2F3aDloRC0zbEFLa0I2U1UxVVhkRjhRdEFzaXhmcU05UmRrRDJLdXNjbkVkc0ZqeDdnNmc5WGlYdlU0c1BFcDk0c0J1VWdZM1RhUnBqSDNfV3J3RWROUlBrYnhIb2dRVEIwMThXQmJuZFgtYkJXM0pCSFpORlhsQzRBc0FHU3ptOUdKVjdZZXBDNzV1M1BHenFxTVhSZVd2bUM4YnpxZG9LaklzRGRic0MzSVR2bzVJNG9KTkRpYm1Jb09pdTQtb3RBWDF0dHFvY0dtVFB4RUhEWjhDM2MxZHJSbTVhQzl1N1o4dE9mYlU0NlA1NklkMUFCZ0tkQ2JWUlFBemd0RmpfQ25JLXUtUjF4ODBwdjdHc09VUXp3aTJOQ0ZsNkJYcmY3SHQxRFBtU1huYndvS0ZOYjFqTTV1QjMyZ3RqbFVqd1NoV2VVM1lyWVB5VzdwcGN1RHpQellxdmJiempMSGx4MFhSQlNsUm5DbHFqRmJYSGlXUEVsSjNvOXNDOW9rQjJmSlZrQjlOUWxOZXBJb1p5Z1BaLWQwRkhJdGl0VjZyNndtREVEamhUREdGbzdBYmt5Q0UtamRoWVNvb2NpaEhmNFR0M2dqZXppOElYejlFX3ROMTRBSkdpU2FTNjhPRjhEczM3MGxGLXM5ODdfOXFHaElXLVRWRGhtTXk4cFlhQUxyTm1TQUVtM0ZtSGNOQk1jQ29WcWZfV1p5MjRrei1mRHNYc194VlV3U3F2ajlGMUlQazBVUFNtUnBmYnNrbXVlcmpWTm55TjNJbmZfZmZnY3FvT3JTbDBOeTVDNTN6NUdHYU1QOXZObmgyZ2VWV2ZqbDRmU1FGdE05eDJ1bnJOTnZvYnBYUHMtV18xSGxnVFROS21vbWNONG5BUkhSMF9Rb1dvNEdFLUlpOEhIdUsxcUsxQkQ5NkhqYm5uMnRVTGx4YQ?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-14T18:00+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 0
+   "event": false
   },
   {
    "id": "64bb77a6ce65c971",
@@ -2156,24 +2231,8 @@
    "resale": false,
    "shop": null,
    "score": 0,
-   "branch": null
-  },
-  {
-   "id": "c6182f327e41161a",
-   "title": "戰鬥陀螺X親子雙人組自辦賽😁 ✅比賽採2人一組，3顆陀螺，零件不可重複，比6分的對戰方式。自行組隊報名參加。(詳細規則賽前統一說明及發問） 比賽時間：10月18日（星期日下午六點開始報到，六點半後補，七點開始比賽） 比賽地點：德義里活動中心（信二立體停車場1",
-   "url": "https://news.google.com/rss/articles/CBMi1AdBVV95cUxPRG1oMEdIamNqQW83am9TRnI0YXk3QzIxWXV1YVFwQkNBVEhzdS13UjFHWE1rX2ZNT3pOVVlvMUlfZEQ0c1RtYjBDMHd2d2FxVHl5dWd1R1ZYc09LTVRWZWU5eHdMVW1ITy16MmhFVG10UHNGeEtDMGFNVXlsYXVMQXFJUXdsWXZfY1Y3WXhBWjFPNk1LRzBrdHpBTzZiN0NucnZfaTRIRjlydXRGbEs1d203NE40VjhENXBnbkNFb3YydGh5Z3dVa0Z0Wi15enJ0WnR6aVJ0MnlkcmVWOG5UWVJYbTNUZjRUVkl4S08xYzlXRloyRnpSMkF6czQ1R2pfT3h2eGlCZmhER1ZyVFFyNXl1Z2V6bFZScHpncjBwOEpsNHBDeW9fZVJWRnZ6Ry1ROFh2Y2RrLUFDU2tTd0VJaENNT05ZaHk2MDFlU1J3VlprcDRxOUVqcUh6dFlSYWozY2lCZzREOXBtT0hIYUhaeEdHV2dFOFc2TG0tRlBoR3RLT0VaQm5SLXZxZkgtMU9PMU13TkNDMTZpMG1fM0tGODhVNlNXRkVheW5NYWJVTjlpUUpzS2hERXlLZ0FKaUdQTjU5SlMwY2hBNVlISlJvZVpYZ3pIbjkzWFFlSFRSc0s0TU1pZ09xWXEyMzRsSUVENklUYVFLLTRUNW8yQkl4OC1SYndxd2hrSHNwQ2lJOGZNTTRWMjctZ3ZIWlZqUkc0NGJBLVJpMFgwMUJncVpyaXljTXRMNkFHbXQ5Z0xTd3ptNTJoZC1zWXFZXzRJRS0yeVRiSUFkckwxUXlzb09rLWdjRkpyUUFTYVRwcWRaTGV0Z0I3NEJCc25PbVJua05yZjhkQ3JuZlQxTHNGRWtIS3c3Q1VTLW5peG14TTRDQnhTRTNER3R6dEFHcm1ueW5wei05OF9oRjZlUDR2YXZaS3NGU29IMWg3ZHREQ0ZpaVFMQkJ5YTFsVFl3bDVLdTdNM2ZPUjFaTG5XSzBHUWtSSy0tbERsX2c3b09CWnczdVNYZUU4ZjZITlNNNlJFc0FvUEpfR3hRaTF2Z3dWWG8xcHlodDU4aGVMWHM0dERHTlpILUotbkVQN0I3N0h6WTVkaVZ4UkFBaDJmdDZJazRaMEQzandHVU1jTFpWeTljeDZYRm5mSzZGS0QxOG5hSk5CY01GRWxfa0VWSDgyNlZSWXZIV2NVWTFlcVZ2cVpVNlNIZnpucjFCS0t5STNzcWVHVFp1ZXFpS1BrSGhhc3ZoQzRsSTM2Ny1DSDVXVFZCcFBhTkhzVG5KMHNod0hSMDNHM3Rleg?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-14T17:09+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 0
+   "event": false
   },
   {
    "id": "4a5c1a9fc7a47e21",
@@ -2195,24 +2254,8 @@
    "resale": true,
    "shop": null,
    "score": 3,
-   "branch": null
-  },
-  {
-   "id": "28aac835adf3eefc",
-   "title": "今天中興王陀螺季賽積分賽開始 還有兩個名額 要報名的腳步要快",
-   "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxPeHl6YlJxVVVNUk1qcmtwYmJ6aVdxLXZIY0NTYmV6SjNLN1gxVkxrOGpGSzh1WjlSUW5OcHYtR2o4dk5ZQUdZUXJRc2swQWlCSlN3RE9yeVJJdHNsT0xNSDN5OWU1SGtOamw2TlQyeVNfQWFrWDBIa0ZMY3hHMzc1VkRrd2xPcDFBSmp4eE90T25kODd1dDhZV2dWVjRuaVhHSzBKZTQ1bXptLVN6aVdMQURRbm9DenZXSndCWEdua1Q2MkJURUtVbU9fZUpFRXRHVU1vVXdSa1VUc1FWNVJFOERlTExrWGlBZ1puRUdKUW03NUF3ay05bERmR1d5UExqOHZIS2l6cHBqNGhUNnJpRkVMYUFyNGM0VVJFSDFyeXBpY2piNWxfQ243c0tFTDZvNm5PR0hQMnJKOUlLNUMyM0hpUkhhLWFJYlFVSlNDTS1aMl9oblFjdzk1Zm85dV9aSFhFTGRHeEM2LTJDTFNVSE40TTktNzNkMjBmS2FCQ1RhTldBcjVZQ1VkeTIzVnBsYVphQUU1QkVXcllTMkRyNDhGeWpXX0V3U3JYMjdVeHZvZGJtb2ptMjdFNUlidw?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-14T14:23+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 0
+   "event": false
   },
   {
    "id": "2fc5a57250bd0e3b",
@@ -2243,7 +2286,8 @@
    ],
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "09e7aa3f17a5efd1",
@@ -2262,7 +2306,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "0134aad1e452c64c",
@@ -2281,7 +2326,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "10b75154bcfeec98",
@@ -2309,9 +2355,14 @@
     {
      "source": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lcEhabHhCcXFPUF9samJxTVN5RHFEVXRDSTlXeWFVYlJmV2R6T21ENmpUR3pJc3haeXBLVXpDZXVkbVdDc2VmYlhiWFUwVWhsdExtNDd1MVVVWTJZdEtLU0FxTmNuM1BPOENtbkVZTzZ6czl1VFpBWjR3?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkTS04ZHl4V2U5XzQ5Z012Z0ZVenNLUlRVRmo0WnFrbXZGZFZ3anhfZS1VUWkzd1dWWnA1MTlfTWlxU0ZVYWt6VFloWTJQZkpIV2hGTHc3Z0pCOFg5VUU5N3ltQklEUGhaWkZrMkFSdzMtR2hCbHJyME44UQ?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "0517f484d9a4042f",
@@ -2328,7 +2379,8 @@
    "resale": true,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "c22a4d97d87379b9",
@@ -2345,7 +2397,8 @@
    "resale": false,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "114fe887e85bd056",
@@ -2364,7 +2417,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "4ff99378069a6eb4",
@@ -2384,7 +2438,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "926e0a841cdcaaf7",
@@ -2403,7 +2458,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "6599dbc368cc93f3",
@@ -2420,7 +2476,8 @@
    "resale": true,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "585149f870ebbae5",
@@ -2436,10 +2493,11 @@
     "現貨"
    ],
    "stores": [],
-   "resale": false,
+   "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "1e9c1859e1d22bfa",
@@ -2459,7 +2517,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "660761f86cec6fbb",
@@ -2478,7 +2537,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "03511f0f83456a0e",
@@ -2497,7 +2557,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "e765893884e4eee9",
@@ -2516,7 +2577,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "977df2e29e391b0b",
@@ -2535,7 +2597,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "6a788577639fa8b8",
@@ -2556,7 +2619,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "372d9d410221667d",
@@ -2577,24 +2641,8 @@
    "resale": true,
    "shop": null,
    "score": 4,
-   "branch": null
-  },
-  {
-   "id": "6199755cccb4f3f6",
-   "title": "宏富玩具10月第一場戰鬥陀螺G3比賽開賽啦 比賽時間:10/18日下午1點半 比賽年齡:6-12歲(比賽時需法定代理人簽名) 比賽地點:宏富玩具門市 (無須報名費) 官方獎品如圖 開始報名時間:10/16下午1點後 參賽者限直接至宏富門市報名, 名額有限額滿為止喔 ⚠注意事項⚠",
-   "url": "https://news.google.com/rss/articles/CBMingdBVV95cUxOZVBXREdSM05faVVBTmRNR19lUXdNYURzZzkwV3Q1OEk2RThueXF0aU5rSWtNTVBkNXZSTENhQjRIRDdyTTJEV1VJZm90Y1JwR1poVkxiWm5YV2NLcjdSSjNFRTBNLVA3RGdJTTdxYXlGUkFEUm84dTBSTVBVdkV2WWxNNUFMeGlsd1h2Ykh1X09STkNTeG1FMFdYNlh5d25HZ09QVF9OM05PQUpTcjh1UkM3OXdDdEtldEFqMGtWblVjejg1SENBRWZUNm95S3Q3cFZEZkZzS1oyU1piNGZlbzRkYzRodG9HQ1VlOHNTTW5Pb2xPTEI4QzdHZU9EMWFQUWtLMk9XMXVRTExNcEJ5OTlYVXI3aTN2UDhwXzFDenBkQktxQ2RSblBiaDA0VjVvcGRwR1NyQlJ3SFk2UDZ3Y1MyR1YxVFM3QTg1cWphanpPdHR0RG5wQ2hjZzZfQlBKUnpKUTBPVjhlSnVfWVdTaEtfMXVHR1ZPS3dUVWZPNGR2Qzc2ajVRQ1FEY1JqYWFfdk5qSVJlcEJmU21UT2ozY2FuVFFXVWxSWVhDRGxEVHZZM21oa3djRXNNTGxpdWJQakxFUUcxVkoySUg0ZWlhaS1qa2tTN2xLTElDUkpWMnFCUmhmLVczdjEzU3NYZGVtTkZER1FWTTNhRUVHLW85QlBfZHVyTkVoeGE5NHJuSWd3ZjRsb1o4dUZFaHA2YnNBT3QzaFgtZXlQWlpFeWRSczJMamRjcGxVNDdMQjEyVTVXRDNrQTk2MUZwR05VVjRkZVdwMXV2YUNoM29qZWtiQkhfUEhyaEJvMTRwWW5rb0I3UExNSkxtS1BYT1NKQ2xBbEk1UkYwRzZsTjNfR3BGT1kzS3RlQXB0U2pxcWJfWnJ5YU1vNFN3eG95VFV4S1NXb1Q1X1RlNHhLbFdBbVF3YV9kanVkdUgzMThOSEJCMC1UVEpDaGVMUFRMZHU3aUFsRmFPYU9sWWhlTnBlZm01Z3RZMUxUWktCdTJBaUNhSFpIUFpmLVRROXV6SHlaYXlSd2lFZUFCUzNzLVhYMko5SGpEOTFJUHFXa1FsMlRKdElvZFhJdEdGTk85Rk00VGp2MUxKRld5MGY0Mjg4WW1TRWFrTzZpNjhPb0l0QmpWZV9xV05nSEdLOVE2SGR6MmFzc2JnWm15SXdRVWpKazdmbVdzUUZfN2l1eXdqdHdPSlJ6U0ZyZFpzNVotUG1rZw?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-13T20:52+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 0
+   "event": false
   },
   {
    "id": "877ea10a751c1b05",
@@ -2616,7 +2664,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "b41fd82041e896ea",
@@ -2636,7 +2685,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "a1b51e20f4c20c13",
@@ -2657,7 +2707,8 @@
    "resale": false,
    "shop": "玩具e哥",
    "score": 4,
-   "branch": null
+   "branch": null,
+   "event": true
   },
   {
    "id": "4562c425c79384fa",
@@ -2686,7 +2737,8 @@
      "url": "https://news.google.com/rss/articles/CBMivgZBVV95cUxNX1d3TFRZbVVha0V0M2ZuMUExQUxYdzhkNEJlV2dTeVpEMkl5N29OWkRrR0pDa1VlQVJOLVVtbmZsdXN4d3dfZ0FwbGRqeWhQZmgzZmR4WUMzbmRLTGJkY3IxcHJaTjczTmhJNHZlOXJZQWlRNkk0TUQ3SVZEay1VM1pMY2JqalhLNUR4cE5UVXVRdWhRY2I3U0dpOWNDbjZFN3FiY201OTNLSzYzZ3BFbVFfOGFIc1BIdGdlbzFjNFE4NWNVYU1qZi1HeUJTZVRPRkgxRjlsYkJjZGpBWHhKeWJXblhIdGZXbnpsTXVpUUVWdEJEUEtERVF0a013VlpneXIzekZOR19Jc2NoSzNfOG8tUHVRb1hDZUdOWVhrdS1WUXdKczRabi14SXgxUHNpd1hJeFVGdlZWSW4xMUJwOWxJSTRnWVBXX3hYOFFwM3JLdWxOcVkySk5nU09XVUdoMFVOeDFxeWRrLUVjMGZvSnNBWkdqSi05elFNZ3RZaWJjSFcyLURpYTh6djNtYl84OFNNSk9aRDJEaFVzdjMwQzRTM2l6SUJsSzNyRmcwb0M3ZXdjYnl4ZVpNSUNXOFRERlB4b3pGVE02bXNpUEFkTGp5UmdJZTRwdnlVLXA3VE01ZEY4bVpUNFRqMmk1enJXSGtualpZMjgzYXFMdGJ0WnZiRW5OMVdYbm1mRmhYVE1Nb09zSzBlUTRuUmRnNGtQQjFiYjVURWhocndteWZlQnlDMHVHcUFaSWo3V1YwX3lxTmo5ck5xUWFkbG5lcWd6VEdrNTRXN1lQRVRLVlhqY2h0b2swMGZXNmtMRlhpcUxmMk5KZWRfa0xxSGg3OF9USW4wckREN1UwdEZYcGtTa2loQmJYcTRZQXVMNXFwOGlfRGtWUmNUSUdqblowcVhzbWhSUDZENGU2Rnh3S0tpTUE3Z2ZDQWNDcUFGN3NlZmpQS0drT2ZqWWE1cGNQclNyaGh6Ym5UTEdaMktuNEJOdUdpZ3RJMHE3Mk5xbnBqXzU1Mk5nYWV0ZkJpWnl1bEJBclhzclNiNkhhZ2NtU25uYjlOSkFReGNtbk5QNVpJMmtnckFQanZjdGo5SUNIdw?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": true
   },
   {
    "id": "34e6f8a008ac3403",
@@ -2705,24 +2757,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
-  },
-  {
-   "id": "abc996341c3b4529",
-   "title": "⭐️10/19大人組戰鬥陀螺參賽名單公告⭐️ ‼️請參賽者本人務必攜帶證件報到‼️ 請參賽者在18:59之前提早至櫃檯簽到報到，並填寫比賽順序。 19:00一到，唱名卻沒有在現場的話，名額將會直接釋出給候補喔~ ⚠️欲候補的參賽者請務必以『本人』持『本人』證件至現場",
-   "url": "https://news.google.com/rss/articles/CBMiswdBVV95cUxQbEJHd3k2a1JhQjk3RHZUdXhTNlZjTkVRZXAyeWl1aUlGTUpNMEZNT2ZYRkJZeklSaGdEdnNhTFlrQjhnaVdSZWYzSWNnZ2JLNFlFckVIeEVnOHRPUmxrTWJrNFdOa0RTV1JyOHpoeVl5V0Z4d2xlRzczSTc1ekFBVnd2RFJyUUtlb0t6TnBQTFJ6cEg5a2VkZWtaOGhVMERIaGJuVWR5cV9kdUtNUzBUTUZUU2F5d1hMWkdyNHhiTENCOXdoNHBIaWJ0OGR0SUtpaEtQckdsbE9GbUlGWU9EOUVuMG5ncGFJZG1PUjNNLVE2TTJfRE9OdVZFOVBRVFpIVEpLbkZyUXFjTGktM0lESmxoQVdQbzFoMFUzczFxN1lRcHFPN05BY3V4SFprTW1LUzc0RHFjY3RpTVFWdlhvbDdUblFycWNCd082VzQ4N0JvczZheXJCaGxOc3FCb0YyZGN1MV9pTUVZMFUwejYzYW9VcG1VOXAtTWNvNUl2LUdwNlJac3NUR0NrclhMaGdwUVFqanVONHhjaVlJWE9zQlNSU2FRNVdPRXRHSWNrRUQwS2w2Qm11RXBTVTBIbjBLQm1mb3lyRGg4LWhBY2VXbk9nR1haZUtWamN5WFBBa3ZLRGNmMU9lUFd2MnY1WU9RV3ozdmZoSmxoUGJBTkRwMkExbGZFcFU5cEdDMEF2SnNiT1EyLVVHY3FFWEgyemw0UHQwTlB6VTRWMVhyNW1CN1RkY1RQWkFYZFJSRlR6NENvVE1rS0ZBQ0RncU55a1RKVmpnQlhzRExCQ1hwWmNTSHUxai1ZTHlMZXMxMmw0aUtzak5FczZ0eERGVzdrTkV0MXR6dTMxSHhLWGp2enpsWEtWT084WU9jQkg3SU1wSFFGZlAtal9OYkc3cDh1Y0pDbzVacHNubDhVdTBCTUJWWG1DYm84S1VXbEJwNzMxYW5nbTJWZUNRN242cFFGbzN2V1NPWGJvQzQ2OEhnSEUxOGVDTDZ2SDBRc1B1TW01c0N4OUsyVkxSMjFGU29YU2hnOGJNdDF0UUJrS09ueTUzSnJfWElwRkMxdkhBSTlHZm80dkhWTjFfVFlpRktTZTB2bXk4ZWZ1SHZqOHpLRHhMZFZIdENlUm9RUnM0eGJhb3ZRZm5JUy1KaWh0WjRDZGpMZzI1WVROd3F4YXpkNkJMc3FZWHlYY2gzTE0tOW1UVG9EZENwQlNHOFJaWklIYURYcFo2UFRKekMyS3dKdUZxWUN1QQ?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-13T13:39+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 0
+   "event": false
   },
   {
    "id": "71a1e3cf049a703c",
@@ -2742,7 +2778,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "f9323edc3259d0b3",
@@ -2761,7 +2798,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "e46c3ef89ff29aaa",
@@ -2782,7 +2820,8 @@
    "resale": true,
    "shop": null,
    "score": 4,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "d73484459e815975",
@@ -2803,24 +2842,8 @@
    "resale": true,
    "shop": null,
    "score": 4,
-   "branch": null
-  },
-  {
-   "id": "7730a79be9c8fcd2",
-   "title": "2026年10月份 戰鬥陀螺G3比賽活動公告 (此場比賽為兒童組6歲~12歲) 請先詳閱以下公告 1.同場比賽一個Google帳號只能報一個人，出現“報名額滿“字樣就是無法再報名，只能比賽當天現場等候候補 2.填表成功不代表報名成功，以粉絲專頁公佈之參賽者名單為主，比",
-   "url": "https://news.google.com/rss/articles/CBMi7wZBVV95cUxPQ20wX1BGZEk2amRvX000dkxMbWJxalNKcWxhdlRjU3NENHlSMy01b2hFMUJLNG5oUUJWSGZKN1FTNTlpOXpsc0ZXTUpRbGh3N2E2WmozRW1hcFlYX1FZeVYwakhjWC14ZEtWSDVPYmRGMnNfaG9iNmFZS0xpRXdkb2lsWFJCRllDOG54YXFHNkVuNUFDdDU4OTU0R0diakZjQlpaREdwVjNraXVvMnZwSG5sS2ZfckpuUmJnM09QSG5wOUk2Y3pNd1Bnd0tpdXliRXFUY05DWEpiUGZqbTREdG9hRTZRTzNEdDBLTml5X3cxZ0VRalQ2dVhEbUt0Z1M1SE5sNDB5eGV2MExTUHd1a0pZTkpCN3d2RVpFc2JCdTJoajgtOGRYN200RmoxU0hFbjlNU08wbXNLYTZqZVhhdFFnSC1JVEpwTU0wc1hLQnIzWUtHS1BzWFEwODZDREt2cFRjUktvWkoyVVBELWluZk1seVhMRFFiRnZFMGFtQ3A5MDN6WUJRWXduRmtuMGR0UFM3Ry05RTZSNWl1RlMxUjVMNi1QcHp1VUdIWE11Ni1TSDBxTUZLZUVjaUtGdGRFNXY0LV93TFJfMXJGUmRhNVkyRmhkZ2RKLW5RQTRXQUZHQlFCd3RnU3lLWDl4MC1MOEQ0V1Q5aElMSHpYcDEwVGlyNHNreWVPcTc4cF94VXN5S21MbG5JaHk0TkVKNFJ4dTFGUzBqZnE4eWxRVURydkpURjZmYVYzdzZHZkJPYm5DaUVSN245N0VaRDdZSzhUaElJME1fcFl5andtSmpzNy1aTkR2VV9wdVB2MmpkR3Ayb2h3WnpNNG8xbXFoR2NXMzdxV3pXd1NQd1VnWEU4UnROMndXTG9qX0RPRjg4U2NQYlFtS2hxYkVIN3lnUFdtSU5WaW41VWhOVGFVaWdsVHhmc3FHaVhuVnlTZWczZ1RPTTNhR0twdDluNUtrN2dBZUw3dVFzNnBIV2liQ0NtU0EtVnlBWkxIQWNjOHJ6QzVWZ2lhNHk3bTJvMGJWaTJJa3hyY01PcVVob2VtcTJILU9CNDJyTkJkTUw3Z0xrbDBRWVJ5REpHMzdyS1E3b3FRRGJsYlRHaVVrWnZ5X0M1bWM4RzFZMGxPNEtKbnNqbjYtVlVPZkl3R245Rk9PZnc?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-13T12:04+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 0
+   "event": false
   },
   {
    "id": "dcbbc33671548280",
@@ -2839,7 +2862,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "116fd449dd9a3887",
@@ -2859,7 +2883,8 @@
    "resale": true,
    "shop": null,
    "score": 1,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "4622e30a44d92f63",
@@ -2878,7 +2903,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": true
   },
   {
    "id": "9f7250424b490c24",
@@ -2906,7 +2932,8 @@
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51bzJnYWpJa0stSVE0SjByNUltdW5rSVowak1IWi1CbnE1bGlDRnhlaGp4cUFaUG9KZER1aDluQTkydmdNMEtGOUx0TlJrdDM4cENMQW5YWnFITUtSUmxuUlExOGZFOG5nMW9aX19lVzhXYWtmeGJDaW0zaw?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "4fb83bfd41c5dff4",
@@ -2925,7 +2952,8 @@
    "score": 2,
    "resale": true,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "cbcd9aee81bf1315",
@@ -2944,7 +2972,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "5f951d10011cb69e",
@@ -2961,7 +2990,8 @@
    "resale": false,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "f75e283cd8ad1a09",
@@ -2980,7 +3010,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "d7b4b19c7415f975",
@@ -2999,7 +3030,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "44202924fd8cf941",
@@ -3018,7 +3050,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "457ed021da3125bc",
@@ -3035,24 +3068,8 @@
    "resale": true,
    "shop": null,
    "score": 0,
-   "branch": null
-  },
-  {
-   "id": "c57b2dd35b94f6ab",
-   "title": "🏆【星玩具賽事公告：戰鬥陀螺 X - G3 比賽開放報名！】🏆 各位陀螺戰士請注意！萬眾期待的 G3 賽事 即將在星玩具點燃戰火！ 想要一展身手、爭取最高榮譽嗎？趕快看準時間，準備搶先登記！ 📅【賽事詳細資訊】 比賽時間： 2026 / 10 / 17 (六) 上午 11:00 比賽地點： 星玩",
-   "url": "https://news.google.com/rss/articles/CBMiuAdBVV95cUxQTDNtUGZwOGJzNkJqU2VtdG9hNC12cnFHQXZ5TnVuQzN0MjJoVzZiMTEzYXZpWFFzTDFJRDJ1aHdOS2kxT2NPOHpWLURjQWQtTUNOUmdMYUFZNmRoRFRRd3Z3SVg1U05NdTdMRTFuQjQ0V0JZaUYzR29CRncwWGV0QVZ4aGgybjdLWC1Kbm40eFVUZ2liWkUtR3NPZGY4eUVQQzA2Ml9CZHo4Z3ZlX2tnM0NPOWt6R0dveDJKTGVYa2VYX1Y3R3BCRlRpUFE2aXdORVdLaU91SzMxVVE0NUE1TzR0LXJBZEhnQXdtemp1amQzeTR5WGNobVp6aHJtXzhGc1RkeWR3d2dJdEd1MlU2WTh3YWthUi1udnl3Vy1HS3VOa3pEV2hqR01faHprTmx4RDIySDFvX1FkOWpiSDlyS0hnNTV0VDRkSW40MUZEUGdZV29VNHI2amdTQWZSSXU4bEtoYVhlckc0R2xnS3FKcVRCcVlDR2x3bGFRa2VkTFRNTzh4TjlnSFpFNGl4YVk3NlRTTVhyYV8tS2lUeXNEM19FemN6RWdUNnpwa1JuOFRFeF92b1d1V25uT0RNbFU1b2hndDQzWThjQ2hlZjZZZDBnVldybEFaT3RaVVN3ODRqNGF5Q3RrbkVLRnR0Z0tJYTJ0NjlVMU1uUF80dEpYbGZHVzRlZ0ZjR3ZFeHBaV09kYXAtcExBSnF3SmdLa3J4WTBRczRzMGl3b1lTUnhJY1hMNmJwY3ZRS3JidzNhSkxiUElOV2RtMTZMbzhPVnFVdnhwMkZzR1J5djB6U2xTenNKbTBPZnoxX3o4aHZDQTd3aU9rSW9ZbTJEQjNobVJEcVBaNVEzRFpWQmI3NExJdWk3bUtTLTdQcVlUTEJibkdNQ1BwUWI0MWdoMWFLRGZ1UzhuWmZEdVdpN2oyM2lSQUFteWg2NWctdVVIMUx3TUdxVkVsbV8zd1BINWtHbTFtWHpBSVY2aU41NWNSYkpiVG53V2trNHI5OEJfZ05RdEtQcGE4YU4tOHlHNzVaaV94VTU1Z3VGd2dpd1VoX1RwNDMxdDI5dGlPVF9QMzRFQlNjSDdWa2xUUWpYcFZJSXlEWGtWU0FHaVE0Q0Q0alA5cGc0ZUhYVjVOUVNROGRhMVRzUldmaDRDc3loN3Q5RkdIRjRqemsxYVc4bWdEQ0pwY2hOX2RhVkQ5eG1iOXVnR3dVMF9pVmRMbmFKN2Y1VmlhTXhmcDJjOGIwRE5RN3hXSjVUcUQtZkk0?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-12T20:00+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 0
+   "event": false
   },
   {
    "id": "64228f2a5698501c",
@@ -3071,7 +3088,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "4061cca3c75ec365",
@@ -3098,7 +3116,8 @@
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRVlRacUVqUjBhRFJnaVBDWFVjSDNURmgwbDNMV29NUkNUR1VXS0loTk5MTHRhci0zaVZNbmFOUXg3Yl9XVHpxM21yOWZFZjlLemhiaXBTZjR1bmlnOTJDUXh4RnlKNF9tWTB0dTVQVkdRRWYwR1VWQlhrMA?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "afe1b4d4b353d1c7",
@@ -3117,7 +3136,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "849b10901335e032",
@@ -3136,7 +3156,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "856055f307678e73",
@@ -3156,7 +3177,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "e66d9ae7b61ba7ad",
@@ -3173,7 +3195,8 @@
    "resale": false,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "d2100e4c25326df7",
@@ -3190,7 +3213,8 @@
    "resale": false,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "c62f17abb7352dc8",
@@ -3287,7 +3311,8 @@
    ],
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "d44ce0b46947b612",
@@ -3304,7 +3329,8 @@
    "resale": false,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "5112562384710f74",
@@ -3323,7 +3349,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "c2a491e668503c07",
@@ -3342,7 +3369,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "cc778183110dbe69",
@@ -3362,7 +3390,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "993e0dd37f4d806e",
@@ -3383,7 +3412,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "9235df0fba4dc5aa",
@@ -3404,7 +3434,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "44fcbf3cdcba9fcd",
@@ -3429,7 +3460,8 @@
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QYlAzUDZGZVRlTlJEaEljRGlKOHhyZDF0d2NnY3k2TW1vbF9nejN2ZVhZbmRza3VUdmlTN2hwZ05VaVdYdGRjdzU1WXY4RktxaXBydHZUS0x1aTZYNnhDR29hMXp2cEVzQjBvM2UyZUZOeUdoeDdmRzlvRQ?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "350b655017543377",
@@ -3446,7 +3478,8 @@
    "resale": false,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": true
   },
   {
    "id": "8b3c0eff952753f1",
@@ -3466,45 +3499,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
-  },
-  {
-   "id": "dc272f75d8c05476",
-   "title": "📢【童無忌玩具｜本週賽事公告】 本週六 10/17 將協助「鹿港鎮長盃戰鬥陀螺大賽」活動，本週店內暫無賽事安排。 想參賽的朋友別撲空囉！ 感謝大家的支持與體諒，後續賽事資訊請留意粉專公告 🙏 🔥 10/17 鹿港見！",
-   "url": "https://news.google.com/rss/articles/CBMi6AdBVV95cUxPcWF5YTQzSGVKUWhfZmRVRTlmeDBqMjFmNlcxYzRTa1Bvd0x1OTVnVC0xRWViUUJHR0dkMy1yR1ZCYzVqeGpBQW1vSkcxVHU3OWNXa295bnRjSVVrc0ZGSzdYcGR6MkFjN1VPMkFtQ0NaeTdoWDNQaUtkbWdQZy13RXZUTXBVM2owX1hSbmdCM0dTYzVVY1ctcEtWdXo2Sy1mR09GVXhadzJxNmhqNEx4YUVKbW83MUJmNUh2dWRhQVRza01mSGU1LTRZWVI0U1h1UWVnZnd3YlNGbEd0U0pSTjNmR3NXdnZXa3plYURRMmxYVmFxUEFmdWpmd2REZ3dQZGhjdHVudHNld0ZocllzUmJ6T0dSOVFqbkQwREVYMVh6bmk3cHhaVmE5UWNZajZJOG1xcGJJMUdCVXM0Y3VFVW9wZVRlYjVwcXA3SDlsVlpMVnhiNlRfRkpKUmxPaFd1Q1o3VmxlOE42MHkybUFCY0NkQkEyYnVnVzQyQnBWbGpKWWgxbkI1MlNWaVdWR3N3bXU0NGIwMjNMd3ozT3N4OWFDcmptbU0zS3dwMXVxZHVwd0lTMExmZzhKWVZnSmhkVDhNdUJnTFl3TWQ3UVZKTEhRcVhzUmFYa04tTUlacmwzR3ZkV3dHUTNtWjlNVjhlejg1T0pfQ1lHbUt4NkI3TFpfNlRCT05yV001OC16ZG1zUHZBT1ZYclZQMXJ4T2JhdkZlVjg5WGE5d3pNMWRxdzhPUkJFc0F4alg2RXFkc0Fva01NeDVtdWdJRXNCU3g5STROQ2tjQ3BCOHFFdl9JYW1iZ1ByRWEzckVwdjA4SDNCTVg3dVg4eTNBQ3QwWHFvSWZqSmlodFJOUFBuYmhnSnk5WmRPZ1JZMzFuNVdtbjVNMXpFVW1vZEU1NnI2ZllDTXU4T1hzWTloMi1qNW9EaHJsZFd6NUJ1aFVBLW5rbFVlTG1zTFdiRTlpRWdwUHlaLW1xRFZLb09YakxRY3hmTnRXdjhsOGotUDJxaHZ4ako0ZFFYdGoyRHpQUWdoWUhNUldmdEh1aDd3Y29Nd0tzOE9UNWJjUHgtZmVpNzJQS2d3VFZUdUpCaUdmNVE2SGxfbldpS2w2VjMxVGtEbDR4LVNoUkdROEFJYlhucGVMSlBaOVdaYVNzVG1HbDZWS0s2UVczdndnM01iWGJzR2ZiS0dKSE1abzdDMFJDNllDd3ZGaUJQWUtRcVRFQmRhTm9jaFdLMVpNOC1XUm5PMEZYRHFTLVNSY3NxS0FXOE93aUZaN1pxN2xEMEJ5ZHI2R2ZJM01pbjhZNHZjaUxVT2NwNXN1TUI4Y0hH?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-12T12:05+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [
-    "彰化"
-   ],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 2
-  },
-  {
-   "id": "679ad1c1ed45a861",
-   "title": "【10/11華泰盃陀螺 X 比賽花絮 – 華泰玩具宜蘭店】🎉 華泰盃陀螺比賽，圓滿落幕！🌟 不論是勝利的笑容還是遺憾，都是成為強者的養分！ 感謝各位陀螺手與家長的支持，讓華泰玩具充滿了歡笑與熱血！ 🎁 【10月加碼大送禮】 謝謝大家熱情的支持！10月份參加華泰盃陀",
-   "url": "https://news.google.com/rss/articles/CBMi1gdBVV95cUxNTVNLX1pXaHd2M0dGLXZ4T0Zza085QUU0MFdlMm8zTDFKZmlETUZ0djZ6TDhZc1o0bmVyaG5NbDNEOERHcGFMRWZiZ21pbEk0TldDTU1xRWpkMnJJaWxEZHQxd3BCbWNMQU12UVN5Slp5d1FUZHBMaHBfc2w3akRaR2NZYmZ3UmE1UTZxU25BV2VqNFprSVdtOUh2WFhzQVp6VTZJZ2lwb0J2QzJHMTZlZHMyTUhJQzFpb1pybUNSd29YUDhyRlg1TGkyV2thTl9DV0pDVEZDTDJTQ25nR05YbU5LQjdEMTJvd2xlQ2ZxSEJNMi10VjhWX2twZndXQjZxLXlfYXBQTEtmMzczYjA3d1poem1vMUZrRlRYVVZFVkZLQzVGNnBQMFZ5c053Zk93V2dSZFFjZ1REZUhnR0ZxT241Sm5GbDBUcVBzTDM0dmxCZndJeUVDNzFDd3ExcXVwQjdDNGdvOU02NDREeGFDbUxtYXpmRTZFZjdETTVXaDFTcG42anJITmFtcndMTnAzZWg0RzRxN3RUd2cwUm1UQy0tR1RaYk9xWmdOd0NKWUFOMHMyTE1wYjdLckNhVDgtV09CTkowdUtjRkt4WFJkSE9heWNyMU55ak5DTUJfYWU0cWpkMk5jMngwaFU5Z1lYaHVGT21ONl9nYUhMbjZCU3FMYlN1eUtvLUVfVGRiSUI2YlQ3RU9pUWpkVmdLYzNid1NNcFIzOTU1ci1icDB1b1lpeDR3czVfMUQwUzVlV2czanIxWHZySmRIUldWbTVnXzQ5cUlSMGVDT19uYUVaUHhQZ1g0bHpld2thWGJCcDR3ajh4aS1JLTllVzN4S2tFZFRwSGx4UTE2TTBxWi1SYWNhOWxycUM4cENfOV9uZVNwRDJRVWRNMVFtVGdpUzd3S2FrNHY0eVZRLUNoRmFFaUN2dXJWR2I4UzFyTXF4aUw2RXY1Y0xJSkZVWkNucFhMaHBWSmNHSGlfVmtWbk9hV1B2S1ZEcVpxLVFSanlRYjh0U3BYNkExY0FXUVRMN3U5d0NydDFfZ0lJQ3VlcXpYUDVOU01NM0VLeWRJUWpxOS1UcDg1RHlVbWp3VGM2Q2d6ZWliWkpQTzBGRFlzMVppRE1iVl9vc3psTXVzZ1pUQXNVTUdOdmxXeDNtMVlhc1lxRDZSQTlOYmxSNGNfbU1qWlJ1QVdDSTdJXzhzQlJQczBCcV9xalR1WTVMUzdHemktSlo1c1d0eGRrbXNNTmhuZktWTUZobEk4aFBrYUVadjhVVk9sMHUtNEpvNE05NlRsQS1VV19R?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-12T12:00+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [
-    "宜蘭"
-   ],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
-   "branch": null,
-   "score": 2
+   "event": false
   },
   {
    "id": "501920aaa9ab7b6b",
@@ -3528,7 +3524,8 @@
    "score": 5,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "dfe00a76f56de9b0",
@@ -3548,7 +3545,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "b16371daefe3689f",
@@ -3571,7 +3569,28 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
+  },
+  {
+   "id": "571749ba7ded51d4",
+   "title": "售全新正版陀螺 BX-00售1500元 UX-11售800元 新北中和可面交,貨款店到店，賣貨便（100%取貨）！",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zRlhCYXdnSWRVNWdrVTEyQ1kwVkVwX3A0aUhvWUVLdjlIamQxODkwQ21UcDhKV2JSY1B2SjNNSDhQR1lyV29rWUZlMnJnTE9NTUhjaHQwLTZGSEo1VWpVY3J3QnAyVzFLVXg0U3lESkhaV0F0NlhYbE1fTQ?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-12T10:34+08:00",
+   "first_seen": "2026-10-17T00:31+08:00",
+   "region": [
+    "新北"
+   ],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
   },
   {
    "id": "b593876dc0e929e8",
@@ -3593,7 +3612,8 @@
    "resale": true,
    "shop": null,
    "score": 4,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "64287cc1ad817b6a",
@@ -3612,7 +3632,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "324e3361ba7aedd9",
@@ -3639,7 +3660,8 @@
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TZm45ZnVXMkUwdWVYV1dOYVVIaDZxcHVJa0d3Z0FjR1BPNHJBZl94VHNETklMaW51dVNBMnlmOTNCbVpnd3dnN2ZlUmIyRU5Gdk1CMzdvLUdnaV9kblFuQ0hhc0tPbmtPcndrVGdUcVNOMm8xLWZKVkR3?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "5b11eb4156ac14f2",
@@ -3656,7 +3678,8 @@
    "resale": false,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "3d7b71a976dec468",
@@ -3678,24 +3701,8 @@
    "resale": true,
    "shop": null,
    "score": 4,
-   "branch": null
-  },
-  {
-   "id": "afa54de161106211",
-   "title": "🇹🇼【雙十國慶・熱血賽事｜恭喜所有得獎者】🏆 雙十國慶這兩天的比賽，感謝每一位選手熱情參與！🔥 大家用陀螺全力對決，也留下了滿滿的歡笑與精彩回憶！⚔️ 🎉 恭喜所有得獎者！ 獎項是對你們努力的肯定，也別忘了給每一位奮戰到最後的選手掌聲！👏 感謝家長們",
-   "url": "https://news.google.com/rss/articles/CBMiqAhBVV95cUxPdjV1R0daTDY3RG5wWGViZHF1MktuOWlOTnNOTkNERU9kRjBaQVV2MGtyeHAyUFVaZjRtamFKNGtla25xeENPQnkwU3ZnbUs3V1JMTlNmM3VZSU9VcnZhV3lqQVpPcWtjdDBHYk5MSWpZVzdCLWlQSU5RMm51UElKNnUtTUVKTXJ1bjMyeFRCZjZBbC1iNVoxeVFBRDNOaVEwSGt5Uk0tTEdaTFFZYXJIazMwWTBpWG9XMnZOOFNXc2pzTGZTOGVSRW8tWWxVeHEwak1zX3VGVG1ONm9jUDRvMHJPZ1JONU9XbUQ4VDBDbnNWLTRYRVBZc19kMEx6RHJNejBKYUFDMlBXRF95VDFCZFJxZnVlUGlsckZMWk1WbW1NdkUyS0FpVzVzSG5DdXozWEI0WWYySWlPQkNJNGJOWlBXZHhzZVpKdjV2U1NJeWsxc0lXWVY3TkFtbG90ZEFxdHRXaDhBc2p3N1NQVmpQV3RlMTJ2V05UZTJzRW53andxY0V1cTE5Wm5DRVAyOHBhVFEwSERiNzVFVnRWYlFsdFhfemdFUy1mdkxKZXRCVWNpQ2szbjVtQ0hkR3BfakJkUTMtVkZSd0ViTWFIX1hMd1FEdUVmdWFFS2ZJbmJXZTZvNlpVTnZfRmx5T3A4Q3JaS0cwUTVjY2pITFdtcDFDMXNkYzVzWlNUVXNVUDV1ODdCMWdLTHZKMXlMeEctWnduMHhYcGxrU0s1WmJmT0pWeTF0TElGS0NnWkVBWnlzR01zbVNhbGktUTkzVFp3UUhDV2lSZDYyY25ZYkZWeEtGNUdYR09lQVFiVjRobERUaWM3QUliSHZCTEhuQ1BwNVB5RGRLTTNYN0I4SjFicnhPbjBBVkg1Z1RDMlJoVzRwQUlDZFdtdjg0aHk0UXoxRllBbU9TbVJHajZaa0hRc0xuekUxZUpvaWJORERVbVdTU3UxQnc1Vzg5ZXY4WE1qUE9lMXpLYnRsWmpSTlk3czl1U2hTNDZ5TjBSSWo2NFZ4TzhVVGctUUlxeFJuYmt3SUVuODdpS2M3MDdjV0E3dlVrUlBwMmZRUDUtc0VhMG9zajNLV0tfOHpROVpnYTNjeXRWa0tsN3NhSWRnTXdiY2ZxbVd2WVlTYUJ6Y1ZrVVY4RWxOWWpzRkVaMTFGdHNobGFWdkxXR2JGWmE5ZGZ6cEVQU0hOTm9DZ2RjQUxpUTJiRkFBS3BMYWlNLTRZd1J6YVYwcVA4Mlhjb21TSWU0a1QtYS0wOE1sNnBvc2QwcmE2RUc0WHQyZFhMV2RrRkNMQzl5YVBjaDhWajItV05aM3VoOXpKWXRKT21sNmVZRGVpeEd5QnA1MnBUSVRRWGl3V3l6ejdWN3l3ZF81WjZlUEZJUzZ2RXhkdU5mQTVYenBqTms0V1B1YlhMZA?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-12T00:16+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 0
+   "event": false
   },
   {
    "id": "69a24e21865407b3",
@@ -3716,7 +3723,8 @@
    "resale": true,
    "shop": null,
    "score": 4,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "33d13f607fae3fe2",
@@ -3733,7 +3741,8 @@
    "resale": false,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "50ff490792fa2be7",
@@ -3752,7 +3761,8 @@
    "resale": true,
    "shop": null,
    "score": 1,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "e2e63d89a5db8a25",
@@ -3769,26 +3779,10 @@
    ],
    "stores": [],
    "resale": false,
-   "shop": "玩具e哥",
+   "shop": null,
    "branch": null,
-   "score": 2
-  },
-  {
-   "id": "71bed8409b30aca1",
-   "title": "🔥 10/17（六）戰鬥陀螺X世代店鋪賽 🔥 ⚠️詳細比賽辦法依照現場工作人員講解實施 ⚠️報名需本人親自報名，不接受委託、代理、代表報名 ⚠️兒童組也需要親自到場，不接受家長代理報名 ⚠️請注意，賽事過程任何判斷以裁判為主，若無法接受請勿報名。 活動報名時間:",
-   "url": "https://news.google.com/rss/articles/CBMi4gdBVV95cUxPY05MVjdqWEluSUxyNUljWGZ2Uk1jSnY4VmctSDJWVWNXWU4zTmVqUVhmQk9zRERfcEFTdkM1UG9wUG9JUVU4SWJYMjdpaWR0Qm1lU0VxTEVQVUJ3a3ltd0plcUZNSlE3Qng4TTJkZmJQOWt1TEt5UHkwU3JqclIwdXBURHRINkRSZjB0Ump0ZXdTenJYdkNHZjc3UGtsaS1kazZ5eVAzWVhEYkhEUmRwY292MzhkSWJpY3FfNE05bmF6dGszWEp6VnN0Y2xRWFV4d1dWSmJIdjI0eEU4bkJqeFBmNnUzaTlPRDV6WVN6dUFPSURKaVNObndDejFxYjB0d0pJYU1EZVp6cXFWTlZndVEzTHlpdzQ1YUxiZGxPS0tCeXRqUVBlNENGOGc5cldHZU5qX2VvcTFESlRXVm84TUFqdzBBZE5Bd1l5eXBWTjl1RUV6dFZUUkZJX2pBS2xVN3c4cEpDbVp0U3kwUWpUREtKLVRIbFEzcXg4OXJpWjdLS29HTTZzYlFPby0tNHU3VVdlNWVqeG9IRVVlYlBxMEhjQkk4bE8wYUNjcmFaV3lzaE5kV3FvcXNkb3F1V3JRX0IyRUNaY2pDQTUzcXBfUFlLT3QzVF9KRjdCMl9TZmVkZGcyYjlPYW1Nb0RWLUI1OFVYQXl1UjUzZEdsRkVLcVVaVTQ0enc5a2ZjQzdQUE5OWF85TWUzNlNwMS1DaW42dC01Zkc4cUpFWFFSb3JJVzZJNUhwZjdheVJFNV9wV3V2S2dscWt3RFpsbUluNXdNVk9id1llNllaRTkyLTBuVFc5ZEhUdHBQTng5RE1HT3RDV1R1UGpaZ2FVeDJDSE4yaFdBTFpNTTlNUDl6cklXT3dteGV1N2s0c2tqMWdOQzJxdUtQWHc2Y0FrMkthbjhLaVhCenV0ZDFfTmllRVk0Tm9mbEx0S1BmREZ6U2xZNTlkdU9hMFluZU4tQTMydldJQzJkUVo1cno2eXJSY3ZLSy1kX0JvOGh0bUE1MnpxamQxVVIwOVJ4Mno2RmlUcnpuRmpSdXBLZHNrcUFUdm9SNkNaTTZkSHV1S2RNSExidVQ3MjQ0a2ZmT1gxc2lBdjFyaHFyLTdNMlRweGU2Y1VSX2dPMmg3bUp5Q1g0QllubzhfSVJrc3RrX25Xc2wxRWJ4Y2dyYkRtZjh5dVNnaTBDd24xWFdCb0QtdE1ZT1FVWmN0RzRYT3huTnFqSk1Ea2x0Y2taeHRtbFprRE1hbGpmc1A3S3c3SVlMZkdGRXFZM244Rmw5a1dpQVRyY0UydGRzWXJkbXFHMjh0WXJFZlFYNEpB?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-11T18:24+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
-   "branch": null,
-   "score": 0
+   "score": 2,
+   "event": false
   },
   {
    "id": "6f6c6264b7323e32",
@@ -3807,24 +3801,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
-  },
-  {
-   "id": "4000f11beb2503bd",
-   "title": "🔥【戰鬥陀螺 G3 通常組｜賽事圓滿結束！】🔥 今天的小選手們都火力全開！💥 一場場精彩對決，展現出滿滿的熱情與鬥志！⚡ 本次賽事限定 6～12 歲通常組，感謝每位小選手踴躍參賽，也感謝家長們的支持與陪伴 ❤️ 恭喜今天獲得好成績的選手們！👏 沒得名也別氣餒，",
-   "url": "https://news.google.com/rss/articles/CBMi0wdBVV95cUxOMlA5Q2VEY1dLWHNYSElZVXN0Q05PT1dUMUROdmRMYmIydDAyRjVpNFdoQWY2d2p3X3Jud3JSWnNsN3M4ckREYmVIZWlvSUVjRU1CNlc1M3JaWW9TM3BiUFFWa09JMzVBUUl2UU91blpOQmxNZ05PMkZpX0FLU003ZVUxejdXQXRpMTU1X3hpamdqSmJtd2N2UDlPNDBRUlFlOWhmWi1Ld2puWUVXVWlqR2N2OFA2MlRYSG9UTk1maV9Bdmxzak1TbC02MDVfN2JiTHpxcDc0Vlp6RjhSM3EwNXRRUzA2cDg1cEFXNkxWd3ltNFRUTmJGUVNBcWlDbjNqSEE0Rlp3ckxfSFRoaUUxYVYwQ2lmM3BRR3luSXY0Ri1ObTA5a19DdGVhTDg1ZlJ5aklSTjdkMFdDSUJRVmROaVZ2U0U4NFpIUElIZzdFcEpXZ1FMVThzN2R6QmpMaXlKckJZTmxhUjZoTV9QbUFJeW4ybG5TX2h3aC1fYlozLTlHeWZyU2J1ajZUX2lJMjVaaF9HaUNwdHh2V1FfVnE2MnJlNENZdTlaMldJZXJpRHhrQTlZZm90cmRiNnhVT2FOMklFWEZHWlNJblcwTU5MckVGUkNKYW9zQnNTekxNbmxiOENHZUMtM0h5MFRoNUptR3A4eEZfREJoV0dQNUo0MmRvbW45YnBQa2xhOFNBS0o3NHkwT2VGMjZZbWZ5TlhZaXc0emdlenlSRy1UbWdVZjBqOWlNYVR0NWs1QjhGbmY2MHBXei1TNXd0a29DLWtMX1RfOU56SzBZT3lOSnkxSVdGc1NHcndkbzBjb2RfV012R3JXT3duTXdzamVEeENtbXh4LUJkaU1fbFJfaWZqTEExS01Xdk9VZmZ2UFdPMFA5dWQwTHVYYW5oQk14ZnhGUnNsc19pOXNnazl4U3VBZ19pei01Y1hjSVAzU3BsNDVhQzh3UWpQb2V2b2hhSHppaVRZcEhNZzJ1cExNMGxNMkF4WmNUSEMwWHV3bEFtSzFkT0wwUktBQWZVbV9yZVlpN3dJMXBPWDdZTl8zTTdqZ29HNXhkSmw1NVJabk1wdEliRTRjNTBXa2VGMFBUZkdFQUVKd2E4bkhOdm50dm5TSl9nTkd3NzY0WWZXYngyTTdaQzhHejZWOWoyV1VtdUVDWC0tVEFuVTZJY3k3LXdRcGVTSXBBNXo5NjUzWFd1MkpwdkE5MVkzY2VpaHRINHBSSWhiNEN2dUlHZUZ1NmV3V3RJVEFXekUwVzFlTHFBS2pQaFBkMmRwZHJGVGlhc21HOExr?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-11T17:53+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 0
+   "event": false
   },
   {
    "id": "79774ca94b7e07ee",
@@ -3843,7 +3821,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "4675ee353bcab2f2",
@@ -3864,7 +3843,8 @@
    "resale": true,
    "shop": null,
    "score": 3,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "8f929c6c286cb6a5",
@@ -3884,7 +3864,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "04fff3f3ac31029e",
@@ -3914,7 +3895,8 @@
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50eVdLY1BKMkdKemFfeWhpbG9FYVNtb1ZfOUUwQW83T2VUUUtvcG9JOVJrNUs1YmhQOElONEZOVUt6dzV3cm9KbzlGdWtJTjFsTFAzQVluNTZyV3JQZDlxcTlaTFMxS3VnTmR2MmhYcmNFcGpBVTJzanZB?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "8bbf63ede45f7d43",
@@ -3965,7 +3947,8 @@
    ],
    "resale": true,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "1e6185d690565d30",
@@ -3985,7 +3968,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "89f2dae8019d26e4",
@@ -4005,7 +3989,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": true
   },
   {
    "id": "1cd0bf40f4a56939",
@@ -4024,32 +4009,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
-  },
-  {
-   "id": "2421692503900f28",
-   "title": "八德玩具夢工場 added a video to the album: 10/10 戰鬥陀螺-國慶盃",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lMVJ2X2ZfaG1nQmw0SjgwQ2hHY25memRmSy1NY0ZFNlFoX2FlNHFvbmRnNlgwa0QzT2FWa0hkdGZNbGFORDRSV2ktSlN4RzVvVjZodklFZFB4dXpCQzVWQ2RBeWhkWm9XYVE?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-11T03:29+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [
-    "桃園"
-   ],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 2,
-   "also": [
-    {
-     "source": "Facebook",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90Qy1CSGxGLWl0VFd5YzFoU3lteTkxbDhQS0JUTE81THdLVWNXSS1ZS09rWXdpV2E5VmNoY1JnZHpWZFRmWVhXOGdOM282Z3NFZ2hJRjNnYTlIWlhiSHk2aHY1X1hBMlhwb2c?oc=5"
-    }
-   ]
+   "event": false
   },
   {
    "id": "0d7d06cdce0eab7a",
@@ -4068,7 +4029,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "312ab29b3759164e",
@@ -4087,7 +4049,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "cc8c2d2db3ba9014",
@@ -4112,7 +4075,8 @@
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44bXBySVM4SGVvZmxXU2xvc0xKUEd1WW1FQWxpS1Y0aG9uT3poZ0wtS1BZNlJ6OTdfTWRTckFNZ3BGc2k0dlpKOXFRR2lNYzVTUk41ckZ3YVVfSEZoTkMzVFBkREw0YTNUS1d6YnNKemNFQTBkdGZkWkl0NA?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "f7d3cb40efa21d73",
@@ -4147,26 +4111,14 @@
     {
      "source": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12dmdUM181LTFCdXpHZ05MbG9NV0ZDQmN0cW5rc1NUOFNIZXJXRzJuazhobFBuZXNMYVRFUkRWSkJVM1V2SGJ5ZTJMVE1zQ3lHdlF3Z3V4T1ZnWHZYdGVFX3ZzNTlvemdjQlFCYldyd09zQmhzRHZsVkxhWXJsUQ?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UbkZNbm1PTGxoN3o3T1N0X1lidTZMSERLRzVpMGdHNDBVVzVzZU1RWkZmTXZ0Q20tUUtRWmdmUDJuQVI5Z0c4VTB1MlJWVHlZU3pJMnVqUEM5Y0g2X0s1TGQxNWVKbGlMSjhlclNMdEpGT25DZHNJbVFDZw?oc=5"
     }
    ],
-   "branch": null
-  },
-  {
-   "id": "1f027f404178b55d",
-   "title": "‼️請各位陀螺戰士留意詐騙‼️ ‼️請各位陀螺戰士留意詐騙‼️",
-   "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxPZlNNcF9QZ1RqWUNTU092YWkzbWJDSHRFcWFDMlJzSTVSZV9DZTF4VUdRUHVWNVZKZ1hDZ05sNFBtNzhMb1ZXSFJ4a1haUk1EQXBFRTRJcGhlQzZXaC15d1pKNE1VSnhnOXd5cjVCQlJrNExvMkhvb3Vfd2EzbjYyRkdPVXB4NWhYVzVhUnhDay0yaHZFam9XcmpWeHZ6T3I5RE90WHVnM1R1aEQ1TWNrdUhXOFhpRHJ0anlxZEJNNlJHWGFGVDktMmhrMXY5UDNybHdraXJ0eU4tYVlQWkpQOVB3c3czbTlQb3NPQktBQk5ubG1QQU8zYzJfblpjdU1KUUJRRi0tRlpZWktrbzBWZFhhYXVmRkZLOHptc1U1dk5pU3NXLTJSNFhDQTVTLXBlNmZXcUhRcFJlcEdvY0ZlaWd6anFvSTNxZmJ1WGMzeEl5RkhfQTA2RTIwVlpDaV9jR2Q3T0MzTkhWQ3NDS0NUclNqWlBlR3JWRkktMnRRLVV4enhQQU5mRllWWE0tTk9zRjVsSlQzS2xhM2tqZzBmMnNxSng?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-10T23:41+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 0
+   "event": false
   },
   {
    "id": "4873510215ee27f5",
@@ -4185,7 +4137,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "1098bf58fb1f8466",
@@ -4206,7 +4159,7 @@
     "全聯"
    ],
    "resale": false,
-   "shop": "玩具e哥",
+   "shop": null,
    "branch": null,
    "score": 5,
    "also": [
@@ -4214,7 +4167,8 @@
      "source": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxQM2FTVlJhWmgwQ2FpWjY2TXJvVWVXbW91M3h3b01RSVpRN2doanV2VnBrUXhrWHNmbmxsMGFLcjBlaHd1MzhTSmJsWmdsaEZSV2lQX09CODR2TnVIakNzNHZDQWtTQVFRSGx1eVRsY1QtQjFQYnk4M3NxMTJkN3Vpa3dfLTNTRTFGMl93bFhkblU0ZmN1YU0zMDV0Wlc4SHFYeUI4UklpRDBlcTd1SUhVUGpzcnNxNjNvRnFEMVJ1Qm9seVhjd2Rnbm9MOW5jYWNYNy05el90QS1IS1dIQk02TjBTS1U5UVV1MGFOclYtc29LQjRMaVc3SlhDVWVMTlp5QVlQdVU2eC0zSmczVHRKNkcyYjVJMDdJdTM3aXpZc3lyWTVJWGZqaU5xdlo3YWUtN3YwdkZCdkdWNVMtOGlHNG8xVXYwLVktREVLVTdIZEEwZ0NrSnJGeGlPekxfaTRtbi02WEMwSDdtenJqNGhKeGZWb2R6N0U3ZEFtT0k0U0VfUlVNOEdqQ0dlZ2F6NGt3SDZVZFlyUko4NmpheHFhVXJvbVBsYW1NcXdQRlVUa1dCeUE4Sm5nTTVYZGJya3E2bUd4Q2lGanFRd3ZrZ1lsTnNyOGJEVzVWTFF1YTNINzQyQmU3TE8yX0M0cFNZNTdxT2cxUmpiRFFfWUwtYk1ld1U0SE5HRmVtbEMzNzBfOERmM1NfMFFEMEJ0QjBCTkRqZjZJT3NETF9KUWdiZ2lSa1g1ZFB2NTU3dGJVTGVoRlZNa1k3czZzek1fRGJrOWVFNmw2YnY1VW1MeHNHb1VHVXJlYnR6OG5yaWhCVk8zcng0Y2c?oc=5"
     }
-   ]
+   ],
+   "event": false
   },
   {
    "id": "e573e7ba9059dbca",
@@ -4240,7 +4194,8 @@
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZQlNjb2JoUXZnOTFTYkNoamFKR29TMkEzU0RVNHFGbmFrRzA5OHJqUlgzNDZ1bTI1ZjA2QXRWNlBaN3BRUE9ZelJrZXUybExmaTFhZ2FTbnZXcF9QZ3hNY1NyT3d2dU9kM05vYmFNdjlrVENjQk1feXhEdw?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "23238d2fb527a32e",
@@ -4259,7 +4214,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "cfc2c9eb6e957d9a",
@@ -4278,7 +4234,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "9f5f99e2f558d29b",
@@ -4305,7 +4262,8 @@
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pbElhN213ei1FUHB4S29qTmRSbUZWYVhxdWpobHRaWlBjd2xWanBQWTctODc0RFY2UEhjQ2M3c1VtNjFYVVlhWjZMc0F3Y0xmSTBLU0xwY1RlRjIyajZOdWFhcFpNSTQ0SkNySFc5RkdWUXZYdlEwS1U4SQ?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "7ad0191305b12e22",
@@ -4326,7 +4284,8 @@
    "resale": true,
    "shop": null,
    "score": 4,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "e51499bc7a6df07d",
@@ -4347,7 +4306,8 @@
    "resale": false,
    "shop": "胖寶貝玩具店",
    "score": 4,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "20621d35fef1dd40",
@@ -4366,7 +4326,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "8beea3488a72965f",
@@ -4385,36 +4346,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
-  },
-  {
-   "id": "605076a9931b5514",
-   "title": "🔥🔥🔥福盛泰週六精彩賽事🔥🔥🔥 讓我們直接進入～今日冠軍VS亞軍 精彩之戰🤜🤛 #福盛泰每週六精彩賽事 #精彩賽事回顧 #黃金黃金邪神狂怒開戰啦 #G3賽事 321戰鬥開始 Taiwan Tainan 台南熱血陀螺魂",
-   "url": "https://news.google.com/rss/articles/CBMi0gZBVV95cUxNSjZfeUkyOUpoUzZUXzJMaHdweTJ5dmN2VzhuSEtSUGFJUGt4Yms0emlSQm1zUDdkV1dTY0RJZmpjTUpscWIyck1YcjBwRDktOVJ0SEEzZDdBYVdocVk1cHFzZm13a05VR1Vrc3dObDV3aUl1d0ZpaUh2MW5uaXNGSVVZOC0tbG1SU0ZfSXVhUjFlTGpYT0h1d1dDMEdHNWZJWFVPNWMyWU9zdGRKVGI3b1ByWnZKb2dxWmNISFdxOXhvb2d1cmJNRnlfWEk3QVZtWGRVNVg2b0kwZHN1dDMweGJmRC05al80R2tzNUZFVlRYUUtWSGFLWmhEcDROSGw5TFMtdDNBMFBJS2dLZFR3d29EcElyanB3cGFKdk1vd3VpU3RRd3VVak8zOG9TaWhTeU5kZnB3VFg2STgzdjgtVGhzT01lSXRtdkZiRlRhLUFlZjNxRVhrbTVtSUEybG9mbXZEQXBTeTg2OF83U0RPUThwcXdBel8yOVpyVUJ0dmlsS2FQaGRkSEdzR3k0cHN6RGJkUDJtaW5NaDlrTk1MZE9iUXV4SGtqY2VadVp4cmNydTFUa3VnQVpjSHZSeWZGRzRITEFJdWtpYlZ1SkxROEdnMEJmbWxEc3hVWnJ3R2NhanViVmo0a0tsSHVMVHU1aHpoS2c1SzVrSTMxSlRob0s4QmVvLU05QkIxeF9fU3VJLWdwbDQwTnhnSVI0OE0xTW54SWlHNnN6N01pMmprWlpaVDV0NjhoLUxrbUdMSGpaRTdqeWZlXzNlcjlsUll5b2ZpeDBSWTNqdkZqVi1vQlFGRnQ1R3dfdVhfZFZTVTRpOFl3VnRZMnY3TW1aaFhvVWFsQTZJbU51bTQzaGllN19rT0lYU09fQk85VjJ6M2NrQm5vWVRld0hicVhnVTl0Wl9hNEpqU3hQMHViZzE2Zjg0VV83S05JRkVWa0pIMkRZVXk0S0dQWU1DMXBfSHVKYjVFM0U5X05lQzZ3Z2dnQ0d1YU9uSnJRWUdKR3V1VFJXeVg5Z0gyWTlmbVhBZ2RRelVGU0JSdFpjbUg2bzBxdHU4Z1FWQkQ4N3kydzg2bjJmeWw2NS1lTjZyX2Q1NVBUTV9fN1pBeHc1cElraVphSHdn?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-10T18:20+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [
-    "台南"
-   ],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 2,
-   "also": [
-    {
-     "source": "Facebook",
-     "url": "https://news.google.com/rss/articles/CBMiuwZBVV95cUxPQmZxX2RiWmFvTjlUNk5FTEhQTWowRXpvT1llRFgyQkhCODVuUTZZRDNUVGRCOEdtSVpkUVNPMTMxZm5GNzhmam90cEFJMXN0dDhmR0xBazREX2FJaXMyRVhfYmNLejlQZEliUGdjUmtHcXRHY1ZCbkw0bVQzdTJZZFpkS3pRdUNRNlZEcmVXbW1SbFBFRWRtZ2Vvb1pCS09VYi1teVNzLWZxNFNNRU10c0QyUXdveVhVN2tqWUVzeV9EbHI5d2x3d0FwUXJxaUxtT1BBdUhLMGJ5cU1Qcm5OaGtOOGZ1bHQ3c2xBMFJKS2hqWkFsWWQ4V2xrdy1WS3NsX2NFTG1YaEp1VXJ4bjZ2dWhwUGd1dHltbmd0akR1d0FjZmdpN280R2YzOVBrbGVDaEE5cklxQXFRdDRVZGt3NVhNVFY0WU5GZ0Y3SU96bDYzSUplY284UXhnU3Z6Q3RYdnNwRnZkdTB5TlBGTzRNNzIwSmRONHVHd2RBN3pyejgzX2Y5UlBYdmhNczRFaHVZcTQ1dDlPY19iUlNPb2JTVXV2YjloUkFldjVkT09Pa1hhbVpBUndwSVRvNk54OUF3aVZFYWlTX2piS2l1XzUzZXc4b3hXbmotbGtxQjUwTnNkdHFtMVQ2VnJPeTVuTU9GNDVCekRNRy00NWlyR3J3Z0Y5SjJJODNTcGFyMFI4c3gydUFUeXJ0ajFJZnl0SjR3Z2FrUlFNbmhEVmlSNEgzaWNVN012eXJ2Nm1TbHRrX0xGOGRuSWY1MW5uQkd5YkkxMTgxOTBfaFNZME5GaUpDa0RrV00zLVhZeTZxQWpxejlDdEk4Mks1MXZUZmFKV2l5UTZYaE16RGZINnV2X1NYY19qbV9mS2pTdTd3NXl5VjhjNnNTeXBBZjF0MGgxZnpiN0N2Ym9vY2FvNzFjZ1U0QnVuQktWdDhQS1BjTlFLQkZiUThSWUZlOC1yRi16aDQzSkgxRTJxclVoWDlHdDhZazFrZl9NNVFKRmlVcWUtOU9NSW4yaWkxMEdOdW4xQjdNT3MtNkUtVFB1MlRpOUFoTy1ZM1VkREcwSzIzQXBMV3I3dVhLb3hERHdaSQ?oc=5"
-    },
-    {
-     "source": "Facebook",
-     "url": "https://news.google.com/rss/articles/CBMi2gVBVV95cUxPakpPVm5sMnc1ZGJDQ2hvZTdtcFpYd3hpYVVBTzVtdzZfWkJwc2s5bXB0N1FwQV80a25VUHhMSklnYmlhZTFsRUlWTldmblR6bnAzNE9MeGJMVm0yRUE5TmNqTWhweTdUM2VJZzRDMjlvUTZscktrdGdKRkF4S0gyNWVOc1lzRXhXSldmekFqTko3Y0ZlcFlJdTBNd090VXhtaW9rZGQxWXFxOHh5YUxxV1pPZzB6NzFzYmRSQU5wWDFFcS1HcjMzNVVyQW40UGVFdVBKZm9maEtCX2dwMGZ1elRiWkNrNmxMV2xPVzZidDVQZDdReWtwSGhpRjVBY1pvZ1F4QTVrR3lPbHBPQlhrcHhub0dnTF9rbTR5QWRaNHFQRkpkcmFXaXZhQWUzbUZwa0tKRUt5SHVBWHFQVnJpX0wxdVdFelJuY3E3WFZuQ2I1M2tkZTdrZlNDYnVlNktiYy1GcWNjNm03b2hsby0xZGoyWHZZT2pRdzhxSk9RVUxKRi1mU2NYM1FuZUJidE16QjV5LW5rQ01TYWJETTM0alk0aUE4ZmJWcXNqb1FRdnJTdWJJd0ZtTXRaWkNCSjRqTWp6WHliYl93ZnBROWcwNHZwUmRNb1R3Wk84ekNpcS02enFDN0dxOGJwYkRMYTI3MWxFUkw4b21OTFBNdWNOMWlsMlhTNC05MnVZclFFR1Y2R00xV0RTLXUwNDJYVEhaOGpHcFdqVGNlNHRnQ2lEd2JtRmtnZ3lrUzFjN21xZm9zbkVPS1FoS0ZoX1M0MlVVWFFqODlpcnVmV3FLb0x3VXF2X2NMN0taTEZTZXlfaGFsQUtLeXJLSU5MRVVuUG9YNGhTTUFRbnhYWVhCS3Q5Ni1ya184MU5oTEkwdFRNRXhhQzVBRElNc1JiWnRhTW56WEtZQnFZN01IZGtaWTNqRnQ2MmtnVW1EM0t5dkV1X1hKVnNIS1o5Znln?oc=5"
-    }
-   ]
+   "event": false
   },
   {
    "id": "2a2e15b0fb12596f",
@@ -4459,11 +4392,16 @@
     {
      "source": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMiswVBVV95cUxPTVV4X25qSXZOdGhZa1BNZ2xEMTBzcl8zNE9tOFFFd0p2TXJGSDhFNzZjdkxMV2FOZWhrOUo4N19TZnJZWkEySHRaTXpXT2FSVkNDQW5fQU9WajhSbHpWelRpM2NlOHBTWW9VaE5nUENfQWRvLUIxMDFVNGNmUHNacU9iMGhPd00xM1M5TnpkWEwxdDB3NW84R0l2dXA2d0ppNDFBaFh0c2txSS1VU3g4SldPSTZlSW9IQVdvY3dsd1hFSF8tNEdlVkNpV0lNVkIwNEVtSjBFYmE5NjB3VGViX2V4M0JWT20tQnNpaVNjM3huMk9MaUhCSEpTalMzcS1EN09talJQX0pwbmJBelM0SXBsaXE1WmxiRElwR1hSdGhMVEFUYXVaXy1QQW9TY1owSXNXelM2LU1LemRlbkZhak80d2V0blEyNVZpQVBVMVpkTkhXbEZMam5jd2YwcW9hRG54SXVGQ1NoN1ZteF9DMnFOd3NidS14eFkzLVFodGhNNEJMSUo4bEJ5c1RmTzdfQkNNM2lBc3QxRzg3NkI1QlVFRHl1dDEtV0FJdzlvb3ZfWndzNG5mM1hKam1lRDcwd1MxSUM3VWhHZktJYUNFX3NpUzRyNDhQc0N1aVd0NlpFXzZnR1FBdzRSTFhWODUtcEdqS3hyNGxzNms2cloyOEtlQjkxMWFFck1mSXFRQUowZU9hZjRUdjNUc0RMc1E5WHUwUnplLTBKU3FMLUdMLWoyMlRZekd3Sy1vZnNkbVRwLTBBWUpQNW9Gak9vOHBib0JwUDhhOEw3TDROTFV2V2N2MDB1QzBZQ0dDQ1JqY2Qta2drLVFMajVuSzNCNEFiZHF3azFoeEdTTGcyZGJUX21NT2cwdmZFNjMtR3JxUXJXeWw1Z2NfWG85d0FaZUU4SlpB?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxNUFJvWlhrRi1zN2pReF9jN3MyeXR0TGpwaDFwUXctX3ZudWp0cEFTQWpUbEhqQURZMnNaTmN0UkJUZVQ0ZWxEUVBGQkYxX0xESE1UTFhwUzBTS3UxYjR1X3FfVDB5WWcwZUg4b2lDLWw5SVhuN0tYSVFjcnlGS2t6NUw4LUFybXFWMjIwVlVXcmVkSzBiOHh2aHhJYzRSOHRYbTQ3OEs5VE9SMkVzekFGNF9BX1NkR0o0UjFzUmNpN1ZEcHFucFc0cWhXLTNmQkNBRmtVUnBUZDRKbkNrSElNYzczLV83UzgzTGszZmM4eE56dDV4Y0RMaE5QQ2t3a1JiU2kyZFRjY2tfRmtlbjJjSnR2SFNkZzl2NjZ5Y0FGSTZhVk0tcjZyem9zQ01OYTE1VTM3OTM2MmdFZjRRNlhmVVlxemFVekF3Z2N1c3VicWZjdUFVZ3RJVjcxUU5lOTRoRmpheUNyVExCRTRINldnN3VTYUJZUXdPSmE1TzdYamxUTDZQUTUxTGQ4M3FmT1NCVkJEMWZUS3BUblVJYUtKbGFqNGZJbGdJUE5SSHZMZHZ5OExINzhFZFpFaGhBaE9hcmNoaW1sVWI2YlAwTXBZazgwSUFYQ2hFNGZBdldhc3lOd1BrdWR0N3d0TlRaOEtFRzZOSHhYWUR0MktxOFQyang1M0xOS3lPMVF3WlB5eW9KdGlqck5MU0Y1d0xvRm5zRDlieFBJdmVWVU4zc1NWSjRpT19SQVBsSFBDbUYtZVJqRURKRmdEX251R1F1N0ZOUjUyajQtdVNmUWdKZlhzOXdoaWZWZng2czB3U2RDeVZIb09SejV3T0ZSclNwdEhZM20yeFdsVVhxTGoxZFo2d3dyVlAyYms?oc=5"
     }
    ],
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "7b1b0c3620bf238e",
@@ -4482,7 +4420,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "89701d9a508372c5",
@@ -4502,7 +4441,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "dccb547f68f16e4c",
@@ -4519,7 +4459,8 @@
    "resale": true,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "0eea35aadf7c57bd",
@@ -4547,7 +4488,8 @@
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBheUtPdkgwdGdvdDdoc2hGNm1aTUUzUVg3MDdEcTRSWmt5alRXWG51VDNCWkFwSFNnM1RqbkVqR2hxRG9UU0xoMEstbG9zUHA4UGwxM0dDclRYeFd1Yl9uUndBeEVhYk1FdTRJYVpKb1lNS05PVGl1VktZZw?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "35937943e4bcbdee",
@@ -4566,7 +4508,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "035f50b8fb4fad80",
@@ -4585,7 +4528,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "eda2b49cc4b9de22",
@@ -4602,7 +4546,8 @@
    "resale": false,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "c806e7a67482b81d",
@@ -4623,7 +4568,8 @@
    "resale": false,
    "shop": "胖寶貝玩具店",
    "score": 4,
-   "branch": "玩具店"
+   "branch": null,
+   "event": false
   },
   {
    "id": "c4fee2031ce61cc6",
@@ -4642,7 +4588,8 @@
    "resale": true,
    "shop": null,
    "score": 1,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "0ec4f18724132eb6",
@@ -4661,7 +4608,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": true
   },
   {
    "id": "3ddd1e0936393fc8",
@@ -4682,7 +4630,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "f455260c6494b843",
@@ -4701,7 +4650,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "c230bbb53120faa6",
@@ -4720,24 +4670,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
-  },
-  {
-   "id": "0a9d86f7fbc8da2e",
-   "title": "聯萌公告：明天小小陀螺戰士活動暫時取消，將機會留給更多買不到的小朋友，敬請見諒",
-   "url": "https://news.google.com/rss/articles/CBMimgRBVV95cUxNQjVCVTVxaVJHSk5vWGhXQl85Y1hXNGlIcnMyck04NzV1X2JaTG5oWHVtaFdsMEV0T05TNW9rb0NaalZIRTQweWZ0VVMyVllKSmhsT3pYZG1OdWduajlpM2RwR29NSmxYbTdUa0pYSzhLMmtXQTdLSGw5bC02YjU1cUd1U3FUSzRZbUhzclR2SlFVVWN4N0l0NElncVVmOHg1bFJIZTNJV0VtNGItM2U4dl9VRkFGSEtBeXZLZGZTQllETnlYNEJNbTltSGtCYWFiejlFMlNKVkxVMGtIMk1JM0xxdGEzdGpwMmIwWE5HdDNrQk9FUjA0YjJrMl9KRURMbUpZY2E2bFJJUGR3RVBNMjU5UEVoaVdoY0dYR2p5S3J6NU5HX1ZmS0UwdnBFQy1hTmtsTXRTeFg2SUI2SFNTajE5TE1mLU1BYlFIYXdPREYySFM2amFCZjhsWEp5ckJOYnNIR0FjREhUQjNJcm1ySHF4b1p0SDdzN3d6dGdHUDlncU83emdHVmZFSUpmb0E3emtjLUdxSjdTbklfdVAtWlJoR1NyVERnZ05uak9jNG1HeGJSblo2WGZSQmVTU0tzdjZMMDlZWkE3RUt0TXhUeHBEa2dEVk9EMVJyWm9US08welN0NHBzMHpSWmRtTU92ckV4czZzVjdnOFRxY2ZrT3pvSDRHaDdIejE4SG1ZaGtDcnctbnhDazl3?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-10T10:02+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 0
+   "event": false
   },
   {
    "id": "cb0a7cf14e0ee124",
@@ -4754,7 +4688,8 @@
    "resale": true,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "14579764f3d5ec80",
@@ -4771,7 +4706,8 @@
    "resale": true,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "930093abcbb5fe76",
@@ -4792,7 +4728,8 @@
    "resale": true,
    "shop": null,
    "score": 4,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "a4fae51599454ddd",
@@ -4811,7 +4748,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "874aa98bf2bfbcb6",
@@ -4830,7 +4768,30 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
+  },
+  {
+   "id": "e97efe909f0b7508",
+   "title": "【售】 UX - 15 ( 1 / 700 * 1 ) （ 無QR . 鯊魚上蓋 ） UX - 17 ( 1 / 700 * 1 ) ( 日版QR未使用 ） （ 全收 1300 $ + 送 BX-05 ） 【交易方式】高雄苓雅區面交 . 7-11匯款店到店",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKOXA5OTNFVUtKRHJUeUdONU5yYXRyYmFuMjNJSy13UlczdXJCOGxjbVBKeTJQYjRndkFxQ01JcWc2b0NCTEV6VzI3YnBPWlpIb0d4aW5LaUtXd3dXQlN2TDhXWnV5YmV0a0FBbkp0R0R1UklPUURwRmR5UQ?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-10T03:03+08:00",
+   "first_seen": "2026-10-17T00:31+08:00",
+   "region": [
+    "高雄"
+   ],
+   "arrival": [],
+   "stores": [
+    "7-11"
+   ],
+   "resale": true,
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 3
   },
   {
    "id": "c0dd197970e360ad",
@@ -4849,7 +4810,8 @@
    "score": 2,
    "resale": true,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "d679dccccca7f8f5",
@@ -4893,7 +4855,8 @@
    ],
    "resale": true,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "9e5ac632dd9e1676",
@@ -4919,7 +4882,8 @@
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oTjFlUVhUVUw5N0w1RTNVM0htMDlET2FVdFhqVmlmYWk5bi15X1F1QzhWazA1eU9yZms2b3NzOW9RRDR6aWVmanBFZVBWMGdOekktcTNGN0JKLXEtbUx4UmhQLWZaaXp6Ui1SX29uck9vODZuc3U0Tm00dw?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "fdeef0591340119e",
@@ -4941,7 +4905,8 @@
    "resale": false,
    "shop": "玩具e哥",
    "score": 4,
-   "branch": "花蓮萬家福店"
+   "branch": "花蓮萬家福店",
+   "event": false
   },
   {
    "id": "82b477745cd8f669",
@@ -4960,7 +4925,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "786d7244e6cd0ac1",
@@ -4977,9 +4943,10 @@
    ],
    "stores": [],
    "resale": false,
-   "shop": "玩具e哥",
+   "shop": null,
    "branch": null,
-   "score": 2
+   "score": 2,
+   "event": true
   },
   {
    "id": "70ca924e7017e0b2",
@@ -5004,30 +4971,8 @@
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42MVBMNWdMci1mb19tdy1HZkw2T0E2d2ZsYUdCY19FRUZtOE1WZWhZeTRsNnJrb1hQaVRxd1lnS0Y5THBFcllLbkRwVEZqeURrWFQ3amQzUUs1OWRzMXNUY1hsMk5oa1MxN2tSTUotM0tzSVBaMmxnOGU2SQ?oc=5"
     }
    ],
-   "branch": null
-  },
-  {
-   "id": "e17062dd570e038c",
-   "title": "#戰鬥陀螺玩累了嗎 #跟我們一起開箱遊玩起來吧🥳🥳 🌟萬代 BANDAI 爆裂競車🌟 🎉🎉🎉2026新世紀超速決鬥～勝負只在一瞬間！ 一起打造專屬於你的最強戰車展開決鬥吧🏎️🏎️ 🌈歡迎👏🏻加入福盛泰IG粉絲專頁🫰🏻🫰🏻 https://www.instagram.com/reel/DeQ0uDTz2Sp/",
-   "url": "https://news.google.com/rss/articles/CBMipgdBVV95cUxNbGltU3VkNUt6UFMxcG01TlZzenlnUjdzVmgxWllybTE1NkNSZUpnNjhDT2NXSzBrd08wSHN5ZVVCZkg4QV96R084RWhrV0dULWV2RkdyQVZjSTVIZzMzZWZqb05CbTJWcDZEaVZveDBlcEcweElfWFBpM0pCSF8wbHh1WDRkcGcyelVtMVd6RVFpMFRWbkNwNExQa1FNa1hyY1hYX2FCMlU0WmhucEtPb3VaVExmeEFVS1U0R0dQWkt5Zl8tRWE2TVpESUk4emxsVlpNc0U5ZDJXempGSno2SjF3b2s2alZ0TVh1Zmx5S0xaSmMtV096bFctY2JIZk1WTDM2dzU5R3RhV21wMFpDcE9XSjlyMjhpZ3ViUjlxcV91dUZfR3kxQXZWQ19MaTMyUXRtV1NTNTN5RlJ6X2tBSnNrMXR5U0pDZnpVTGc2Tk14aExyS3FxZzdGc3hHUU1wTE5NZ2R6dnd0Q0tPYXpGNjdvc3Y1S2ZYdlozM2tGVjR2UUxvNEFJSWdYcmZ2N1VzNVBVakJzSXZZNUZuNThXMGVic0FDblRQZ1o0WGVMSTZnUUJHdjZKdktWYlRsV3N2S2N2RFNPSzdpeC03MklfaTJqVmozSVZEa2Q0aHo2THBIcDRFTnZxcUhtOEIzcHBSUDZxcXI2VDJrRWRwc29JYUVEd19sTzFHVENXNXNyVGRwYnlzUXFSdk9aTllYR3UyM1MyM2t0QVFudjFqamVidGp2T0lvT256Y01WUXF3a09ENmhkSGVHNW5xMGVWcUtyQkU2RkI0VU9WUmFNUmI2ZzhNRDN2c1dzSmlCbklzQ1FvZktfNHpnbDdfcElWQ2V2U2xudDlVaVZvVWs3SVBMRkMtOGpyRnVFcnVaTFowZEluQnRpdzhCVEJHSnlaYlcxVmFkTDZaVDJZSTF6VXFNZHp6S0ZQMm5rdXpZRUtkMTBkbFlOeWlRX3ItZWhrSFltR0Jkb2tDNERkMTFZT0wwZW96blJBX085UV9QelFEX2pQYjNYUEMwQjR6VUJKWWxlSWFaTHh1ejFtWGpNLXQwTGFkbk5xbTFqWGxvRmhsSHFKRTd5LTByZ2Z0SG4tanF1RC1pLUVyenFPb25tcUtHWmRHQzVaUEVkTnFXMGNHamVlQmJvS3NTNVJXUnUwTzJTeWlsNEdUMGM5MzJCb0lJd0VpZmF4bmtDWXFaTGRTajlvakxJUVJxUzdEOVd4ZUNpNFlGWU9B?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-09T14:05+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 0,
-   "also": [
-    {
-     "source": "Facebook",
-     "url": "https://news.google.com/rss/articles/CBMisAdBVV95cUxObjk0N19kc0xXMTB4VHp0UmJKT3RqMVphMkc4VGVFMFhxbU8yaFp6NFZwRDdJcnVDa3YtR1FIZmExckdpejJmWkdlbUN5RWNpTG03SkcyMVZsR3R4VFJqSWJkbVNQdlI3R2FBbTBOYXRsejVfU2c1R0xDTWxRLWFpV1BRb01LZzFna2U0WlQzTXFUZGVKSUY3X2x1VGpLQnpJUDJFWml4TGhxTlBCMHdGSnVzRmpSZkNaWV9VVDA2MFZyZ2ZrNXVCRWpzelZKV08yVkNMR2w3SzFwdlVRQVRiR1RWSUt4VmxjbEVtSDlaenFFSkNPTlhhRHAtN1lzNzB5R0s0SXpGaGpQRENTRUtQV2Q2THFRY0NGbVM1NEdMSjRjRXZQRWhoVnVjVWFDdWpiMVVLaUxPbml6VlFuQWhZZTlVR0dRY1BNWHlHYjBWSnotVnk4eFprcXd4M3g0SHZPWTZBRFdlbmVzVDZwdDI1aGhRVlIxbkUyQ1R4akJpNVU0NHZIU3k0S1VFUU5pc3l2VHZIT0JzWV9naFJqRUJVcGFJVzRkd29CM1NNTHNOQ1NGRlVBZTN4ZUR5WFlxampSQi1wbDlucGZLc0J6cTBPNWFpcGsyal94bVpocWlqV1c1TkRYM25iZ2xkemlpeW9WLWpMQkdFaS1aa1lMNWZ6cXRkRTYxWEsyaG41VThwOTd4R241ZWFLYWliOVVFLVBpSkw2c0ZIbFQ2SVZ4MUVXU296SkhnbEsxNHRVakcwbG5zS01jYkdJMW1ibzNTYlE5YkxPcXBET3NBMEdoVW9UNzd0ckk1TjFOWDhsS1hBZ203NElVN1hHQ2k2RWFtaV9GVy1WTlBmQUVTTVByaXEwR0kzOGFKSUhCeHg5OEtiTlgyVFVhQm1yVXZoRVZNbmNhYTdGNjUyTGhwZzkwYmxubjQ2MDV3blVtT0NpelBHbUdHc2xVaDllS0RpcF9tWlQ0S3V4V0hEbW9VcXZseWpwZHBsUzl0X3JOVHNvX2pmUmRtS04wbmZSTFotMUpWeXVvbUs5enJnT19uUk53SUZsRkx3U2t4TUxzZ1ctWTMzcEJaZ3dCUDE2X2R0cXd5X1JCUEtaWFVHQUVzRWUwbld1NEREMHZ4X3RRZGJhY0NHYWhrdmk4cEw4SG9QamVCZXZPVDF4Zy1XT0N1aGMzUXhydTFpcTA3S3BKV2ozcFVKanF1VWdESWY0M1oxTWpQMWFjVDI1am9iLVRYdG01Q3dCcw?oc=5"
-    }
-   ]
+   "event": false
   },
   {
    "id": "65c0f8a1b47b2cde",
@@ -5048,7 +4993,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "46ff0da1acb6f9a3",
@@ -5065,7 +5011,8 @@
    "resale": false,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": true
   },
   {
    "id": "9baa8235b974b265",
@@ -5084,7 +5031,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "42610f89c23c8bfa",
@@ -5103,7 +5051,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "7e6bb4a7b776e76d",
@@ -5122,7 +5071,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "3bc4e6b3075d4e78",
@@ -5142,7 +5092,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "3c5335e008a44d0a",
@@ -5161,7 +5112,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "6a8b3085d5f3f245",
@@ -5178,7 +5130,8 @@
    "resale": true,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "1d4558871c969305",
@@ -5199,7 +5152,8 @@
    "resale": true,
    "shop": null,
    "score": 4,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "8a5312ad64b0c37d",
@@ -5216,26 +5170,8 @@
    "resale": false,
    "shop": null,
    "score": 0,
-   "branch": null
-  },
-  {
-   "id": "5f441dee6e5971b4",
-   "title": "🎈10/8（四）晚上場比賽🏟️ 🏆冠軍【猴溜KEN】 🥈亞軍【齊天大勝】 🥉季軍【李小耀】 🔹殿軍【花柚子】 恭喜🎉恭喜🎉 #最強父子檔拿亞軍和季軍 #戰鬥陀螺比賽 #南投埔里歐爸夾",
-   "url": "https://news.google.com/rss/articles/CBMijwZBVV95cUxONmMyUFg0ZGdOZkw2NzdLX1JuUFNJdnkzWWQtWk04NXJtWlZHQTdZc3U5bVlNSXU3SUVCQ2gyMkl2VDFaQ1lrM2wwbEZpUkREN3NvR3NaRG82QURRTVZQdWYxQ0V6Q0tyWWpQamNlemc5Y29RUTZNd1Fmb2lhY1YyWXVjb2xKdGRIN3V1dUNjRV9JMjhsS0E2NENyV1lZOHZNVzBrUkFaN2VSTkcxT1RiUUVKLU44dXotaEswcFVLeXhhNV9ORDNDWW9nYTF3dTEzT0ZSVGl6ek5DcWV6WTNrTlEwNmFnUkR4MDNnTGpjQWY2VE5EXzkwV3FMLUlBN2dUQ2pTS0poOFFfODh2bXJ0LWRTZ1RzU0x6d29yNGtTXzdTenc5M01HVHlqdVoxRjlfUjItbVhvZ29Jd2d4cHJIcE5MYkRwSTdpdEhxRWxLMjBDTFliMVlVU25JWno2eFV1d3MwZ1h4dUZ2QU84VWJBbERsRVdnMXFZT0ZJMlRXUGptWU5FNWx0Z1Y0OG90b1RCX3FIdHlVTnBFSkU3YW5yVXROYVpiRzNrbERCTFN6RGdqRmpjdVk3YkpWUXBkSVdWRDFVeG9IWE1tMm5RemxmVFBJNmd5MFJsdEZFZU56RE15amh0RnhnU2tlVDUwZm5ZWVIzZ00xWTl5R2cxbFpHdmFUelpsUDRoMTcwWEZMN3RMVlVHT3dKeUgzd3UydmRSYlRWa2xLTzBJTUNMdURicFQtMzRYNl9nQlVoZXFsbmN3VHNUaEFCbVN0eFFXeWktcDd0TXBLTzVjY2tNeEVyZko3SUR4enhLeGc0SUtldFRkcVBDWUFEcHBqTGtIRUdQVUlIT3ppSmR6MkZYWUFwUUY0OGZ2aE9aQnNPMHdoWHplOFFPMWlFSWJhRUFUbWg0NEJkN0VxbVBRVXFUelB3d0QzTTZ4Z1ZpM0RwMllUSHk3djNLLUtjMXZHbFdxN2ZpaXYzaEphNldsY2pRTkYtYWZCdXdVeXdOVUFfTm1mQWRHcHMyb0QyNnNLOExWUEE?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-09T03:48+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [
-    "南投"
-   ],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 2
+   "event": false
   },
   {
    "id": "f2b36bc65195bc6b",
@@ -5249,10 +5185,11 @@
    "region": [],
    "arrival": [],
    "stores": [],
-   "resale": false,
+   "resale": true,
    "shop": null,
    "branch": null,
-   "score": 0
+   "score": 0,
+   "event": false
   },
   {
    "id": "bea8ac743b9d450f",
@@ -5271,24 +5208,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
-  },
-  {
-   "id": "57007605b78dc0aa",
-   "title": "戰鬥陀螺X第十六屆自辦賽前四名及每輪抽獎得主 恭喜🎉🎊🍾 第一名：吳寬鴻 第二名：吳丞浩 第三名：阿雄 第四名：硬綁綁丸子",
-   "url": "https://news.google.com/rss/articles/CBMiqwVBVV95cUxQN3ZjdE8tMmFrRzA5WDJCVm1vOTRyaWdFZGVSb19aWTNoWXhNU19PUFRkYzlJZTQzajBYNTNoeUx0OG4xcjBfY3VnYVdvaW9xYXpWU01jTGZYS2ZjV3AtWmxyZ2JkZE1iYkJjYWhBanZWcXlMS0UtS1RHQ2lXMHFhRUVTWm5WMWFZSG54S2MyMGsxV1FhSk1Wc1lhRjZsR21VRW9tb2dSRS1QWWc4WFhpcGQtOTFtZm1yYmROOW5KTGRObW0yci1OYnFsYW0xWFFvcXZPZ0lPQnZCTkJQOFZQcndBYlE4RVdycDVRbkM2Z3RqSWJyUXdpMEpJSlV2NHRHTjdVOFRtdlBvWHprVHRHU2xrdVVhOUxCUk5OOHlpM3J3X1Y0WUdUcWtfSm9jU3J3Z2pXOC1YaHlBbHZfRFNhV0pNblRTNE9YbHFYN3NZb2w3aGoyUExsNHc0WGZLV01hTlVMWGtLejZDQUVLbUdnYkc3dEhTS1ppQ2FBY0EwSEJxbHRyOUdIbVVndXFfaHRZQ0kyYVVkeGNuYVpBLWdHTThvR3BidVNuVHlnQk9tWDBSblFJdU5WYWJ3UkctTWtxRTA4N1BqMWREeC0wbmE2LUl0WW9pb0x4TXVveWF0UXIwYjZGRjJ0dEhVQTA4QVExWVFZdUV3QXFJZ3ZFdmFiRm5VNWt2U085UXdDTllMcTBZaDFzcUJYVnlkNktQVEhkM2xoSkNkbVpqZEZPMFpDT2hFcGZ1Q0VjZmdIR2xoQXVEUlQ0RngtY2VaaTF6ejVNU25zZEZqc2xxRTdfSUJHTFM1c3ZpeEwxSVZ5UmlEMEp1QVBmVnl0WThmYm42d3BHamxXR3ZjaERfVG1kWWlsQWhJZUJLWjVKaGtwMV8xMkZKZ1h5MzByZ3pvRQ?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-08T23:29+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 0
+   "event": false
   },
   {
    "id": "1642c04766c236e0",
@@ -5317,7 +5238,8 @@
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zX0xPcmJCdVdqSjhuNVFZQnBpRS04X3E4aXNKZTFydk5TWDRKUXV6LW42ZmVkS2ZTOUxGMm5tT2hPeEYxN2h6SmhJT1d6MUVtNzM1S3RzQ1JfQTJTeWE1RGZ5Qi0zQThfR0h4SDMtSjFocFVBLWM4ckVZcw?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "51940b594d222ebe",
@@ -5376,24 +5298,8 @@
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16YnBSZWhLcWxQUmlUckxsV0dRc21YSjRiREwwSE9ob2J1WmdMTjh2X0k1YWlvRjBwMndKTUdELUR2TUJGc2tNT0lqYklGWXhDSDhicHViTjM5b2dPSnZ1VUgzZ0xTclB6bkx4VjZ0STJBaGZFYkFDODlKbw?oc=5"
     }
    ],
-   "branch": null
-  },
-  {
-   "id": "4879758021d4a497",
-   "title": "週末前一晚都會打比賽，今晚打陀螺冠軍。",
-   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPLWRickRIQXRUOEtxV25kLTlNYTFHTWo0dFRBRG15dmZ4Z1Y1SWFQSjJfcVQ0VFctdG1pRHE0OVJoT3J4RkUycXNjenNFclhqdjkxT2Q5ZW50R3NjbW03MkFkUUdrOFZFaXJaN1ZzYW1EcVFOY2U4anRMQnlSUWtQdkotNjZqamw2aTZydlZFVENaZTRKSm5GWDlQNTcydXBoM3BQSHlOUUtLZmUtcXpkMU9pNC1RSjFjY09YbGR2azJIdHpVcnFUUXZNQS15TkR6Zl9EbXozNXZjVy1iaHJoMUFYUjFYZy1BZEE1VUFESGxSNmxYdFo0SGgwY2xUbWs4NzlTQ3E4UGo2bTZZdUtja1pFSGFrakdtdTJRXzV1dXptVUlVWjhQRU9KUnc2WHlDN2ZvN1hhcnNyRkJ2YlVj?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-08T22:58+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 0
+   "event": false
   },
   {
    "id": "87ef6285304a05c0",
@@ -5413,7 +5319,8 @@
    "resale": false,
    "score": 2,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "5bef87d220a7a34d",
@@ -5430,7 +5337,8 @@
    "resale": true,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "57c37faefdc33e6f",
@@ -5450,7 +5358,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "41b3301271b183b7",
@@ -5469,7 +5378,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "32f0f31f92053a69",
@@ -5486,7 +5396,8 @@
    "resale": true,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "5084c14070c651d3",
@@ -5505,7 +5416,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "7ed72c90f890e223",
@@ -5530,7 +5442,8 @@
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tSy03NnhyeTJ4OEFXMWdTcW8wNWwwNWthY2pPbDdnZnkwVjJYMXJZZFpPR0JuUmpqTXBVcnBlbXlvX19TcHBTUmNGVmxSWEx3QTNyblcwTjByLWctMHBQT0pRamc1SkRoN01OZEJFanV5eGp4eEJMWEFMTQ?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "f6da6163e0b592b9",
@@ -5547,7 +5460,8 @@
    "resale": false,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "2643f4d66f4dd75b",
@@ -5567,7 +5481,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "69e8415f83870fee",
@@ -5589,7 +5504,8 @@
    "score": 4,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "5c021765ff835939",
@@ -5608,7 +5524,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "8eb27d59ff5ff0f6",
@@ -5625,9 +5542,10 @@
    "arrival": [],
    "stores": [],
    "resale": false,
-   "shop": "玩具e哥",
+   "shop": null,
    "branch": null,
-   "score": 2
+   "score": 2,
+   "event": true
   },
   {
    "id": "2b26383568c3ba35",
@@ -5658,7 +5576,8 @@
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vWnJWSmdnZ211ZUNCcXhlbXB3dHUySmREa3dHZnAzZDJiUmxydEx6aDhDaDJ6S3QwYXhnX0g0MFZQM19YTDRfdl9seVE2aXNITmJWampoT0JraG83YjBld2I0S3FtT2RvV202V21DR3BTUFBkUmIxSF9Faw?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "2e27b2503a898c4b",
@@ -5677,7 +5596,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "a7761a0e6a7979b5",
@@ -5698,7 +5618,8 @@
    "resale": true,
    "shop": null,
    "score": 4,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "e50e5f7c8b5f3924",
@@ -5715,9 +5636,10 @@
    ],
    "stores": [],
    "resale": false,
-   "shop": "玩具e哥",
+   "shop": null,
    "branch": null,
-   "score": 2
+   "score": 2,
+   "event": false
   },
   {
    "id": "5fbbd4d18669781e",
@@ -5734,7 +5656,8 @@
    "resale": true,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "987d68471061dd96",
@@ -5751,7 +5674,8 @@
    "resale": true,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "b15ec83a94afaf17",
@@ -5770,7 +5694,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "2a2960bc1bd44d26",
@@ -5791,24 +5716,8 @@
    "resale": true,
    "shop": null,
    "score": 4,
-   "branch": null
-  },
-  {
-   "id": "8fd010415147d839",
-   "title": "115-10/7戰鬥陀螺 x 兒童組G 3爭霸賽 恭喜冠軍-王x嘉 亞軍 - 楊x 睿 季軍- 黃x桀",
-   "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNRWhKVk90VTViekxBVWd4eTlWQWFkT2kxV3Y3T2c0Q2RsdUE0SGZGVG9TMFBkNUFiZS16X3RaemhUeTRlUlZQcnltU3g4b3c1dGRScmQ1cVpSbkMxRHNwbVMteThQVVRRVnNQLW1ESk8tS1cxUGFfTTRqTHRrT1VHcktqV1J5bnd6LWh2R3VvXzZublYwWlNGQnlrMnhpQW9NYldjVHFzUmFRU0RwUzBpY0R2SllrTUhtMnpEYkE5YlhRcU1NSHZUTEwxSFh0QmdZWFhCOS1PNXFUU2RpQUI2ZkRlaTRIblBCS0plNFBQMG9Ub1lBTXUyYjdycERnZjRXY0lXVkNJc1N4c1BXQUFBTHdxYk1UamFuQ2FyXzhROXFTSW1JZHkzczU0WW93OE5HcnZtZDdKMGNTQkMzeVVXNW1CR3BDSEdGU0hPekJWX25hVDBQZ2FsbFRMeGdueHJpZ2UyS3N1QVlYbkpsZ01UZkFUeUJmeHc2NXVMZjZsTUhUOGE5Tl9tX3loUklGQVVZakF6ZFRIQ2Z5WnJvRm5IWlh2UzVNaF9ubzk4?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-07T20:55+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 0
+   "event": false
   },
   {
    "id": "03a7ec6f67b6bc40",
@@ -5827,7 +5736,8 @@
    "resale": false,
    "shop": null,
    "score": 1,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "8fe13f1cd72ac143",
@@ -5855,7 +5765,8 @@
    ],
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "c35f7e825fb4d6f3",
@@ -5874,7 +5785,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "5b2cc66202344db1",
@@ -5893,24 +5805,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
-  },
-  {
-   "id": "d9a0548711b0fa63",
-   "title": "戰鬥陀螺X親子、情侶雙人組自辦賽😁 ❗️（40組已登記完畢，現場還有8組名額，會以48組開賽） ✅比賽採2人一組，3顆陀螺，零件不可重複，比6分的對戰方式。自行組隊報名參加。(詳細規則賽前統一說明及發問） 比賽時間：10月11日（星期日下午1點開始報到，1點半後補",
-   "url": "https://news.google.com/rss/articles/CBMiygdBVV95cUxPam5zODRNbVJXUlU5QmZhQUUxWFhMRThUNUZ1dHdLclV2S3B5VHk5alNwRnp6enVVZlY0V1dRbE5vOFczc0J2Um5rckdYZGFaMHFVbEdtWHhVaFRPZmJqZWdGbU5WQXpqWWZZdzROYmNfOHlhMWdaWVZLd0M4UUhZdzR4U2M2ZUtVWUp5Vjd5WnptVjRHSlQ2aGZwMUloWDVkRWRVQ2VQWDhKTG5xaFNVMzVTa0pZRUZNT3hzQmkwVU5rY3FVTlBuQWU0eUdGUXpLSmlQc0FydjlXZGhYRE1KdmJvY21pb00tQi1jMW1FalduMXVxalk1UTQ5SmlTNWtnMnloVjJrcG9MUlFuOEg2SURvX3VqTTNtaVZyelpEMk5oeXp2NUYwMWFuLVQ0cEI4VE51VkV3UVNPd2tSY0N5ZkJTS1k5Z3N5WmluQUdNdDZZbWdhODRnV2Joa3ltRjZJVjNJY2FuRzhEV0ZVZXNCbGhfcjd1Zy11RkNoYXB0UHV3VTYwVHR5d284TVJpRlNobVBFZTA4a3VES0MzY0pzQXJ5Y1VCV2diQlBfcnFPclQtcmVEakljREZKOFJTeTVHNHdTdWN5QzJDMzhzejhaNWlzaW1yUE4xUTE4cktBa0dXWVZpMDRybVhHb1U2d0lFb1Q3eUpQVmVpOVd6eGIzb3NELUh3SDZpRmc3VTk3TVFaVk5YSU92QWYtZC1HYTQ0YnNQNHJVQlVIVTFMRExfdmZQWDljX1VHM2VSenNTWkJmZElwWnVZYU1RamlyVjBaWldxdkhpQl9acTlYTVBiRFpnWXJsMGhIbnFaTW93T09RQm80am85OEZqOE50Rl9fSHhwTHpCRDRWRDRuLXQyQ21XQ2k4T2p3YkYtcVNkWmhXeU1zTjI5cVFlYnluUXM5TTdRMW1BLVpzeG01S2s3R0JUbmxkUFlsdkxVT1EzX1RuMGY0eHl0Y3Y0dUFEelhEa2pMQk15UlZMYzdsR2RMbm15VVh1bEYtWFZNd05XZjVaRFA5YVJ0UE5zcEFWSVFiWmJQb20teUQ2M0pfUDBEUXpRaHlUZklMU3Z5bTNCYkpyVmRhMUpEN3pkTXpTZkpHcWNIUXB6MTJPZjAybDRjc2pTaDNMVHB1bkQ2dTRBdTI1NU9YME5pX2EtWmFyTWpmZHhLT2t6UWkyVXVTSllFSUk5bXZzU05FOXdFSDFpcFVsWjFJS2xyQVFMdFktRXZsaEpWbWU3OEtISG5KMUV4V2V2Qk15Uk5XS3BnRnV2WmlzNXNSOGNvTGZ3?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-07T16:50+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 0
+   "event": false
   },
   {
    "id": "6398987db4eda5f6",
@@ -5929,7 +5825,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "9993a221d29e179c",
@@ -5948,7 +5845,8 @@
    "score": 2,
    "resale": true,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": true
   },
   {
    "id": "5c8d26bc38a77839",
@@ -5971,7 +5869,8 @@
    "score": 3,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "b306c4787b0cdc44",
@@ -5992,24 +5891,8 @@
    "resale": true,
    "shop": null,
    "score": 4,
-   "branch": null
-  },
-  {
-   "id": "b25643e89792d6d0",
-   "title": "TOMICA紅外線停車塔展示間 #購買此商品者，戰鬥陀螺，新品，舊款優先供貨，原價購買，不用搭貨，#晉升尊爵VIP",
-   "url": "https://news.google.com/rss/articles/CBMiywRBVV95cUxONTFGRnBzTHhMbWdpU1k2NnF3c0x5clctc01Md29UVXJoSnhlQmY5MzlZal9UZzBSM2J2d05WNEl0TTJZT2V1R3dWaldJNURuZGtISXdmLVZycDhQQlhlZDVNX1NtS29ycGttV3NHbzhmS1R1RTRhUDJ0UnJjWERUTG9tTnFJQ2ptRlpxRmJXb2JpaTltWUxQampBZW55SHNQV3NBQWdUckthZmtHaXNFRUdUMmRremZmX0t3Wm83VEwtV3RrUkRtQ0NHQnJzRTZvS0xVWlpiQlVJNDZjLVM0U3JGMGhLWEM0cmRxMXAyYlhERXNzdjZCeG5FbEE4NEphQXVVUEdwRXVaaWprMmppdGZwSHc3c0dNZndaaVl1VTlDUGd2MmRJc2xtVDlYYWQ5Mm5BOGFMb1gwYzlrSzhBTUVRRUw1dmJDVG5INzF4X3VOakpfQS1lbEFNSHlxVlJ0a0hvX3RuY1ZvYTROMWpxSXJCVlRjQkl5TXphYk9HMXZrWWlxWkV3UUVPZmc4cVktQWlVWDlwRi1mRlMxXzA5cUZhSlFxS2hBeVJMc3FrZE9iMGZ0bHdNWTNkTFE1RW1YMV9KdmpkdkVMQWpsemNXN1RyY1NLdWZTZmVNZHlZNGlUTVJPMGtWUlRxWVc2aWxHUG5sRVJRcVVpRUNLeGFGN3ZaU2RGeVVPNjB4Mmg3VUdEMUdPal96WmpzVWpxbXZzR01GZDBpZkMyUXBSdnV3eHd2YzUwb1BrcjAyalJrOWF2SElfdTNsMDZQTQ?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-07T12:29+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 0
+   "event": false
   },
   {
    "id": "e98493f686b28bd0",
@@ -6037,41 +5920,8 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kUmtWazFCel8wWFlkdWJkd1ZsU2h1akw2R254V0NUSWtEMV9KTzREY1c1WWhiV2dUcmdmWTJKZnBjOEhoOXdIWExSQ3dkUERsY0FGdnJ1aVFTa3pYS2pBSUpZZFA1ZXkydjJVRUIxT2ttaFhOdGhaemFIeUQ?oc=5"
     }
    ],
-   "branch": null
-  },
-  {
-   "id": "f348cfe0c0d1ca5c",
-   "title": "聯萌玩具國慶連假營業時間，按慣例同樣準備一些小小陀螺戰士的驚喜喔",
-   "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxQazdlWHdJaTdkUzJLQ01wMW9EcHhVSWZ0dndDSDVsUFpxMzcxRUNXOEUtaTFYOGFWdXlxZi1CZnAwYW5tYmh1bXczWllfVm5KNWFRRWc1anhaa3Jrd21yMnZCNUx2Z0FkMXdVOWRVek9xd1AyMXFtX2xBYlR2cUhlT1RlbHRaZmRQdExFSDJFYXQyQWttOUE1NUpPR1dQZ3dWUFZaYUhiWGVEOWh5TklKVFdBZ1NhQVRTWWE1OGZBR0QwWGl0STZPT0hTR21zaHF4Qm5ET3EtNXdkeEdxSkZKUDV4TDdsYlRyMkRxVEZoUXVCcGdwLUljVS1sNThRMmI1SklYaFVXc1RTZlhlYXFYVk5GUHN4WjRLNUVPa2RpOXZ3dW84MzVGWVNDNWg5cUk3RE5adGp5Z0ZvTjFpeWRZb19WVS1DT19yTUxTQXBIaFF3RmRTbmdjMzdxV1lIdk9QZGNmWUk1ZnAyVFBlUmhXTjR3dDJPa2Q5Y1ExOHdEbFB3MkU1RXJrdTl4b3FkZ2pVVUVtZHM1WlhlbS1SV2FrQTVqWkVPZDRKNFdfckJfUkM4Vy0zWFNOaGhLVENOMUpTVHB3TXUxTS1PbktGU2R6N2hwclU4NnAtXzhUV0xB?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-07T10:57+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 0
-  },
-  {
-   "id": "099a08ea6afc3e81",
-   "title": "目前店內陀螺品項～ 依現場為主，不做任何保留及線上銷售～",
-   "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNMjl3NzRMQ2paUXA4ZkUtS3daWlV6UzVWOHlOS29wU2t4QndGa1I3Ql81cjhzUHVacVM5MlpvZnVfUWZoNFZuTEhONmdfT0w0TGM5UEtzUHVvejJZbndTUXB3TDlvdmZncVJGVHRZUHp6OFh2WHNLRTZrbk16ZTY1RHVQVWt4ZzJwcXlrUDltRzFQbVVBcDhZWG9YNHpoQl85dmlpdmd2MmVBM2QtMTk2U3JHa29WV29MaW1WRnZHMEhIVzFqTVpvWUdvMDVSUkZkaFJjSm40RkdGMGk1LVdqa3d5SkFOWElWVXZNSW1GeG1aay1PT1NtZGdZZlMza2hVMkNyX3hzLWZZOTM3TmNqNVJvMGJ3QXJ6eDRQWENGYW5Za1BUWHpCLVFMelVCUjBieTRzZ0hBQTFqU2VzLUxVbjJ3VlRxV1pvZTV4WUxsQ0k1a0NuLXE5dGx0S3MyeHB2Z3d2TDhGS2oybmRreng0Y0xKd04tSnRETVlodFFGSTl6eWJGeUwtQzczY0s?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-07T10:27+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
-   "branch": null,
-   "score": 0
+   "event": false
   },
   {
    "id": "5bb18b6aeb0e3724",
@@ -6090,7 +5940,8 @@
    "score": 1,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "e27cd42e90b35f92",
@@ -6107,9 +5958,10 @@
    ],
    "stores": [],
    "resale": false,
-   "shop": "玩具e哥",
+   "shop": null,
    "branch": null,
-   "score": 2
+   "score": 2,
+   "event": false
   },
   {
    "id": "b3a7b1589eb6e4aa",
@@ -6128,7 +5980,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "f1a28c956db47a00",
@@ -6148,7 +6001,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "87bf89470ddf302d",
@@ -6167,7 +6021,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "3a8ac34e3c28fd3b",
@@ -6187,7 +6042,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "79284eb5a51a587e",
@@ -6206,7 +6062,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "d26e9967df050b3a",
@@ -6225,7 +6082,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "2a178e1dea6fa29f",
@@ -6244,7 +6102,8 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": true
   },
   {
    "id": "c96e710783884d23",
@@ -6263,7 +6122,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "c4f41cc27486e5cc",
@@ -6296,7 +6156,8 @@
    ],
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "1e30f10e1f8ad396",
@@ -6316,7 +6177,28 @@
    "score": 2,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
+  },
+  {
+   "id": "522e10207e653c92",
+   "title": "🏎️賽場專武 ▪ 全新拆檢-鮫鯊狂鱗戰刃（37.48g) ▪ 全新拆檢-綠色魔導神杖戰刃（35.56g) ▪ 全新拆檢-藍鳳凰飛翼戰刃（38.87g) ▪ 台版BX-23鳳凰飛翼/CX-11/迪加狂怒/福音戰士 ▪ 帝王威能H 🇹🇼🇯🇵 台日版全新未拆現貨 ▪ BX-23鳳凰飛翼/CX-13龍王閃擊/蒼龍神劍V2 ▪ CX-",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NZXZOaFoxaVN3UzRBZFItbmFLbTRhdzBpeDFnVFBsczczcHhnTlpGMVdoeTZQWFh6eDRUa012Z0lfME9LeXAzcWpkZmxiaGNoLS1OWjdwci0tMWNHVjlwVnlPZlVLd291ZTlrOG1VVERpeGlBd3YzTWF3?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-05T22:59+08:00",
+   "first_seen": "2026-10-17T00:31+08:00",
+   "region": [],
+   "arrival": [
+    "現貨"
+   ],
+   "stores": [],
+   "resale": false,
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
   },
   {
    "id": "9ce65ee3e9695845",
@@ -6339,26 +6221,8 @@
      "url": "https://news.google.com/rss/articles/CBMi8wVBVV95cUxOMU9KMUNZRFVITDF6d1hiRU9Qd1E5NDl2dHVIdXFmbDExRGlHVldsbEJRYTczZmtWMzNHVldZcmR0eGRVaWlZWFFFTUx5Mlc1cDhnRnZaS05HeFFHNkZsVHIxb2dSY1dvVzg4dFV6NUdyb0t0eWVLYmVTdll4MnBmX01vZzlhNURyckxscXhwVkxsR0dqdVg2UWtjSVA4cnZwbzFJYkR5ZDBFNTNuU29PSTRXS19WLVpFN0Q1RVVMNUtkb1B1MlFQQWVhLW13SVI3S0d1aVRYQXN1dTNrd0M2WTVpM05NREdtUnZrWlo5dHpNVjhqMkoydk8tWkpOaWpkUkttaF9MV2lleDlOV1JIRTZmdXJ3cXFvWnA0bEhMX0NzUTFJbXJhZWVSSXUtc2JBYWRfM2k5OEtCQXVTckppSE1aY2lVdEVFaEVtTWdTak5fa0NjNWk1Y2ZETnhpcWtXSGRhVHRFaGcybEpuMmIzemdnU0EtTnVJNGQydkxyNTRxUU1DNjZ2aGtRMEVvNXAzRWt1eS1Ed0F6RzR3bmpEd2dPelM0OE8yQTU2ci1tNVdiTHQ1Tm5kbS1vVThZc3ZCWTZPWDlzVkE5RENLbk1xWVV4MXpjOW9iRElJb2M5Nnl0UVhiVktRTlZ3WmRyS2RxbVFJRUNuT0xZeWhHYzNxUmhrRHBGdjh1TU11Tl9QYjBzTjJvRzRVYTc1LW1SdEtHQjVRMEJGY3YyU3p6Nk5VVkVuUmJOa1ZONnVVMUx0OUVOZXo0Si1vVkRsRWIzT3pBY1lmdXpqcjNuY1FHNVBreUJPSUJuMWJlUWQ1ZjVuU1VjRkZtaFRxek00MjJPUi1zUGJuaDRxSjAtbVdYSG9LRXk3UGFyTkNWeEw0eUF6NDJiYjZmRFJlTnlmVUJvTlc1eW5SdnF4R1JkbkRTT25OQ0t3SWRCeXdyTjVLYnIybnM5bEE5ekRJVU5Weks3dnI0T0ozd28tMTM0Qkgwa1F5RXZacw?oc=5"
     }
    ],
-   "branch": null
-  },
-  {
-   "id": "58595a936f1770ee",
-   "title": "🎈10/5（一）晚上場比賽🏟️ 🏆冠軍【郭郭】 🥈亞軍【豪里由3號】 🥉季軍【蔡】 恭喜🎉恭喜🎉 #南投埔里 #歐爸夾親子樂園 #戰鬥陀螺比賽",
-   "url": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxQWGNESmRPa3RjRjd0ejlDV2tNV3hKSnQwUmJ1UHEzZ24yMl9LMzk3WC1BZXh0d3ZGZXFpQ1BqX3ItdnB3VmlPWHBVdFM3bm5ReG00WHRGSDlWTXc2YUhqeV85SGdwOFZuYVVvbE44b1F0NUFsTVJic2I0d0ZuWm11bzVEMkl4eGM1cS0wa1BWU1lsWDhoTWVGeUk1WGZBcHlMMlpzVS1JeG5UakdNbFdqclVIaTFzODR5Y2MtTENzcURaZWZ3UUd2dUd0NVFqNzR2dnkyb0xWSzJhem1PcGl2TTFwODZxRy12b2ZHdThXLUhKcXJmVW02OGp2TVZxei1BblJCNXlna1RBdi12S1RWSzBHbXZibXpsZkl1UW93eUxlV1VjZUluamg0UFYwMTRGOGR4ZmNFaVlJNUNmSGc3REZfNVU4MGNhWTIzZEVjNldnTXJEdy1rcFN6OUp4M0l3SEJ6QVo5U1Rudk4zcjh2YkVhTE5EdFhXYS04RWFqUlpMM25QU0p2d2Q2NUM2aGZBam9YV0dYZ3ZzM2c5VDNsSmlOVkZZN2x3ejkxbHY2cV9SdmZRZWtGVG5kald2cWd5VDRRN1lKR1dsVzhWQllqaDhRTDR0N2pZWTdPV1BHZHp4SExxcU54Z29pbldaSVFqSEctN3ZUclhwc2RhY0Etb0FlQWJkV3AyeG5xQ0ozazVid2thNEdDYjFzZGthekdMOFlNOV9TejhNbTBWVUM3YmJHZzdYRkhGSlllQzZ4UElXeXlQRk9GODNlZ1lDNzAyWVgtVWNTVUZEYlJLek5sckxsc2w?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-05T15:00+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [
-    "南投"
-   ],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
    "branch": null,
-   "score": 2
+   "event": true
   },
   {
    "id": "7155337d20100be8",
@@ -6375,9 +6239,10 @@
    ],
    "stores": [],
    "resale": false,
-   "shop": "玩具e哥",
+   "shop": null,
    "branch": null,
-   "score": 2
+   "score": 2,
+   "event": false
   },
   {
    "id": "927c41ad45c5317c",
@@ -6394,7 +6259,8 @@
    "resale": false,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "dc5419288b38fe88",
@@ -6421,7 +6287,8 @@
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iRE1VUHlOdXpkLWlpQy1CYUpjZFJIMnVqTUlvVWRHb0JEQkljX0ZpcWVqVHRYeGV4UFJYU0QwcFY0SlJ0aWVNb2dUN1RmREdueU1CbFZXRGtkWTdpVk12bXRXSnRjS2xlMnQ3X2Jnd01vakpOY3JQM1ZCMA?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "1b7614ec37a9f3e1",
@@ -6442,7 +6309,8 @@
    "score": 4,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "d874659332ef955a",
@@ -6459,7 +6327,8 @@
    "resale": true,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "4db56807a39e302d",
@@ -6480,7 +6349,8 @@
    "resale": false,
    "shop": null,
    "score": 3,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "7c442a929b88067e",
@@ -6543,7 +6413,8 @@
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uQ3hOazA1M3ZsLVlJRmNSZENRSG1BMVh6dkF2Uk5DWUw1MDZPLXd4RnpwTlAyVHNCOUJFRkJTOUtGTVJxVjZTX0tZVUJlTnprd283S1prLUlxX3lPRGZIdXNZdHhLcUR6Q2lYTGpMcDVIaFMyYjlZYldjWQ?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "29c8b8e929fcfc8a",
@@ -6562,7 +6433,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "1f894fbf82d59f14",
@@ -6581,7 +6453,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "899ade99c60e1c12",
@@ -6598,26 +6471,10 @@
    ],
    "stores": [],
    "resale": false,
-   "shop": "玩具e哥",
+   "shop": null,
    "branch": null,
-   "score": 2
-  },
-  {
-   "id": "e9c2246638a9a4db",
-   "title": "今日只有昨天賣剩的電動盤 沒有其他陀螺了",
-   "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQcWJkT1ptVl95WUhDRmgwSDdHdTRqdVBkM0xJTDdiaTNmWkxJY05DbFVfQ25HNUdPTEZXRTdpaXRYVjBEZ1UwRTUtN1BzTGE2NGhVV2NaVEM5LUZieU1uY1NtODNQRUI2MXJtMnEtR05WdVBpRlFyWHN1MHJwR2NGaEkyd0xjZGhVdGJlVWd0Z3AzNTRVQ1hteF9CLVZKZTdsNkxnVHZfZkViN1ZCcU9fcnp0eGFEa05oWjVQN2xPdmE3ZFRfcUlpRXVOR1ZtWElXR2c3RXdmeTNuWmloNE85aWN5aks0aGxlTlFXNlRoQ04yd0V2b1c3UHZLeWNTbUQydURPOXJCVG1Zc04xbU5QZTNRYVpvXzN1eld6LWJuWGFGQW5FNFgwWU5PNmJtTFQyb0d6amxfYlpmdHVsbkpOLWdNcVJVOTBDLW1GWHBvT3o?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-04T15:26+08:00",
-   "first_seen": "2026-10-17T00:27+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": false,
-   "shop": "玩具e哥",
-   "branch": null,
-   "score": 0
+   "score": 2,
+   "event": true
   },
   {
    "id": "d427f3e406983667",
@@ -6640,7 +6497,8 @@
    "also": [],
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "44cb14565b0acb0e",
@@ -6659,7 +6517,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "20c8f1bc75615865",
@@ -6678,9 +6537,10 @@
    ],
    "stores": [],
    "resale": false,
-   "shop": "玩具e哥",
+   "shop": null,
    "branch": null,
-   "score": 2
+   "score": 2,
+   "event": false
   },
   {
    "id": "616f9eb894d034d6",
@@ -6701,7 +6561,8 @@
    "resale": true,
    "shop": null,
    "score": 4,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "8a7711d279306234",
@@ -6718,7 +6579,8 @@
    "resale": true,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "4faae276207c1e45",
@@ -6737,7 +6599,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "63ddf2d1943c34d4",
@@ -6756,7 +6619,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "abc1e9a48b5dbcc0",
@@ -6777,7 +6641,8 @@
    "resale": true,
    "shop": null,
    "score": 3,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "98b3e0802bb50ca5",
@@ -6793,10 +6658,11 @@
     "現貨"
    ],
    "stores": [],
-   "resale": false,
+   "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "2e1d30091e136976",
@@ -6831,7 +6697,8 @@
      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQQnptTHZnUlA1NTZpZnJqX0UwRGN6MGFrSW1tdW83ZjNvMHk2Uk5qc3NSV1VmeFZiWTZ3OFFrRmtGMnZqUmxJRjRBS2xWYklyS3lMcGUtNGQ1Z0hzM3R6VlgyRnpLNURUSHlWZGtCcmJNQ3FQZzdaY09XazM0ekRabTdZUGszX3Q4YmZ0Q3dnSjNiNmI2VDNzYlhZQmduYU1ETUVHODFiVXJLREhjU1lucW93b1dudzVWZ0JUVkVsQXZPVmJhMmw5c2tCQkZ4c05Hd1RZT2NIeWlJR05uY3FuQzZ4QUdLbl9aOEdrOHhfakVWS0UtLU4xTmFaVlNjT2ZVcVlqbWlWNVhZNkc5T19tRTE2UTl4Y1RzNnR4VGhuUGozZjk2dHE0QjZoeHFzQmVSaEZOeTFpR0ZzcFJNU1RVVUZFRS02Z3VIaVp0VUhOV1RiY1FyZWdQeUhjNnE5cHdIM29odGhXRGt2cnpFdnM2UEVmMmkxWS1uUElscQ?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "3ee8c93c27096cfa",
@@ -6860,7 +6727,8 @@
    ],
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "e6ad3f8f0e31ecc6",
@@ -6877,7 +6745,8 @@
    "resale": true,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "e512cc5bd97172ab",
@@ -6899,7 +6768,8 @@
    "score": 4,
    "resale": false,
    "shop": null,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "3aabc50c3b0c2d0f",
@@ -6918,7 +6788,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "8a7abb651cdc0e26",
@@ -6939,7 +6810,8 @@
    "resale": true,
    "shop": null,
    "score": 4,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "21cbe3a2507a0602",
@@ -6956,9 +6828,10 @@
    "arrival": [],
    "stores": [],
    "resale": false,
-   "shop": "玩具e哥",
+   "shop": null,
    "branch": null,
-   "score": 2
+   "score": 2,
+   "event": true
   },
   {
    "id": "54bbeb910d8a2e06",
@@ -6977,7 +6850,8 @@
    "resale": true,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "8852e032c139906d",
@@ -6996,7 +6870,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "b4a1123c8af229e3",
@@ -7010,10 +6885,11 @@
    "region": [],
    "arrival": [],
    "stores": [],
-   "resale": false,
+   "resale": true,
    "shop": null,
    "score": 0,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "eab5fe2133b358db",
@@ -7033,7 +6909,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "67b4d18f98285bfc",
@@ -7056,7 +6933,8 @@
    "resale": true,
    "shop": null,
    "score": 4,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "68ae2fe2e8dab82d",
@@ -7071,9 +6949,10 @@
    "arrival": [],
    "stores": [],
    "resale": false,
-   "shop": "玩具e哥",
+   "shop": null,
    "branch": null,
-   "score": 0
+   "score": 0,
+   "event": false
   },
   {
    "id": "9ad5980c68fa7f4e",
@@ -7092,7 +6971,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "86a7eb11d33b0c1b",
@@ -7111,7 +6991,8 @@
    "resale": false,
    "shop": null,
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": true
   },
   {
    "id": "996f3e2fc9a061bf",
@@ -7138,7 +7019,8 @@
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HODlmT21fY2xHRXhrWDZKZnRCbzJPNHNESjRYQjFDdmNpZjFQVFVCUjZaT2Z6VzIyQUFBSzRkbTE1ZWwycUNfTk1uNmswMmNKdmxHY2lSbTl4aE9BRzhNMkJMUXZBbG13a3FTOWlSMERRMnRmX1l3R254NA?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "d05539a23357d62d",
@@ -7159,7 +7041,8 @@
    "resale": false,
    "shop": "玩具e哥",
    "score": 2,
-   "branch": null
+   "branch": null,
+   "event": false
   },
   {
    "id": "7e6f725e3359ba70",
@@ -7185,7 +7068,8 @@
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FbUExR2VQVXdDT3JnM3pwM2RsSXFTUUVUYi1jVGNGa2ZwUkdHRkU0bWxDQnZHYll0cTFIb1AtWTBteGtBV2xRcGtIMlJLUU9MMVJXV1Ixd3VIZzRDVEM2YWcwREVrUFFKbXUwSVVqcmtzT0ctelpFSFpSdw?oc=5"
     }
    ],
-   "branch": null
+   "branch": null,
+   "event": false
   }
  ]
 }
