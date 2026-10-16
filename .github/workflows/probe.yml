@@ -1,0 +1,15 @@
+name: 臨時探測（看完會刪）
+on: workflow_dispatch
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          UA="Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 Chrome/126.0 Mobile Safari/537.36"
+          C='https://www.sen-sen.com.tw/collections/%E6%88%B0%E9%AC%A5%E9%99%80%E8%9E%BAx'
+          echo "== sen-sen headers"; curl -sSIL -A "$UA" "$C" | grep -iE "^HTTP|server|x-shopify|x-shopid|powered|set-cookie: _shop" | head
+          echo "== sen-sen html hints"; curl -sSL -A "$UA" "$C" | grep -oiE "shopify|shopline|cyberbiz|91app|meepshop|easystore|waca|boutir|/products/[^\"?]{0,80}|sold.?out|售完|已售完|補貨中" | sort | uniq -c | sort -rn | head -30
+          echo "== sen-sen products.json"; curl -sSL -A "$UA" "$C/products.json?limit=5" | head -c 1500; echo
+          echo "== beybladehub"; curl -sSIL -A "$UA" https://beybladehub.app/stores | grep -iE "^HTTP|server|content-type" | head
+          curl -sSL -A "$UA" https://beybladehub.app/stores | grep -oE "(/api/[^\"']{0,80}|[^\"']*\.json[^\"']{0,40}|__NEXT_DATA__|文具|書局)" | sort | uniq -c | sort -rn | head -30
+          echo "== beybladehub next data"; curl -sSL -A "$UA" https://beybladehub.app/stores | grep -o '__NEXT_DATA__[^<]\{0,3000\}' | head -c 3000; echo
