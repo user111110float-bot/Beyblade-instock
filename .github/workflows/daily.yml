@@ -1,0 +1,51 @@
+name: 每日收集陀螺到貨資訊
+
+on:
+  schedule:
+    # 台灣時間每天 08:00 與 18:00（UTC 00:00 / 10:00）
+    - cron: "7 0 * * *"
+    - cron: "7 10 * * *"
+  workflow_dispatch:
+  push:
+    branches: [claude/beyblade-arrival-notifications-c5xyzk, main]
+    paths: ["docs/**", "scraper/**", ".github/workflows/**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 收集資料
+        run: python scraper/collect.py
+
+      - name: 存回 repo（保留歷史紀錄）
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/items.json docs/data.json LATEST.md
+          git diff --cached --quiet || git commit -m "data: $(TZ=Asia/Taipei date '+%Y-%m-%d %H:%M') 更新"
+          git push
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deploy
+        uses: actions/deploy-pages@v4
