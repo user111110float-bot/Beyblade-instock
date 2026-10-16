@@ -6,12 +6,28 @@ jobs:
     steps:
       - run: |
           UA="Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 Chrome/126.0 Mobile Safari/537.36"
-          U='https://www.toysrus.com.tw/zh-tw/beyblade/'
-          curl -sSL -A "$UA" -o p.html -w "HTTP %{http_code} size %{size_download} final %{url_effective}\n" "$U"
-          echo "== platform"; grep -oiE "demandware|salesforce|sfcc|dwvar|shopify|cyberbiz|shopline|91app|magento|vtex" p.html | sort | uniq -c
-          echo "== product tiles"; grep -oE 'data-pid="[^"]+"' p.html | head -5; grep -c 'data-pid=' p.html
-          echo "== availability words"; grep -oE "暫時缺貨|缺貨|已售完|加入購物車|貨到通知|available|InStock|OutOfStock|in-stock|out-of-stock" p.html | sort | uniq -c
-          echo "== ld+json"; grep -o '"@type":"[A-Za-z]*"' p.html | sort | uniq -c | head
-          echo "== sample tile"; grep -m1 -A40 'class="product-tile' p.html | sed 's/  */ /g' | head -60
-          echo "== search show ajax"; grep -oE '/on/demandware.store/[^"'"'"' ]{0,120}' p.html | sort -u | head -15
-          echo "== pagination"; grep -oE '(sz|start)=[0-9]+' p.html | sort -u | head
+          U='https://www.toysrus.com.tw/on/demandware.store/Sites-ToysRUs_TW-Site/zh_TW/Search-ShowAjax?cgid=beyblade&start=0&sz=96'
+          curl -sSL -A "$UA" -o p.html -w "HTTP %{http_code} size %{size_download}\n" "$U"
+          echo "== tiles"; grep -c 'data-pid=' p.html
+          echo "== availability"; grep -oE "暫時缺貨|缺貨|已售完|加入購物車|貨到通知|即將到貨|預購" p.html | sort | uniq -c
+          echo "== first tile"
+          python3 - <<'PY'
+          import re
+          h=open('p.html',encoding='utf-8').read()
+          i=h.find('data-pid=')
+          s=h.rfind('<div',0,i)
+          t=re.sub(r'\s+',' ',h[s:s+5000])
+          print(t[:3500])
+          PY
+          echo "== names/prices"
+          python3 - <<'PY'
+          import re
+          h=open('p.html',encoding='utf-8').read()
+          parts=h.split('data-pid=')[1:]
+          for p in parts[:60]:
+              pid=p.split('"')[1]
+              name=re.search(r'(?:class="[^"]*(?:pdp-link|product-name|tile-name)[^"]*"[^>]*>\s*(?:<a[^>]*>)?\s*)([^<]{3,120})',p)
+              price=re.search(r'content="(\d+(?:\.\d+)?)"',p)
+              av='缺貨' if '暫時缺貨' in p[:6000] else '?'
+              print(pid, (name.group(1).strip() if name else None), price.group(1) if price else None, av)
+          PY
