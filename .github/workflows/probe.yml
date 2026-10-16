@@ -1,0 +1,33 @@
+name: 臨時探測（看完會刪）
+on: workflow_dispatch
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          UA="Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 Chrome/126.0 Mobile Safari/537.36"
+          curl -sSL -A "$UA" -o f.html 'https://shop.funbox.com.tw/categories/XI/KB'
+          echo "== KB links"; grep -oE '[^"'"'"' ]{0,40}XI/KB[^"'"'"' <]{0,60}' f.html | sort | uniq -c | sort -rn | head -20
+          for c in XI/KB/XIKBXA XI/KB/KB2X; do echo "== $c"; curl -sSL -A "$UA" "https://shop.funbox.com.tw/categories/$c.json" | python3 -c "
+          import sys,json
+          try: d=json.load(sys.stdin)
+          except Exception as e: print('not json',e); sys.exit()
+          print(len(d)); [print(' ',p['title'][:40],p.get('sell_from'),[v.get('inventory_quantity') for v in p['variants']][:2]) for p in d[:8]]"; done
+          curl -sSL -A "$UA" -o x.html 'https://shop.funbox.com.tw/categories/XI/KB/XIKBXA'
+          echo "== sub page links"; grep -oE '[^"'"'"' ]{0,40}categories/XI/KB/[A-Za-z0-9]+' x.html | sort | uniq -c | sort -rn | head -20
+          echo "######## PCHOME search"
+          for pg in 1 2; do curl -sSL -A "$UA" "https://ecshweb.pchome.com.tw/search/v4.3/all/results?q=%E9%BA%97%E5%AC%B0%20%E6%88%B0%E9%AC%A5%E9%99%80%E8%9E%BA&page=$pg&pageCount=40" | python3 -c "
+          import sys,json;d=json.load(sys.stdin);print('total',d.get('TotalRows'),'pages',d.get('TotalPage'))
+          [print(' ',p['Id'],p.get('isPChome'),p['Name'][:60]) for p in d.get('Prods',[])]"; done
+          echo "== store listing size"
+          python3 - <<'PY'
+          import urllib.request,re,json
+          tot=0;found=False
+          for n in range(30):
+              u=f"https://ecapi-cdn.pchome.com.tw/cdn/ecshop/prodapi/v2/store/DEASSW/prod&offset={n*36+1}&limit=36&fields=Id,Name&_callback=cb"
+              t=urllib.request.urlopen(urllib.request.Request(u,headers={'User-Agent':'Mozilla/5.0'})).read().decode()
+              m=re.search(r'cb\((.*)\);?\s*}\s*catch',t,re.S); d=json.loads(m.group(1)) if m else []
+              tot+=len(d); found=found or any('A900JK8BK' in p['Id'] for p in d)
+              if len(d)<36: break
+          print('listing total',tot,'has BX-46',found)
+          PY
