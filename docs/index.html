@@ -47,6 +47,7 @@ details li.off{opacity:.6}
     <button data-f="all">全部消息</button>
     <button data-f="arrival">📦 到貨／補貨</button>
     <button data-f="social">💬 社群</button>
+    <button data-f="resale">♻️ 二手</button>
     <button data-f="new">🆕 今天新增</button>
   </div>
 </header>
@@ -59,11 +60,13 @@ const CITIES = ['基隆','台北','新北','桃園','新竹','苗栗','台中','
   '台南','高雄','屏東','宜蘭','花蓮','台東','澎湖','金門','連江'];
 const ALL = '全台';
 const NONE = '未標地區';
+// 個人二手轉售只放在「♻️ 二手」分頁，其他分頁都不顯示
 const FILTERS = {
-  all: () => true,
+  all: i => !i.resale,
   arrival: i => i.arrival.length > 0 && !i.resale,
-  social: i => i.social ?? /^(PTT|Dcard|YouTube|Threads|Facebook)/.test(i.source),
-  new: (i, d) => i.first_seen === d.updated,
+  social: i => !i.resale && (i.social ?? /^(PTT|Dcard|YouTube|Threads|Facebook)/.test(i.source)),
+  resale: i => !!i.resale,
+  new: (i, d) => !i.resale && i.first_seen === d.updated,
 };
 const load = (k, def) => { try { return JSON.parse(localStorage.getItem(k)) ?? def; } catch (e) { return def; } };
 const save = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} };
