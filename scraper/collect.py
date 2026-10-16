@@ -21,6 +21,8 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
+from stock import check_stores
+
 ROOT = Path(__file__).resolve().parent.parent
 DATA_FILE = ROOT / "data" / "items.json"
 SHOPS_FILE = ROOT / "shops.json"
@@ -252,6 +254,10 @@ SOURCES = [
     ("Facebook 公開貼文：戰鬥陀螺", lambda: google_news("戰鬥陀螺 site:facebook.com")),
     ("Facebook 公開貼文：到貨", lambda: google_news("陀螺 到貨 OR 補貨 OR 現貨 site:facebook.com")),
     ("Facebook 玩具店", lambda: google_news("玩具店 陀螺 到貨 OR 現貨 OR 補貨 site:facebook.com")),
+    # 文具店、書局也常進陀螺，但消息比玩具店更難找
+    ("Facebook 文具店", lambda: google_news("文具 陀螺 到貨 OR 現貨 OR 補貨 OR 開賣 site:facebook.com")),
+    ("Facebook 書局", lambda: google_news("書局 陀螺 到貨 OR 現貨 OR 補貨 OR 開賣 site:facebook.com")),
+    ("Google 新聞：文具店", lambda: google_news("戰鬥陀螺 文具店 OR 書局")),
     ("PTT Toy", lambda: ptt_search("Toy", "陀螺")),
     ("PTT BabyMother", lambda: ptt_search("BabyMother", "陀螺")),
     ("PTT Lifeismoney", lambda: ptt_search("Lifeismoney", "陀螺")),
@@ -358,6 +364,9 @@ def reclassify(items) -> list[dict]:
     """關鍵字清單改過後，舊資料也照新規則重算（不符合的直接剔除）。"""
     out = []
     for i in items:
+        if i.get("kind") == "stock":  # 網店補貨消息是程式產生的，不用重算
+            out.append(i)
+            continue
         if i["title"].endswith(f" - {i['source']}"):
             i["title"] = i["title"][: -len(i["source"]) - 3]
         if i["summary"].startswith(i["title"]):
@@ -396,6 +405,8 @@ def merge_similar(items: list[dict]) -> list[dict]:
     for i in items:
         day = dt.datetime.fromisoformat(i["date"])
         for k in kept:
+            if "stock" in (i.get("kind"), k.get("kind")):
+                continue
             if abs(dt.datetime.fromisoformat(k["date"]) - day) > dt.timedelta(days=3):
                 continue
             if same_story(k, i):
@@ -417,11 +428,27 @@ def redact(msg: str) -> str:
     return msg
 
 
+def is_full_run(prev: dict) -> bool:
+    """每小時都會跑；只有 08、18 點（或手動、改程式後）才把所有來源搜一遍，其他時間只查網店庫存。"""
+    if os.environ.get("FULL") == "1" or NOW.hour in (8, 18) or not prev.get("updated_full"):
+        return True
+    return NOW - dt.datetime.fromisoformat(prev["updated_full"]) >= dt.timedelta(hours=11)
+
+
 def main() -> int:
+    prev = json.loads(DATA_FILE.read_text("utf-8")) if DATA_FILE.exists() else {}
     history = load_history()
+    full = is_full_run(prev)
+    print("完整收集" if full else "只查網店庫存")
+    stamp = NOW.isoformat(timespec="minutes")
+
+    stock, stock_events, stock_status = check_stores(SHOPS, fetch, NOW)
+    for e in stock_events:
+        history[e["id"]] = e
+
     status = []
     new_count = 0
-    for name, fn in SOURCES:
+    for name, fn in SOURCES if full else []:
         try:
             raw = fn()
         except NotConfigured as e:
@@ -466,17 +493,23 @@ def main() -> int:
         status.append({"name": name, "ok": True, "count": kept})
         print(f"[ok] {name}: {len(raw)} 筆，相關 {kept} 筆")
 
+    if not full:  # 沒搜的來源沿用上次的狀態
+        status = [s for s in prev.get("sources", []) if not s["name"].startswith("網店庫存")]
+    status += stock_status
+
     cutoff = (NOW - dt.timedelta(days=KEEP_DAYS)).isoformat()
     items = merge_similar(reclassify(i for i in history.values() if i["date"] >= cutoff))
     items.sort(key=lambda i: i["date"], reverse=True)
-    # 被合併掉的轉載不算新消息
-    new_count = sum(i["first_seen"] == NOW.isoformat(timespec="minutes") for i in items)
+    # 今天第一次看到的才算新消息（被合併掉的轉載不算）
+    new_count = sum(i["first_seen"][:10] == stamp[:10] for i in items)
 
     payload = {
-        "updated": NOW.isoformat(timespec="minutes"),
+        "updated": stamp,
+        "updated_full": stamp if full else prev.get("updated_full"),
         "new_today": new_count,
         "sources": status,
         "items": items,
+        "stock": stock,
     }
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
     DATA_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=1), "utf-8")

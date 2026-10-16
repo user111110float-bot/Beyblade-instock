@@ -8,12 +8,14 @@
 
 ## 運作方式
 
-GitHub Actions 每天台灣時間 **08:00、18:00** 執行 `scraper/collect.py`：
+GitHub Actions **每小時**執行 `scraper/collect.py`：每小時檢查網店庫存，台灣時間 **08:00、18:00** 再把下面所有來源完整搜一遍。
 
 | 來源 | 內容 |
 |---|---|
 | Google 新聞 | 「戰鬥陀螺 到貨／補貨／開賣」、超商、門市等新聞 |
 | PTT（Toy、BabyMother、Lifeismoney、Gossiping） | 網友回報現貨、補貨 |
+| 網店庫存（`scraper/stock.py`） | 直接讀店家網店的商品庫存（目前支援 CYBERBIZ），補貨、新上架馬上列出；「🛒 網店庫存」分頁可看每項商品有沒有貨 |
+| Facebook 文具店／書局 | 文具店、書局的到貨貼文（比玩具店更難得知） |
 | Facebook 公開貼文 | 透過 Google 新聞收錄的公開粉專／社團貼文（店家到貨公告、網友轉售）。只收得到 Google 有收錄的部分 |
 | YouTube（選填） | 近 14 天「到貨／補貨／開箱」影片，需要免費 API 金鑰 |
 | Threads（選填） | 官方 API 關鍵字搜尋，需要 Meta App 權杖（見下方限制） |
@@ -44,6 +46,14 @@ GitHub Actions 每天台灣時間 **08:00、18:00** 執行 `scraper/collect.py`�
   {"name": "玩具e哥", "keywords": ["TOYeGO"]}
 ]
 ```
+
+有網店的店家（例如森森文具，用 CYBERBIZ 架站）加上 `store`，就會每小時監控庫存：
+
+```json
+{"name": "森森文具", "store": {"type": "cyberbiz", "url": "https://www.sen-sen.com.tw/collections/戰鬥陀螺x"}}
+```
+
+怎麼知道是不是 CYBERBIZ：網頁最下面常寫「Powered by CYBERBIZ」，或在商品分類網址後面加 `/products.json` 看得到商品資料。
 
 連鎖店（例如玩具e哥）不用填 `city`，會從貼文裡的分店名（「新莊昌隆店」「台北松山店」）判斷縣市，卡片上也會顯示分店。
 

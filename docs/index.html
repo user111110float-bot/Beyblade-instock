@@ -32,6 +32,7 @@ main{padding:12px 16px 40px;max-width:720px;margin:0 auto}
 .tag.tp{background:var(--tp);color:#fff}.tag.ntp{background:var(--ntp);color:#fff}.tag.new{background:var(--warn);color:#000}
 .tag.shop{background:var(--accent);color:#fff}
 .src{color:var(--muted)}
+.card.off{opacity:.55}
 .empty{text-align:center;color:var(--muted);padding:40px 0}
 details{margin-top:24px;color:var(--muted);font-size:13px}
 details li.bad{color:var(--tp)}
@@ -47,6 +48,7 @@ details li.off{opacity:.6}
     <button data-f="all">全部消息</button>
     <button data-f="arrival">📦 到貨／補貨</button>
     <button data-f="social">💬 社群</button>
+    <button data-f="stock">🛒 網店庫存</button>
     <button data-f="event">🏆 比賽</button>
     <button data-f="resale">♻️ 二手</button>
     <button data-f="new">🆕 今天新增</button>
@@ -69,16 +71,20 @@ const FILTERS = {
   social: i => plain(i) && (i.social ?? /^(PTT|Dcard|YouTube|Threads|Facebook)/.test(i.source)),
   event: i => !!i.event && !i.resale,
   resale: i => !!i.resale,
-  new: (i, d) => plain(i) && i.first_seen === d.updated,
+  new: (i, d) => plain(i) && isNew(i, d),
+  stock: () => false,  // 網店庫存另外顯示，見 renderStock
 };
 const load = (k, def) => { try { return JSON.parse(localStorage.getItem(k)) ?? def; } catch (e) { return def; } };
 const save = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} };
 let data, filter = load('filter', 'all'), picked = load('regions', ['台北', '新北', NONE]);
 if (!FILTERS[filter]) filter = 'all';
 
+const isNew = (i, d) => i.first_seen.slice(0, 10) === d.updated.slice(0, 10);
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 // 沒標縣市、但是連鎖通路的消息（例如超商全台開賣）每個縣市都看得到
-const nationwide = i => !i.region.length && i.stores.length > 0;
+// 網店補貨全台都買得到，也一樣
+const online = i => i.kind === 'stock';
+const nationwide = i => online(i) || (!i.region.length && i.stores.length > 0);
 const inRegion = i => picked.includes(ALL) || nationwide(i) || i.region.some(r => picked.includes(r))
   || (picked.includes(NONE) && !i.region.length);
 
@@ -91,9 +97,33 @@ function renderRegions() {
     `<button data-c="${c}" class="${picked.includes(c) ? 'on' : ''}">${c}<span class="n">${count(c)}</span></button>`).join('');
 }
 
+// 網店庫存：直接讀店家網店的商品庫存，跟縣市無關
+function renderStock() {
+  const list = document.getElementById('list');
+  const stock = data.stock || [];
+  if (!stock.length) { list.innerHTML = '<div class="empty">還沒有監控的網店</div>'; return; }
+  const ago = t => t ? t.replace('T', ' ').slice(5, 16) : '';
+  let html = '', shop = '';
+  for (const p of stock) {
+    if (p.shop !== shop) {
+      shop = p.shop;
+      const n = stock.filter(x => x.shop === shop && x.in_stock).length;
+      html += `<div class="day">🛒 ${esc(shop)}　有貨 ${n} 項</div>`;
+    }
+    const state = p.in_stock
+      ? `<span class="tag ntp">有貨${p.qty ? ' ' + p.qty : ''}</span>` : '<span class="tag">已售完</span>';
+    const when = p.restocked_at ? `<span class="src">${ago(p.restocked_at)} 補貨／上架</span>` : '';
+    html += `<div class="card${p.in_stock ? '' : ' off'}">
+      <a class="t" href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.title)}</a>
+      <div class="tags">${state}${p.price ? `<span class="tag">$${p.price}</span>` : ''}${when}</div></div>`;
+  }
+  list.innerHTML = html;
+}
+
 function render() {
   document.querySelectorAll('#tabs button').forEach(b => b.classList.toggle('on', b.dataset.f === filter));
   renderRegions();
+  if (filter === 'stock') return renderStock();
   const items = data.items.filter(i => inRegion(i) && FILTERS[filter](i, data));
   const list = document.getElementById('list');
   if (!items.length) {
@@ -105,9 +135,10 @@ function render() {
     const d = i.date.slice(0, 10);
     if (d !== day) { day = d; html += `<div class="day">${d.replace(/-/g, '/')}</div>`; }
     const tags = [
-      ...(i.first_seen === data.updated ? ['<span class="tag new">NEW</span>'] : []),
+      ...(isNew(i, data) ? ['<span class="tag new">NEW</span>'] : []),
       ...(i.shop ? [`<span class="tag shop">🏪 ${esc(i.shop)}${i.branch ? ' ' + esc(i.branch) : ''}</span>`] : []),
-      ...(nationwide(i) ? ['<span class="tag ntp">全台通路</span>'] : []),
+      ...(online(i) ? ['<span class="tag ntp">🛒 網店</span>']
+        : nationwide(i) ? ['<span class="tag ntp">全台通路</span>'] : []),
       ...(i.resale ? ['<span class="tag">二手／轉售</span>'] : []),
       ...i.region.map(r => `<span class="tag ${picked.includes(r) ? 'tp' : ''}">📍${esc(r)}</span>`),
       ...i.stores.map(s => `<span class="tag">${esc(s)}</span>`),
