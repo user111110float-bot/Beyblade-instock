@@ -1,6 +1,6 @@
 # 戰鬥陀螺到貨情報（全台）
 
-更新時間：2026-10-17T01:41+08:00　今日新增 342 筆
+更新時間：2026-10-17T01:47+08:00　今日新增 343 筆
 
 ## 📍 基隆
 
@@ -123,6 +123,7 @@
 
 ## 📍 南投
 
+- 2026-10-16 [售 UX-21惡魔冥界改造組 台版，全新未拆（含QR） 埔心、南投面交1100元 店到店1160元（匯款後寄出） 蝦皮賣場1299元（歡迎10/18使用優惠券） https://tw.shp.ee/gDDzcLRy](https://news.google.com/rss/articles/CBMie0FVX3lxTE84SlVxWWNYVWRuTXI4clF0ZXhVd245ZWVwZzN0Q3lmbno2Yy1vT3UxMjJ6Qmp0elBUY0M2NU5IRFY5ZUZ0RXpydjh5aVNaXzVuczhFWmdYcENadDdRQ1F6VTItemVMeXRmTGtCMkdkVnp5VlN0RkJSWnNVTQ?oc=5) — Facebook `蝦皮`
 - 2026-10-14 [「出售」 陀螺收納箱（小）$300 CX-01 $650 其於的菜貨陀螺 $1:400 有幾個台主有加強黏膠帶，附上影片 交易方式：賣貨便+48，南投面 多平台出售，要的私訊留言。](https://news.google.com/rss/articles/CBMie0FVX3lxTE5GTWZhTHk2aUVwc1FsRnN0OVlQaWRQTHpqUkNBWFR1dGpXdS11WUtaYkc0dVdoQUc1Y05zXzhpdE05WTFkMS1UWndJM3I4RDRSVW1MZ1YyUmpKcFRLN3h0OWxlaHRBRlRyeWxoa0JlcV9TRHNtb1pYamw4QQ?oc=5) — Facebook 
 - 2026-10-11 [售 BX-35 確認款06 300 南投台中面交 不遠可幫送](https://news.google.com/rss/articles/CBMiekFVX3lxTE85aUVwX2cwOXBCeVFDTjBFRVMyRWVHYkFTYXcyWkJRTkpub0xfM3pYMDlmdDVvV3B5cmxHb0gyN3BlbXFkQXlZQ0Z0dmhYR2Y4T2ZoTk5KM01Tc0tMM05tOU5FTkZQbk95VHpoMW52dFA4bmtnRU5TbEt3?oc=5) — Facebook 
 
