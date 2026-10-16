@@ -4,10 +4,11 @@
 - cyberbiz：台灣很多小店、文具店用的網店平台，商品分類網址後面加 /products.json 就有每個商品的庫存。
     "store": {"type": "cyberbiz", "url": "https://店家網址/collections/分類"}
 - funbox：Funbox 官網（麗嬰國際直營，也是 CYBERBIZ，但分類網址是 /categories/...），
-  會自動找出所有子分類，分類網址後面加 .json 就有庫存和開賣時間。
+  /category_products/分類.json 有整個分類（含子分類）的庫存和開賣時間。
     "store": {"type": "funbox", "url": "https://shop.funbox.com.tw/categories/XI/KB"}
-- pchome：PChome 24h 的商品分類，只留名稱符合 name_filter 的商品（例如只要麗嬰公司貨，排除平行輸入、黃牛賣場）。
-    "store": {"type": "pchome", "url": "DEASSW", "name_filter": "麗嬰|funbox"}
+- pchome：PChome 24h 站內搜尋（多組關鍵字用「｜」分隔），只留 24h 自營、名稱符合 name_filter 的商品
+  （例如只要麗嬰公司貨，排除平行輸入、黃牛賣場）。
+    "store": {"type": "pchome", "url": "funbox 戰鬥陀螺｜麗嬰 戰鬥陀螺", "name_filter": "麗嬰|funbox"}
 - toysrus：玩具反斗城官網（Salesforce 平台），讀商品列表上的「暫時缺貨」標示。
     "store": {"type": "toysrus", "url": "https://www.toysrus.com.tw/on/demandware.store/.../Search-ShowAjax?cgid=beyblade&sz=96"}
 """
@@ -62,57 +63,57 @@ def _sell_from(raw: str | None) -> str | None:
 
 
 def funbox_products(url: str, fetch) -> list[dict]:
+    """Funbox 官網：/categories/XI/KB 的商品列表放在 /category_products/XI/KB.json（含所有子分類）。"""
     root = "https://shop.funbox.com.tw"
-    path = urllib.parse.urlsplit(url).path.rstrip("/")
-    # 商品放在子分類裡（基本組、APP 專屬組…），從分類頁找出所有子分類
-    page = fetch(root + path)
-    cats = sorted(set(re.findall(re.escape(path) + r"(?:/[A-Za-z0-9_-]+)+", page)) | {path})
+    cat = urllib.parse.urlsplit(url).path.rstrip("/").removeprefix("/categories")
     out, seen = [], set()
-    for cat in cats:
-        for n in range(1, MAX_PAGES + 1):
-            data = json.loads(fetch(f"{root}{cat}.json?page={n}"))
-            new = [p for p in data if p["url"] not in seen]
-            if not new:
-                break
-            for p in new:
-                seen.add(p["url"])
-                variants = p.get("variants") or []
-                qty = sum(max(v.get("inventory_quantity") or 0, 0) for v in variants)
-                out.append({
-                    "title": p["title"],
-                    "url": root + urllib.parse.quote(p["url"]),
-                    "price": p.get("price"),
-                    "qty": qty,
-                    "in_stock": qty > 0 and p.get("sales_mode_purchasable", True),
-                    "sell_from": _sell_from(p.get("sell_from")),
-                })
+    for n in range(1, MAX_PAGES * 2 + 1):
+        data = json.loads(fetch(f"{root}/category_products{cat}.json?limit=50&page={n}"))
+        new = [p for p in data if p["url"] not in seen]
+        if not new:
+            break
+        for p in new:
+            seen.add(p["url"])
+            variants = p.get("variants") or []
+            qty = sum(max(v.get("inventory_quantity") or 0, 0) for v in variants)
+            price = p.get("price")
+            out.append({
+                "title": p["title"],
+                "url": root + urllib.parse.quote(p["url"]),
+                "price": price if price and price < 99999 else None,  # APP 兌換券標 999999
+                "qty": qty,
+                "in_stock": qty > 0 and p.get("sales_mode_purchasable", True),
+                "sell_from": _sell_from(p.get("sell_from")),
+            })
     return out
 
 
-def pchome_products(store: str, fetch, name_filter: str = "") -> list[dict]:
-    """PChome 24h 分類（例如 DEASSW＝戰鬥陀螺）：先列出商品，再用 button API 查庫存與販售狀態。"""
-    api = "https://ecapi-cdn.pchome.com.tw/cdn/ecshop/prodapi/v2"
+def pchome_products(queries: str, fetch, name_filter: str = "") -> list[dict]:
+    """PChome 24h：用站內搜尋找商品（分類列表沒收麗嬰的商品），只留 24h 自營、名稱符合 name_filter 的，
+    再用 button API 查庫存與販售狀態。queries 用「｜」分隔多組關鍵字。"""
     keep = re.compile(name_filter, re.I) if name_filter else None
-    prods = []
-    for n in range(20):  # 每頁 36 筆，最多 720 筆
-        raw = fetch(f"{api}/store/{store}/prod&offset={n * 36 + 1}&limit=36&fields=Id,Name&_callback=cb")
-        m = re.search(r"cb\((.*)\);?\s*}\s*catch", raw, re.S)
-        page = json.loads(m.group(1)) if m else []
-        prods += [p for p in page if not keep or keep.search(p.get("Name") or "")]
-        if len(page) < 36:
-            break
+    prods: dict[str, str] = {}
+    for q in queries.split("｜"):
+        for n in range(1, 11):
+            params = urllib.parse.urlencode({"q": q, "page": n})
+            data = json.loads(fetch(f"https://ecshweb.pchome.com.tw/search/v4.3/all/results?{params}"))
+            for p in data.get("Prods") or []:
+                if p.get("isPChome") == 1 and (not keep or keep.search(p["Name"])):
+                    prods[p["Id"]] = p["Name"]
+            if n >= (data.get("TotalPage") or 1):
+                break
     out = []
-    for i in range(0, len(prods), 20):
-        batch = prods[i:i + 20]
-        ids = ",".join(p["Id"] for p in batch)
-        raw = fetch(f"https://ecapi.pchome.com.tw/ecshop/prodapi/v2/prod/button&id={ids}"
-                    "&fields=Id,Price,Qty,ButtonType")
-        buttons = {b["Id"]: b for b in json.loads(raw)}
-        for p in batch:
-            b = buttons.get(p["Id"], {})
+    ids = list(prods)
+    for i in range(0, len(ids), 20):
+        batch = ids[i:i + 20]
+        raw = fetch("https://ecapi.pchome.com.tw/ecshop/prodapi/v2/prod/button&id="
+                    + ",".join(f"{x}-000" for x in batch) + "&fields=Id,Price,Qty,ButtonType")
+        buttons = {b["Id"].rsplit("-", 1)[0]: b for b in json.loads(raw)}
+        for pid in batch:
+            b = buttons.get(pid, {})
             out.append({
-                "title": p["Name"],
-                "url": "https://24h.pchome.com.tw/prod/" + p["Id"].rsplit("-", 1)[0],
+                "title": prods[pid],
+                "url": f"https://24h.pchome.com.tw/prod/{pid}",
                 "price": (b.get("Price") or {}).get("P"),
                 "qty": b.get("Qty") or 0,
                 # ForSale＝可購買；NotReady＝尚未開賣；SoldOut＝售完
