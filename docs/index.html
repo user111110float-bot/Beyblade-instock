@@ -30,6 +30,7 @@ main{padding:12px 16px 40px;max-width:720px;margin:0 auto}
 .tags{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;font-size:12px}
 .tag{border-radius:6px;padding:1px 7px;background:var(--line);color:var(--fg)}
 .tag.tp{background:var(--tp);color:#fff}.tag.ntp{background:var(--ntp);color:#fff}.tag.new{background:var(--warn);color:#000}
+.tag.shop{background:var(--accent);color:#fff}
 .src{color:var(--muted)}
 .empty{text-align:center;color:var(--muted);padding:40px 0}
 details{margin-top:24px;color:var(--muted);font-size:13px}
@@ -99,6 +100,7 @@ function render() {
     if (d !== day) { day = d; html += `<div class="day">${d.replace(/-/g, '/')}</div>`; }
     const tags = [
       ...(i.first_seen === data.updated ? ['<span class="tag new">NEW</span>'] : []),
+      ...(i.shop ? [`<span class="tag shop">🏪 ${esc(i.shop)}</span>`] : []),
       ...(nationwide(i) ? ['<span class="tag ntp">全台通路</span>'] : []),
       ...(i.resale ? ['<span class="tag">二手／轉售</span>'] : []),
       ...i.region.map(r => `<span class="tag ${picked.includes(r) ? 'tp' : ''}">📍${esc(r)}</span>`),

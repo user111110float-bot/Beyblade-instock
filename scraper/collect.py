@@ -15,6 +15,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -22,6 +23,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA_FILE = ROOT / "data" / "items.json"
+SHOPS_FILE = ROOT / "shops.json"
 DOCS = ROOT / "docs"
 
 TW = dt.timezone(dt.timedelta(hours=8))
@@ -142,6 +144,7 @@ def rss_items(xml_text: str, source: str) -> list[dict]:
 
 
 def google_news(query: str) -> list[dict]:
+    time.sleep(1)  # 查詢數量多，放慢一點避免被 Google 擋
     q = urllib.parse.quote(f"{query} when:14d")
     url = f"https://news.google.com/rss/search?q={q}&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
     return rss_items(fetch(url), "Google 新聞")
@@ -246,6 +249,7 @@ SOURCES = [
     # Facebook 不能直接爬；Google 新聞有收錄部分公開粉專貼文，從這裡間接拿
     ("Facebook 公開貼文：戰鬥陀螺", lambda: google_news("戰鬥陀螺 site:facebook.com")),
     ("Facebook 公開貼文：到貨", lambda: google_news("陀螺 到貨 OR 補貨 OR 現貨 site:facebook.com")),
+    ("Facebook 玩具店", lambda: google_news("玩具店 陀螺 到貨 OR 現貨 OR 補貨 site:facebook.com")),
     ("PTT Toy", lambda: ptt_search("Toy", "陀螺")),
     ("PTT BabyMother", lambda: ptt_search("BabyMother", "陀螺")),
     ("PTT Lifeismoney", lambda: ptt_search("Lifeismoney", "陀螺")),
@@ -257,6 +261,39 @@ SOURCES = [
 ]
 
 
+def load_shops() -> list[dict]:
+    """shops.json：自己常去的玩具店，每家都會專門搜一次 Facebook 貼文。"""
+    if not SHOPS_FILE.exists():
+        return []
+    return [s for s in json.loads(SHOPS_FILE.read_text("utf-8")).get("shops", []) if s.get("name")]
+
+
+SHOPS = load_shops()
+
+
+def shop_search(shop: dict) -> list[dict]:
+    items = google_news(f'"{shop["name"]}" 陀螺 site:facebook.com')
+    for it in items:
+        it["shop"] = shop["name"]
+    return items
+
+
+# 小玩具店的貼文多半只在 Facebook，而且常常只寫縣市不寫「戰鬥陀螺」全名，所以每個縣市各搜一次
+SOURCES += [
+    (f"Facebook 各縣市：{city}",
+     lambda city=city: google_news(f"陀螺 到貨 OR 現貨 OR 補貨 {city} site:facebook.com"))
+    for city in REGIONS
+]
+SOURCES += [(f"追蹤店家：{shop['name']}", lambda shop=shop: shop_search(shop)) for shop in SHOPS]
+
+
+def match_shop(text: str, preset: str | None) -> dict | None:
+    for shop in SHOPS:
+        if shop["name"] == preset or has_any(text, [shop["name"], *shop.get("keywords", [])]):
+            return shop
+    return None
+
+
 # ---- 整理 ------------------------------------------------------------------
 
 
@@ -264,18 +301,22 @@ def classify(item: dict) -> dict | None:
     text = f"{item['title']} {item['summary']}"
     if not has_any(text, BEY_WORDS):
         return None
-    # 單獨的「陀螺」容易誤判，要再搭配其他線索
-    if not has_any(text, [w for w in BEY_WORDS if w != "陀螺"]) and not has_any(
+    shop = match_shop(text, item.get("shop"))
+    # 單獨的「陀螺」容易誤判，要再搭配其他線索（追蹤店家的貼文例外）
+    if not shop and not has_any(text, [w for w in BEY_WORDS if w != "陀螺"]) and not has_any(
         text, ARRIVAL_WORDS
     ):
         return None
     if has_any(text, EXCLUDE_WORDS):
         return None
     arrival, stores = has_any(text, ARRIVAL_WORDS), has_any(text, STORES)
-    # 只提到陀螺的新聞（政治人物、明星比賽…）不算；要有到貨字眼、通路或型號
-    if not arrival and not stores and not PRODUCT_CODE.search(text):
+    # 只提到陀螺的新聞（政治人物、明星比賽…）不算；要有到貨字眼、通路或型號（追蹤店家的貼文例外）
+    if not shop and not arrival and not stores and not PRODUCT_CODE.search(text):
         return None
     region = [city for city, words in REGIONS.items() if has_any(text, words)]
+    if shop and shop.get("city") and shop["city"] not in region:
+        region.insert(0, shop["city"])
+    item["shop"] = shop["name"] if shop else None
     item["region"] = region
     item["arrival"] = arrival
     item["stores"] = stores
@@ -303,10 +344,10 @@ def reclassify(items) -> list[dict]:
             i["title"] = i["title"][: -len(i["source"]) - 3]
         if i["summary"].startswith(i["title"]):
             i["summary"] = ""
-        c = classify({"title": i["title"], "summary": i["summary"]})
+        c = classify({"title": i["title"], "summary": i["summary"], "shop": i.get("shop")})
         if c:
             i.update(region=c["region"], arrival=c["arrival"], stores=c["stores"], score=c["score"],
-                     resale=c["resale"],
+                     resale=c["resale"], shop=c["shop"],
                      social=i["source"].startswith(SOCIAL_PREFIXES))
             out.append(i)
     return out
@@ -399,6 +440,7 @@ def main() -> int:
                 "arrival": it["arrival"],
                 "stores": it["stores"],
                 "resale": it["resale"],
+                "shop": it["shop"],
                 "score": it["score"],
             }
         status.append({"name": name, "ok": True, "count": kept})

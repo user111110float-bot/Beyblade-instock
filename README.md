@@ -33,6 +33,20 @@ GitHub Actions 每天台灣時間 **08:00、18:00** 執行 `scraper/collect.py`�
 2. Repo → **Actions** → 「每日收集陀螺到貨資訊」→ **Run workflow** 手動跑第一次
 3. 跑完後打開上面的網頁網址
 
+## 追蹤常去的玩具店
+
+小玩具店的到貨消息多半只發在 Facebook 粉專。在 [`shops.json`](shops.json) 的 `shops` 加上店名，
+每天就會專門搜這幾家的貼文，網頁上會標「🏪 店名」和店家所在縣市：
+
+```json
+"shops": [
+  {"name": "某某玩具店", "city": "新北", "keywords": ["某某玩具", "某某中和店"]}
+]
+```
+
+手機上可以在 GitHub 打開 `shops.json` → 右上角 ✏️ 編輯 → Commit changes；或直接跟 Claude 說店名。
+另外每個縣市都會各搜一次「陀螺 到貨／現貨／補貨」的 Facebook 貼文。
+
 ## 開啟社群來源（選填）
 
 到 Repo → **Settings → Secrets and variables → Actions → New repository secret** 新增：
