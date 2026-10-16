@@ -1,4 +1,4 @@
-"""每天收集台北 / 新北戰鬥陀螺 (BEYBLADE) 到貨相關資訊，輸出成靜態網頁。
+"""每天收集全台戰鬥陀螺 (BEYBLADE) 到貨相關資訊，輸出成靜態網頁。
 
 只用 Python 標準函式庫，GitHub Actions 上不需要安裝套件。
 每個來源各自 try/except，某個網站掛掉不會影響其他來源。
@@ -37,16 +37,33 @@ ARRIVAL_WORDS = [
     "到貨", "補貨", "現貨", "開賣", "上市", "發售", "販售", "上架", "抽選", "抽籤",
     "排隊", "入荷", "有貨", "新貨", "進貨", "預購", "開搶", "搶購", "缺貨", "售完",
 ]
-TAIPEI = [
-    "台北", "臺北", "北市", "中正", "大同", "中山", "松山", "大安", "萬華", "信義",
-    "士林", "北投", "內湖", "南港", "文山", "西門", "地下街", "京站", "微風", "南西",
-    "東區", "公館",
-]
-NEW_TAIPEI = [
-    "新北", "板橋", "三重", "中和", "永和", "新莊", "新店", "土城", "蘆洲", "樹林",
-    "汐止", "鶯歌", "三峽", "淡水", "林口", "五股", "泰山", "深坑", "八里", "瑞芳",
-    "環球", "宏匯",
-]
+# 縣市 → 判斷用關鍵字（縣市名＋較不會跟其他縣市撞名的行政區／商圈）。
+# 中山、中正、大同、信義、大安、東區、北區…這類多個縣市都有的名稱刻意不列。
+REGIONS: dict[str, list[str]] = {
+    "基隆": ["基隆", "七堵", "暖暖"],
+    "台北": ["台北", "臺北", "北市", "松山", "萬華", "士林", "北投", "內湖", "南港", "文山",
+             "西門", "地下街", "京站", "南西", "公館", "天母"],
+    "新北": ["新北", "板橋", "三重", "中和", "永和", "新莊", "新店", "土城", "蘆洲", "樹林",
+             "汐止", "鶯歌", "三峽", "淡水", "林口", "五股", "泰山", "深坑", "八里", "瑞芳",
+             "宏匯"],
+    "桃園": ["桃園", "中壢", "平鎮", "八德", "楊梅", "蘆竹", "龜山", "龍潭", "大園", "青埔", "華泰名品"],
+    "新竹": ["新竹", "竹北", "竹東", "湖口", "巨城"],
+    "苗栗": ["苗栗", "頭份", "竹南"],
+    "台中": ["台中", "臺中", "豐原", "大里", "太平", "沙鹿", "清水", "烏日", "逢甲", "一中街", "大甲"],
+    "彰化": ["彰化", "員林", "鹿港", "和美"],
+    "南投": ["南投", "草屯", "埔里"],
+    "雲林": ["雲林", "斗六", "虎尾"],
+    "嘉義": ["嘉義", "民雄"],
+    "台南": ["台南", "臺南", "永康", "新營", "安平", "歸仁", "仁德", "南紡"],
+    "高雄": ["高雄", "鳳山", "左營", "楠梓", "三民", "苓雅", "前鎮", "岡山", "夢時代", "巨蛋"],
+    "屏東": ["屏東", "潮州", "東港"],
+    "宜蘭": ["宜蘭", "羅東", "礁溪"],
+    "花蓮": ["花蓮", "吉安"],
+    "台東": ["台東", "臺東"],
+    "澎湖": ["澎湖", "馬公"],
+    "金門": ["金門"],
+    "連江": ["馬祖", "連江"],
+}
 # 全台連鎖通路，標示出來方便判斷
 STORES = [
     "玩具反斗城", "Toysrus", "Funbox", "麗嬰", "家樂福", "全聯", "大買家", "好市多",
@@ -176,6 +193,8 @@ SOURCES = [
     ("Google 新聞：到貨", lambda: google_news("戰鬥陀螺 到貨")),
     ("Google 新聞：補貨", lambda: google_news("戰鬥陀螺 補貨 OR 開賣 OR 現貨")),
     ("Google 新聞：台北新北", lambda: google_news("戰鬥陀螺 台北 OR 新北")),
+    ("Google 新聞：中南部", lambda: google_news("戰鬥陀螺 台中 OR 台南 OR 高雄")),
+    ("Google 新聞：門市", lambda: google_news("戰鬥陀螺 門市 OR 玩具反斗城")),
     ("Google 新聞：BEYBLADE X", lambda: google_news("BEYBLADE X 台灣")),
     ("Bing 新聞", lambda: bing_news("戰鬥陀螺 到貨")),
     ("玩具人 toy-people", lambda: wordpress_search("https://www.toy-people.com", "戰鬥陀螺", "玩具人")),
@@ -201,12 +220,7 @@ def classify(item: dict) -> dict | None:
         text, ARRIVAL_WORDS
     ):
         return None
-    tp, ntp = has_any(text, TAIPEI), has_any(text, NEW_TAIPEI)
-    region = []
-    if tp:
-        region.append("台北")
-    if ntp:
-        region.append("新北")
+    region = [city for city, words in REGIONS.items() if has_any(text, words)]
     item["region"] = region
     item["arrival"] = has_any(text, ARRIVAL_WORDS)
     item["stores"] = has_any(text, STORES)
@@ -285,25 +299,25 @@ def main() -> int:
 
 
 def write_markdown(payload: dict) -> None:
-    """備用：在 GitHub App 直接打開 LATEST.md 也能看。"""
+    """備用：在 GitHub App 直接打開 LATEST.md 也能看（依縣市分組）。"""
     lines = [
-        "# 戰鬥陀螺到貨情報（台北／新北）",
+        "# 戰鬥陀螺到貨情報（全台）",
         "",
         f"更新時間：{payload['updated']}　今日新增 {payload['new_today']} 筆",
         "",
     ]
-    local = [i for i in payload["items"] if i["region"]]
-    other = [i for i in payload["items"] if not i["region"]]
-    for heading, group in (("## 📍 台北／新北相關", local), ("## 🌀 其他到貨／販售消息", other)):
-        lines += [heading, ""]
+    groups = [(f"## 📍 {city}", [i for i in payload["items"] if city in i["region"]])
+              for city in REGIONS]
+    groups.append(("## 🌀 未標示地區", [i for i in payload["items"] if not i["region"]]))
+    for heading, group in groups:
         if not group:
-            lines += ["（目前沒有）", ""]
-        for i in group[:40]:
-            tags = " ".join(f"`{t}`" for t in i["region"] + i["stores"])
+            continue
+        lines += [heading, ""]
+        for i in group[:30]:
+            tags = " ".join(f"`{t}`" for t in i["stores"])
             lines.append(f"- {i['date'][:10]} [{i['title']}]({i['url']}) — {i['source']} {tags}")
         lines.append("")
     (ROOT / "LATEST.md").write_text("\n".join(lines), "utf-8")
-
 
 if __name__ == "__main__":
     sys.exit(main())

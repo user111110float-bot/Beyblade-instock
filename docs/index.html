@@ -16,6 +16,8 @@ h1{font-size:20px;margin:0}
 .meta{color:var(--muted);font-size:13px;margin-top:2px}
 .tabs{display:flex;gap:8px;margin-top:10px;overflow-x:auto}
 .tabs button{flex:none;border:1px solid var(--line);background:var(--card);color:var(--fg);border-radius:999px;padding:6px 14px;font-size:14px}
+#regions button{font-size:13px;padding:4px 11px}
+#regions button .n{opacity:.6;margin-left:3px;font-size:11px}
 .tabs button.on{background:var(--accent);border-color:var(--accent);color:#fff}
 main{padding:12px 16px 40px;max-width:720px;margin:0 auto}
 .day{font-size:13px;color:var(--muted);margin:16px 0 6px;font-weight:600}
@@ -35,11 +37,11 @@ details li.bad{color:var(--tp)}
 <header>
   <h1>🌀 陀螺到貨雷達</h1>
   <div class="meta" id="meta">載入中…</div>
+  <div class="tabs" id="regions"></div>
   <div class="tabs" id="tabs">
-    <button data-f="local" class="on">📍 台北／新北</button>
+    <button data-f="all">全部消息</button>
     <button data-f="arrival">📦 到貨／補貨</button>
     <button data-f="new">🆕 今天新增</button>
-    <button data-f="all">全部</button>
   </div>
 </header>
 <main>
@@ -47,29 +49,46 @@ details li.bad{color:var(--tp)}
   <details><summary>資料來源狀態</summary><ul id="sources"></ul></details>
 </main>
 <script>
+const CITIES = ['基隆','台北','新北','桃園','新竹','苗栗','台中','彰化','南投','雲林','嘉義',
+  '台南','高雄','屏東','宜蘭','花蓮','台東','澎湖','金門','連江'];
+const ALL = '全台';
 const FILTERS = {
-  local: i => i.region.length > 0,
+  all: () => true,
   arrival: i => i.arrival.length > 0,
   new: (i, d) => i.first_seen === d.updated,
-  all: () => true,
 };
-let data, filter = 'local';
-try { filter = localStorage.getItem('f') || filter; } catch (e) {}
+const load = (k, def) => { try { return JSON.parse(localStorage.getItem(k)) ?? def; } catch (e) { return def; } };
+const save = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} };
+let data, filter = load('filter', 'all'), picked = load('regions', ['台北', '新北']);
+if (!FILTERS[filter]) filter = 'all';
 
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const inRegion = i => picked.includes(ALL) || i.region.some(r => picked.includes(r));
+
+function renderRegions() {
+  const count = c => data.items.filter(i => c === ALL || i.region.includes(c)).length;
+  // 有消息的縣市排前面，其餘照北到南
+  const cities = [...CITIES].sort((a, b) => (count(b) > 0) - (count(a) > 0));
+  document.getElementById('regions').innerHTML = [ALL, ...cities].map(c =>
+    `<button data-c="${c}" class="${picked.includes(c) ? 'on' : ''}">${c}<span class="n">${count(c)}</span></button>`).join('');
+}
 
 function render() {
   document.querySelectorAll('#tabs button').forEach(b => b.classList.toggle('on', b.dataset.f === filter));
-  const items = data.items.filter(i => FILTERS[filter](i, data));
+  renderRegions();
+  const items = data.items.filter(i => inRegion(i) && FILTERS[filter](i, data));
   const list = document.getElementById('list');
-  if (!items.length) { list.innerHTML = '<div class="empty">這個分類目前沒有消息</div>'; return; }
+  if (!items.length) {
+    list.innerHTML = `<div class="empty">${picked.join('、')} 目前沒有這類消息<br>可以點「${ALL}」看看其他地方</div>`;
+    return;
+  }
   let html = '', day = '';
   for (const i of items) {
     const d = i.date.slice(0, 10);
     if (d !== day) { day = d; html += `<div class="day">${d.replace(/-/g, '/')}</div>`; }
     const tags = [
       ...(i.first_seen === data.updated ? ['<span class="tag new">NEW</span>'] : []),
-      ...i.region.map(r => `<span class="tag ${r === '台北' ? 'tp' : 'ntp'}">${r}</span>`),
+      ...i.region.map(r => `<span class="tag ${picked.includes(r) ? 'tp' : ''}">📍${esc(r)}</span>`),
       ...i.stores.map(s => `<span class="tag">${esc(s)}</span>`),
       ...i.arrival.slice(0, 3).map(s => `<span class="tag">${esc(s)}</span>`),
     ].join('');
@@ -83,16 +102,28 @@ function render() {
 
 document.getElementById('tabs').addEventListener('click', e => {
   const b = e.target.closest('button'); if (!b) return;
-  filter = b.dataset.f;
-  try { localStorage.setItem('f', filter); } catch (e) {}
-  render();
+  filter = b.dataset.f; save('filter', filter); render();
+});
+
+// 縣市可複選；點「全台」看全部，點其他縣市會自動取消「全台」
+document.getElementById('regions').addEventListener('click', e => {
+  const b = e.target.closest('button'); if (!b) return;
+  const c = b.dataset.c;
+  if (c === ALL) picked = [ALL];
+  else {
+    picked = picked.filter(x => x !== ALL);
+    picked = picked.includes(c) ? picked.filter(x => x !== c) : [...picked, c];
+    if (!picked.length) picked = [ALL];
+  }
+  save('regions', picked); render();
 });
 
 fetch('data.json?' + Date.now()).then(r => r.json()).then(d => {
   data = d;
   const ok = d.sources.filter(s => s.ok).length;
-  document.getElementById('meta').textContent =
-    `更新：${d.updated.replace('T', ' ').slice(0, 16)}　今日新增 ${d.new_today} 筆　來源 ${ok}/${d.sources.length}`;
+  document.getElementById('meta').textContent = d.updated
+    ? `更新：${d.updated.replace('T', ' ').slice(0, 16)}　今日新增 ${d.new_today} 筆　來源 ${ok}/${d.sources.length}`
+    : '還沒有資料，等第一次自動收集完成';
   document.getElementById('sources').innerHTML = d.sources.map(s =>
     `<li class="${s.ok ? '' : 'bad'}">${esc(s.name)}：${s.ok ? s.count + ' 筆' : '失敗 ' + esc(s.error || '')}</li>`).join('');
   render();
