@@ -7,6 +7,7 @@
 from __future__ import annotations
 
 import datetime as dt
+import difflib
 import email.utils
 import hashlib
 import html
@@ -68,9 +69,13 @@ REGIONS: dict[str, list[str]] = {
 # 全台連鎖通路，標示出來方便判斷
 STORES = [
     "玩具反斗城", "Toysrus", "Funbox", "麗嬰", "家樂福", "全聯", "大買家", "好市多",
-    "Costco", "誠品", "金石堂", "7-11", "全家", "萊爾富", "momo", "PChome", "蝦皮",
+    "Costco", "誠品", "金石堂", "7-11", "7-ELEVEN", "統一超商", "全家", "萊爾富", "Hi-Life",
+    "OK超商", "小北百貨", "momo", "PChome", "蝦皮",
     "博客來", "TAKARA", "Animate", "安利美特", "湯姆熊", "大魯閣",
 ]
+
+
+PRODUCT_CODE = re.compile(r"\b(?:BX|UX|CX)-\d+", re.I)
 
 
 def has_any(text: str, words: list[str]) -> list[str]:
@@ -119,6 +124,10 @@ def rss_items(xml_text: str, source: str) -> list[dict]:
         desc = strip_tags(it.findtext("description") or "")
         pub = parse_date(it.findtext("pubDate"))
         src = it.findtext("source") or source
+        if title.endswith(f" - {src}"):
+            title = title[: -len(src) - 3]
+        if desc.startswith(title):  # Google 新聞的摘要只是標題＋媒體名
+            desc = ""
         out.append(
             {"title": title, "url": link, "summary": desc[:200], "date": pub, "source": src}
         )
@@ -131,15 +140,21 @@ def google_news(query: str) -> list[dict]:
     return rss_items(fetch(url), "Google 新聞")
 
 
-def bing_news(query: str) -> list[dict]:
-    q = urllib.parse.quote(query)
-    url = f"https://www.bing.com/news/search?q={q}&format=rss&setlang=zh-TW&cc=TW"
-    return rss_items(fetch(url), "Bing 新聞")
-
-
 def wordpress_search(base: str, query: str, name: str) -> list[dict]:
-    q = urllib.parse.quote(query)
-    return rss_items(fetch(f"{base}/?s={q}&feed=rss2"), name)
+    params = urllib.parse.urlencode({
+        "search": query, "per_page": 20, "_fields": "link,date_gmt,title,excerpt",
+    })
+    posts = json.loads(fetch(f"{base}/wp-json/wp/v2/posts?{params}"))
+    return [
+        {
+            "title": strip_tags(p["title"]["rendered"]),
+            "url": p["link"],
+            "summary": strip_tags(p.get("excerpt", {}).get("rendered", ""))[:200],
+            "date": parse_date(p["date_gmt"] + "Z"),
+            "source": name,
+        }
+        for p in posts
+    ]
 
 
 PTT_ENTRY = re.compile(
@@ -167,24 +182,6 @@ def ptt_search(board: str, query: str) -> list[dict]:
                 "summary": "",
                 "date": date,
                 "source": f"PTT {board}",
-            }
-        )
-    return out
-
-
-def dcard_search(query: str) -> list[dict]:
-    q = urllib.parse.quote(query)
-    url = f"https://www.dcard.tw/service/api/v2/search/posts?query={q}&limit=30"
-    data = json.loads(fetch(url, headers={"Accept": "application/json"}))
-    out = []
-    for p in data:
-        out.append(
-            {
-                "title": p.get("title", ""),
-                "url": f"https://www.dcard.tw/f/{p.get('forumAlias', 'all')}/p/{p.get('id')}",
-                "summary": (p.get("excerpt") or "")[:200],
-                "date": parse_date(p.get("createdAt")),
-                "source": f"Dcard {p.get('forumName', '')}".strip(),
             }
         )
     return out
@@ -246,7 +243,7 @@ def threads_search(query: str) -> list[dict]:
     return out
 
 
-SOCIAL_PREFIXES = ("PTT", "Dcard", "YouTube", "Threads")
+SOCIAL_PREFIXES = ("PTT", "YouTube", "Threads")
 
 SOURCES = [
     ("Google 新聞：到貨", lambda: google_news("戰鬥陀螺 到貨")),
@@ -254,16 +251,13 @@ SOURCES = [
     ("Google 新聞：台北新北", lambda: google_news("戰鬥陀螺 台北 OR 新北")),
     ("Google 新聞：中南部", lambda: google_news("戰鬥陀螺 台中 OR 台南 OR 高雄")),
     ("Google 新聞：門市", lambda: google_news("戰鬥陀螺 門市 OR 玩具反斗城")),
+    ("Google 新聞：超商", lambda: google_news("戰鬥陀螺 7-ELEVEN OR 全家 OR 萊爾富")),
     ("Google 新聞：BEYBLADE X", lambda: google_news("BEYBLADE X 台灣")),
-    ("Bing 新聞", lambda: bing_news("戰鬥陀螺 到貨")),
     ("玩具人 toy-people", lambda: wordpress_search("https://www.toy-people.com", "戰鬥陀螺", "玩具人")),
     ("PTT Toy", lambda: ptt_search("Toy", "陀螺")),
-    ("PTT Beyblade", lambda: ptt_search("Beyblade", "到貨")),
     ("PTT BabyMother", lambda: ptt_search("BabyMother", "陀螺")),
     ("PTT Lifeismoney", lambda: ptt_search("Lifeismoney", "陀螺")),
     ("PTT Gossiping", lambda: ptt_search("Gossiping", "戰鬥陀螺")),
-    ("Dcard", lambda: dcard_search("戰鬥陀螺 到貨")),
-    ("Dcard 補貨", lambda: dcard_search("戰鬥陀螺 補貨")),
     ("YouTube：到貨", lambda: youtube_search("戰鬥陀螺 到貨|補貨|開箱")),
     ("YouTube：BEYBLADE X", lambda: youtube_search("BEYBLADE X 台灣")),
     ("Threads：戰鬥陀螺", lambda: threads_search("戰鬥陀螺")),
@@ -283,10 +277,14 @@ def classify(item: dict) -> dict | None:
         text, ARRIVAL_WORDS
     ):
         return None
+    arrival, stores = has_any(text, ARRIVAL_WORDS), has_any(text, STORES)
+    # 只提到陀螺的新聞（政治人物、明星比賽…）不算；要有到貨字眼、通路或型號
+    if not arrival and not stores and not PRODUCT_CODE.search(text):
+        return None
     region = [city for city, words in REGIONS.items() if has_any(text, words)]
     item["region"] = region
-    item["arrival"] = has_any(text, ARRIVAL_WORDS)
-    item["stores"] = has_any(text, STORES)
+    item["arrival"] = arrival
+    item["stores"] = stores
     item["score"] = 2 * bool(region) + 2 * bool(item["arrival"]) + bool(item["stores"])
     return item
 
@@ -300,6 +298,59 @@ def load_history() -> dict[str, dict]:
     if DATA_FILE.exists():
         return {i["id"]: i for i in json.loads(DATA_FILE.read_text("utf-8"))["items"]}
     return {}
+
+
+def reclassify(items) -> list[dict]:
+    """關鍵字清單改過後，舊資料也照新規則重算（不符合的直接剔除）。"""
+    out = []
+    for i in items:
+        if i["title"].endswith(f" - {i['source']}"):
+            i["title"] = i["title"][: -len(i["source"]) - 3]
+        if i["summary"].startswith(i["title"]):
+            i["summary"] = ""
+        c = classify({"title": i["title"], "summary": i["summary"]})
+        if c:
+            i.update(region=c["region"], arrival=c["arrival"], stores=c["stores"], score=c["score"])
+            out.append(i)
+    return out
+
+
+def _norm(title: str) -> str:
+    return re.sub(r"\W+", "", title.lower())
+
+
+def _codes(i: dict) -> set[str]:
+    return {c.upper() for c in PRODUCT_CODE.findall(i["title"] + " " + i["summary"])}
+
+
+def same_story(a: dict, b: dict) -> bool:
+    """標題很像；或同一通路、型號不衝突（各家媒體下標差很多，只比文字抓不到）。"""
+    if difflib.SequenceMatcher(None, _norm(a["title"]), _norm(b["title"])).ratio() >= 0.5:
+        return True
+    if a["stores"] and set(a["stores"]) == set(b["stores"]):
+        ca, cb = _codes(a), _codes(b)
+        return not (ca and cb) or bool(ca & cb)
+    return False
+
+
+def merge_similar(items: list[dict]) -> list[dict]:
+    """同一則消息被多家媒體轉載時只留一則（最早看到的），其餘記在 also。"""
+    items = sorted(items, key=lambda i: (i["first_seen"], i["date"]))
+    kept: list[dict] = []
+    for i in items:
+        day = dt.datetime.fromisoformat(i["date"])
+        for k in kept:
+            if abs(dt.datetime.fromisoformat(k["date"]) - day) > dt.timedelta(days=3):
+                continue
+            if same_story(k, i):
+                also = k.setdefault("also", [])
+                for o in [{"source": i["source"], "url": i["url"]}, *i.get("also", [])]:
+                    if o["url"] not in {a["url"] for a in also} and o["url"] != k["url"]:
+                        also.append(o)
+                break
+        else:
+            kept.append(i)
+    return kept
 
 
 def redact(msg: str) -> str:
@@ -356,8 +407,10 @@ def main() -> int:
         print(f"[ok] {name}: {len(raw)} 筆，相關 {kept} 筆")
 
     cutoff = (NOW - dt.timedelta(days=KEEP_DAYS)).isoformat()
-    items = [i for i in history.values() if i["date"] >= cutoff]
+    items = merge_similar(reclassify(i for i in history.values() if i["date"] >= cutoff))
     items.sort(key=lambda i: i["date"], reverse=True)
+    # 被合併掉的轉載不算新消息
+    new_count = sum(i["first_seen"] == NOW.isoformat(timespec="minutes") for i in items)
 
     payload = {
         "updated": NOW.isoformat(timespec="minutes"),

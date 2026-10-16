@@ -12,15 +12,19 @@ GitHub Actions 每天台灣時間 **08:00、18:00** 執行 `scraper/collect.py`�
 
 | 來源 | 內容 |
 |---|---|
-| Google 新聞 / Bing 新聞 | 「戰鬥陀螺 到貨／補貨／開賣」等新聞 |
+| Google 新聞 | 「戰鬥陀螺 到貨／補貨／開賣」、超商、門市等新聞 |
 | 玩具人 toy-people | 新品與上市資訊 |
-| PTT（Toy、Beyblade、BabyMother、Lifeismoney、Gossiping） | 網友回報現貨、補貨 |
-| Dcard | 網友回報（Dcard 常擋機器人，失敗屬正常） |
+| PTT（Toy、BabyMother、Lifeismoney、Gossiping） | 網友回報現貨、補貨 |
 | YouTube（選填） | 近 14 天「到貨／補貨／開箱」影片，需要免費 API 金鑰 |
 | Threads（選填） | 官方 API 關鍵字搜尋，需要 Meta App 權杖（見下方限制） |
 
 每則消息會自動標記：📍 縣市（依縣市名、行政區、商圈判斷）、📦 到貨關鍵字、🏬 通路（玩具反斗城、Funbox…）。
+只提到陀螺、但沒有到貨字眼、通路或型號的新聞（例如政治人物、明星玩陀螺）會被濾掉。
+同一則消息被多家媒體轉載會合併成一張卡片（「另有 N 則相關報導」）。
+沒寫縣市的連鎖通路消息（例如超商全台開賣）標成「全台通路」，選任何縣市都看得到。
 資料保留 30 天，存在 `data/items.json`。
+
+> Dcard 會擋 GitHub 的伺服器，Bing 新聞不提供 RSS，所以都沒有收。
 
 ## 第一次設定（只要做一次）
 
