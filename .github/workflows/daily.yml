@@ -45,11 +45,22 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/items.json data/stock.json docs/data.json LATEST.md
+          FILES="data/items.json data/stock.json docs/data.json LATEST.md"
+          git add $FILES
           if git diff --cached --quiet; then echo "changed=false" >> "$GITHUB_OUTPUT"; exit 0; fi
-          git commit -m "data: $(TZ=Asia/Taipei date '+%Y-%m-%d %H:%M') 更新"
-          git pull --rebase -q origin "$GITHUB_REF_NAME"
-          git push
+          # 資料檔每次都整份重新產生：跑的期間 repo 有新 commit（程式更新或另一次排程），
+          # 就切到最新版本再把這次的資料蓋上去，避免 rebase 衝突
+          mkdir -p /tmp/out && for f in $FILES; do [ -f "$f" ] && cp --parents "$f" /tmp/out/; done
+          for i in 1 2 3; do
+            git fetch -q origin "$GITHUB_REF_NAME"
+            git reset -q --hard "origin/$GITHUB_REF_NAME"
+            cp -r /tmp/out/. .
+            git add $FILES
+            if git diff --cached --quiet; then break; fi
+            git commit -q -m "data: $(TZ=Asia/Taipei date '+%Y-%m-%d %H:%M') 更新"
+            git push -q origin "HEAD:$GITHUB_REF_NAME" && break
+            sleep 5
+          done
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
       # 資料沒變（例如庫存沒動）就不用重新部署網頁
