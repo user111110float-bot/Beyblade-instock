@@ -1,13 +1,16 @@
 """網店庫存監控：直接讀店家網店的公開商品資料，有補貨或新上架就產生一則消息。
 
-目前支援 CYBERBIZ（台灣很多小店、文具店用的網店平台），商品分類網址後面加 /products.json
-就能拿到每個商品的庫存。在 shops.json 的店家加上：
+支援的平台：
+- cyberbiz：台灣很多小店、文具店用的網店平台，商品分類網址後面加 /products.json 就有每個商品的庫存。
     "store": {"type": "cyberbiz", "url": "https://店家網址/collections/分類"}
+- toysrus：玩具反斗城官網（Salesforce 平台），讀商品列表上的「暫時缺貨」標示。
+    "store": {"type": "toysrus", "url": "https://www.toysrus.com.tw/on/demandware.store/.../Search-ShowAjax?cgid=beyblade&sz=96"}
 """
 
 from __future__ import annotations
 
 import hashlib
+import html
 import json
 import re
 import urllib.parse
@@ -48,7 +51,31 @@ def cyberbiz_products(url: str, fetch) -> list[dict]:
     return out
 
 
-PLATFORMS = {"cyberbiz": cyberbiz_products}
+def toysrus_products(url: str, fetch) -> list[dict]:
+    page = fetch(url)
+    root = "https://www.toysrus.com.tw"
+    out = []
+    # 每個商品是一個 product-tile，裡面有 data-metadata（名稱、價格）和「暫時缺貨」狀態
+    for tile in page.split('class="card product-tile')[1:]:
+        tile = tile.split("END_dwmarker")[0]
+        meta = re.search(r"data-metadata='([^']*)'", tile)
+        href = re.search(r'href="(/zh-tw/[^"]+\.html)"', tile)
+        if not meta or not href:
+            continue
+        m = json.loads(html.unescape(meta.group(1)))
+        status = re.search(r'<div class="status">\s*([^<]*?)\s*</div>', tile)
+        status = status.group(1) if status else ""
+        out.append({
+            "title": m.get("name_local") or m.get("name", ""),
+            "url": root + href.group(1),
+            "price": float(m["price"]) if m.get("price") else None,
+            "qty": 0,
+            "in_stock": not re.search(r"缺貨|售完", status),
+        })
+    return out
+
+
+PLATFORMS = {"cyberbiz": cyberbiz_products, "toysrus": toysrus_products}
 
 
 def load_state() -> dict[str, dict]:
