@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-17T00:40+08:00",
- "updated_full": "2026-10-17T00:40+08:00",
- "new_today": 322,
+ "updated": "2026-10-17T01:21+08:00",
+ "updated_full": "2026-10-17T01:21+08:00",
+ "new_today": 323,
  "sources": [
   {
    "name": "Google 新聞：到貨",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "name": "Google 新聞：補貨",
@@ -41,22 +41,22 @@
   {
    "name": "Facebook 公開貼文：戰鬥陀螺",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "name": "Facebook 公開貼文：到貨",
    "ok": true,
-   "count": 78
+   "count": 77
   },
   {
    "name": "Facebook 玩具店",
    "ok": true,
-   "count": 59
+   "count": 55
   },
   {
    "name": "Facebook 文具店",
    "ok": true,
-   "count": 14
+   "count": 16
   },
   {
    "name": "Facebook 書局",
@@ -115,32 +115,32 @@
   {
    "name": "Facebook 各縣市：基隆",
    "ok": true,
-   "count": 41
+   "count": 42
   },
   {
    "name": "Facebook 各縣市：台北",
    "ok": true,
-   "count": 45
+   "count": 47
   },
   {
    "name": "Facebook 各縣市：新北",
    "ok": true,
-   "count": 48
+   "count": 40
   },
   {
    "name": "Facebook 各縣市：桃園",
    "ok": true,
-   "count": 51
+   "count": 50
   },
   {
    "name": "Facebook 各縣市：新竹",
    "ok": true,
-   "count": 44
+   "count": 45
   },
   {
    "name": "Facebook 各縣市：苗栗",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "name": "Facebook 各縣市：台中",
@@ -160,22 +160,22 @@
   {
    "name": "Facebook 各縣市：雲林",
    "ok": true,
-   "count": 33
+   "count": 35
   },
   {
    "name": "Facebook 各縣市：嘉義",
    "ok": true,
-   "count": 36
+   "count": 34
   },
   {
    "name": "Facebook 各縣市：台南",
    "ok": true,
-   "count": 48
+   "count": 46
   },
   {
    "name": "Facebook 各縣市：高雄",
    "ok": true,
-   "count": 40
+   "count": 41
   },
   {
    "name": "Facebook 各縣市：屏東",
@@ -200,7 +200,7 @@
   {
    "name": "Facebook 各縣市：澎湖",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "name": "Facebook 各縣市：金門",
@@ -234,6 +234,26 @@
   }
  ],
  "items": [
+  {
+   "id": "8b77cf2f3b29353f",
+   "title": "售，12小時內寄出 ---***日版全新未拆***--- **日版BX-30紅黑握把，$450 **日版BX-52光輝龍騎士（左旋），現貨$1050 ---***日版僅拆盒確認款，其他未拆有QR***--- **BX-48-01蒼穹龍騎士（黑），$1000 **BX-48-03猛瑪獠牙760S(紫紅色7-60)，$850 **BX-48-04惡魔紅",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12aVlRM196R3BUeVNDUjUxTXp3MHBuYzlXT1pSX2I0RzdtbUJmZXptY2k5ZDg3OHBmcVBPXzNmcjU2SXowRlFESFZaaUJJSGJLVWtMcW9JcDNKVm1HZFhZNF9SVHM5bjE0d1IzVXFSSV9iNVFPOFlfdEpR?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-17T00:46+08:00",
+   "first_seen": "2026-10-17T01:21+08:00",
+   "region": [],
+   "arrival": [
+    "現貨"
+   ],
+   "stores": [],
+   "resale": true,
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
   {
    "id": "21b55fe163b47d00",
    "title": "🐯 陀螺零件出清｜握把發射器｜狀況好🐯 ‼️補貨/價格調整‼️ 【 軸心 | 二手/極新區 可私訊看圖】 HN軸 $100 DB軸 $100 GF軸 $200 GN軸 $200 WW軸 $150 J軸 9.5新 $550 T軸 new $550 C軸 new $150 Y軸 new $350 RA new$200 【 固鎖 | 二手/極新區 可私訊看圖】",
@@ -2380,7 +2400,13 @@
    "shop": null,
    "score": 0,
    "branch": null,
-   "event": false
+   "event": false,
+   "also": [
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VblhfcU5EYjNNNllUa1Z5aUtxUXFQZ1hnSzNob2V6aTJiWGtBQjdfc0JldXI0TUxsQktjTjBQS0NDZFZwazdrS0tZaWZMX2VuREYyTVhoczgzeG02a3dDZEduS2hyQzA3aUg4SEVmRWJiYnl2ZWU2SldZWmY?oc=5"
+    }
+   ]
   },
   {
    "id": "4a5c1a9fc7a47e21",
@@ -5518,6 +5544,10 @@
     {
      "source": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zX0xPcmJCdVdqSjhuNVFZQnBpRS04X3E4aXNKZTFydk5TWDRKUXV6LW42ZmVkS2ZTOUxGMm5tT2hPeEYxN2h6SmhJT1d6MUVtNzM1S3RzQ1JfQTJTeWE1RGZ5Qi0zQThfR0h4SDMtSjFocFVBLWM4ckVZcw?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JM01LeE9hY1dKT01xbVJlVWlLVnU0MlBmZEQzNXBWamtaU2h6WjJjeFR2MTBCX05JdEp1YlYtbmlNb01ldzh0SDhGMlo3akVvdzNMSWNZRkYzdk9aM29JcUhMemw1TWpzRDdzVkhSeHdOdFBUWGNxRXJ1WQ?oc=5"
     }
    ],
    "branch": null,

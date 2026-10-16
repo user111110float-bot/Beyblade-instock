@@ -1,6 +1,6 @@
 # 戰鬥陀螺到貨情報（全台）
 
-更新時間：2026-10-17T00:40+08:00　今日新增 322 筆
+更新時間：2026-10-17T01:21+08:00　今日新增 323 筆
 
 ## 📍 基隆
 
@@ -199,6 +199,7 @@
 
 ## 🌀 未標示地區
 
+- 2026-10-17 [售，12小時內寄出 ---***日版全新未拆***--- **日版BX-30紅黑握把，$450 **日版BX-52光輝龍騎士（左旋），現貨$1050 ---***日版僅拆盒確認款，其他未拆有QR***--- **BX-48-01蒼穹龍騎士（黑），$1000 **BX-48-03猛瑪獠牙760S(紫紅色7-60)，$850 **BX-48-04惡魔紅](https://news.google.com/rss/articles/CBMiekFVX3lxTE12aVlRM196R3BUeVNDUjUxTXp3MHBuYzlXT1pSX2I0RzdtbUJmZXptY2k5ZDg3OHBmcVBPXzNmcjU2SXowRlFESFZaaUJJSGJLVWtMcW9JcDNKVm1HZFhZNF9SVHM5bjE0d1IzVXFSSV9iNVFPOFlfdEpR?oc=5) — Facebook 
 - 2026-10-17 [🐯 陀螺零件出清｜握把發射器｜狀況好🐯 ‼️補貨/價格調整‼️ 【 軸心 | 二手/極新區 可私訊看圖】 HN軸 $100 DB軸 $100 GF軸 $200 GN軸 $200 WW軸 $150 J軸 9.5新 $550 T軸 new $550 C軸 new $150 Y軸 new $350 RA new$200 【 固鎖 | 二手/極新區 可私訊看圖】](https://news.google.com/rss/articles/CBMiekFVX3lxTFBLNE0wMlNHTUVQMnJWNEkxWS1Ha1BDNDNLTGZtYUJ0SmU0c1Mtd2duRGxxbTZmTXRIQ3lPU1R3TXFPYWt2UEk2b0hpT2FycWpMd1l3STR2RzNaQVpEX2tuYkpGVjFmLTJJeXRSZ0FtMllpWERVdzBpZENB?oc=5) — Facebook 
 - 2026-10-16 [#售 Ux-19 戰鬥陀螺 Ux-19 一顆750（3） 賣貨便出貨 貨到付款～先留言再私訊噢](https://news.google.com/rss/articles/CBMiekFVX3lxTE0tTE5sMmtQczZvVFpJeDlQMURNY1Z0d0xlRjE1cEs4VERnTFRWdXR2ek81cDAxeG9QU2dVSHVBVTBkOEdULXo0ek5USkctMW1XMWF5Qi1RemQxU1ItTU1UV0dDeFJOV29fVjJCWEJkVWRjNXIzUERrTHl3?oc=5) — Facebook 
 - 2026-10-16 [#競標文 全新 現貨 須先匯款 都是日版 無QR 【商品名稱】 UX-21 惡魔冥界改造組 UX-20 榮耀武神LF UX-17 隕星龍騎士 3-70J UX-14 天蠍長矛 0-70Z UX-11 衝擊龍神 9-60LR UX-01 蒼龍爆刃 1-60A BX-20 蒼龍利刃改造組 BX-46 無限衝擊對戰組(體積問題只能郵寄or](https://news.google.com/rss/articles/CBMiekFVX3lxTE52N3dpMTFHcHZoSU5aeERuaE9kNC1aOXNtUWViLWw3UmwxbGljVFFYNDJkWWgwZjNNMVZEeVJTYS1aUG5pVEEzVFZRaWw5Y0EtVnFlajJGOE1OMS1ZLWRqNXAyeUxId3NiUWNuaHZWS0RFbEIwY0pPb1JR?oc=5) — Facebook 
@@ -228,4 +229,3 @@
 - 2026-10-15 [以下都是全新現貨 亞洲版（台版系統可掃碼） ⚔️ UX 系列 UX-16時鐘幻象$550 UX-14 天蠍長矛｜$650 UX-02 惡魔戰錘｜$700 UX-06 雄獅巔峰｜$800 UX-17 隕星龍騎士｜$900 UX-08 霜輝銀狼｜$700 UX-21 惡魔幽冥改造組｜$1200 UX-01 蒼龍爆刃｜$650 UX-](https://news.google.com/rss/articles/CBMie0FVX3lxTE5kTnQ0ZnFmQUJwWDA1VDZsYTFLWnRJUEZPY2g2RkFqV09UYlY1WVI1bzVHdVVTN2NVU1Bua09DN2F3XzV6RmVuelZiRlMwTDZ6dEpkOTMxMTJLT19xZk5TNkVmdlNEa0xJemFOOVA3Szc3dlBkVUZmakZtYw?oc=5) — Facebook 
 - 2026-10-15 [🔥 BEYBLADE X 特價出清 現貨🔥$295 * CX-17/01 確認包 現貨｜❌ * CX-17/02 確認包 現貨｜❌ * CX-17/03 確認包 現貨｜❌ * CX-17/04 確認包 現貨｜ * CX-17/05 確認包 現貨｜❌ * CX-17/06 確認包 現貨｜ * CX-05/05 全新／有QR｜ * CX-05/02 全新／有QR｜❌ *](https://news.google.com/rss/articles/CBMifEFVX3lxTFBsdzh3U3B2NE5jWVJvTU50RTlHdEJpNjNTcDlkTzBsR3FUNkpMNUxQTGZ0YmE5LVJlZ3lpdGtCNlJpSGMtcUVGM1F1bVhwWUhwNUsxZWN2Ni1XdERSTlBnR0M3ZjdpdmlmSE5kanpaWFExWGJpbTlXNXpXQ2c?oc=5) — Facebook 
 - 2026-10-15 [戰鬥陀螺新品開抽~ 戰鬥陀螺 BX-54 齊格・超荷 0-70LP 戰鬥陀螺 CX-20客製化套組C](https://news.google.com/rss/articles/CBMitgNBVV95cUxNdHFFMG9fb25SQXZoRjZpYWdFNkJaeTFHWTluTC1kMFFfbWxzR3N3cVVOQ1lzdWRGWEVuWFU5TmdBbWl3VnluZ09nWlk1bEtjQlRYem1VWUo4NFVoTElHMnpYVFhBQjBDekhqODZGMGVYWHl0NEJERkNVd2dTeDQ5VUpvRTNOUmdNUGh6TlI1MGFPNzlUOS0zQURsVnBKTlFPMEphMTlRWmlRNmJOaEVwMzkwRzB3Y1hLR01XMUpPdXhZNUlPMnl1b2Y0aFFweUJmS3Nfb2c3V09nZDMxQmMyclNLbGtDYVQ3d0hTSXU3VG92bmE2bm5NVFI5cmtUSnN3SG03Zm4wampBY3hydkEzM0hCTUtpZGN1dTFELXgyN3RmVTQwTFVMN0NqY1oxYmtJMVFEeWh6eHJvSmpUSjdsa0Q1eVQxX0dOZDZmMTQtX3dRNkN0cEhaZ0thc2ltRnVucmZYMEhra1J3YWlBQWJOS1BySk5ITXdMeXlod19fM216T2ZneUxrY1VQVXlQZVhfS3ZvV3Q3ZjQwY3p0d0hramVPY3F3X21qcmthMTNHanltVTg4TkE?oc=5) — Facebook 
-- 2026-10-15 [正版戰鬥陀螺 商品名稱：CX-17-01 商品狀態：全新現貨 台版有QR 商品價格：1800 商品名稱： BX-30手把。最後1個 台版有QR-全新現貨 商品價格：1個600 面交地點：五結](https://news.google.com/rss/articles/CBMif0FVX3lxTFB5cU85cS1XalFiYWpsdjRmS0FneWFMdy1FYm0tN2ZnSm1QZGlxa3h5VTcyYTBNcjZmdEdFekk0N1VwS29mQ3A4bEltdHRtNHMtb1NnYno5ZzR6VWc2MWVPRU5FOVRSblZ5QzRxZ0RxZ0dlWmtBN3BHTlllYThxUnM?oc=5) — Facebook 
