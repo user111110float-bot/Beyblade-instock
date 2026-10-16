@@ -226,7 +226,7 @@ def threads_search(query: str) -> list[dict]:
     return out
 
 
-SOCIAL_PREFIXES = ("PTT", "YouTube", "Threads")
+SOCIAL_PREFIXES = ("PTT", "YouTube", "Threads", "Facebook")
 
 SOURCES = [
     ("Google 新聞：到貨", lambda: google_news("戰鬥陀螺 到貨")),
@@ -236,6 +236,9 @@ SOURCES = [
     ("Google 新聞：門市", lambda: google_news("戰鬥陀螺 門市 OR 玩具反斗城")),
     ("Google 新聞：超商", lambda: google_news("戰鬥陀螺 7-ELEVEN OR 全家 OR 萊爾富")),
     ("Google 新聞：BEYBLADE X", lambda: google_news("BEYBLADE X 台灣")),
+    # Facebook 不能直接爬；Google 新聞有收錄部分公開粉專貼文，從這裡間接拿
+    ("Facebook 公開貼文：戰鬥陀螺", lambda: google_news("戰鬥陀螺 site:facebook.com")),
+    ("Facebook 公開貼文：到貨", lambda: google_news("陀螺 到貨 OR 補貨 OR 現貨 site:facebook.com")),
     ("PTT Toy", lambda: ptt_search("Toy", "陀螺")),
     ("PTT BabyMother", lambda: ptt_search("BabyMother", "陀螺")),
     ("PTT Lifeismoney", lambda: ptt_search("Lifeismoney", "陀螺")),
@@ -292,7 +295,8 @@ def reclassify(items) -> list[dict]:
             i["summary"] = ""
         c = classify({"title": i["title"], "summary": i["summary"]})
         if c:
-            i.update(region=c["region"], arrival=c["arrival"], stores=c["stores"], score=c["score"])
+            i.update(region=c["region"], arrival=c["arrival"], stores=c["stores"], score=c["score"],
+                     social=i["source"].startswith(SOCIAL_PREFIXES))
             out.append(i)
     return out
 

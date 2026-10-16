@@ -60,7 +60,7 @@ const ALL = '全台';
 const FILTERS = {
   all: () => true,
   arrival: i => i.arrival.length > 0,
-  social: i => i.social ?? /^(PTT|Dcard|YouTube|Threads)/.test(i.source),
+  social: i => i.social ?? /^(PTT|Dcard|YouTube|Threads|Facebook)/.test(i.source),
   new: (i, d) => i.first_seen === d.updated,
 };
 const load = (k, def) => { try { return JSON.parse(localStorage.getItem(k)) ?? def; } catch (e) { return def; } };
