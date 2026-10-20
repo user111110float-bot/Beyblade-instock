@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T10:08+08:00",
+ "updated": "2026-10-20T15:38+08:00",
  "updated_full": "2026-10-20T10:08+08:00",
  "new_today": 23,
  "sources": [
@@ -239,9 +239,8 @@
   },
   {
    "name": "網店庫存：森森文具",
-   "ok": false,
-   "count": 0,
-   "error": "<urlopen error timed out>"
+   "ok": true,
+   "count": 15
   },
   {
    "name": "網店庫存：玩具反斗城",
@@ -250,9 +249,8 @@
   },
   {
    "name": "網店庫存：Funbox",
-   "ok": false,
-   "count": 0,
-   "error": "<urlopen error timed out>"
+   "ok": true,
+   "count": 1
   },
   {
    "name": "網店庫存：PChome 24h（Funbox 麗嬰供貨）",
@@ -14105,7 +14103,7 @@
    "title": "【森森文具玩具】陀螺鬥士 大容量硬殼收納箱｜分層配件收納・附三格對戰盒",
    "url": "https://www.sen-sen.com.tw/products/beyblade-large-storage-case-with-battle-box",
    "price": 2900.0,
-   "qty": 11,
+   "qty": 10,
    "in_stock": true,
    "shop": "森森文具",
    "upcoming": false,
@@ -14116,7 +14114,7 @@
    "title": "【2026 G1 賽前必備】極限戰鬥台X 3.0《陀螺對戰台》- 3秒快速收摺",
    "url": "https://www.sen-sen.com.tw/products/xtreme-battle-table-3-0",
    "price": 683.0,
-   "qty": 64,
+   "qty": 60,
    "in_stock": true,
    "shop": "森森文具",
    "upcoming": false,
