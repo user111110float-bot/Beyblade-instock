@@ -1,6 +1,6 @@
 # 戰鬥陀螺到貨情報（全台）
 
-更新時間：2026-10-21T08:03+08:00　今日新增 57 筆
+更新時間：2026-10-21T12:32+08:00　今日新增 61 筆
 
 ## 📍 基隆
 
@@ -293,6 +293,10 @@
 
 ## 🌀 未標示地區
 
+- 2026-10-21 [【Funbox網店新上架】【APP兌換】購買票券_戰鬥陀螺 CX-00 龍神勇氣G4-70I　目前還沒開賣／已售完](https://shop.funbox.com.tw/products/bbpr07739) — 網店｜Funbox 
+- 2026-10-21 [【Funbox網店新上架】【APP兌換】BEYBLADE X 戰鬥陀螺 CX-00 雄鹿戰角B2-60D 金屬塗裝：橘　目前還沒開賣／已售完](https://shop.funbox.com.tw/products/bbpr07736) — 網店｜Funbox 
+- 2026-10-21 [【Funbox網店新上架】【APP兌換】BEYBLADE X 戰鬥陀螺 CX-00 海怪扭擺S3-70O 金屬塗裝：藍　目前還沒開賣／已售完](https://shop.funbox.com.tw/products/bbpr07733) — 網店｜Funbox 
+- 2026-10-21 [【Funbox網店新上架】【APP兌換】BEYBLADE X 戰鬥陀螺 CX-00 黃蜂要塞R7-60T 金屬塗裝：黃　目前還沒開賣／已售完](https://shop.funbox.com.tw/products/bbpr07730) — 網店｜Funbox 
 - 2026-10-21 [【出售｜日版 BEYBLADE X｜全新】 🇯🇵 日本正版・日本購入 🇹🇼 台灣現貨 ❤️‍🔥 價格滾動調整，早買早享受，晚買享折扣～ ・BX-41 發射器改造型握把（黑／透紅） $600 ・BX-42 發射器改造型握把（藍／透明） $650 ・BX-11 發射器改造型握把（黑） $500 ・BX-48 隨機強化](https://news.google.com/rss/articles/CBMiekFVX3lxTFB3M0xuWUppQnNhbWpacHA4eVRsSU9vUEFDQWhmSVhpRzNSV0trZXNqenN0aUszRDI1VzdwYVhwLWFKY3VjMy1fRkZfLTVCaWpiOTdaOFpmdW9JVng1U205dTRkTkoxYUFXWXl6bmZKV2wxOC05QUdvNFRB?oc=5) — Facebook 
 - 2026-10-21 [售 日版全新 BX-53 (暫售) 直購文 BX-53 日版在台現貨 日版全新 BX-53 在台現貨 有QR 匯款郵寄 或雙北市面交，可配合面交地點](https://news.google.com/rss/articles/CBMiekFVX3lxTE0tdTh1Nlg0VEZZMzJRN0NNei1iVkpWQXJfMzlaNjZld1hLOFlJcmZpSDl1MVlOenAtdU5JSWFmUTc0NXR6TjA5MkxjdkpZcExyQ1JtUTFCUkFqbDVaLXNaV3UzcFZ6aXNTTy1TdGpWSDlEOWN6QWZaYzdB?oc=5) — Facebook 
 - 2026-10-21 [售 UX-21 日版含QR 1000 UX-19台版含QR 700 戰神伏特 台版含QR 2300 匯款後7-11店到店+60](https://news.google.com/rss/articles/CBMiekFVX3lxTE1qVEZYUExZNkJNQzhsRS1aTXZKamU2cU5UUU9MOVBaQ3d2MG1Kd0ZOVzY2WE93bkp6RWtINFRIbmUwSUt5dzYyaUtyWm16Y0ZrQ2t1QzZJX25fWkZ5MF8xbml3VlJycTR1M0R4bHd5ZnRNNVZxNGhZdXRB?oc=5) — Facebook `7-11`
@@ -319,7 +323,3 @@
 - 2026-10-20 [戰鬥陀螺現貨販售 以下沒特別標皆為台/亞洲版 BX53 拆賣 黑色戰鬥盤(可賣貨便）1200 騎士重頓+魔導幻劍 +日版QR 1500 藍色空力天馬 （38.77g)3300 正負0.06g BX52 光輝龍騎士（亞）1450 UX00 藍色女武神 （亞）2880 *CX19 鱷魚裂甲 650 UX00 粉紅天蠍 （亞）13](https://news.google.com/rss/articles/CBMiekFVX3lxTE9kWGVsQmxZV0NYZWczcXBJZHVDN1N0NTNEOHQ2ZTVuQjY2cUU1eFBzMnRrQ0dYSUYyZ1BMSzNOemVVVTI1M2h3ZmM4ZHNwMGIwdDR3Wk1HbmthMjJmUTBqWkZtOTg5MVo4eDQ2TkVFZm43ZkpFT21qaWFR?oc=5) — Facebook 
 - 2026-10-19 [【目的】：出售 【商品名稱】： ////全新區////// UX17殞星上蓋---350元 女武神旋風發射器---400元 （獅鷲）T型拉條一組---250元 ///////二手區////// 隨機組陀螺一顆-150元 70元區 F軸 GF軸 LF軸 DB軸 【商品狀況】：二手,全新會備註 【交易方式】：1.匯款寄出店到店+60 2.可開賣貨便](https://news.google.com/rss/articles/CBMie0FVX3lxTE1fQkFZQUtDWHJ6d3ZmOWZ3SVV3bjRON0xxR1o4dUJ6SnpWSDc3Nk91RWRtRHBJaXU4bFVWc3JrWTN4YVpGVS1uSDczb2xPSHRQbkJJamZsWm1DTVVTU1dQSWRwd01ObDlOSFowb1JYMWp0UDBsdHFjd0piaw?oc=5) — Facebook 
 - 2026-10-19 [🔥交換機會🔥 鯊魚38.02+-0.06雙A7 交換 BX-53藍天馬 歡迎討論看看](https://news.google.com/rss/articles/CBMiekFVX3lxTE1RcnN5akFSNEpYZ1hCZ3ZJeHlFenpHdnZJa3p6TGc2b1hCNVoyOFJWOU9ERk1QWDVHaEtvSjI0eWFVRFZQRm1mdlBCMmdYSjNod1o4N29ZaXFmY0lFS2hhWUE0aWcwcUtST2szd2I1ck9ta3RUX2l1Q1BB?oc=5) — Facebook 
-- 2026-10-19 [出清售 金570固鎖，450 二手陀螺包(內無海綿)，250 圖一，各式上蓋一顆70，可搭配隨機固鎖軸心一顆共100(不可挑搭配的軸心固鎖）需要私訊告知 一般拉條發射器/T字拉條發射器/龍型拉條發射器 未拆袋一組價格90/售完/150 拆袋一組 50/100/售完 🔥秤重商品皆依我](https://news.google.com/rss/articles/CBMie0FVX3lxTFB2aDRsRnY2bWN3ZkFFaFZSM2pDUmh5UF9UZlpVNkY3X3kyOEthcF9LeUxyX25tc2VhSWYzSU9KdzJzSTZucFJVM3RITmFvNGpYQWlnQUdLTzdmLWMxdHZ4bk1aRXEwVzBjMFJjekdSTlJyNEp2eFBudVMydw?oc=5) — Facebook 
-- 2026-10-19 [#競標文 #單社競標 #一日短標 【商品名稱】：BX-53各取所需第3彈 1.新藍空力全新未拆整串 2.騎士重盾V2全新未拆整串 3.魔導幻劍V2全新未拆整串（超緊B軸） 4.戰鬥盤 5.發射器組拉條+旋風 【結標時間】： 10/20（二） 22：30無限防尾5分鐘 【起標金額】：0 【增額】：一標50](https://news.google.com/rss/articles/CBMiekFVX3lxTE03SUZzOUFZb0EyZkxsR3Q0Vk5VNTh1SGItLWVNR0xBTjdha245X1lHYnJkeVh3WUV3VDA2SnNCZEdHclB5X3pSSE1UMzhtWWIzTE1FdVpRNWU1S3FOcFU2dlVwTVh3NUZpdzhMRXNYRm4yVndjLTRUYUZR?oc=5) — Facebook 
-- 2026-10-19 [🤫偷開老闆私藏陀螺？！ 今天趁老闆不注意， 偷偷來開箱老闆私藏的寶貝！👀 🔥 CX-00 狄卡狂怒！🔥 本來只是想偷看一下， 結果…… ⚠️ 老闆先不要看！ #戰鬥陀螺 #BEYBLADEX #狄卡狂怒 #陀螺開箱](https://news.google.com/rss/articles/CBMi3wZBVV95cUxNUjNhajU0UXNzUDFZRHJWRS1aQy1mTFV2Z3g4RE1Idmg3RTN0Q0VJZmhMOGVRZlJwaGthLWF5S0xYVEtSWG03MnFkZV9IdTJ5YVhTdDRSYXJRTk5TZ3RtdVBpQzF3QjdoT3lYVjh4WVdOWjlqTVQ5RmR3OHU3b2JPNVY3UVNCYndDek5aNzBvdTVsZGVJVU5YT3FlWGtuZXJqMnJqUERLalNOMkRSZ3NpTnFuR2R6NjJLTjlEMWo1YTlyMlZkbEdQNmdCSnNKeURoMDQ3TlI4UzkzUy1yNk9OWTQ3RVNMTDVnQ2FJRWJNVHE4NHZsYVhWdllneWtWS3NIeDYzTVBnMkdfR3FlandSNU1xR3ZoZklGMV9OYlRBa2JKTkNNdFNoQjZzekxOZm1nbjZQYzVTY25ZZ0txekZhbU5BRWJYVTJodzRUcGZ2bjFXaTZLUmZGcnNFZWtOWnB5V2hZT0xEZjdUcGFhTG42ZUREZEpyQ2phQXpYYTRScFV5bUN5RzhtblJUS3kzX1UtSUxLRzlTTEFlcGFCQ1NPSVdjQUJ5WmtYY3FrYTVwUUpPOTBhUVp0Rnp0QjR5bEpTN3BPeGxhZWxOOUtXc3ZmSkZuSG05dEFNR19YQVpmZ0xMMUtCUk5RUkRVblVhS1ZfdTFpckstdE16dnUyZUFDcVhkd25lVzgwX09lNEhSLVJXRF90VENYbG5LWmYzdEh5UTBiWXZjZFlZem1NT2lXOGh1QjVQWjl1bkFKYWVTeHZ3QUZtNTc4eXQ2OHFjSXV6LWh1TFdpMGJWT2JtZGxLV19CaUJhX25Ta0lPMmM5RUhjc2hqU0xDaGNlbnRPT25pNmR2bTkyaEMtUkNmdVZtR2EwamdTYzZGajFFcXNCMnR4ZFJoc2tiaDJsZWlLQzlhUkZhYk1UeVpKSnZtb3Znby1XMl9LbHZuNlRNUnZOZnMzTGVwcnQ5ZFNLRTNzRXVqaHhLcVU0d1cyRXJJMmZqV3JMbkY1cWZYSGVKNkxnYWhCOGdGV1RxQmpEeGNaNmJOaS1SS1VjVlV1aXFlVzdER2F6N1ZoVERZeWhJSEJ3VlpvekhvTERjMzZFMGR6WjZHLTVPVnd5c2JhVFBVT3lLR01Vejh1WHZBQ3NNVDNwdw?oc=5) — Facebook 
-- 2026-10-19 [出售全新戰鬥陀螺 圖1 1/250(剩9個） 圖2 1/500(自選5個送1個） 圖3 1/600（少拍到CX-19*2) 它團同步，售完為止](https://news.google.com/rss/articles/CBMifEFVX3lxTFByNFBRX1RkRDIwX1BQUVVhNFk4LXhBMjBBVWpJNy16VjEwa3dwT2RJOU14S1lCM2FnUHAzNXU0U3lRU2ZuMkVhdHlHa2Z4b0h3eUtJTXlUeEtSbncwaHJMRmRjNFAyRmJQZ3lMZkpiVGJBVnFOd0h3cmMyRlo?oc=5) — Facebook 
