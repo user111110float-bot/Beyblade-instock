@@ -121,28 +121,6 @@
   "restocked_at": null
  },
  {
-  "title": "【森森文具玩具】隨身陀螺戰鬥桌｜S-30 極速戰鬥桌｜極限防護罩｜戰鬥陀螺競技桌",
-  "url": "https://www.sen-sen.com.tw/products/s30-beyblade-battle-table",
-  "price": 2099.0,
-  "qty": 0,
-  "in_stock": true,
-  "shop": "森森文具",
-  "upcoming": false,
-  "first_seen": "2026-10-17T00:37+08:00",
-  "restocked_at": null
- },
- {
-  "title": "【森森文具玩具】陀螺戰鬥收納車 #C30｜慶祝新品上市，下單即贈CX-18｜台灣製造｜陀螺收納戰鬥桌",
-  "url": "https://www.sen-sen.com.tw/products/battle-storage-cart-c30",
-  "price": 4999.0,
-  "qty": 0,
-  "in_stock": true,
-  "shop": "森森文具",
-  "upcoming": false,
-  "first_seen": "2026-10-17T00:37+08:00",
-  "restocked_at": null
- },
- {
   "title": "9月新品【BEYBLADE X】戰鬥陀螺X CX-19 隨機強化組",
   "url": "https://www.sen-sen.com.tw/products/beyblade-x-cx-19-random-booster",
   "price": 350.0,
@@ -159,17 +137,6 @@
   "price": 895.0,
   "qty": 0,
   "in_stock": false,
-  "shop": "森森文具",
-  "upcoming": false,
-  "first_seen": "2026-10-19T09:46+08:00",
-  "restocked_at": "2026-10-19T09:46+08:00"
- },
- {
-  "title": "戰鬥陀螺收納箱｜磁吸模組化收納｜50×20CM｜12格陀螺＋配件擴充",
-  "url": "https://www.sen-sen.com.tw/products/beyblade-magnetic-modular-storage-case-50x20",
-  "price": 2580.0,
-  "qty": 8,
-  "in_stock": true,
   "shop": "森森文具",
   "upcoming": false,
   "first_seen": "2026-10-19T09:46+08:00",
@@ -203,17 +170,6 @@
   "price": 350.0,
   "qty": 0,
   "in_stock": false,
-  "shop": "森森文具",
-  "upcoming": false,
-  "first_seen": "2026-10-19T09:46+08:00",
-  "restocked_at": "2026-10-19T09:46+08:00"
- },
- {
-  "title": "戰鬥陀螺收納箱｜磁吸模組化收納｜45×20CM｜9格陀螺＋配件擴充",
-  "url": "https://www.sen-sen.com.tw/products/beyblade-modular-magnetic-storage-case",
-  "price": 2480.0,
-  "qty": 24,
-  "in_stock": true,
   "shop": "森森文具",
   "upcoming": false,
   "first_seen": "2026-10-19T09:46+08:00",
@@ -262,6 +218,50 @@
   "upcoming": false,
   "first_seen": "2026-10-19T09:46+08:00",
   "restocked_at": "2026-10-19T09:46+08:00"
+ },
+ {
+  "title": "戰鬥陀螺 CX-18 隨機強化組 - 腕龍鞭打 OW5-70Nr",
+  "url": "https://www.sen-sen.com.tw/products/cx-18-brachiowhip-ow5-70nr",
+  "price": 319.0,
+  "qty": 0,
+  "in_stock": false,
+  "shop": "森森文具",
+  "upcoming": false,
+  "first_seen": "2026-10-21T22:58+08:00",
+  "restocked_at": "2026-10-21T22:58+08:00"
+ },
+ {
+  "title": "BEYBLADE X 戰鬥陀螺X BX-00 美國隊長 紅浩克",
+  "url": "https://www.sen-sen.com.tw/products/beyblade-x-%E6%88%B0%E9%AC%A5%E9%99%80%E8%9E%BAx-bx-00-%E7%BE%8E%E5%9C%8B%E9%9A%8A%E9%95%B7-%E7%B4%85%E6%B5%A9%E5%85%8B",
+  "price": 750.0,
+  "qty": 0,
+  "in_stock": false,
+  "shop": "森森文具",
+  "upcoming": false,
+  "first_seen": "2026-10-21T22:58+08:00",
+  "restocked_at": "2026-10-21T22:58+08:00"
+ },
+ {
+  "title": "【2026 G1 賽前必備】極限戰鬥台X 2.0《陀螺對戰台》- 官方同高規格 / 可手提運輸箱",
+  "url": "https://www.sen-sen.com.tw/products/xtreme-battle-stadium-x2-g1-official-spec",
+  "price": 888.0,
+  "qty": 0,
+  "in_stock": false,
+  "shop": "森森文具",
+  "upcoming": false,
+  "first_seen": "2026-10-21T22:58+08:00",
+  "restocked_at": "2026-10-21T22:58+08:00"
+ },
+ {
+  "title": "【九月預購】戰鬥陀螺 X  CX-17 隨機強化組｜獨角獸三角",
+  "url": "https://www.sen-sen.com.tw/products/cx-17",
+  "price": 315.0,
+  "qty": 0,
+  "in_stock": false,
+  "shop": "森森文具",
+  "upcoming": false,
+  "first_seen": "2026-10-21T22:58+08:00",
+  "restocked_at": "2026-10-21T22:58+08:00"
  },
  {
   "title": "Beyblade戰鬥陀螺 BX-37雙重極限衝擊戰鬥盤-豪華版",
@@ -333,7 +333,7 @@
   "title": "【APP兌換】交換票券_戰鬥陀螺 CX-00 龍神勇氣G4-70I 金屬塗裝：水藍",
   "url": "https://shop.funbox.com.tw/products/bbpr08914",
   "price": null,
-  "qty": 111,
+  "qty": 109,
   "in_stock": true,
   "sell_from": null,
   "shop": "Funbox",
