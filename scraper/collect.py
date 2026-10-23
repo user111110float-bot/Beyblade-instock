@@ -100,6 +100,11 @@ STORE_CHAINS = ["玩具反斗城", "萊爾富", "7-11", "7-ELEVEN", "統一超�
 SALE_DATE = re.compile(
     r"(\d{1,2})\s*[/月]\s*(\d{1,2})\s*日?[^/\n]{0,14}?"
     r"(?:開賣|發售|上市|販售|開搶|開抽|登場|到貨|預購|上架)")
+SALE_WORD = r"(?:開賣|發售|上市|販售|開搶|開抽|登場|到貨|預購|上架)"
+# 相對日期：「明天開賣」「後天到貨」「週六上架」「下週三開賣」「本週日販售」
+REL_DAY = re.compile(r"(明天|明日|後天|今天|今日|今晚)[^/\n]{0,10}?" + SALE_WORD)
+WEEKDAY = re.compile(r"(下|這|本)?\s*(?:週|周|星期|禮拜)([一二三四五六日天])[^/\n]{0,10}?" + SALE_WORD)
+WD = {"一": 0, "二": 1, "三": 2, "四": 3, "五": 4, "六": 5, "日": 6, "天": 6}
 PRODUCT_CODE = re.compile(r"\b(?:BX|UX|CX)-\d+", re.I)
 
 
@@ -110,11 +115,23 @@ def channel_of(text: str, stores: list[str]) -> str | None:
     return "both" if on and st else "online" if on else "store" if st else None
 
 
-def sale_dates(title: str, posted: dt.datetime | None) -> list[str]:
-    """標題提到的開賣日期（YYYY-MM-DD），年份照發文日推。"""
+def sale_dates(text: str, posted: dt.datetime | None) -> list[str]:
+    """標題＋內文提到的開賣日期（YYYY-MM-DD）：「11/5開賣」照發文日推年份，「明天／週六」照發文日推日期。"""
     base = posted or NOW
     out = []
-    for m, d in SALE_DATE.findall(title):
+    today = base.date()
+    for word in REL_DAY.findall(text):
+        day = today + dt.timedelta(days={"明天": 1, "明日": 1, "後天": 2}.get(word, 0))
+        out.append(day.isoformat())
+    for prefix, w in WEEKDAY.findall(text):
+        target = WD[w]
+        if prefix == "下":  # 下週X：下一個星期一開始算
+            day = today + dt.timedelta(days=7 - today.weekday() + target)
+        else:  # 週X／這週X：今天或之後最近的那天
+            day = today + dt.timedelta(days=(target - today.weekday()) % 7)
+        if day.isoformat() not in out:
+            out.append(day.isoformat())
+    for m, d in SALE_DATE.findall(text):
         try:
             day = dt.date(base.year, int(m), int(d))
         except ValueError:
@@ -386,7 +403,7 @@ def classify(item: dict) -> dict | None:
     posted = item.get("date")
     if isinstance(posted, str):
         posted = dt.datetime.fromisoformat(posted)
-    item["sale_dates"] = sale_dates(item["title"], posted)
+    item["sale_dates"] = sale_dates(text, posted)
     # 有開賣字眼又有通路／型號的（例如「萊爾富…比賽據點…限量開賣」）仍算販售消息
     selling = bool(arrival) and bool(stores or PRODUCT_CODE.search(text))
     item["event"] = bool(EVENT.search(item["title"])) and not selling
@@ -550,7 +567,10 @@ def main() -> int:
     status += stock_status
 
     cutoff = (NOW - dt.timedelta(days=KEEP_DAYS)).isoformat()
-    items = merge_similar(reclassify(i for i in history.values() if i["date"] >= cutoff))
+    upcoming = (NOW - dt.timedelta(days=1)).date().isoformat()
+    keep = (i for i in history.values()
+            if i["date"] >= cutoff or any(d >= upcoming for d in i.get("sale_dates") or []))
+    items = merge_similar(reclassify(keep))
     items.sort(key=lambda i: i["date"], reverse=True)
     # 今天第一次看到的才算新消息（被合併掉的轉載不算）
     new_count = sum(i["first_seen"][:10] == stamp[:10] for i in items)

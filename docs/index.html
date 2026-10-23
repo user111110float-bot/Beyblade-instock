@@ -193,7 +193,7 @@ function cardHtml(i, extra = []) {
 const CHAN = {
   online: {cls: 'on', label: '🛒 線上'}, store: {cls: 'st', label: '🏪 實體'},
 };
-const isSale = i => plain(i) && (i.kind === 'stock' || i.arrival.length > 0);
+const isSale = i => plain(i) && (i.kind === 'stock' || i.arrival.length > 0 || (i.sale_dates || []).length > 0);
 const chanOf = i => i.channel || (i.kind === 'stock' ? 'online' : null);
 let calMonth = null, calDay = null;
 

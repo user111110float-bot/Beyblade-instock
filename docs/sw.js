@@ -1,5 +1,5 @@
 // 離線快取：App 外殼先存起來；資料（data.json）有網路就抓最新的，沒網路就用上次存的
-const CACHE = 'radar-v6';  // 改了圖示或網頁外殼就加 1，已安裝的 App 才會換新
+const CACHE = 'radar-v7';  // 改了圖示或網頁外殼就加 1，已安裝的 App 才會換新
 const SHELL = ['./', 'index.html', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/maskable-512.png'];
 
 self.addEventListener('install', e => {
