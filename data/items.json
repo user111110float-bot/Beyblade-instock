@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-23T11:17+08:00",
+ "updated": "2026-10-23T13:52+08:00",
  "updated_full": "2026-10-23T11:17+08:00",
- "new_today": 103,
+ "new_today": 105,
  "sources": [
   {
    "name": "Google 新聞：到貨",
@@ -259,6 +259,52 @@
   }
  ],
  "items": [
+  {
+   "id": "1eb7916589642ac0",
+   "title": "【森森文具網店新上架】11月新品【BEYBLADE X】戰鬥陀螺X BX-54 增強包 平衡型（暫譯）　目前還沒開賣／已售完",
+   "url": "https://www.sen-sen.com.tw/products/beyblade-x-bx-54-siegsuperion-0-70lp",
+   "summary": "",
+   "source": "網店｜森森文具",
+   "social": false,
+   "date": "2026-10-23T13:52+08:00",
+   "first_seen": "2026-10-23T13:52+08:00",
+   "region": [],
+   "arrival": [
+    "新上架"
+   ],
+   "stores": [],
+   "resale": false,
+   "event": false,
+   "channel": "online",
+   "sale_dates": [],
+   "shop": "森森文具",
+   "branch": null,
+   "score": 4,
+   "kind": "stock"
+  },
+  {
+   "id": "22b6435f95d51f11",
+   "title": "【森森文具網店新上架】11月新品【BEYBLADE X】戰鬥陀螺X CX-20 客製化套組C 鳳凰武力  改造零件組 （暫譯）　目前還沒開賣／已售完",
+   "url": "https://www.sen-sen.com.tw/products/beyblade-x-cx-20-customize-set-c-phoenix-force",
+   "summary": "",
+   "source": "網店｜森森文具",
+   "social": false,
+   "date": "2026-10-23T13:52+08:00",
+   "first_seen": "2026-10-23T13:52+08:00",
+   "region": [],
+   "arrival": [
+    "新上架"
+   ],
+   "stores": [],
+   "resale": false,
+   "event": false,
+   "channel": "online",
+   "sale_dates": [],
+   "shop": "森森文具",
+   "branch": null,
+   "score": 4,
+   "kind": "stock"
+  },
   {
    "id": "9037481c94d73e21",
    "title": "【週末提案】甜柿開吃、戰鬥陀螺熱血對決、樂團演出聽起來！🎸🍊 皮皮獅帶你玩遍竹縣，週末行程快收藏！🦁✨ 󠀠 皮粉們～～週末又有好多精彩活動啦！🙌 尖石甜柿香甜上市，來趟山城小旅行，把當季好柿帶回家；湖口戰鬥陀螺錦標賽熱血開戰，大小高手一起較量；竹北還",
@@ -21073,7 +21119,7 @@
    "title": "BEYBLADE X 戰鬥陀螺 CX-16 極限衝擊對戰組C",
    "url": "https://shop.funbox.com.tw/products/bb09728",
    "price": 1995.0,
-   "qty": 43,
+   "qty": 33,
    "in_stock": true,
    "sell_from": null,
    "shop": "Funbox",
@@ -21085,7 +21131,7 @@
    "title": "BEYBLADE X 戰鬥陀螺 BX-37 雙重極限衝擊戰鬥盤 豪華組",
    "url": "https://shop.funbox.com.tw/products/bb93948",
    "price": 2750.0,
-   "qty": 36,
+   "qty": 35,
    "in_stock": true,
    "sell_from": null,
    "shop": "Funbox",
@@ -21141,7 +21187,7 @@
    "title": "【APP兌換】交換票券_戰鬥陀螺 CX-00 龍神勇氣G4-70I 金屬塗裝：水藍",
    "url": "https://shop.funbox.com.tw/products/bbpr08914",
    "price": null,
-   "qty": 99,
+   "qty": 98,
    "in_stock": true,
    "sell_from": null,
    "shop": "Funbox",
@@ -21227,6 +21273,28 @@
    "restocked_at": null
   },
   {
+   "title": "11月新品【BEYBLADE X】戰鬥陀螺X BX-54 增強包 平衡型（暫譯）",
+   "url": "https://www.sen-sen.com.tw/products/beyblade-x-bx-54-siegsuperion-0-70lp",
+   "price": 0.0,
+   "qty": 0,
+   "in_stock": false,
+   "shop": "森森文具",
+   "upcoming": false,
+   "first_seen": "2026-10-23T13:52+08:00",
+   "restocked_at": "2026-10-23T13:52+08:00"
+  },
+  {
+   "title": "11月新品【BEYBLADE X】戰鬥陀螺X CX-20 客製化套組C 鳳凰武力  改造零件組 （暫譯）",
+   "url": "https://www.sen-sen.com.tw/products/beyblade-x-cx-20-customize-set-c-phoenix-force",
+   "price": 0.0,
+   "qty": 0,
+   "in_stock": false,
+   "shop": "森森文具",
+   "upcoming": false,
+   "first_seen": "2026-10-23T13:52+08:00",
+   "restocked_at": "2026-10-23T13:52+08:00"
+  },
+  {
    "title": "BEYBLADE X 戰鬥陀螺 CX-19 鱷魚裂甲 隨機強化組",
    "url": "https://shop.funbox.com.tw/products/bb08062",
    "price": 350.0,
@@ -21265,28 +21333,6 @@
    "title": "BEYBLADE X 戰鬥陀螺X BX-00 美國隊長 紅浩克",
    "url": "https://www.sen-sen.com.tw/products/beyblade-x-%E6%88%B0%E9%AC%A5%E9%99%80%E8%9E%BAx-bx-00-%E7%BE%8E%E5%9C%8B%E9%9A%8A%E9%95%B7-%E7%B4%85%E6%B5%A9%E5%85%8B",
    "price": 750.0,
-   "qty": 0,
-   "in_stock": false,
-   "shop": "森森文具",
-   "upcoming": false,
-   "first_seen": "2026-10-21T22:58+08:00",
-   "restocked_at": "2026-10-21T22:58+08:00"
-  },
-  {
-   "title": "【2026 G1 賽前必備】極限戰鬥台X 2.0《陀螺對戰台》- 官方同高規格 / 可手提運輸箱",
-   "url": "https://www.sen-sen.com.tw/products/xtreme-battle-stadium-x2-g1-official-spec",
-   "price": 888.0,
-   "qty": 0,
-   "in_stock": false,
-   "shop": "森森文具",
-   "upcoming": false,
-   "first_seen": "2026-10-21T22:58+08:00",
-   "restocked_at": "2026-10-21T22:58+08:00"
-  },
-  {
-   "title": "【九月預購】戰鬥陀螺 X  CX-17 隨機強化組｜獨角獸三角",
-   "url": "https://www.sen-sen.com.tw/products/cx-17",
-   "price": 315.0,
    "qty": 0,
    "in_stock": false,
    "shop": "森森文具",
