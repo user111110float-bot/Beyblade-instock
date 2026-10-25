@@ -1,72 +1,85 @@
 {
- "updated": "2026-10-25T03:50+08:00",
- "updated_full": "2026-10-25T01:39+08:00",
+ "updated": "2026-10-25T08:28+08:00",
+ "updated_full": "2026-10-25T08:28+08:00",
  "new_today": 50,
  "sources": [
   {
    "name": "Google 新聞：到貨",
-   "ok": true,
-   "count": 3
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Google 新聞：補貨",
-   "ok": true,
-   "count": 14
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Google 新聞：台北新北",
-   "ok": true,
-   "count": 11
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Google 新聞：中南部",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Google 新聞：門市",
-   "ok": true,
-   "count": 12
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Google 新聞：超商",
-   "ok": true,
-   "count": 14
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Google 新聞：BEYBLADE X",
-   "ok": true,
-   "count": 4
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 公開貼文：戰鬥陀螺",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 公開貼文：到貨",
-   "ok": true,
-   "count": 38
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 玩具店",
-   "ok": true,
-   "count": 64
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 文具店",
-   "ok": true,
-   "count": 21
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 書局",
-   "ok": true,
-   "count": 5
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Google 新聞：文具店",
-   "ok": true,
-   "count": 0
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "PTT Toy",
@@ -114,128 +127,153 @@
   },
   {
    "name": "Facebook 各縣市：基隆",
-   "ok": true,
-   "count": 42
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 各縣市：台北",
-   "ok": true,
-   "count": 57
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 各縣市：新北",
-   "ok": true,
-   "count": 40
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 各縣市：桃園",
-   "ok": true,
-   "count": 58
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 各縣市：新竹",
-   "ok": true,
-   "count": 38
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 各縣市：苗栗",
-   "ok": true,
-   "count": 27
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 各縣市：台中",
-   "ok": true,
-   "count": 68
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 各縣市：彰化",
-   "ok": true,
-   "count": 37
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 各縣市：南投",
-   "ok": true,
-   "count": 17
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 各縣市：雲林",
-   "ok": true,
-   "count": 33
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 各縣市：嘉義",
-   "ok": true,
-   "count": 51
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 各縣市：台南",
-   "ok": true,
-   "count": 61
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 各縣市：高雄",
-   "ok": true,
-   "count": 62
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 各縣市：屏東",
-   "ok": true,
-   "count": 49
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 各縣市：宜蘭",
-   "ok": true,
-   "count": 44
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 各縣市：花蓮",
-   "ok": true,
-   "count": 13
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 各縣市：台東",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 各縣市：澎湖",
-   "ok": true,
-   "count": 3
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 各縣市：金門",
-   "ok": true,
-   "count": 5
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Facebook 各縣市：連江",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "追蹤店家：胖寶貝玩具店",
-   "ok": true,
-   "count": 3
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "追蹤店家：玩具e哥",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "追蹤店家：森森文具",
-   "ok": true,
-   "count": 4
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "追蹤店家：玩具反斗城",
-   "ok": true,
-   "count": 11
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "追蹤店家：Funbox",
-   "ok": true,
-   "count": 35
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "網店庫存：森森文具",
@@ -24956,7 +24994,7 @@
    "title": "BEYBLADE X 戰鬥陀螺 CX-16 極限衝擊對戰組C",
    "url": "https://shop.funbox.com.tw/products/bb09728",
    "price": 1995.0,
-   "qty": 5,
+   "qty": 3,
    "in_stock": true,
    "sell_from": null,
    "shop": "Funbox",
