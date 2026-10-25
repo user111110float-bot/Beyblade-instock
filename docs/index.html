@@ -69,6 +69,7 @@ details li.off{opacity:.6}
   <div class="meta" id="meta">載入中…</div>
   <div class="tabs" id="regions"></div>
   <div class="tabs" id="tabs">
+    <button data-f="now">🔥 現在</button>
     <button data-f="all">全部消息</button>
     <button data-f="calendar">📅 日曆</button>
     <button data-f="arrival">📦 到貨／補貨</button>
@@ -99,11 +100,14 @@ const FILTERS = {
   new: (i, d) => plain(i) && isNew(i, d),
   stock: () => false,  // 網店庫存另外顯示，見 renderStock
   calendar: () => false,  // 日曆另外顯示，見 renderCalendar
+  now: () => false,  // 首頁另外顯示，見 renderNow
 };
 const load = (k, def) => { try { return JSON.parse(localStorage.getItem(k)) ?? def; } catch (e) { return def; } };
 const save = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} };
-let data, filter = load('filter', 'all'), picked = load('regions', ['台北', '新北', NONE]);
-if (!FILTERS[filter]) filter = 'all';
+let data, filter = load('filter', 'now'), picked = load('regions', ['台北', '新北', NONE]);
+// 改版後第一次打開，一律從「🔥 現在」開始
+if (!load('seenNow', false)) { filter = 'now'; save('seenNow', true); }
+if (!FILTERS[filter]) filter = 'now';
 
 const isNew = (i, d) => i.first_seen.slice(0, 10) === d.updated.slice(0, 10);
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -152,6 +156,7 @@ function render() {
   document.querySelectorAll('#tabs button').forEach(b => b.classList.toggle('on', b.dataset.f === filter));
   renderRegions();
   if (filter === 'stock') return renderStock();
+  if (filter === 'now') return renderNow();
   if (filter === 'calendar') return renderCalendar();
   const items = data.items.filter(i => inRegion(i) && FILTERS[filter](i, data));
   const list = document.getElementById('list');
@@ -229,6 +234,51 @@ function chanTags(i, planned) {
     ...(c === 'online' || c === 'both' ? [`<span class="tag on">${CHAN.online.label}</span>`] : []),
     ...(c === 'store' || c === 'both' ? [`<span class="tag st">${CHAN.store.label}</span>`] : []),
   ];
+}
+
+// ---- 首頁「🔥 現在」：只看現在買得到的、即將開賣的；過去的紀錄放在其他分頁 ----
+const BEY_CODE = /\b(?:BX|UX|CX|BXG)-?\d+/i;
+function renderNow() {
+  const list = document.getElementById('list');
+  const today = data.updated.slice(0, 10);
+  const ago = t => {
+    const m = Math.round((new Date(data.updated) - new Date(t)) / 60000);
+    return m < 60 ? `${Math.max(m, 1)} 分鐘前` : m < 1440 ? `${Math.round(m / 60)} 小時前` : `${Math.round(m / 1440)} 天前`;
+  };
+  let html = '';
+
+  // 1. 現在網店買得到的陀螺本體（每 15 分鐘檢查）
+  const live = (data.stock || []).filter(p => p.in_stock && BEY_CODE.test(p.title) && !/APP兌換|兌換票券/.test(p.title));
+  html += `<div class="day">🛒 現在網店買得到　${live.length} 項</div>`;
+  html += live.length ? live.map(p => `<div class="card">
+      <a class="t" href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.title)}</a>
+      <div class="tags"><span class="tag on">🛒 ${esc(p.shop)}</span>
+      ${p.qty ? `<span class="tag ntp">有貨 ${p.qty}</span>` : '<span class="tag ntp">可下單</span>'}
+      ${p.price ? `<span class="tag">$${p.price}</span>` : ''}
+      ${p.restocked_at ? `<span class="tag new">${ago(p.restocked_at)}補貨／上架</span>` : ''}</div></div>`).join('')
+    : '<div class="empty" style="padding:14px 0">監控的網店目前都沒有陀螺現貨</div>';
+
+  // 2. 即將開賣（今天以後），照日期排
+  const entries = calEntries();
+  const days = Object.keys(entries).filter(d => d >= today).sort()
+    .filter(d => entries[d].some(e => e.planned || d === today));
+  const n = days.reduce((a, d) => a + entries[d].filter(e => e.planned || d === today).length, 0);
+  html += `<div class="day">⏰ 即將開賣　${n} 則</div>`;
+  if (!days.length) html += '<div class="empty" style="padding:14px 0">目前沒有公布未來的開賣日</div>';
+  for (const d of days) {
+    const [yy, mm, dd] = d.split('-').map(Number);
+    const wd = '日一二三四五六'[new Date(Date.UTC(yy, mm - 1, dd)).getUTCDay()];  // 用 UTC 算，不受手機時區影響
+    html += `<div class="src" style="margin:8px 0 4px">📅 ${d.slice(5).replace('-', '/')}（${wd}）${d === today ? '　今天' : ''}</div>`;
+    html += entries[d].filter(e => e.planned || d === today).map(e => cardHtml(e.i, chanTags(e.i, e.planned))).join('');
+  }
+
+  // 3. 24 小時內抓到的到貨消息（Facebook／新聞平均晚 1～2 天，僅供參考）
+  const recent = data.items.filter(i => inRegion(i) && isSale(i) && i.kind !== 'stock'
+    && new Date(data.updated) - new Date(i.first_seen) < 864e5);
+  html += `<div class="day">🆕 24 小時內抓到的到貨消息　${recent.length} 則</div>
+    <div class="src" style="margin-bottom:6px">Facebook、新聞要等 Google 收錄，平均晚 1～2 天，多半已經賣完，參考就好</div>`;
+  html += recent.slice(0, 15).map(i => cardHtml(i, chanTags(i, false))).join('');
+  list.innerHTML = html;
 }
 
 function renderCalendar() {
