@@ -1,27 +1,27 @@
 {
- "updated": "2026-10-27T05:50+08:00",
- "updated_full": "2026-10-27T01:34+08:00",
- "new_today": 70,
+ "updated": "2026-10-27T14:43+08:00",
+ "updated_full": "2026-10-27T14:43+08:00",
+ "new_today": 151,
  "sources": [
   {
    "name": "Google 新聞：到貨",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "name": "Google 新聞：補貨",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "name": "Google 新聞：台北新北",
    "ok": true,
-   "count": 3
+   "count": 1
   },
   {
    "name": "Google 新聞：中南部",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "name": "Google 新聞：門市",
@@ -36,32 +36,32 @@
   {
    "name": "Google 新聞：BEYBLADE X",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "name": "Facebook 公開貼文：戰鬥陀螺",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "name": "Facebook 公開貼文：到貨",
    "ok": true,
-   "count": 92
+   "count": 49
   },
   {
    "name": "Facebook 玩具店",
    "ok": true,
-   "count": 61
+   "count": 60
   },
   {
    "name": "Facebook 文具店",
    "ok": true,
-   "count": 14
+   "count": 17
   },
   {
    "name": "Facebook 書局",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "name": "Google 新聞：文具店",
@@ -115,102 +115,102 @@
   {
    "name": "Facebook 各縣市：基隆",
    "ok": true,
-   "count": 42
+   "count": 37
   },
   {
    "name": "Facebook 各縣市：台北",
    "ok": true,
-   "count": 51
+   "count": 43
   },
   {
    "name": "Facebook 各縣市：新北",
    "ok": true,
-   "count": 57
+   "count": 51
   },
   {
    "name": "Facebook 各縣市：桃園",
    "ok": true,
-   "count": 38
+   "count": 56
   },
   {
    "name": "Facebook 各縣市：新竹",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "name": "Facebook 各縣市：苗栗",
    "ok": true,
-   "count": 27
+   "count": 25
   },
   {
    "name": "Facebook 各縣市：台中",
    "ok": true,
-   "count": 64
+   "count": 41
   },
   {
    "name": "Facebook 各縣市：彰化",
    "ok": true,
-   "count": 38
+   "count": 46
   },
   {
    "name": "Facebook 各縣市：南投",
    "ok": true,
-   "count": 22
+   "count": 14
   },
   {
    "name": "Facebook 各縣市：雲林",
    "ok": true,
-   "count": 30
+   "count": 34
   },
   {
    "name": "Facebook 各縣市：嘉義",
    "ok": true,
-   "count": 43
+   "count": 44
   },
   {
    "name": "Facebook 各縣市：台南",
    "ok": true,
-   "count": 52
+   "count": 47
   },
   {
    "name": "Facebook 各縣市：高雄",
    "ok": true,
-   "count": 41
+   "count": 66
   },
   {
    "name": "Facebook 各縣市：屏東",
    "ok": true,
-   "count": 49
+   "count": 51
   },
   {
    "name": "Facebook 各縣市：宜蘭",
    "ok": true,
-   "count": 35
+   "count": 46
   },
   {
    "name": "Facebook 各縣市：花蓮",
    "ok": true,
-   "count": 12
+   "count": 9
   },
   {
    "name": "Facebook 各縣市：台東",
    "ok": true,
-   "count": 15
+   "count": 18
   },
   {
    "name": "Facebook 各縣市：澎湖",
    "ok": true,
-   "count": 4
+   "count": 1
   },
   {
    "name": "Facebook 各縣市：金門",
    "ok": true,
-   "count": 6
+   "count": 10
   },
   {
    "name": "Facebook 各縣市：連江",
    "ok": true,
-   "count": 8
+   "count": 14
   },
   {
    "name": "追蹤店家：胖寶貝玩具店",
@@ -220,7 +220,7 @@
   {
    "name": "追蹤店家：玩具e哥",
    "ok": true,
-   "count": 30
+   "count": 22
   },
   {
    "name": "追蹤店家：森森文具",
@@ -230,12 +230,12 @@
   {
    "name": "追蹤店家：玩具反斗城",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "name": "追蹤店家：Funbox",
    "ok": true,
-   "count": 35
+   "count": 41
   },
   {
    "name": "網店庫存：森森文具",
@@ -260,6 +260,641 @@
  ],
  "items": [
   {
+   "id": "2280f1036bad9eb9",
+   "title": "售 野牛一番賞 BEYBLADE X DMM A賞（UX-00 ） 1800元 AB賞一起買 2600元 留言 私訊 需先匯款價格一半當訂金 賣貨便 十月底收到貨後 台灣當天寄出",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XSEx5NWdQVVFuWVVJOVpKUHNzSkNzZlhJZEphbEhhRFdGMjhXR0Z3OWhqTlRCa3dXd1QxRUZoTDR3Q2xpdkVSTGFUXzAwSi1kOXIxdjZMZGlENnNCbHFvWlktUXlsUDRFMWVBR3Jxd2RrTG5PZW5QZ1hB?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T14:02+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [
+    "到貨"
+   ],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "d1a7db942cdcb6ac",
+   "title": "售日版陀螺 他團同步販售。 UX-08(650*2)、19(750*2*)、20(800*5*) BX-34(700**2)、49(650*2*) CX-07(750*3)、13(650**2)、15(500**3) 以上，不要QR Code都減50元 全都成本價，小孩和親友要玩就自己蹲原價的順便一起寄回。 不要QR Code的請備註，我會先拆封",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMS01SN1BCajlsU0VqZDJJdjN1X0UtcFZ0YnNMa1RzOGF4d3ZjYmprMlVIblVkNlhsQXl2ZjRLT21LbXhCM0dRdHNPVlNuMGtRMXlIaUUyUnh2Z3RHQVQxTlJqcUlqRUtHQ1BlYnJOblluNXl0OE1hRkx3?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T13:33+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [
+    "販售"
+   ],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "763bc83cd4ecc41f",
+   "title": "售以下 1.UX-08,Ux16 全新 只有2顆 【售價】：1500元 【交易方式】：高雄可面交外縣市可店到店。",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTbm9FaTU2anJWMV91c3ZfTWtqNS0wQ2ZVUktRRUtrc1FlN1k1WmtuLUxTUVJBTXJFWTRBdGxhLXhZalNRM1VCeUJBYWV3T3VHX2s0c1BERWc2ek9JQlVnVlhuUDVsLTB3YjR2XzlPYmNZY3FxM3FFOEhB?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T13:00+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "高雄"
+   ],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": "store",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "846f94c776edd92e",
+   "title": "收購 UX-11衝擊龍神 全新未拆 $750 謝謝大家😊",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50M0VVbWRNYTQyNTloa3pFc0o3ekJpejNSRWNKQVNrSzVOZVc1MGJnbGNNNU42c09CRXBrUklBdnlDWVZKUk1GeUtsbHdqUnlsV0cwNm5GNk9XTXBpZTFDNmRldllCODRobTMyVVM2NmhLMVZQUk9RMy1n?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T12:30+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 0
+  },
+  {
+   "id": "34dcdee577519a29",
+   "title": "售 UX-18 抽包 $600 CX-08 抽包 $500 CX-19 抽包 $500 CX-08 英仙幽冥 $500 BX-49 蒼龍突擊 $600 以上皆台版全新未拆有QR 抽包皆未確認 屏東市區面交 賣貨便+38",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VM3ZrRnFZZXkyS0VTSVZjUHNXeTR5OTBLMm05aFdGUkdMV3Q1YkhVem91ZFBJWGhHdWQ2NS1JaHVGUVQ1NkN5ZmZGY2tCcVRCeDhDT1V1WDljVVo2VHZ1OTNiT3h2c0x4LVlNRjdlcE4xMHUtUzRzUEJR?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T12:18+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "屏東"
+   ],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "5e142a7edc66cfa4",
+   "title": "在台現貨 全新亞版CX-19 有68 500一顆 量大可議",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Ob09SbVJxRW5ZNjZnSzB2WldyU21qX3dTckx2UElGaVFGVk1IV3RmOGd5SlozVE9Td1I2RGdOZXhKbVdfNXhWZ1QtNzBNMEtuTDh2cS13cXlNb3laZmthTHhReWRVeGNsTTEycXZSM0piMXpqQWxPOUN3?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T12:09+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [
+    "現貨"
+   ],
+   "stores": [],
+   "resale": false,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "3f31e5e4b0b13119",
+   "title": "收 UX-21+發射器 賣貨便取付優先/匯款/三民面交",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xdVY3UTdpRUZKQ3NCWXlZcXR4RmJER2Q4U1RCT2t1RDZwQXpoZk9CRDJ3Tk00MWFmVzBZS0pYbHNURF9Lc2R6bUVjUVBPaVdwb1NFOVp2RDhFUVItMW5kQjFyS09veXk0dUlqamU0V042NFpRT3JOWkZ3?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T11:57+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "高雄"
+   ],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "3a501b139ef7d6d7",
+   "title": "收以下戰鬥戰鬥陀螺 1.收CX05-06可無QR無盒裝1200 2.收黃蜂要塞500可二手拆檢無QR 3.收日版BX-09含QR:1200可二手 4.收APEX二手槍箱需現貨請報價 5.收黃金櫃戰鬥盒1:500二手請報價 6.收三合同創戰鬥台1:500 匯款+60店到店，或桃園台北面交",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIZVNQLXp1N1NlT0NIWUVuTlo3bHU5ZC1pWGw5Y2JTbWY3aGhsTXFxWTFvQW1QNkNreHYzelc1NXhBRHZ6NDJYRlhHQ2hHM3pBdG1qel9ySnVCRkdwRlBwcFNjTXg0X0duUlVjbkZ1bEVLbnByZEJyalln?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T11:56+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "台北",
+    "桃園"
+   ],
+   "arrival": [
+    "現貨"
+   ],
+   "stores": [],
+   "resale": true,
+   "channel": "store",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 4
+  },
+  {
+   "id": "109907e6d3857126",
+   "title": "售 CX-19 鱷魚裂甲 $450/包 7-11店到店、賣貨便",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8yQXpnc0NwUUlETDhoVXAtZENGQ0pPNG1WWG52Mm5qZU11aWk0cWFVY3R3NUFFUi0zamRQMUFxMzRjVHJUc194aHEtUVFLRXdGdWJLOU1YWjZxN0hneTZzTEowZGFfeVgxTzJlMS1pa1hFZEo3T2VCLWpB?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T11:53+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [],
+   "stores": [
+    "7-11"
+   ],
+   "resale": true,
+   "channel": "store",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 1
+  },
+  {
+   "id": "cb0546726d2eb088",
+   "title": "售：皆台版全新可掃QR BX-49蒼龍突擊650 CX-19鱷魚裂甲550 BX-35-03確認款，黑袋未拆250 彰化埔心，永靖取貨 賣貨便運+38",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aZEF2UVU2TzcxQnVmaVdDZGFkdl9rMFdKNFFQUUdLY1QwTHZjaGxsY0lDektwUEk2QmVlX0RTRVVDNkJ2Wkp6d0ZXNXVpWXZ2ZFRNdDBuMU50U0JyaXlsY0lZTDI1SVRDUVNsY3BBTHpqTGFGdDI0YnBB?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T11:43+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "彰化"
+   ],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "5609484a1ce226fb",
+   "title": "《戰鬥陀螺X》推出卡牌遊戲！全新TCG《Blader League》2027上市",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWMi1xLVh3SFk0MjZWOWhsRTN2TzhaOVdIRXk0TUszQjhFZ0JqNk5peEtTSWZSMVBEV1hwUmtNWUVzeFMtOE04Zlp4X2jSAVJBVV95cUxQcXp1RVdjSDlBZ21lbUVUUWs3czhRNjZaVURvcU5paUlnME03bVY0VElzTW1FNmNoOE9mLV9ia1owR2NxOGx3aU1uc3hicFg5eXZ3?oc=5",
+   "summary": "",
+   "source": "NOWnews今日新聞",
+   "social": false,
+   "date": "2026-10-27T11:35+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [
+    "上市"
+   ],
+   "stores": [],
+   "resale": false,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "d9fb29ac85aa4bde",
+   "title": "🔥【今日限定價｜只到今天】🔥 【出售｜日版 BEYBLADE X CX-00 魔導至尊｜全新】 🇯🇵 日本正版・日本購入 🇹🇼 台灣現貨 ✅ 商品本人日本下單，並送到自家（絕無詐騙） ・CX-00 魔導至尊 R4-55LO ・Metal Coat：Black 黑色金屬塗裝限定版 ❤️‍🔥 今日限定價 🔥 NT$800 ※",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tUUNGd2NERXpuN095UUN1NEVVM3VkNkR6RlZnUnFaZWdkQ1FRR0RERDVKT2pjd0dnNWJjN3c4SGo3WEFHaTBkMlBRUmVtY3dwNmJ4Vk4tWjJTS1JMQUIyWWRrLVhMYkM2YzR4VElfQjhqbWppeWxXTGtB?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T11:20+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [
+    "現貨"
+   ],
+   "stores": [],
+   "resale": true,
+   "channel": "online",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "fadc4ed34da86440",
+   "title": "售「日版」「BX-53」 全新未拆僅一盒 4200元、盒大無法寄送 自取-100元 中壢、青埔、內壢可以幫送 謝謝平台🙏",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jam5ueU5EamRlcVpjVld3MWRhSGJhMW1aQ2MtalRCYUlMOHV3MHgyM2NydTZzQzlFc1ZiOHJ2Tl9nLTUzS0cxUGlENWJmcUE2NFVtdWhrNE5tck4xeWlwOFhDaE5wUnVLNGh3b1RNMGU0cS1idUUtVFRB?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T10:49+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "桃園"
+   ],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "fea597cb507e87f0",
+   "title": "#售！！！ 現貨 日版 全新未拆 有QR 「BX-48 隨機強化組」 $850 「CX-19 巨鱷輾壓」$ 600 「CX-00 超人力霸王迪卡狂怒」$ 850 「UX-03 魔導神杖」 $ 700 台版 「CX-00 福音戰士套組」 $ 1650 賣場內還有各種單顆陀螺、零件、上蓋、戰鬥盒、握把可一起下單~ BX-03 魔導",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oejY0eHoycVY2UUJtTWVaODBMaTRYbnVQZFJDdHlVNmdLTVpXUmtUcVM3WVFMRWZwNjQzbXFfV2EwM3l0bWpHdHZiZmo3Z1BlcjZ2eVBqaERsNnZGT0s3ajg4ZWptSU5uT25MTXZYZ1ljYnlOd1huaVZn?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T10:44+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [
+    "現貨"
+   ],
+   "stores": [],
+   "resale": false,
+   "channel": "online",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "437da67667cadc4b",
+   "title": "賣BX-53 4200 全新日版 有兩盒 BX-52 800 全新日版 新北面交",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xZ240d0lqbkJTREtRM0ZmVXNQVHhsMlF1MjdGd09FYTlpZkxJU0F6ZThmdkd3ZTlSZEF4dlVhVjJmbnQ0cThqVVlaZkNhLVBINHFqWEctZzhVamhVaHdqTGhFVDhSazFaZURXU1ljLVQzWS1pbXh1dFZR?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T10:43+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "新北"
+   ],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "3e2247361541caf7",
+   "title": "現貨出售 以下型號均現貨在台，歡迎私訊選購！ 分別有日版，韓版，亞版 BX-53 天馬組合整組 BX-52 輝耀龍騎士 （左迴旋） BX-34 蒼穹龍騎士 （左迴旋） BX-23 鳳凰飛翼 BX-10 極限戰鬥盤 UX-17 隕星龍騎士 （左迴旋） UX-19 子彈獅鷲 CX-19 鱷魚 CX-16 「非整組，僅",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFQlduSExrTTZENnZidTlPRXlvLXhUVUNDOHBlTVh1YndwV1JLamUwTVRWanJlcFdGWjU1RUdidDFReFhqQXNqNXIycHhRY3p2bUo3VTZQZDZpS05qYzlveTdmRDlyMFJsT1ZRUW1qV3VDak82MmtlM2t3?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T09:56+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [
+    "現貨"
+   ],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "d6ad0d38cef3d9a1",
+   "title": "售 bx-53 2手極新藍天馬370a 。重38.89實戰場次10場內。 2500 ux-00藍武神 港版無旋風 全新有qr 2400 bx-53 拉條組 300 賣貨便 取貨率低於95不交易",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PU01QUkVwbVl6Q2hFZHp6SDZyOHlwa3NjaHd4UVRzOGZVeE9SX3FnNnN1UE03bHBqbkdjUWtSczFlTmthem9WLUVhMGxHQ093REFnaDMxajNBQk9xU21vVm9GUm9OdXhSczNEOERNOWFTb2t0S0hxOGxR?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T09:53+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 0
+  },
+  {
+   "id": "6af23337ebf47424",
+   "title": "Bx-49 600 不含運匯款後 可寄送",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xT1plQlJrMXlhNkJLTTYxX0dfM3BpUWxPWHJJMGlVTGNGRUs3OWYyUTRFdzl5RnFaNlUtdTY5eERlckVoeW04RC1YY1hUZ1lnQzRjNlVybjJoYWNlOXJ3OXk3My1LMzVIU3M2cmszMks2ZXJFdlh2Mi1R?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T09:45+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [],
+   "stores": [],
+   "resale": false,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 0
+  },
+  {
+   "id": "11b0c2a586937a17",
+   "title": "收收收收收 美版 凱旋巨神0-70LP BX-53黃色炫風發射器 整條未拆 騎士重盾 或 拆檢有重量 騎士重盾 或 整組全新BX-53 私訊報價 面交 彰化地區 其餘匯款後店到店寄出",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZLUJId3hCNEQ5emRZRi1WeTU4S3V5UVo5Nkh4U2VnQzhhbUU2aFFFNkt6WkJnaXRfeGY3a0xPcmlxcWZPX3NxUlRVSmh6UHRWTHk2WG5UYUxHOXVvNldKMGtmWV9kUDJuaXduRk5VU3R0dlE3VWcxZnlB?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T09:30+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "彰化"
+   ],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": "store",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "db7bbf8f850e1b1a",
+   "title": "【售】 戰鬥陀螺X BX-46 無限衝擊對戰組 $3000 (台版全新未拆) ———————————————— 新北市蘆洲捷運站面交",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sTXBnMlRLeHpwWEJLalJjUlJrWkZwck8zUnBPTFJXRXRiQUZRRUpCck5oX2czNTZjR1RWQU56QTVYc2drVGZhQXN2a2FGMkQ0VkxnUDZ1OWQzV1ZLanFva0pRS0FpdDlWZm1QODd1STAtX3puQTQ5UEx3?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T08:55+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "新北"
+   ],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "878a4516a0a744c3",
+   "title": "售 BX-50 450 CX-02 490 UX-03 590 BX-49 490 BX-21 690 CX-13 490 UX-02 550 天馬座 450 店到店+60寄送 基隆可面交",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VZF9QWlpaak5xSDNVcnBJUE1EOG4zYVJxNGluYmtnbTVtWDNmNDZsVTNmNUxyMGxPRUNRenhKYmVTVHVYZ21iQzN5SC13SnZCN3VCbG01MXQ1TlJTY0x0aXpKN3k0T2VtY1NSeHFYazNBbVdia0czTkZB?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T08:10+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "基隆"
+   ],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": "store",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "306554120cd6aa81",
+   "title": "【商品名稱】：戰鬥陀螺X BX-52 光輝龍騎 【商品狀況】：全新現貨 /日版✨ 【商品售價】：NT$ 1,000 元 / 顆 💰 有10組 全收一組950 📦 【交易方式】 1. 7-11 賣貨便：買家自付運費（貨到付款超安心，意者請直接私訊索取專屬賣場連結） https://myship.7-11.com.tw/general/detail/",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BRXZmaHlLS3FGQlpkVkVkdV8xUktlUDZqYmI4S19GOHR2Q3g0M0pFU0VyVnItbGdmRGgyTHJzdGk2WWgyWlJxbUlJR1dzdkJiMzUtM3lGaE53enMxcFVpR2ZaTGpqb0QydEJTMFNJaDR5V2RpR3NLWGNB?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T07:34+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [
+    "現貨"
+   ],
+   "stores": [
+    "7-11"
+   ],
+   "resale": true,
+   "channel": "online",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 3
+  },
+  {
+   "id": "3f5a128888fd031d",
+   "title": "售 UX-15 寶寶鯊 = 1100 沒有QR～上蓋有跟小孩玩一場其他都沒拆，東西在土城，新北面交！",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yelBZY0xTNWJTcm5ZNGJ0S1VrUGRlcUgxMHQ4YmpPdTVmOHpROENXVnRGMTVnMGRMTUpkSDFUR0U1UXIweDNfaTVMMHp6b1RmQmIxMW56MlpNN09qNGQyTmxpcWtCZ1d6ZEc0b1VLc3hFYW80WUc3dUJ3?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T07:19+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "新北"
+   ],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "d7e20cd4e2ea8ce8",
+   "title": "收購 UX-10零件組 （需要全新未拆 台版佳） 價格：1250（賣貨便） 備註：請留言後私訊賣貨便連結起床會下單￼",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tLWJ5cDRsVERidndVNmF1YXpuaE1sTzFrQ3ZBNHBkdXZoVTdMQzktYWJlUi1CNFdPc1pBNnJBMjUtYmgzcGlsQVp1dWlvaVVHX1YyQnlnVzVuTWlEX2t5UTdKV01sdWNQbDFGZGhjazVWU0I2QU16Qkln?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T07:14+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": "online",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 0
+  },
+  {
+   "id": "8920918eb60d84a3",
+   "title": "售女武神、CX-14、旋風發射器（二手 CX-14 $600 女武神上蓋（9成）+DB軸$400 旋風發射器$200 全收$1000 店到店or台中海線面交意者私",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uNXZyV3FVcXYyM0dMMmhybHVxWFB3RHVwcVlrbE1ob2ZBbTlUY3BiczQ4ZGp2NFBxTkt3dlZvNlNRMVhObS1iakozMVRPaDk3QmJCNFBxbnBCVFpKdVowTEFvSWc5eXZsVkhOM2oza3VuU2k4M2NjNTJR?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T05:34+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "台中"
+   ],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": "store",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "3fcf53208a735df2",
+   "title": "#售 正版全新陀螺 #售 正版全新陀螺 UX-19 💰800 UX-20 💰800 UX-21 💰1000 BX-52 💰900 陀螺對戰收納箱 💰250 陀螺對戰盒 💰150 全收💰3700台南永康可面/711賣貨便+48",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPOFRhcDBDZjNvRFlkeUdYQ3VJVFFMM0pfeDlJbmZjZkxKRnluVi1peC1maEg4UWRVcl9QUFloSFVwb1VQMEFFUlptOHpoYnVUbDBhai1OaEVjUTBZLWZpYzlwUjVMS0tSUEdPWWpoOXJid2lRaUZsdk53?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T02:08+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "台南"
+   ],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "a5e0602917b17adb",
+   "title": "#出售 日版 全新現貨 UX-20 $900 UX-17 $850 UX-19 $850 UX-11 $800 UX-08 $700 BX-23 $800 交易方式：匯款 店到店+60、蘆洲可自取",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93VGZKTVVTVzRsTWFIWTVUaGpPemg1TDFYT1hDZ054NmZPRnVBeGp3dzVTZ3dILTc2TDNlLVdhZm9NM25QNlVpbHhPYV93Zm5kWHliZVJBeGl5alpOMmxLMV9JRnU4TDNzSkgwWTdGMnZfemY3M0pTNnFB?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T02:02+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "新北"
+   ],
+   "arrival": [
+    "現貨"
+   ],
+   "stores": [],
+   "resale": true,
+   "channel": "store",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 4
+  },
+  {
+   "id": "244547bbee3e717d",
+   "title": "戰鬥陀螺 BEYBLADE X DMM賞 Vol.2 免訂金 到付 下週到貨後 兩工作天內馬上出貨 （取貨率低於90%者會自動取消） 連結會被擋改QR碼",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3Ymh4UFhRM0c1TGJiNjhyRnhOVjRoc0JMcTN3YVg2cUtrN0JjY08tVjlaRWNibVZQYmlNS2tGUy1hRWZpUk5uNXN3VTJZUmE0MVJrNGFqT2NPWWl6YW1DYVJnbV8ydE83aE9tcDlldURTRU93Tk9IZC13?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T01:30+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [
+    "到貨"
+   ],
+   "stores": [],
+   "resale": false,
+   "channel": "online",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "17b97c2163efdcde",
+   "title": "出售: BX-35-05藍鳳凰上蓋+固鎖未拆黑袋(無QR無H軸）600 UX-06雄獅顛峰（全新亞洲版）700 CX-02魔導至尊(無LO軸無QR)120 CX-05-02戰犀獵魂（無QR)250 CX-05-03惡魔至尊（無QR)250 CX-05-05鳳凰尾翼（無QR)250 CX-19鱷魚有三顆 （全新亞洲版）一顆500",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SY2FQcXg3Z05JNzJMdHd1VmI1VXp4aGdqOGZkaU5sZ0ZFREZDVXNTNXltc2JPal9nalRYMXpFd28zZW96c1RVV2JnRUw5dUdnemZVemFOWEtic3lyUXg3dTBJYWJCNVRwUmJwaVFJSWhQNlh3QjYwZFFB?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T01:28+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 0
+  },
+  {
    "id": "36e5ac1ee63e9174",
    "title": "🔥 【出清｜戰鬥陀螺 X】 🔥 🐦‍🔥CX-12 | 鳳凰閃焰 | 全新 🐊CX-19 | 鱷魚裂甲全新強化組｜ 全新 ⚖️UX-19 | 子彈獅鷲｜ 二手（無H軸） 🦈 【上蓋｜高重量精選】 ⚖️ 🦈 UX-15｜鮫鯊狂鱗 ⚖️ 38.01g ± 0.1g 🔥 特價 2,680 元 🐉 UX-21｜飛龍颶風（雙 A6 模） ⚖️ 34.99g ± 0.1g 🔥",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QcXgxVjVFaWJZWnFmaUNtMWE2NGdKZ3NzNXgweE0wcEEyS2lROXVvX0gydm9EdTRZRDVKUDhfLTJZVFhuQ2ZEMkRiSUIxMm9lTFJBWkVxNkVrdU9RUjdQTFFYNTJXV2tGUUEtZUJUQzB1ZXVjMGMyN2ZB?oc=5",
@@ -272,6 +907,46 @@
    "arrival": [],
    "stores": [],
    "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 0
+  },
+  {
+   "id": "978338130db1d109",
+   "title": "售 UX-21 日版全新未拆 1:1100（剩2 雙北可面交 外縣市可貨到付款+60",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94eGZ3TlJROFJDczA2eFUwaDRIZXlqdGowdUpUY0Fmb0M5cEVmR1hfQ1JTLWI2eWFNbmp2aEhGd3l0RFBJWWg5SkN6bVZrU3llZ0NMVFh4Ukd5SldLel9BZW9Nc2VzQU1OVU5CRWdSWFplaWppbmxfV2tn?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T01:03+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 0
+  },
+  {
+   "id": "3b006111d64e6ce3",
+   "title": "[亞洲版] (庫存更新) CX-00戰神福特💰2600 CX-03英仙幽冥💰350 CX-08隨機強化組💰450 CX-09焰神滅世💰550 CX-10銀狼狩獵💰400 CX-11帝王威能💰1300 CX-15 邪神狂怒💰400 CX-19鱷魚裂甲💰480 BX-26 獨角刺心💰380 BX-35隨機強化組💰600 BX-50天國日輪💰",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XWmp5UzBJVkN5YnJIS3pleHZ0S2JFMmZOMmZyR2pwVVExNE9iWXRQRHVrV0c1NGVaekZjbXRKTWp5a2hkazZiM0NvS1FJV2VOMk9IY2gwc2I1WE5XWUVXUlJWUVl3NmFtOVNIa2VWalZNQ2M4YVJmRnln?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T01:01+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [],
+   "stores": [],
+   "resale": false,
    "channel": null,
    "sale_dates": [],
    "event": false,
@@ -344,6 +1019,28 @@
    "score": 2
   },
   {
+   "id": "8e0e0a3629132368",
+   "title": "售 CX-13 龍王閃擊 台版全新未拆 $550 CX-08隨機強化組Vol07 台版全新未拆 $550 BX-50-02 黑天使 台版內袋未拆無QR $550 https://myship.7-11.com.tw/cart/confirm/GM2610027351631 會看取貨率未達100%會取消 下單後24小時內出貨 謝謝",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBITlVjT2JPVVlRSm1PMFI0aDFaVk0tVVRVOTE2bkZVMm5TREhOdVZkQjJDX09JZE1oYU1MSVlpalRUWnRHZlhvTkt0T3FIUHlXVVdKWFhSOVRlRmEycUd5R1YwaGJjRzAtc1IyR2J6eURwdVNiT283amlIaw?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-27T00:31+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [],
+   "stores": [
+    "7-11"
+   ],
+   "resale": true,
+   "channel": "online",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 1
+  },
+  {
    "id": "7ecad3ebdcbae5e3",
    "title": "臺灣現貨 新竹可面交 全新陀螺一番賞 全收2500 B*1 C*1 E*4 G*4 賣貨便+38",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZWnNrdjNnaHJDWjlaNjd0MW9aemZWSmpvejR6V0R4UkJFX3p5VU1fdnFUWjJRWEJDMVZ1S1BLX21LR25ZZjJtQWVGdERzNVNhUnNxaXA5Q3FFVjdOMEdDWXB0VTNVUm9Cem9CcjgyWWs1enZBcWpfNlpR?oc=5",
@@ -410,6 +1107,136 @@
    "score": 0
   },
   {
+   "id": "2dacb3172e969a85",
+   "title": "賣陀螺 及 配件（沒有美版） 不議價 資訊已更新降價 ———————————— 賣QR台版10萬點 $6500 ———————————— B賞 青綠 旋風發射器 $1290 UX15鯊魚H標 $1750/$1690 （全新未拆/行李箱拆盒回裝） BX-52輝耀龍騎(日）$1090 CX08-03魔犬幽冥(",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vMFJvUmtiV0hKRTJUM2xjRENGcXlJTE5QWGdDQXIzR2FqYldrYnFiLUJFaTNmUnNxM29Ga3FNVDBLdlBzQmhETDNDQjJUNmJrUDRtb0V5X1V4N01tQURkUno4QkVrWGJKdmIyVlhYVVlqU0gtMDUtTXNn?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T23:07+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [],
+   "stores": [],
+   "resale": false,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 0
+  },
+  {
+   "id": "0a0ea31ba8277d32",
+   "title": "售 cx-19 ：470 時鐘包：470 皆為全新未拆封 交易方式： 匯款店到店+60 嘉義縣市面交",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51MlVLTy1XaXE3RGdLOFgwTHZkYnV0VGNKTWVYeUlXa2YxYlVXWVJocldlcWxDQjlSX19LTnJpbUFRYkhmMHZod0F6ZElBU1VwdUxzLTdOcFY1YW5RME9BS05Hblg0ejVSd0RNLXE5eWY5ZWlUVmtWa2lR?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T22:37+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "嘉義"
+   ],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": "store",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "01809c8e43b031a3",
+   "title": "#出售 一番賞Vol.2 全新現貨 A+B+G（野牛+發射器+吊飾含陀螺貼紙） $3200 C+E（戰鬥盤收納袋+手環） $500 D（收納盒） $200 F（資料夾含通行證裝飾紙） $100 最後賞 $5000 交易方式：匯款 店到店+60、蘆洲可自取",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95Q3F1dVlPdFdsbmhyWWVDVXVRX2wxZVMzZFh0NlFDSGh1VFkwd0NDRzQ5R0ZNWmZZR0dJVWNoT045eFBYamJjY2s3MVRMOWt5S1IwYkd6YU0yVkNjQmRQV29kRUhnTmZYZE1KWVREQmRmUXl1aElSZW13?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T22:36+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "新北"
+   ],
+   "arrival": [
+    "現貨"
+   ],
+   "stores": [],
+   "resale": true,
+   "channel": "store",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 4
+  },
+  {
+   "id": "298d818e02395482",
+   "title": "售UX-20一顆+UX-03兩顆，全新未拆 合售2000，不單售 需要的可以直接留言區賣貨便下單",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4SmR1ZnhVM29JREJqbWxsYXV2ZUg5UEtFVGNoR0pNTFNWd25XMm82eUF5bVR5M09HYm12TENFWF9ieTlXQVpvZVg3M1hDQVppTG5GSzdpeG1oSXlrNFdBam1wRFpkbk5qcGlCRkxlOUV0LWFjUzhZMkhR?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T22:29+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": "online",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 0
+  },
+  {
+   "id": "46ef18026c80ce51",
+   "title": "競標！ 【商品名稱、狀況】 1. CX-00 全新 無QR 2.BX-00 限定黑綠手把 全新未拆 3. 雙A3 神杖全新上蓋 4.全新未拆封J軸 5.LF 三根 一起標 6. 黃 FB 二手 7. 黑 1-60二手 8.黑綠 3-60二手 9. 拉條發射器 BX-53跟BX-49 一起標 10. 全新未拆封J軸 【競拍規則】 • 起標價： 100",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mZ0laYzlBTjh3TjRLVUUyTEV1cjlRN1ZxSEdidkRDa3A1bC1kMlpOR3Q0bUNycV9aNGQwcTNLaWZ2WjZ4WUtrVVRZUWZZN2FVWFBqaF9QRU1MUng2QVVXendVdEVuQmZCVllyaGpPZGpBSGxBRXp6WmV3?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T22:14+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 0
+  },
+  {
+   "id": "5c8d3a6f410dafc4",
+   "title": "戰鬥陀螺現貨更新🔥台南店面可取貨，其他縣市711寄送，直接訊息聯繫即可。",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAweHRlWHI0NWRNOU1xZm45SkpNMVNhbWNWbEZiTWpZc3A2RUY4N3VOYkFaX2FFMTBnU25ZVmowWS1sdWhFblpsS0Q2YUNpUUpHUFoycURuOGs1dG5zRU5GWktTMVQydkJmNkVLcGMtMElFMTNGNXJPTmJqdTZVdw?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T21:35+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "台南"
+   ],
+   "arrival": [
+    "現貨"
+   ],
+   "stores": [],
+   "resale": false,
+   "channel": "store",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 4
+  },
+  {
    "id": "c488df2626246de2",
    "title": "CX-00 Evangelion deck set eva 戰鬥陀螺組",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1id2dCUTJyUHFhY1g2U19Ra0NFT1VGazg3eWkxM01KSnBZY1VfQU5PMnQ3SkIyUlk5QnNQNUkwejNFZUFRMlIzUUk3Wms4WUlLdkxaZmdqeEtVQXNYOURGYnFkV1p1dw?oc=5",
@@ -454,6 +1281,28 @@
    "score": 4
   },
   {
+   "id": "2b250e16c5ad638d",
+   "title": "《BEYBLADE X × DMMくじ Vol.2 》 已扛回台灣 在台現貨 ！！ 10/27下班寄出 A賞｜UX-00 野牛重擊 有9 1:1900 B賞｜綠色限定版拉繩發射器 有8 1:900 C賞｜BEYBLADE X 大型托特包 售出 D賞｜滑蓋式陀螺收納盒 有15 1:150 E賞｜客製化橡膠手環 有20 1:50 F賞",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02OTcySlZtSUd5cDhEY0hRdTdCOGd3WEk3TjZ2UElPVDV4bmdqaF85dncyQWpPeEpTTlROWm0wMENwQkRCeUM4eV84akdnUmNRaE9CVFRHczFnUkV0YzBycmtMdDVFS3U2ZVRfanpTMFZUTXlSS21YQXlR?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T19:26+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [
+    "現貨"
+   ],
+   "stores": [],
+   "resale": false,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
    "id": "aed3edc5d0861cdd",
    "title": "🔥 戰鬥陀螺X一番賞！日本最新行情出爐！ 這次 DMM 一番賞 Vol.2 的行情目前看起來還算OK！ 截至10月25日，日本市場整套行情約68,200日圓，相較發售當週下跌3%。 其中兩個重點大獎： 🔥 最後賞 白色野牛｜17,400日圓 🔥 A賞 野牛｜6,000日圓 相較於我們當初",
    "url": "https://news.google.com/rss/articles/CBMiqgZBVV95cUxNQnJYcXdzZ3JnX2dQNkE1LWF1Y0t2NTVFQzFTaUVVMks1VWpKSllZS0k5YktsbE9RZWpUanpJT3l3Mk9pOEx6VGtPZ0N0c3FNZUR1WXltQVVpNjU5QnlRRXpPaGVpaFNNMWVCUWtPZkVpcW5lbnVVM0pJTFh1MENkdFgzQ1hVQmo1WVdPOWR3M1U0MUlyT05BYnFtNUhzazV4R29pRDUwaDBXUFREYzNfcXJMU2JPN2V2TlZDaGY2aks5aENleVVfanBYa0V2MmstUjdGckhsVDJOUkw5dG9zVWdGNVAwUHZlVFZsZVQ1WThQYTV0bGV1Q2NYRnBpSUE1QldjbUlEMzdEUU5meE5kRTlHUlBBVTBQU2VWTGlURGtJaDJWLTJlM0NQTTdPQVgzWm5xNTFFeWlBa0wzYnFLVWktaWVnU1owSVdSU2hmV29TckFZbTA5cVhNNUxtTUhJNkJFQUJsdjBFZVBFRVpyUjVnSFEtZVJwTTN4UlU0aUNUSFNKOEEtSWlwNl94YzJaZ1FSLTMzUVlGY29VUHRWenNfT25FcVl2NTU4TnM1elNxeUZ0aXZ6V0hORDh6RkZxWkNJaHVMZjBJelQ4Z1BtVnhIVDVGN0xJSk43dHE2ZF9wR3lSUzVpRGJmd0xLOXRnQVZkX2Yxbk5ZWjN0d1pkaEpUOEQ5WUxZLXlJcHR6OVJ2dmxoNjRVWVRBYTQ3eVRuOWljZ092QllnYkFTdFc3Vl9NaWRqMjdyM3E4MmdWeVdUVEVhT2xtTkdyNkNLenk4bWYzekdsMmdtVnpNR2N0SjBHMjN5NFlBZXY1Sy1GN1ZBWTRUNXFiTVdkUHhSNEt2RGxxd0duX3N0aHJIdGFfenZSdlFYVGhVOG1qd2tqQm9GQ05kZXlrbmsxYkx5Y3FnUXVDdzdoZzlqSUtQbWk5MTN6N3RwbVZLVGJmdE0zdlhrdXZ5aXJORXlCTzJOczF0UTBEaGE4ZnduV1RyTEtTTmhJZXBkbFc4Uk5zeGN1OWJOMFZJQmRYMk9QQ2ZEaVJ5WldDS0JKWExmdlBwRWhiRU5YNmkxWmtESWc?oc=5",
@@ -496,6 +1345,52 @@
    "score": 0
   },
   {
+   "id": "99f3adfd55b443a6",
+   "title": "合售全新未拆 3個 $1600 ux-21+bx-38+cx-12 僅台北文山萬隆面交。",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rdGhXNHVab3RDY09qRDNlNWV6N0tVUmhtNjEtXzU0emViQzBlLUsweFpwOWl3TVpkZnZqVW5wZjdtbHNHQUFyVGdKUzdZRjRTS0prb3g0UW9kbXoydU51Q2YtTTBYaEk1Y1BTLU1wRXJrYU9ON1BEZXVR?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T19:03+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "台北"
+   ],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "1fb55f6b31f227fe",
+   "title": "#售「熱騰騰全新 日版現貨」🔥 A賞 （完售） B賞（完售） D賞$250 G賞（完售） F賞+通行證$1800 CX-07$800 CX-19$550 UX-20$800 UX-03$700 雲林面交或店到店寄出",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iSGRqQ3ZEU04xRjVCb0VaWjUza1B1bUFiSlZzTXVPZEhCUk9xRHd1TlFuc1hjNzhZWmxDUTBlTmtWdS1RNUcxa2Rfbm81N0dwOWgzRC1heHZLV04weTA0N2I4T2hEYmoyTGZ5aktuRmtrRG5VVl94UDhB?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T18:38+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "雲林"
+   ],
+   "arrival": [
+    "現貨"
+   ],
+   "stores": [],
+   "resale": true,
+   "channel": "store",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 4
+  },
+  {
    "id": "ced3f477a1355c3a",
    "title": "嗨！快來看看『戰鬥陀螺收納箱 大容量陀螺收納盒 磁吸透明壓克力板 EVA內襯 碳纖暗紋硬殼 發射器配件整理箱 比賽外出手提收藏盒 現貨』，售價只要$1,559 - $2,150！立即上蝦皮購物逛逛=> https://s.shopee.tw/3VlKckuCbw?share_channel_code=3 #手沖日常 #懶",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6UWI1Yk1PZHc1cnFtV25xNjRMWjFfREdVbGFheUZWWGlzamM5Si1LWlhhQ09Ub2kyV2I2RXY4QTlUWVJncU0tR01oQk9rQ1VDZTBrd3VtRkIxRWtlRXVYM1JDX3RmYmxxUHN0NWo4U0poNGtET285WHJFcw?oc=5",
@@ -517,7 +1412,17 @@
    "event": false,
    "shop": null,
    "branch": null,
-   "score": 3
+   "score": 3,
+   "also": [
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5OFFteWRKTEF4a0wyZzNzZDVOcC1HX2tCUy1pUEFKWll5M0tOd3JnZFdJUENvMkFYV2Z6Nm9NNzB3X1doOHo1a2V4N2ZUSVNZYjVPcW1lV09GY2tOUjJmRzZscEFjeUlNU1ZwZHdrMFFTRGdhU3Jkbl9xNA?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fbzZldzhtSjRsbWg3T3RFZlNnU2I3akJzVGU5VWt5SUluV2ZJVUpOUnNpdy01cWpydmVuMkM2ZnNjM1hPck9GLU8wSDJjX3pMa2VEMjRtb2VlTWhoc29Mck1MWUNmMUlRb1ZvUGlaZk9XV3g2Rkc2a0NyOA?oc=5"
+    }
+   ]
   },
   {
    "id": "d4ca0cb7baaa1044",
@@ -580,6 +1485,26 @@
    "score": 0
   },
   {
+   "id": "b81da58122970c6d",
+   "title": "出售 （全新台版 未拆QR都在） BX-35-04 綠神杖160 R $2500 BX-35-05 藍鳳凰+藍H軸 $1500 CX-08-03 烈焰魔犬W環+綠色160 $900 CX-00龍神勇氣G環 $2200 UX-21 惡魔冥淵 $1300 BX50-01 天國日輪 $700 BX50-02 天國日輪 $700 BX50-03 綠衝擊龍神最緊FB",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xY184eVJIamlzVFhVaGQ1OS10VlRrdUt4cDEtbzh5RngwM09zX2ZqU1dCOU14NTNBR2lTVlFjWlZub1UyTC01cV9EWlhNSWpVaHd6VFBkZ1oyV2tmWmlWZHNmWUhCcC1KOGJQMDdmNDVrMXpoWWJxa0p3?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T18:06+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 0
+  },
+  {
    "id": "86655eb64e53abe5",
    "title": "全新未拆 UX-00 紅空力天馬 台中市南屯區7-11上楓樹門市 無寄送🙏無幫送🙏面交自取",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2X2ZuaU54bnd3MGdPd3FHakZmM3JJVWdpbkZiaGExbWQ3M0c2N0NkVVA5Qk5lOWdWUHo2eldKeGR3TW1Zd0tSV056YmxNSEFmVE9OQmx6bWRQcHNhQ01wVXBieUhVVVU3ZUVmbG40VlBpOUhJMDI2Y293?oc=5",
@@ -604,6 +1529,28 @@
    "score": 3
   },
   {
+   "id": "06f22f83d7f4010d",
+   "title": "售 CX-14 $450 BX-49 $500 UX-03 $600 UX-21 $800*2 皆為娃娃機內夾出 不確定QR是否在 是否全新 能夠接受再購買 五個一起收 $3000 桃園市 中壢 平鎮 龍潭面交或賣貨便",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDUE4yN2R3LU9uem5aZVhTcFBhWWwtVGl5SFN2dHNDdV9TR2NaOWdwM3hObmxMd1VKbThkNzJpRWxDSkRHNHc2UTVxUXJHZkNiWVVXeUZwUk9rR185X2JKMG45NjJyc1JnRWlPUnVFeTRkWVZ5WFJfbXVB?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T17:56+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "桃園"
+   ],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
    "id": "81cea7f0f9d670c6",
    "title": "#退坑包 #競標文 全部都在陀螺最貴的時候購入 原盒都還在（圖片裡的盒子是空盒） 澀谷爆刃全新未拆 紅空力還未到貨 到貨後會在將全新交付 帝王爆擊W環6-70 一包全新未拆龍王 無限盤、一般盤都9成新 重量以為的秤為主+-0.06 有意者可詳看所有零件 5000起標 100",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQYWpDRzBlSDY3MkQ4Ynp4eVZOQzZ2bkJuWTg2SXBIQ3FfOGV4ekZnbnk0TG50M2pIR0pJQXhYbGdBVHRiczZhV3BaQUU2Q1dKeDMwQ0luMFIyQnR3Y2xZUkYwMW5rbnliSHNkNm50azVSSmhKUlJINTZR?oc=5",
@@ -624,6 +1571,84 @@
    "shop": null,
    "branch": null,
    "score": 2
+  },
+  {
+   "id": "7e96aabb15101d1e",
+   "title": "Bx-53現貨ㄧ盒 台南面交",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hTE1HTDdYMHlwYlBrRmhUYW9EQzFJSENXOTR5cUdWQWtKQW9rM3hBMnVHSHFmVGphOVoyR25hY0pjdjd0WnE3YmdIMGxLanNLakxablk0c2lwaUNqbVpCSWZrVUV2OEc0Z29WODZfSlczZVBYR1o2d0ZB?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T17:43+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "台南"
+   ],
+   "arrival": [
+    "現貨"
+   ],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 4,
+   "also": [
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1RkNsQzVCY2dMZW1oeEx5VU84T3pBRHk1ZWotU2RaQWJldmVWT3FqWU1zbDczNWF2ZU5hc1NqbWtlbEptOFdqc2F3c3dkR1dUWV9vdC1ONUVwYnVOQmxIbGNiNXM2OE83NDV0S3BwNmNiU29weTRSOE1R?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "ad79e7043653327a",
+   "title": "售全新台版麗嬰代理公司貨 UX-13 魔像奇岩 $700 （G2826標） BX-38 赫燃天鳳 $350 BX-51 黑綠旋風發射器 $450 BX-56 白紫左旋風發射器（日版） $400 皆有複數，全新未拆封 QR未掃 高雄可自取or取貨紀錄100趴也可賣貨便 #戰鬥陀螺 #beyblade",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FWWVsMVZZdDlHbWZERWlCTTFZTnl5VUVldHNuRmJQNmFQaFBxX3pPVjVoVm5VSmtMWTNQZmo2aTJzaWJURUx4T1hUaXpmekFmWGZFTGVfckhnMUNLeTRiQlQyRUhleVJ1X3EzZHdtbUh6THBDdVVqZDlQbw?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T17:35+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "高雄"
+   ],
+   "arrival": [],
+   "stores": [
+    "麗嬰"
+   ],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": "Funbox",
+   "branch": null,
+   "score": 3
+  },
+  {
+   "id": "2c8000b1cd88e073",
+   "title": "現貨 日版 BX-52 光澤青龍 （全新） 嘉義市可面交 1：950 或 賣貨便 1：1000 （含運） 有需要請留言後 私訊",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1halNoVmdrTE9IWTQxTkFicmQ1d1FnRW1WaWp3ajlzeXNJcnU4dVdna2M0V0YwYU5zVDZDVXVvZkV2YzRyeUJpZ2Z4T2Q4OGpuN1JKNklRVkR4cGpzRzU2ZGpBcGtPSHNvbUg4WEdOVlA0aTduTlEwcV9n?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T17:18+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "嘉義"
+   ],
+   "arrival": [
+    "現貨"
+   ],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 4
   },
   {
    "id": "7a34b02941588d87",
@@ -668,6 +1693,26 @@
    "score": 0
   },
   {
+   "id": "888e7a58c3e5995a",
+   "title": "售 皆亞版全新未拆有QR UX-10騎士圓甲改造組$1400 CX-11帝王威能$1200 BX-23鳳凰飛翼$750 BX-35 抽包 $700 CX-08抽包 $600 CX-13 龍王閃擊 $700 UX-07 鳳凰尾翼 $900 BX-50 天堂日輪 $600 CX-09 焰神滅世 $600 BX-33 皓戰猛虎 $600 Cx-10 銀狼狩獵",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0aDlDMUp4NVZJT1d0N2twMGRnemFsbkFDbFhfcThzdjJMa0I5aGNSR3ViU2FzUENJU1drb2NuNUtEcTk1UzFxeGVxUEp2UVdBMGU3a3I2VFhUNnZ5Y05YSzhEUW8ybEE5czhCRERXMXhLaUJ6RklNdXFn?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T17:14+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 0
+  },
+  {
    "id": "56570302c1eb46a6",
    "title": "競標販售 CX-08-03 大料包 半日短標 競標方式：留言區一圖一標 每標50或倍數 結標時間：23:00 防尾刀3分鐘 交易方式：賣貨便",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90b3pPekNwQnFzVHVlYXl2WEJlU05seHltWTRHcG5WLWFqM0lqN2JCd0h4OGtfSmdQUzFoZWxXRHhEYTBvYWVjR0p5RlJCWXphTVJJcUxCMWhqT1o2YUlCeHFfYmpIckxucGVnZHg5WnQ3VnJIY3VsVXB3?oc=5",
@@ -690,6 +1735,90 @@
    "score": 2
   },
   {
+   "id": "402c024733cea67d",
+   "title": "說到戰鬥陀螺， 讓我想起一次有趣的經驗。 現在戰鬥陀螺紅到一顆難求， 甚至看到很多人一早在百貨公司排隊， 等門一開就衝上手扶梯， 直奔玩具店買戰鬥陀螺。 前陣子我們家出國玩， 想說看有沒有機會 在國外買到戰鬥陀螺。 很可惜， 國外也是一顆難求， 戰鬥陀螺的",
+   "url": "https://news.google.com/rss/articles/CBMirAhBVV95cUxQeFRmWVFDNTBOODNlUnJxaGVQUmxkRjJtc0Q2N3c5dXhyX1lISzdoeVd0c0hKUUtnUkVoWUFlY0E4bEFZVWJQM1IzWkxRZDRielZxRFgtcmd5X0pWU0pPcDU4bWhHeEtSSVlqOHVSOFNkaWRVRVZqT0FiLWlnc09zZ0lWeGNYaF9lSFpOc1E0M3R2Uy1sN3BUX1BJbWtVR1ZKLUtEcVd6RXJEQnRxWDhNZmdDRnp1S0JCdHhubWZ6MklLeDA3RzU0Qlc0OVU0MjhyVkVVbmFjenZSdXBIeDFKOEREYnFGbkdfZFpoWjVvMTRGaHBqNFNTT050bmlkMzRmeEh5VURpb3BUNzdaQWEtR295T05udUhKcl9HSVpTVE1KeWU0cjhRUVYxLXRfSU1LY09HdG9sZTBPV19pbEI1ZVdYR2FnTHEwRW9hRHFVUVdlTk9vSTQ4X1hoQTU5ZkYzaElfVEtJNW01bGI4TFlXNzZQMHZ3Wk5TQTM2Ty14NGNiamdjQS1USTFoTU1uRVZidHBUclQwLWNzVk41eTY4b28tMmxKaVJJXzBTTlI2bzJkeTEwZDllSXlOSGUwaXZoajlOOG5GZVpYVjMyVWhaV1ZxelVhTHJsSDdNUnBqNmpDdEJfbm5lQnBjcWhIZlJHcm43NUk3VFJJN2hNTVJSMDFiRVc4RENaN1R3NlhPdHIyZjR3VDZ0YU1QZmxqV01odm5MQ015akNUS3VIUXhjS01nQ1ZzcmJ3U0ZncnI4YnhFbDROMUN3cENFdndhQ1hoZ0FGUjh0SzNUQV9Vcnhfa0tkaG5BSV9LLUNmV3dSVTdvY2pURGlTS0cyMmhSM1N5RHY4NDdVRjZzMkpMT3dtTTBzaVhBNUFyZWtaRGs5WUs3SFBQdWZGSGxwQ0I3NlY1LV9KTnh5U05RLU9MN0NHM1FaelMxNEdtajBzdFhXTDhTWTRLNGh2VFVUOG9KbEZLNVM2N2hsTk5DeV9TQXN4N1BUNmpHLUtWS2RsUHJzczBTcDlRRW9fYlRiTnR0dUd0V1ZqUUdMSXJIaTBIaWdjQVptX3N5eXlZUDVkZW1zVFUta1pLdk54WE5JUHlfQ3hQdUtfNWxsaWhYWlBHWWNUM3JhTkZTaW9RSVhSSE9MQVR6ZE11TExGUTJkc295UF9MSG5pamtoTUNhOG8ta3hVZHU1S2FzbXI1ekx4Yjc2U0UzTmpGaTN5TTlLVWJrcnUzSEtJbjNQUVBRTGxFQkJlYTF6cF9Vc2Q0NzRYaEx4bFhHazEwVDJKMTdjVldQY3RPR0FVM3NxWm94em9EVWtWUUx0SGg4NmkzX2JOSlgySjBseWtTY19BOTJ3RFBIajB6dkNRM3V3N1hwbUg2azF2OUF1Ql96TnFMN215S1Q0TFZ1dFBBdW1kWEE3RzA?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T17:08+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [
+    "排隊"
+   ],
+   "stores": [],
+   "resale": false,
+   "channel": "store",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "18b088702e762b70",
+   "title": "售 CX-11帝王威能全新未拆亞洲版可掃QR $1400 UX-16-02全新未拆只看卡$550 UX-11全新未拆衝龍旋風發射器$300 UX-01拉條全新未拆$100 R軸 $400 L軸 $400 紅框 1/$50 黃框 1/$100都無下過場 綠框450固鎖+DB $100 另外售台版序號 黃蜂要塞370T *1 海怪",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hLWZXNDNhT0tvMDdIZkhrRVJvN20yeEd5RkU5SFJ2WFRKY3YzWFEtWkpoT0x3MmFUZjZ1b0ZlQ292NElDTEI2bXpfYVpteXZyQzdYbzFYVE9oVE5EbEFhSUVJbXRvcWp4Tm9zUmJXcGVVTW1zYzFoM2Vn?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T17:07+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 0
+  },
+  {
+   "id": "56081780b88f3252",
+   "title": "10/26戰鬥陀螺現貨🌟BEYBLADE X DMM賞 Vol.2 A 賞 : UX-00 Booster 英勇野牛 DB B賞 : 發射器 最後賞 : UX-00 Booster 野牛咆哮 DB 金屬塗裝 白色",
+   "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQTDdiSlNTbkljakgyaWxLQ2lrT2czUERmTFY0ZkwyWWhxYUl2VDRnSDZWcWVvWmR2M1dFNWd3LVZHb29rWWYyeFFaTEN0Nks4Vm5Bd0N5Q2huRXZpS1lUNzZ0aEcxUHNnNlVySE5GTWlLSFZEX0VDcEdiUjViRVhwcHRIUFJQTWFtQkJZOEZTN2VlZTl1ZTI3M0ZnMEV6a1drYVFBRTNsS2JFeTNFVGttZ1lSc3ZLNFl0bWU1TEFtOVNGU2NUZXpCQWFPeDljUlZMRTZ1UVBTVW9TYmw4TkZobDdVRXFPTmtaWE9EMUI0Zm8weHl4bVRnck9feFpPakNEb0VWMy10OTRsaGxtWE1pSEVNaDd1WTdVMGU5ZDhRLXB4ZG1xa3hLcXRzcVlMYldlcnRma3JZZk9JOGMxRm1LMUZHTGhST1Y2TjI4bXlpR3pCSDA2V0gzTXBVUVRjdDRCcHZVeDl2Rk14bU9tMnpVd2RwaHMzd1NucktCUnI3N3ZQUlNBMFFudFZiZ2tmTmpGajhnOGYydnI1RnROTndaR3FHVjhnWjFSNzRJTllMZzduUVU?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T17:06+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [
+    "現貨"
+   ],
+   "stores": [],
+   "resale": false,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "c00c2458fe59d5cf",
+   "title": "售陀螺 全圖： $5000 請參考圖 「商品內容」 上蓋： BX-35藍鳳凰 （全新 39g） CX-17暴龍霸擊 （全新 36.92g） UX-21飛龍凌空 (二手 35.34g） BX-50天國日輪 BX-49蒼龍突擊 BX-48蒼龍爆刃/火紅 BX-48惡魔紅鐮/金 UX-15暴龍咆哮 BX-45武士魂斬 BX-44三角強襲 UX-08",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rblBuQVZibzR5cE5wRlpCT2xNRGVaTE1ERThRZ0RCazBPVUhjMGQwa0RPZ0J2TWd0czM3b01nQXRKMHpCam5LUmtGWTZTQUZjTWhuWHhNSzhIcm1LbG5UMnl2b2NaTV82M3JxLWJIRWVOZDJoMkVmTVdB?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T17:02+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 0
+  },
+  {
    "id": "b04e696b9765a832",
    "title": "#全新 1000起標💙💙💙 【商品名稱】 1、黑綠色 涉谷爆刃｜全新（上蓋）（軸）（無固鎖QR） 直購1800 2、紫色 涉谷爆刃 ｜全新（上蓋）（軸）（無固鎖QR） 直購 2000 3、巴薩爆刃｜全新一套｜含1-60 無QR 直購 2800 4 、CX-00龍神勇氣｜全新一套｜台版未拆含QR （G環）。直",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pRkZUSmI2bzN3RTdaTTZOVjRXbHVkRTd3cjVhN1RjLUMtMXc0T2FzdmxDYVBMNGdjVzlVajl2cm52MExqVmNyUlJOSDdYNDhKY0lEbzBWZHZLblB2MmpjSFFvS015cmN5cDllZVVuRHRSUkdwdFpaX1pR?oc=5",
@@ -708,6 +1837,50 @@
    "shop": null,
    "branch": null,
    "score": 0
+  },
+  {
+   "id": "363bb1f86338be53",
+   "title": "售 台版全新 CX-19 1:500 賣貨便/面交 賣貨便需支付100定金 面交三和國中附近",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiR1pHNC1GYXY4UldmbGdvRWI3OXdUMGpwVDZCMzhMQXdIQ0VXa3dEODNDbVFCeEJHQmxQdkloMlAydEtDWFRyYU50UmdpQUNoQTFXdkxTb1BTR2k5RkNINU9EWW54cUw4dllLTHlqZnpyWEtHVUpWMndn?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T16:56+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 0
+  },
+  {
+   "id": "3757eda76fd4862a",
+   "title": "售現貨戰鬥陀螺（日本 Bx-53 一盒3800元 BX-52 左迴旋 一盒 950元 羅東鎮中山路一段385號可約時間面交",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10NTJZNW84VVd2eGpxX3lWYnctcEhBVXhReUVCajhyZ2dlNDNPNVNMOTd3QmxGUDNYMGxtRU5uU2JZNGFXbGlYa0ljUlk5NnVOc202a0U4bXNSTDZxVGQ2Z1RDYWw0NVNDazJkV3A5WW9Zb25Dci05NkVTS3Jkck0?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T16:37+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "宜蘭"
+   ],
+   "arrival": [
+    "現貨"
+   ],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 4
   },
   {
    "id": "651cf817cbff8e17",
@@ -887,6 +2060,51 @@
    "score": 2
   },
   {
+   "id": "211b1c9ef5cdbe81",
+   "title": "**幫小孩 收以下陀螺-全新或接近全新 感謝** UX-03 魔導神杖 **UX-20 榮耀**女**武神** 發射器與握把 (手柄) 或是退坑套組也可討論合意收購 雙北可面交",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3ME1QS0g4dGxVV1R5SmZLUmpOX0lCSC0xSGlJQUNuX2ZyUDlaZGZsYzZoYlJQTkZtWm9qQktXTFJtUDR6TWtnbEtzcGgwbnczWHNhNFRiYmd6a1VPeHFpdkhhQU90cmdmSFFkWkdMZ3YzYkJQNWw1WjZ3?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T13:46+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 0
+  },
+  {
+   "id": "90952be414a7a4c2",
+   "title": "#出售現貨（UX-03 $580） UX-03 魔導神杖全新未拆盒 少量到貨，亞洲QR(台灣可掃) 2盒以上屏東市可面交需配合我時間地點， 匯款後店到店+60、賣貨便+38(取貨率95%以上才出貨)",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56dVdCYlk4Y1JHQTFQNGpVVDlzLW5Ob0hVUkJOYUJYdmEtRVRhbEl6bmpzSnF3VXhub0hxaUc4MGZqR1lsUnJEYm82MENDb3VFVW9Ndl83cmV4cG1BY2hJSlA4Zi1IbzJmWkNyVjRLbllyeTlJNVlsaTJR?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T13:46+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "屏東"
+   ],
+   "arrival": [
+    "到貨",
+    "現貨"
+   ],
+   "stores": [],
+   "resale": true,
+   "channel": "store",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 4
+  },
+  {
    "id": "88daa68e6f263856",
    "title": "售售售⬇️⬇️⬇️一些小菜螺 全新/內袋未拆 有Qr（無1-60固鎖,日版）Ux-01蒼龍爆刃 - 250$（售出 二手/ Bx-14-01 小紫鯊4-50LF - 250$ 有問題留言or私訊/ 交易方式➡️匯款店到店+40/台南面交. 感謝🙏",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YbXp6Sl9qWHN1N1NhQzBiMlF3TF9MNTQ0TVdjMnduNlBaaS1TWGJPQzYyZlVxNzdPaG1zQjk0aEt6TEtHUmFqNFN4bWlkaHB6a1doQ0lkWk5KdG1aWFBFTnQ5TWxzcV82QXFLWTM4QXVXS1NybVV0WHln?oc=5",
@@ -972,7 +2190,13 @@
    "event": false,
    "shop": null,
    "branch": null,
-   "score": 2
+   "score": 2,
+   "also": [
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMivwVBVV95cUxNclVxaDVXTTFyZmpHM2M5c0dtUUpKY2ltYjMySHpXMW5lZjliSXBUQjhaTHVxcXQ2dFRKaVo1ak9HUWV6YVhCNFBvMFhmajR1S0hVOWdmT1JtZmpYeEhhNjlHWkVCbDhyUlhIMUFneWNzOVVGR3RGdTdoZTRiR3Q1cjByUWpuWGp4QXl3Wk9aWW8yQndSd05wcl85RVllQTBmMmZaQWRnYVlZSGlpZ0JMTm1UeDBqNHlGVzRuZUdJY3VLSV82Y3JEZ1U2WDQtaDYtSU9MUTYzcWhsNE5aNTF0aUhKbGhJYjVUbmJoemFiaVh2SVlHMmluTzVpOW1Jc0p1RFppdURaSy1sbDBHM0luUjEwNUgtYkI1S1lOWVFvU1RfcHZXWVJtLWhmNTFjY0ZEeHJ3RmpYcVZoMzAyQ25NSHBjYWkxT2ZXYjU3cnNxaTdqdmo5WmFGWlFvQ25MZGNyeEZLb2NvODdYTm5sdDdpVW92MnZGOEdoMEIzN3NmaXBpVEE2SC1RUC13cWZqZXNxb21UTExUdTJER1VKVWlZb2NDbnZMb3BoSy1TVVdUaS12TmJ0TVRreUxQX29UemY2NFRRYzZHVHdQUjRGT043TDBMMy1oWldkQkVncTR5bHlTMy1OT2Mza0RnVkE4RjRXTXl6OTRqeVF5SnFKNDZlNEluV1Q4ZTRjaVB1YXBnUldWWFVTRkFQSElWMFc4bnFRajRPYVNwdVh1eUxseUhDRnVxcE9ZM3Z1dWdCaUNESWxHc3VfVU9kUmRobmI3blhvYTdmN21ZQXRPNFZiN3ZPQURiTGtCWG9Edk9zWHFqcjhWdTA4bkF6bTNwLThucEJrajd1QzlocmhaSXpoWnJNY1hvTjBjVEJhLTNoUzBWQTZsRnp0MUNTeWxYOFVsbWZRNzJUQ0doSWlEcjE2Vjlr?oc=5"
+    }
+   ]
   },
   {
    "id": "7ad79ce4c6cf01ea",
@@ -1037,6 +2261,74 @@
    "shop": null,
    "branch": null,
    "score": 2
+  },
+  {
+   "id": "d311dbac5534ca99",
+   "title": "售正版日版跟韓版全新未拆封陀螺 CX-12$650 CX-15$600 CX-19有2盒1/550 UX-09$1200 UX-18$500 BX-24韓版有2盒1/650 BX-27￼韓版$800 BX-34左回旋$850 BX-44$600 BX-50$600 面交地點：雲林虎尾 可賣貨便不含運",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xRnVkbW5GcDZVT25QdVhLc055MTRISTctZ3lKSW5nazRUYjNUNXhPS0Iyb1BjYXYyeFBNbDFkUk9WU2o3MXBQRlpPZ3BuVnRjX3dPSmtpUm5OY0IzM2d1RU5pT05PQU9ZMFE1SmduUU5PUVk?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T10:42+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "雲林"
+   ],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "8edf45937aec36f6",
+   "title": "為人慷慨的我昨日又跑去東東玩具城送獎品了CX-13x2 BX-35-03x3",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaeGpkQW5SM0R1OXVSaEV2cEhPa2FEcC1VcHpsR1hUa3QxYlRUa254aGlpMXBHVFJEb0p3YUpoMV9EVXFxWWlnd3FuYXlRc1lRai1HVWdLVGh5M2JQQnYtLXdOVzVwdHRYbHN6ZXRnYUdHUlBISnExQzJn?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T10:23+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [],
+   "stores": [],
+   "resale": false,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 0
+  },
+  {
+   "id": "1cd2f07ef53e2053",
+   "title": "【賣】：戰鬥陀螺 如下 運費7-11店到店60元 【物品狀況】：如下 【物品規格】：如下 【地區】：嘉義縣 【起標/直購金額】：如下 【結標時間】：售完就刪 【連絡方式】：留言 or 私訊 【備註/其他】： 1. BX-00 涉谷 澀谷 蒼龍爆刃 拆擺(全新品) 有QR 日版R 8200元 2. UX-08 美版 蒼龍爆刃",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpNFFaTmFBY0xWcVZXMTd6SDlwV3JhY29BM3lVVlhEMVpvaFlBVEloUURzYjV5b2dWelhwQjNOVFppQ1RJWnBLNDRXa1ZMUWEwbm8wRGpFX0NfQmpsb3RnUEFFYlJwdnE1TE95N2R6VXZWSWhlYXlId0xXSQ?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T09:44+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "嘉義"
+   ],
+   "arrival": [
+    "售完"
+   ],
+   "stores": [
+    "7-11"
+   ],
+   "resale": false,
+   "channel": "store",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 5
   },
   {
    "id": "4d71285a0b8b029e",
@@ -1113,6 +2405,28 @@
    "score": 2
   },
   {
+   "id": "c8f4c90c85faf196",
+   "title": "#售現貨： B賞野牛旋風發射器=1200 UX-03 魔導神杖800 （購買多盒價錢可議） BX-00蒼龍神劍 =800 UX-21惡魔幽冥=1600 UX-15 鮫鯊狂鱗=2000 UX-20榮耀女武神=1100 CX-13 龍王閃擊=800 UX-01 蒼龍爆刃=1000 龍王配件套組=1200 全透明龍王戰鬥盤=1250",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80RTBueUE3d0RubEw1LWJnSmN2V25mNXhWRGh4cXd5dXh1Vnd5bjlKLWJBUEtscXItdTFHeUxONDZTVnN6TEpFX3FuTUl0S09VSFpXZFV6QWhsXzZENmlnOVg5OXBPcXF6ZlkwU3h4WlRHZ3hFZnpNblJn?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T07:22+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [
+    "現貨"
+   ],
+   "stores": [],
+   "resale": false,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
    "id": "83bd38beb56f8178",
    "title": "賣日版日版日版日版全新未拆一次膠（如無特別標註，皆是一次膠全新含QR） 麻煩看清楚內文減少雙方溝通時間 颱風連假遭掃貨賣出超200顆陀螺，幾乎都是指定型號一次全掃...很抱歉，現貨如圖，熱門商品還是會進貨...歡迎舊雨新知 Cx-02 魔導至尊 680 Cx-03 英仙幽",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lckhQT2l2b0NULWV6WEtpR2VUM1pMZjI2UVdoRW1wTkh4b0VRdGctSkpKc2MtdnB4dWFaLTNMelRIdHNqQ2VvT0RuU3FHV2tNX3piVlhaZW5BLUpTVWxXb251X2VNTGNBNTVMYXNXNWFTLW1YaVRlenJSQQ?oc=5",
@@ -1181,6 +2495,66 @@
    "shop": null,
    "branch": null,
    "score": 4
+  },
+  {
+   "id": "9abf6850e84d0d34",
+   "title": "售戰鬥陀螺一番賞小獎 台灣現貨 皆確認款 D-3 收納盒 199元(售出） F 資料夾&通行證裝飾 打勾兩款 80元/個 G 吊飾 蒼龍突擊款(無紋章貼紙) 60元/個(售出） 台北南機場夜市可面交 其餘+38賣貨便",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wLUV0TTRBa1I3RUhrN0JUUEctUmlnVEE5cHRJd0RIZXVQRS1kQ1dyRGVIUGlBQUZxWExNTGYxTjdSQUo4SmRVTmpwNnlGUW04Uk5nTUg0bk9naTFwY3p3TUV4c2pZYkJlVnBiUEw4aXdLNS1uLTVaQ3hqZw?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T01:17+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "台北"
+   ],
+   "arrival": [
+    "現貨"
+   ],
+   "stores": [],
+   "resale": true,
+   "channel": "store",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 4,
+   "also": [
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51Z0RqWE9PeGZRVXVWRzlWMVdxVnlHbk5lcDNwNjN2b0JONE8tNWNzTUFESFFmWk9qdmQ2bVlqamJUZDVQRElSalBhUjcySWZ6YVc0QjQxU0o4a3dCb3BLSmR3ck1xYUdYRnBsSlhKRzQtUnZ4RHF0N2g1WQ?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "3d1cf065c5051d61",
+   "title": "最近有在找這幾顆的，可以來補貨了！ 賣貨便👇 https://myship.7-11.com.tw/general/detail/GM2508103023294 🔴 紅空力天馬 2000元 🔵 龍神勇氣 2000元 ⚪ 戰神伏特 2700元 🟢 UX-16 時鐘幻象 500元 零件也有，缺什麼自己配！ 戰刃任選 30元 固鎖任選 50元 軸心任",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93LUdUaGJnekFnRHZhY1Q1WllUMzdLUzJITjRlUzlObS1UajhMZndaM1RfWWtra0kycHFYV195VHN1ZU4xeS1taTl1UzlVc1dfcEJ3M2s4aU9xN09yYVdPWnFYRDA3UFlhTF82STZFZThneXVxS0lYSG9QWQ?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-26T00:25+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [
+    "補貨"
+   ],
+   "stores": [
+    "7-11"
+   ],
+   "resale": true,
+   "channel": "store",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 3,
+   "also": [
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43TXRzcHplOFl4dVBDeTJOTFVTUnVWd0FDU2VCNG9LQm1RWVhLR3hBRVN3Y0RiNjd1XzRUU0dSX2ZWZWpXT0lxOHFiLU51MnBIUFg4OGg5QWlCV2VwTWFHM2JEVmFscXQwRnAtMERyNW8xMlNjSmJibERn?oc=5"
+    }
+   ]
   },
   {
    "id": "34391f39828dfb60",
@@ -1280,6 +2654,10 @@
     {
      "source": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lZ0VHam9SeTFjQi1SNFVRb3gtbllLemR5MUJsYkNXTHRVVGZRcG5Jdi1UcC03RzdmUFRwOTExcjh5emdMSHhFQ3lVOEhXWW1rUlc5NkN1cmEtdHJFckM4Y19BWmdZYjRycFZ4MlZ6Yk5TTDVfaElpbDBB?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xS2F3ZmdsRFU4c2RIOTduVk5aZFVIR1lmM1JiWGdFQmZFUzlWTHctYnBjQi0wRlV3YmRpeVNMcjB1OExfc01Tb3pHNUIwN2hSUnQwZmhnbWh1aF9SOWJHYi1mS1hjWXJ0Wl9nWlhDTmdacDV3TFRpREhadw?oc=5"
     }
    ]
   },
@@ -1427,6 +2805,31 @@
    "shop": null,
    "branch": null,
    "score": 0
+  },
+  {
+   "id": "1aa0b093c5fe576b",
+   "title": "🔥【全新現貨】戰鬥陀螺 （全新）🔥 • 商品狀態：全新現貨(日版） • 售價： • 交易方式：台中北屯可面交 可開賣貨便 CX-16 1:2000 BX-23 1:700 CX-13 1:700 BC-49 1:700 CX-14 1:700 BX-46 1:2500 CX-19 1:600 ⚠️ 小提醒： 有興趣請直接私訊，謝謝！ #戰鬥陀螺X #BEYB",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uUjRwa2dRdU52aDJoSG45cHZnbXk2WVZIQ0dEbXVJbHlTc2hhVkhQTzVQRlh4ZVRSSlVqdDFLZ2otN0xzNUs4UkdmR1Uyb3RtLUlMSVBzOGRDXzFSMDlRV19QbUczd1hZOGZsWDZtU0NMd3lLb0FaREdXcG4?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-25T18:03+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "台中"
+   ],
+   "arrival": [
+    "現貨",
+    "開賣"
+   ],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 4
   },
   {
    "id": "ebaa3719d8697815",
@@ -1633,6 +3036,36 @@
    "score": 2
   },
   {
+   "id": "2d39149254b2b78c",
+   "title": "麗嬰代理版 戰鬥陀螺X CX-16 極限衝擊對戰組C 售價：1600元 小妻玩玩具 新北三重徐匯中學附近自取 +150元 可幫寄送（限宅配）",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CVWhkODlJdEJualhzbm8zaGRPSkdGTjgyUDdYMk1BVFBQUF9wRDg3MEFhMjNITXNPMWs4bjJYUWFMQTQ3YUVtQXBPODAzM1dVc0otZ2xteU9uRkk1SWJxQ3VZVGgwYnlqQXd5ZFVkaVVjVlFZNWc5Z194b3k?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-25T11:09+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "新北"
+   ],
+   "arrival": [],
+   "stores": [
+    "麗嬰"
+   ],
+   "resale": true,
+   "channel": "online",
+   "sale_dates": [],
+   "event": false,
+   "shop": "Funbox",
+   "branch": null,
+   "score": 3,
+   "also": [
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DbE1xSmNfZV9yZFFrY3ZJZnZxUmZ1ejktb01QaDBBaVVhSll2OURhWjh0d2ZwQVZzdS1mSGRVTE5TTXhVNXgyVWhTcy1yZUJWMkROWno2VEdzcmxfcUdJN19lMlFIUmhzbFQxYm1ULWVHMFFBTGI3Wmdn?oc=5"
+    }
+   ]
+  },
+  {
    "id": "a4ac41872c9cd5b3",
    "title": "🔥 BEYBLADE X 公園盃｜戰鬥陀螺對戰大賽正式登場！ 🔥 各位陀螺玩家準備好了嗎？熱血沸騰的公園盃即將開戰！⚡️ 🏆 競賽獎品 🥇 第一名：BX-53 藍空力戰鬥盤 🥈 第二名：CX-11 帝王威能 🥉 第三名：BX-23 鳳凰 📅 比賽日期： 10/26（星期一） ⏰ 比賽時間： 13:20－13:",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95V0ZHUlNOei1oZ1hyWlVrTDFMUVh1SVA3a0RQUFNNbExxNmlFSXNYZVlUdEFzcGRGMmZHc1Q3Y3UzajdmOGhLQTQ0cG9uMjh4NXhDZmhWVmhFSXkwU2Zvd3RXUHFqTk5fTml0dHpIMVFxV1VWWEgyMjlkUks?oc=5",
@@ -1832,7 +3265,13 @@
    "event": false,
    "shop": null,
    "branch": null,
-   "score": 0
+   "score": 0,
+   "also": [
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lWF80QUUwX2x1ZUFBOThHb2phUXNxNXY0QVdVNG11VGlGaHVsc0tuS0Z5ZHpaSW9fSFRLeFpVN1ROX3Q1R1JVLXdiVTZyblZFOFRmS1JqeHpMdzB3TGhNZXlPQ0dKV1FZdGltZzhFemZlTmh3UzU4QktB?oc=5"
+    }
+   ]
   },
   {
    "id": "d6b9611c43cf622c",
@@ -2154,6 +3593,34 @@
    "shop": null,
    "branch": null,
    "score": 0
+  },
+  {
+   "id": "0d8d4f2a83cac277",
+   "title": "戰鬥陀螺販賣公告 🔆販售時間： 日期：10/25（日） 11：00開始販售 🔆排隊地點：淡水禮萊廣場（路易莎旁邊會放排隊起點，請依序排隊） ⚠️購買規則 限購數量：限6歲以上顧客購買，每人限購陀螺 1 個 / 抽抽包 3 個（各店商品不盡相同，請依各店進貨商品為主）。 ⚠️販售注",
+   "url": "https://news.google.com/rss/articles/CBMitAdBVV95cUxPMkN4REF0RHVQV1k1R1NEUS1TQmtfUWNKZHRUTDVqNGd6QkNyUUdtSVJuTEZDZlpoVHdiR09OY3BmX3pHbWUyVHFSQzBjYWh3eTc5NmF0LTc1N19lRkF3eHpySHZEb25ab3kwd1o1M1lpVzlzOEJXOWo1UTRNQmlyZjdTb0Y3ZGwzV1ZRZ29kbzA0TktuazRzT2h2VkZNTlhUX0s2NEhkbWNZT2o1TnVkQi1DRDk5YnM3bXlaUWlmMFlVb0d5ZXB3VmVXYkh6M0hham1laVRVbFFXVjMyQmlWcjZmSFJpQktyY05DcTVxbEhaRDFOUlR0QUNLOC1qa294UldMVnhTODVMOUZsNHNGMUN1TG1valBYcFdJRW9oa3JiMHMyYzhCSGlsRmJGUVN5YVU4TDVvTVhyS2lIWF9kQWRDU2ctSUVVSFh2b0hMREQyYjduX2JqQjhLdTh6T0ZrWWpYblg4QnJETjcyX1lmb2RVOTFEaWFwUFFEVHplcWl3NjZkTkh3aUpYeFY1ZG1fYmlMXzROZ0c2UklrRGRkNFRxLWs2Njd1MFNWcGFpOWFwUURJUDNqYkRyV214Umk1ekZwZ2JucWdvS1VIcmtUSEQwSU5qVUh1VmFnd0h2ek8yelJJbnkxUFNCb0Z2NWp1QnpXMlVrc1JzTXctbUljZ0FmTzRBQUxTVWZWRWpQRm9LcWhGZG82LVBZeVVwUUR2b1NQclVsdy1GMHZmZmV3REV3VWo0NnRDTzNxTHdUSDkwaWZoZmEtUzdXSWRHWFhSSDd6eWE0bnJsd1htNkRLcXljX2ZzZk8xZWdhY1RCM3NHZzhXZ01oMjlvRkxCODJlbnpaOURxcXpEZnJ6WlNuZWFYNjNOMTN0SVlPY3lSVTYwaE1Bbmp4SE5VTGFHWWhHR2RxSzFBRE5CM1FNQ1lnbms1SlFIWkRTRVdoalFWd3lXTWVUY0RHVzBCdUJOR09lUnRPYU9FQXIxdlk4RWF0aDZ3WVNCdXVWbkNJeV9rZWVJX3YxM0pFbHVtTHUzaXFwVDRUSHRHSkluQzVOaXRQRVhfekxoMnRSRzVQLUhsOFBqTEtvV0FjTW1BczNGX1h0ZWV0cDRJQVZiQXJVSW9Gb1QtZWNrNXBjRnpwR3IyeTF1X2FCemlrVjY2aTdyUWZhRmZPZ3pMZTdUS1lrVlhkbUV6YUkzSGpvVGJibmMzTFVtVVdSU1hwazVfX0pKYjg0NERIWDJQU1RKdzNXcEZnRjlKWEg?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-24T21:36+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "新北"
+   ],
+   "arrival": [
+    "販售",
+    "排隊",
+    "進貨"
+   ],
+   "stores": [],
+   "resale": false,
+   "channel": "store",
+   "sale_dates": [
+    "2026-10-25"
+   ],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 4
   },
   {
    "id": "cbccf517ccdcaeea",
@@ -2649,6 +4116,10 @@
     {
      "source": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZTEpuRjg4bmNrNjNCQ0xveXdqMjRZQThZOHBTN3RMak1uSVlSYnRMdmtrUzZxUWNpbEhzR2VGdmVCeTJCWHJjWHlOeTV6d3lMTWN3UE5ONV9xcDZSQk8yYS1jMXR3d2kyUERDZGh0NzhoOEtuenRpRWhn?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5TzRSRlUzXzZBWXJlTmxZVzgtU1lDYUd6UHBuUkpyTkdUaUI4QmRfUnFzRmppYkQ4ZlJ0eUtwWUVGS0JBUkNLclVUMjJ6Z085czNwS2duS01LTzhvckdtWnpRR2ZLVVZTT3g2WGdxQ244VEIzTlNvY2hobw?oc=5"
     }
    ]
   },
@@ -2798,6 +4269,28 @@
    "channel": "store",
    "sale_dates": [],
    "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "67e20f5e539839ce",
+   "title": "✨️公布本次10／25陀螺比賽參加資格選手 正選可於11點開門至店內報到 對戰順序會由抽籤決定 ⚠️12:30:00報到截止（超過時間報到則視為候補，請注意❗️） 13:00開始比賽💪 請參加的參賽者們注意以下幾點 🔴當天需要本人至現場，報到與比賽亦不可更換身份否則",
+   "url": "https://news.google.com/rss/articles/CBMi_gZBVV95cUxQYjNiTnk2bTVOVS0ycXJLR2FRS2ZMaG5iTkRQeHV0c1dOc2dEOEtCWGYzQUlMMkJQUTV5QURwT1NTbG43aFlENmtINWc2M0V6RTNHckU0RXh5ejFkcDhicThjME91dmt2ZE5GVHAwbzkzSDVOVDhYRnZpSkktUWFVWlllLWQzN29uY3pYWFQ4bWI5MHBxMFJiSG5ZaG5ZYXdnc0VKVUwtTHA5bGJBUkh5T3pISkptSlVZVzBacVFqQ1Y2bm50MmRYb3cwYWFhTkJzZG1DUk41bTlMODJlT2pyZll6SVZZeVV6SjVMRkJ3cXpGZVREbnRwU2VGYWx5YUNuMzI5WHJlRkF3TkhIYUpaQkdpUUdNR2NURkttWDVyYlNfblFWTm9DTFVpTENrQ1NHeXJ3ckdhUEhXTVBkRHBDUG9SaEJFS0FWdUNfbkhCWnVRVGZYUWNEQ2cxTW43blJ3ZWJQUDRxLUJOS1RlS2ZjSW04UVUxZ3VEb3NtNXZnX1V0cXJXSXdYWFlydEZVa29VNlJTTHJ5amRMZTRzdFd4VzhodmFGZ0w4SXpGUEU2eUhNbWs2dWkwTWF4RVA1dGFwTk45cWpuRldHVGw3RmtRSlcxcU1fRDBZZWdWX1Y2dXNOOFE0V3BaZko3NjZaMDhsNjNXUnU3OEllN2o5S0ZNVC05T1R0RGtEOU1jNGw5X3RuU21tdEJ0M1dPU293bnYxVWtHWVF3YTh6X2gyaUd6Qmx4QmlPelhrV0JnTG1YQ3NOMTViSThRSW1lbUxCWTN6NldPRVRUUGpJaTdieGZfMGJ5Tzh5US1pS0Zyem9iQnEySTdDOWczVDhlT0JsU2lsRGlaRUo0ck9wVFJXbWJvTU90c1ZnWFVqVzBSS1EzbVJDVXNMN1JUSDRXckh4SDlzV2VDVGZKVi1EOFF0RWRaemRoMWpOTnVYTnFYU2EtMHhtRERCajlfQWhJX1kzSHM5M0g4a3RmLXhzNlVPZ3dyM3N4SkdaWUlWUTJWZHdsSjVzQ2JzSDllUHh2UmZJOEJ6N2RsLXVlUVFZZXdOVHYzZUIxSG9MdGRtZDI5dnBzZkRYcFRaWFBGeDJGdm9IREd3RHNhSEZPclNGZHJjZVN4NWNYTTBYYkhQek85cnZ4bHp0X0JEdnpTU0p3WndTRWs0V0JTWHNsYTRwUlhkZkE?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-24T14:19+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [
+    "抽籤"
+   ],
+   "stores": [],
+   "resale": false,
+   "channel": "store",
+   "sale_dates": [],
+   "event": true,
    "shop": null,
    "branch": null,
    "score": 2
@@ -3067,7 +4560,13 @@
    "event": false,
    "shop": null,
    "branch": null,
-   "score": 5
+   "score": 5,
+   "also": [
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtSmpXUXNJS0FHN3BmSXVOdFhYQ01HaGRDTlR3Tk1Kd3B1YXFlMUlXWm9TUUlhRUNIbTk3VVhQSEVER3A0eDJxREc5NXJ6Qzg2dWFsNTBEVlRaaUdnT19EbUMzZnNvb1BXR2JyMEY0aFp1YXRZQjF4QXJ3?oc=5"
+    }
+   ]
   },
   {
    "id": "0072316f61721f49",
@@ -3098,6 +4597,18 @@
     {
      "source": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5VThZSEhXZTNwZGNmUlJxcEJpcWF5bHdFUUMxT0lNd0dyN050dXhKV3J4NnhvS2t2YUFyanc2UjJCLS1Yay01d0pKYzg2ckRxdnVJNEhaaTlSWDduUEJvc05XejdJMnNmcG5sX1VPWE9VcmdRUk1DWndB?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vSnNQWWZ3NF9oYTl1SjBNbkU4Qld1UElCMzVVR2hndk1VMEFhd0g5MW5YV2ljZHBIYVRXaFFkbmkxeVRzbGNiaVVLcEw4dGVUT3VyZkpqbjNFM210ejZid3lLMV9NdHJmdzZFVWN4WVJ6YXdlOF9Xa1B3?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KSDMtaEFoXzFsNFpDVm9Fc1dRN0lEb1ZXS1BpSjhyUEtFaXNiNkY3NUFTczRFRnhoWC1VeklhaXRySjF0WXh1ZXdCSmRTYzJxXzZIRWhBSDlJcVhETS04dFF1VVA4aFRBb1l3U2dGSzVmZHozcE9mRVZR?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAteFRTOC1RV245b0lxVXFrbWRmU2VhSzdKZmJkT1N0aUplam51U0htV1Npc0kxVnRLYzFDTVo0OFg1VjhXYlJ4dnEtN2k5V19UWE9QdWRBZmlRRTF1RHZKeGptRWkxZEJUdFVDT2pTN2lyOEVuM0xBQjZn?oc=5"
     }
    ]
   },
@@ -3533,7 +5044,25 @@
    "event": false,
    "shop": null,
    "branch": null,
-   "score": 3
+   "score": 3,
+   "also": [
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0Y1hIN3BfWXFaYk4taHdIOGpwTEpabkhUbjc2b29IS0sxS2hJQW8zRjJqTVIxQWpHUW93OHNBSWpOb2s4RWhaNmtWZ2hxbVdsQ1hVMEsxRXM2cUw0Y0FyRmtQalJyZEgyUWpyV0hKRGkwcjYyMEtSMTdRUQ?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52TENGMXFackV3bnhkQWM1QngzalJ0czRVUDdfRlZ3WXJKT050eGJQeFpabTlrbzlQRWlicHoweEViM3RzT00tdkZiS05JQ1RLcGM4MjRSR2EtNnhCSFIwLUh4ZEFaYVRvX1hUckNRbGdOTVdEZ05hTHFMcw?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nM3phczBweXg3dlpVblZjYXNYUF93VVNVWFJkbUJMYU1ncFoxUWJweVhicl92ODR3b1pMQ3haNE5TY1M3RjhCc2lHbzRFUkxfLWZ4QlktTEVKRFJwUzRuaHB4Z1hxR3NiYUZrcU4waDFxb2ZXdHloTHBR?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IQndqUjJDTy13ODdyZ0ZMOTV4SERPTVF1S3NpUmhHdmVwcURIeFFQdzBkSk00Y2doSWRRQ3ZQLVptM3ZyY3FXbGE0SXRqcjFpQm5kaDVWMGdOTHJSb3pqclc0X2tHa0FjLVFqZ08wOFFhOUZxcEtUbllR?oc=5"
+    }
+   ]
   },
   {
    "id": "21b89f90e7430f9a",
@@ -3994,6 +5523,14 @@
     {
      "source": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IZEU1UTNEQ0lYakZjLVdqOVZrRFNyZjF6VGFZRVdwanVhSzlKc0dveDVya1BfeG1jdTI0ckFxaFZNY1VYVU9XUUwtdzdudEJLX1BIamNfV3hCSUY5MGE3dTJQYnRaY2d0UXJMQkVGRnVoTnNTdzM2YklR?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXS0U0WlZYZ3ljUVVkRHJmWHlkNXUtOGtEaXlkNHQ2UlFPaC1IVWpvY0U2Yk1nOVBDQTVabmNIaDg4d0YteEhiMEE2eENoaUxqWmZER2tVSFI3d3hyRi05X2hBNkd1WEhFQm5qSWZZeUVzS0dMYXkzR0xR?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjYVIzSXhPVGQyWTdBNGFiYy1UTGNhTVh4SEdMbkhySFhGYTRLY09SOFBVWEZqSUphbjBIcVUyeE5rMk1XUk9qMDF1U196OEtEM21wRFh5bVMyckFJU3lqMnZzZHZITnc5bHM0bVQ0djhPOHEyNlpsMDRn?oc=5"
     }
    ]
   },
@@ -4515,7 +6052,8 @@
    "event": false,
    "shop": null,
    "branch": null,
-   "score": 0
+   "score": 0,
+   "also": []
   },
   {
    "id": "7c91524dda3906dc",
@@ -4718,6 +6256,10 @@
     {
      "source": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wcC1lakd0TVNUVHJQZHRpVWNtb2Eta2tYMmc0UXEzdnVGc3J5VzNHZVJrYnRRcWdoSEJKWUpSRXg4akNPak9fM2FNWjF4SmY0eXhwY0h0d0lsUXc1b01TVjBsbXRBWjlLREdPU0ZfcndHODZIdXZITmdiTTVjUQ?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42VlNLRUh4cUpPcDZZUW5XTDFBcGRIZjg3S0ptODNuMm5TSlMtVXloTmxZRFI0S2JBUkdHRzl1S3NPTlZFTmJzNWdDUUViQVRTWmg3LWU5cm1zV0Y5aDlfMm1RajhWZmczSGhmZmJzMFpyVzlmRWREWjBkYnprdw?oc=5"
     }
    ]
   },
@@ -5099,6 +6641,10 @@
     {
      "source": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOc1JzczVsYk9fRXl6YmJkUWNsaXVzMmlTMzNvNUtCTFVOYXdOSDVXY19jUGdGYkx6ZXFmOWkxZ3pkYzgyNlAzUmpMbXU2d01mdUhrb1VMRTQ4eWxQSEhrZUQ4S1pRVmhIV3FuOFBJSnU3MDZCYmhSRnRWQQ?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54UUtMelp1QWtZOFFSODJWOWEyV3BnaGNNVlY4SzhGSjZzYnpraGVURkVUcmJwNFZ2S2RCSjRycEhNcmRPbDRGSGdGRnFxNHhRSVBkWWh1aGdabE9UVEhseF9qMnBuZlNFbFNUTUM5OUhPX2V3cmUzRkJwbXY?oc=5"
     }
    ]
   },
@@ -5955,7 +7501,13 @@
    "event": false,
    "shop": null,
    "branch": null,
-   "score": 2
+   "score": 2,
+   "also": [
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PZjFQWEVabkxYY1BWdkdzR3FEOThMUXFvd1JOXy16bTZIZnlTOEJEZEI0bnZLb1JjRERXcFJGSGw3OURGTW1IUXZ5M1B1T3pRZjhjU2gtMFQ5MVlJQ0RTWTdNcjFCYzlWTTJRZ1J1T0RTV25VQWZjZVB3?oc=5"
+    }
+   ]
   },
   {
    "id": "e655db79b64bee84",
@@ -5999,7 +7551,13 @@
    "event": false,
    "shop": null,
    "branch": null,
-   "score": 2
+   "score": 2,
+   "also": [
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uVmxsendlWGJBbGJNdHRueXpXS3JLcEJxaF96eXlCUDlCNUJVclNsa281eERMZmo4djZka2ZyVjZGNG5uNnhNMVFyQ2RLdzdXN2t0YXZNUGdraFhIQlozUjUzWW9rNHp5X3pXU0ttcGZCU0c3Z005UTRn?oc=5"
+    }
+   ]
   },
   {
    "id": "8e1e4a44cf1dbbb3",
@@ -6207,6 +7765,10 @@
     {
      "source": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnMVpzT1RCZkxOeEFOWFFGY19RZnNMME5YNEE2YVhNNExDYWl0aWt6eW94d1dJRnBvRlB6MmJDTmlLSzkzcnVMRHozb0s0c20yVU5YaEhUT3NvYm9VdC1Mb3FiX2J2SktvZGdUbjg5LWMtNkhBQ0xDZjlFWQ?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RVkpwOXk2ZC1Lbm1PTklaZkpTTnJld0I5MlhzT3JIRTdtQ2xxU3FrTVhzSEJ0Zy1zc2gyNktSZDhlb1JVY0lYR2hrNURJVmRSXzZUa3FaUGFwTlBaeWVFUUMwTWxkTmtHUEhQQ2lzZUtuODNHeEJOS1VVa1U?oc=5"
     }
    ]
   },
@@ -7107,6 +8669,14 @@
     {
      "source": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWbExzQVgwVVFGSzNWZ3hQTy1VV3Mwc1lLa0w2TXVPbG9iY3hTemxiWlFycmZnVWJFMk9OUC1xVmlmc2I1OXd0bTNsRzNsWlB6TTJqUEs0dFUxWTN1U1lXYXdzY19DQjllM2hYRy1nQWUyRERUWVhMU3Z3OA?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DRnhBZmQyOUt3WW5aVERRUlcxbkR3ZTJ4UHlKM3UwbjZwOWtnNWQzLVNjUUg2UzlZVExBMUMtcTR5NEk1X2J5b2duemR5bFhpaDJkeDRiMFd1VngyR1lkaUxrSGdLc243bnVmSEx0dGNqMk5Ga1g0bzZsWnY?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WbHNZaHd2dUhzbzBOZ2pTTTBmUmw5eGtLUnBJbFdSYjlZSnVhaTF1My0tckxJLVZLdmkzTHphSkM0emtPMkhhaWxnanBCUVd3QV9Jb1V0Qk9DQXR1YVFGZUdQT2Jtb1FvVnU1Y05RdnlfSFE1N0RWQmQtZDM?oc=5"
     }
    ]
   },
@@ -7301,6 +8871,28 @@
    "score": 2
   },
   {
+   "id": "58af5d2980b6b8f8",
+   "title": "プロ燒鳥親子盃（Puro） 日期時間：10/26（一） 17:00報到 17:40候補 18:00開賽 地點：臺中市西區博館二街117巷2號 報名費：300元 店內用餐顧客報名費200元（需達每人用餐最低消） 預訂座位時，可一起報名陀螺比賽 獎品： 第一名 BX-53藍空力天馬盤 第二名 UX-10 騎",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TRUdyT1FicW5hd1FLbWZGdEtBc3gzb3JtWXJXbzVJc3FsMXBMQUN3MG9PcUNUb0hCazZKYUJoc1pUVENoQ1Zfdk9heE1oU2dETVJqYURlNzNaSXlnY2F6RG1sajJjOTBzQlVRVGJJOVRnMHBMNWY1dVBn?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-22T13:42+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "台中"
+   ],
+   "arrival": [],
+   "stores": [],
+   "resale": false,
+   "channel": "store",
+   "sale_dates": [],
+   "event": true,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
    "id": "76eb7deb1fe56832",
    "title": "陀螺進貨🔥📣(全數售完） CX-11 帝王威能 售價$995 UX-10 騎士圓甲改造組 售價$1250 CX-13 龍王閃擊 售價$495 CX-08 隨機強化組Vol.7 售價$350",
    "url": "https://news.google.com/rss/articles/CBMi3gRBVV95cUxOcm10RklKUFV2VkI3RDQ2QVNxYVNVeEI3ZTFLcWEtdC03MlROOXlMcFFfU09Oa2I1RzlDeXBOUmZ4U1RXdllJSjhjdnZGM19PWnJGQXFmbnhJZnc3YnlJUHh0enJLT3JqU3ZCQUhZNTduc2dZR1pBaW83MG1fS2hlczU3Q0RDcF9wQlN3aTQwaFhhcm8yU0NHLWRUdVpMT2szbzl3SURmZE1LSnRsQV8xRGRDV0FXbktHZlJfa0d5OW90S2xyVjctREl5OG5wQTM3bk54TTNmTzlwLVFHNDJkOXFQOF9RSGhfUXVjRW11aEU2eDJvLV9kWWR4bDdTR2E2bHA2OVlfYVJtQ2hxVjNqa19rR1RYSEYxbGtwME5DZUlZWm1tSDZxT092NXc1YkFaWkRBRDMxZmhHNzJVaml0OW1aVmhudkxlMndBVjRfUDRNdnE3MlJJRjg5UnNETFVySG51cGNCUHBCWTBxMTl0bWZZbDlpOHhCQ0ZVV1pvcWxaMXNnTl9TQWRQa2ZFbVliWGw4OEJaWUI1Nnp5RS1iRnE5SzZ1VkN5UjlhN0R0ZEkzbHJUcUQ0bGtJeFM4RndBbFdzTmRhcjVnSnVoZlZ3QnJtRHEtbE4yLXd0SmpvZGk3QXpkT3NpMGZHZmg5cHpsdkZXeE1SYXh4Z2FMOFpqVkVnNzYtaEFGQ1k3WUc1R0NhdXZ1YTRSWVlISXd5ZFoyUXZDQ0NiNXliVFFST3NkNnJyV0ttWFR0eXR5YjRrV2dlU21ZMERhNXZGWklCRVVWbUhXSlRySFRWZXRyTFE?oc=5",
@@ -7316,6 +8908,28 @@
    ],
    "stores": [],
    "resale": false,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "95e78abbd6c28a5b",
+   "title": "售日版陀螺 他團同步販售。 UX-08(650*2)、19(750*3*)、20(800*6*) BX-34(700**2)、49(650*2*) CX-07(750*3)、13(650**2)、15(500**3) 以上，不要QR Code都減50元 全都成本價，小孩和親友要玩就自己蹲原價的順便一起寄回。 不要QR Code的請備註，我會先拆封",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ESzlGdzc2WTRFNWw1ZkNPWkljRTZpV0hkbUpMU3VJaUhMLWFnOVFTUmVSTV9tY3JIY296LWtRdGR5dEdVRWRtZzkwaEVJdk9HYmdmSTVwQnN3ZDR6MzhRcnkzWks0T3kwUkhMeXNYU1RNTnVKR3UxcUFB?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-22T13:10+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [
+    "販售"
+   ],
+   "stores": [],
+   "resale": true,
    "channel": null,
    "sale_dates": [],
    "event": false,
@@ -7353,6 +8967,30 @@
    "social": true,
    "date": "2026-10-22T12:54+08:00",
    "first_seen": "2026-10-23T06:39+08:00",
+   "region": [
+    "高雄"
+   ],
+   "arrival": [
+    "現貨"
+   ],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 4
+  },
+  {
+   "id": "30dfcde29ba88ae4",
+   "title": "現貨BX-53空力天馬盤 （全新） 售4500元 另有BX-53只有空盤，賣900 北高雄面交北高雄面交北高雄面交",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zUm54WTR2LUstcGdYZkdGYjNuMnd1UW03MjVuR05oWGNzQ2RTNm5iYXZsbExId1U1dHk0QkhQMVZJTnZZNTViSnZmcldfUUJDMUNGUERUWmFVNjZYWjNlUzdDdjE2a2FTbmVzZkM5amcyOHFrNWF4VVpB?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-22T12:30+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
    "region": [
     "高雄"
    ],
@@ -8628,6 +10266,10 @@
     {
      "source": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uTE1BWks2aFJYbGhFNUM0U1lfR09fRVdXX2d2eGhfYnNnOEF6ZW9kTnR6ZUtQaVhNVENqbzNaZXgyWnFaald6N2E3Vi1OTzB2TlI5VWRic2ZlUGxuMkIyLVBETlQ2YmM4SFNlSmYxVElIM0xDRzQ1ell5TQ?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QajJSWFZ5MHhVdVZRakhBdmtESU9qUmI0dkhGdURjbzZQZnlhc2Q4djc0NWctZWpmSXNITnRUSVZfR18xbzlGSzlTZFNGNTJPRldRRkdrZXNsTzROZUxWekh6MG9zVklTNktVN2gzZjhpMWY1SW05azJrZw?oc=5"
     }
    ]
   },
@@ -9928,7 +11570,13 @@
    "event": false,
    "shop": null,
    "branch": null,
-   "score": 0
+   "score": 0,
+   "also": [
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54OW1oOWZYa1RTdzZQUDMwR2ZZSWdoN2pJekFfaTc4QVFjRzU4b3ZjVmhENUl1STlfRzNHdGpwS2UyVGdQS2RXY0Y1UEY3YTZTZWVib2tIaFdtZEc5NHprTUtlejN5UE9SdmFwTEZDYU03cGtpVWdOakRTNTg?oc=5"
+    }
+   ]
   },
   {
    "id": "f0a2686db9d221f2",
@@ -10596,7 +12244,13 @@
    "event": false,
    "shop": null,
    "branch": null,
-   "score": 0
+   "score": 0,
+   "also": [
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4QlU4VG5rWGFCeGd2Rjk3c3FHTHJEbHJkUHhIRnh5a2ttMlVYbVlrRW01bFA3empmc1pzYm12alNPal9vckRsMl9mSUZsVnFOQ19hZWhSSlpjdzRsbmpxcW1DazVSMHd0bkxpN3VrOUxBRlBIdDVWZWJ5QQ?oc=5"
+    }
+   ]
   },
   {
    "id": "d1400689a370f655",
@@ -11221,6 +12875,54 @@
    "score": 0
   },
   {
+   "id": "b0f24f65b75945e9",
+   "title": "售陀螺 現貨 有些日版有些台版 ux-17 隕星龍騎士 650 *2 ux-06 雄獅巔峰 600 CX19 鱷魚裂甲 550 cx-13 龍王閃擊 600 *2 ux-11 衝擊龍神 750 收多優先 可先轉帳店到店+60 或者中山國中站面交",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TUklIclIxRkxteTREYk03a0FHQkJpWFNacXpadmFKa1lybE42NnFfWTB5WjF6N3M0YVZqUnljUkhTZERnYXFNVWlDbmg2Z0E0WUh2WWU4UG9NcXAwSVk2LTl6aVJ3SnBkUUtTeW1OQ2hLYXlabUd1YnRB?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-20T14:45+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [
+    "現貨"
+   ],
+   "stores": [],
+   "resale": true,
+   "channel": "store",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "ad6332a1c686c7dc",
+   "title": "🔥【販售現貨】戰鬥陀螺 X BX-52 🔥 【商品名稱】：TAKARA TOMY 戰鬥陀螺X BX-52 光耀龍騎 6-60LC（內含左迴轉專用發射器） 【商品狀況】：全新現貨 / 原裝正版未拆封 ✨ 【商品售價】：NT$ 1,000顆 💰 📦 【交易方式】 1. 7-11 賣貨便：買家自付運費（連結留言處） 2. 捷運面交",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xSjUwR3NlWi1FYXNlb1FaT1h5VDFKZ1JmajRzRlJXWlgzYVE0ck5RSkVpVXQ1Z2dQT0QtNGxaWTBDRGtYZDBKWkQzVWtDTnRNRHplREZVaURmOG0taXg5OEhUTk9IQUNHNzhpeHpqOXlqWUpzaWg1SkJn?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-20T14:43+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [
+    "現貨",
+    "販售"
+   ],
+   "stores": [
+    "7-11",
+    "TAKARA"
+   ],
+   "resale": true,
+   "channel": "online",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 3
+  },
+  {
    "id": "5cf3557cf3feb99b",
    "title": "平放玩具反斗城 10張100$代金劵 700$ 澳門所有鋪都可以用（買陀螺都得！）",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02clZFbTNWN3pVdExWRzQzdzJSXzhNQmRCRHU1VmgtemRYU3VVMjZzU21GY05ucm9qb3cxOGhQeDB4Z2g4UmtSakcwbFNNN0dQTTE4cDRIVkZiUnhRcS15VWNtczMxRTUyaTZNbVN6eXBjdUZpSVl3S0N0NzQ1QQ?oc=5",
@@ -11417,6 +13119,31 @@
    "score": 2
   },
   {
+   "id": "6697677597220856",
+   "title": "日版戰鬥陀螺現貨補貨到‼️‼️ 🌍地址：屏東市上海路5號 🔺️有開設line群組，想加入的朋友可以私訊或是掃QRcode,回答您喜歡的動漫或盲盒就可以加入囉🤩 (屏東火車站對面濰克早餐店隔壁隔壁～) 🕙營業時間：❗週一休息❗週二至週五 中午12:30～晚上20:50 週六日",
+   "url": "https://news.google.com/rss/articles/CBMivgdBVV95cUxNSVhMdV9tRS1KS3FDWDcyR0lhX3ZwX2tBeEQzc0pDYXhMajhsRFZkZHd4YlpEc29NSjNEM2d2NEY3UkNnX09RcGdZTFdhSGVWMkQwMGdOTGlYdjJGUThSUkluNW5qOXZWRUUweVVfT0FNSG9mejV2ajBxRWJRZnhmQjRuOHF4Sm92LTdZSm1DRkZ4XzdUR1VtaHpyTzNXSGdseTlaR2xQTU5EOEpLTGtQYkNNeEZERF82TEUyOHFGdks0WTkyUndkdUxMVUZSZllMQ1QzX2EwTVo5WDF4UlZrcm96RTFpTzhhcEh3dEY1Tmt4SHlFQW9DeFRSMzdXSWJvZFFIOXVjV0JwNHZIb3ZZdEJ6bmsxRlpUZnA5OFJwYXRVa3ZFajhuWGVPNnd0eFA3c0w4MDNOZUFWS1QwYXJSZEtnX0t5RkhzUmowOHEzU1RWVkRKLTdqaDE1ZXBwNGNFUDJ4QVlmRXhNRDhKMGpoS2t4WUlDd0lob3plYkUzamkzU2EtTzRrc01XSEs0VjZYa1BsSGZtQlVSSkVRcDFlcHc5Z19JaVd0ZU13b01mZWJVZkdSM3VIeG5BMTdOcnZoVGwxNlkteG1zQ1JuVjRZYUtlQU05eWVLSFl4eEI3QVdIRXJuWDdzbmplZXJ2N2VzZkNNSEQ1SHRDUnZSZTZ3TndnaXlHclB0MkpwOXVJRkN4RHAwQ2FjbDJINEF5WXJIX1p3bzlySHRYV3BXLTluem5zVzRBNnB4bGlvdzdZWFhwakc5OFhvanRta2YxRlRKUHFvQm5HSVgwRTU0TTYxMFJ6MmpEekJ3VmFaSEF1cS1pdmdsTFVhVE1xcWFCM3U1NWs1T1EtaGw2QmNBWVI3OE8tZEhyNHNOcU5yNWktM0RnRm5PUlBQR2JCdUNQODg4cXNadlVlWklET0VIS0JWR3FSOUYtMm4wMERZWHZoUldUdzJORlFQdGhfdWZsanp2VlBVR054R1praDdHZXZFX3h5WmlMaVhHQThrcnNQV2VzRmtFNTJRVEtRdU9ZWXkzcl9hNE9SZ2R0ZGNPUWFVcDlGeEtfYzJzNEphU1NKdDFpUGt5YTMwa1pBcXBoLXZTWGRUQnVra2s3S29Ud0ZKdWI0R1BfalJmWE9yQ21UOUtkbFRQTXo2bExXQ3JKRnNHRllPQjlxRHdmUUNzUWZ1eW14dlpyYmpYZmhKR0Y2UVVwLTRXWkI0Tmx4N2NUdGxTX2VCOFVWSW5ENFNVWkhjMFVUbmhRNjM3N2p1aWtn?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-20T12:51+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "屏東"
+   ],
+   "arrival": [
+    "補貨",
+    "現貨"
+   ],
+   "stores": [],
+   "resale": false,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 4
+  },
+  {
    "id": "8b46bca73ab9a9ba",
    "title": "**【極限量快閃！全新未拆 CX-18、****[CX-19](https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:29,imageDocid:9097917054814809635,headlineOfferDocid:7012445855157886834,catalogid:8403290114693444442,productDocid:111626551779",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vd1BkV3c5c0hiLVJidVNJTkxrZk42QV8xNWYwamJpSl9FYnZ0cnZxa01wdUE3WUFJYUVTTS04MWNrQkpWNDhQaFJDdFoxclRhb1cyS09ONUc4M1EySUljWmczUTdnYUVRRGhWa0lQN1dWQVc3ekN6cDZR?oc=5",
@@ -11593,6 +13320,28 @@
    "score": 2
   },
   {
+   "id": "0856f4e9373cbc30",
+   "title": "出售: UX-19全新獅鷲（無H軸 無QR)300 BX-09二手通行證（無QR)1300 CX-11全新帝王威能改造組（有QR)1400 CX-08-05烏龜（無QR）300 BX-35-05藍鳳凰上蓋+固鎖未拆黑袋(無QR無H軸）900 全新未拆FB 350 拉條發射器一組80有兩組 交易方式:高雄岡山面交/賣貨",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3TWtPZ055b0ZiY1MzQlRIWnRoNlhGNmxUZ1JfYXVqOE0zbjV3RHZvOXZKMGduWEgtUjlNUHZ1RWlmb1ZaQWFNNFFBWFU1eU9LVEVKRExheVpHY3hwcXJWRTVPTFBtdUFFSWJ5N2o3ZnRFRXphWFpQcWNR?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-20T10:56+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "高雄"
+   ],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
    "id": "33aeb738252f9a00",
    "title": "1.第一張圖合售$800（鳳凰上蓋未使用，女武神2手，有UF軸.LF軸，GF軸等）售完！ 2.ux-15（鯊魚上蓋拆檢，37.76）$1500 3.bx-48-04$300 Bx-48-05$500 匯款後店到店，無賣貨變，草屯可面交",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HemhKZmJRbEFiQ0pxeTMyQkxoZkV4QnU5ZzBoMmlLVEgxZnd0cDJ5Y0NLR3AzOEo4VWxacGF3clNPZ1paRnE2Sm5TVFJoUXBYSWItTWxQMFlYU3NTaDZ6a0FfMnhZaFNrcG9rRXBjOW1MQ3VVeVphYmtn?oc=5",
@@ -11695,8 +13444,32 @@
     {
      "source": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tenFXYXltZjExM3hqbzRIVkNjNVZqMVpDcUdjNzVfUEJ4U1p0ZUtPdWZScnBQUWZoVkloam9LZjZlZmFPU2U4cWkyTnl1TnRhSTlYbnFfeHJIWGZmMndERFpfdkNoYjNNS25fb2JPbDZDT2ZXRXJrRG5ZQQ?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOMXhYZzhaVmVvbUJSUDNZUjBteldOR2gtaFd2VEJyNUJTclJYZEdxN2VtWWVFN1hMMkk2STV6cGx2MzNRdXNTQ1ZscTVqMDdsbGl0SS1jc044cW55MjhsdTNDXzh3YXNXZ0xSMnR4WHZsMi1fUWZGZVBwYw?oc=5"
     }
    ]
+  },
+  {
+   "id": "db9f4299426e877b",
+   "title": "【目的】：賣 【商品名稱】： BX53藍空力上蓋2200 BX52 1000 全新迪卡850 全新鯊魚37.82G 1500 全新堅甲戰龜 600 1-70 9-70 3-60 幽冥元魂全套 1200 L軸300 R軸300 LR軸400 BX-41 BX-42握把 左右旋風發射器 自製雷射戰鬥盒下殺150 馬卡龍極限護欄只要99 【商",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jb09abXB3RUxpM1ZwTFJJQTZOZDhuUHljQjNGUmx0TlFXZFRaZXVQN3FmRTF6LU5aQWlQalJTaTFyeS1BM0ZwU1dYeGxxaWpKanBnWFhLazN3SnRyVmxsRzZtNldPb2JmMTdHRWtLOUhLT3lfZ3IxeHlKdw?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-20T09:28+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [],
+   "stores": [],
+   "resale": false,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 0
   },
   {
    "id": "d069e83937f58bcc",
@@ -11975,6 +13748,10 @@
     {
      "source": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IN0dWZTNFcm1XMHlCaU82WHM2TklnelYyZDlUV2pPWGZWVWk5OUp5S0JDRS14NkdUSGc3Sk9iVzM0TWtpZ2hUcXlGZTJ0cVVjcmlyRnF4WU9XeTVmNVZoT0NTNVdUVS10cTFlSjYtRHRieGhPQjBWZjV1RQ?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LR1NvUElzU21xbWZ2QURvak9xUVBxdU0xNUd5WUt2MVl5TklQdEs2MVJVMEI0UW9wbWVBeGQtUHRHNVZFWGlSY2lsR0JDZWhDRkRJcFZQeWw1UlhhRGZKSkRsMG45WVhiZ3BoZ1ktN29TLXEzNzVhRDRwbw?oc=5"
     }
    ]
   },
@@ -12790,6 +14567,29 @@
    "stores": [],
    "resale": true,
    "channel": "store",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "ee4961efb4e01c59",
+   "title": "陀螺暴徒 BladeMob｜戰鬥陀螺現貨一覽 確定款、日版、美版、代理商版，現貨款式與價格一次整理！ 更新日期：2026/10/19 同時也收全新未拆: 通行證(台版).戰神伏特(台日都行).自己報上想換什麼.. 另外BX-53還有兩個到貨.昨天沒買到的可以再跟我聯絡 NT$3,800一",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNU3BmRmhFek5iNWJkNHF3SzBSaWxfVlROaXNrbktHNXlXMU5wSndzRllTLXd5YTR0ZDUtSjVUOHB6ZmhtVTJhZFp6bjBRVl9DWVlocWVUaWpEYTg2V2lZVF9Ub3N4SXA3aDFvUWhWdHdCRTZQMURPbGhB?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-19T11:58+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [
+    "到貨",
+    "現貨"
+   ],
+   "stores": [],
+   "resale": false,
+   "channel": null,
    "sale_dates": [],
    "event": false,
    "shop": null,
@@ -13719,6 +15519,10 @@
     {
      "source": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YQ25CU0xPdm93SEdVZThRcm01X0x2ZlN2dmUzNVpZZ25iNy0tck1mLVRJX2RiMDhGX0VRQ1hZUGc3Ql85cncyaXQzN2Nham5XZy1IekRMODRaV1ZqanF3cm5mZHVEaVE0TVM1X0IyRFFta3FCakVHSTdB?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80cm8ybEdJVWhGd21adUsxMElCRC04anI2MWJBZngwQjFNYWs5ZTgtTGlZZl85dVlZS1JCWU14ZjlEeXdJdXR5X2M5U0JyQ2lFdi04N2I3QXJ1N0FSVmFCNkNyb0ZnMFVIM3JrX3VROWtNVjY5UzlGU3lLNlQ?oc=5"
     }
    ]
   },
@@ -13988,6 +15792,10 @@
     {
      "source": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lX1lOUGhRcXdnc01rdmNZTThocS1feVdUQlZTcVg4TUFOWUNhX2FCS1pGMENzQUlXZWZjMHFweUNtR1FyVm4zYXE4bzJaVjBTdkxLM3Q2YnJEMklwRVJ0Wnl0N2NpcFp4VXhDSEJqNVlyUkdwUTVZOXV3?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QTG9sTE8ycXhwQlFEeXVlZ2lCMkdVZV9CYzFHN2hLeFNOTVRnaEF6cTdzUFRfQ1pFaHlNVWJHMFRRYmg1YlRvRHpXSkdaODJmSjlTWERMUW9vcGU3Q2NXWjRDWDJYaUhWUmNQdU1NWHk1MmlVNHpYbll5SQ?oc=5"
     }
    ]
   },
@@ -14275,6 +16083,10 @@
     {
      "source": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RcjR4NlZJbHV5NkpXMksyZjMxTFc4V1JOMXdGZ0pDWm4wRmNQMHJwZFZrQmNJMVFlWVpoaFN5blM5dmE2Q3lCUE9FVG9CODFtVEVsNmlYN1ZRc3JTUW1jVDZvNXRZRk91cHRxWWI2MWlDUGJOY21XQy13?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OMjRjaUl3WDlYTHVvMzJPRWFjVDhza3FqaWdwMVl2MU9Hc01tOWZYYngySDJOak4wZFR4ZU91STVrRU5TWkJGUlA1TGViU0pkaGpyaUJPVGVOZFNmRFhjRGVwYW9fWXNhOXNRdWVPUTl4cUp5R0NJV1BMYw?oc=5"
     }
    ]
   },
@@ -15328,6 +17140,53 @@
    "shop": null,
    "branch": null,
    "score": 4
+  },
+  {
+   "id": "efee968e86188a45",
+   "title": "😈🔥 【冒哥不在家・小安準備搞事啦】 🔥😈 今天又是一個小安作亂的日子啦啊啊啊🤣 因為～～冒哥放假去啦！ 俗話說得好，山中無老虎，小安當大王😎 ⚔️ 【今日陀螺販售名單】 🔴 CX-00 新世紀福音戰士限定卡組套裝 $1,395 🔵 CX-05 隨機強化組 Vol.6 $350 🟡 UX-03 魔導",
+   "url": "https://news.google.com/rss/articles/CBMiyAdBVV95cUxQeThrRnZXOFFEc05BM1Z2dTl0SDZXbk95TFo5UjBIckJNUW1uLWxzRWhCRVh5NTJIcldQN3R1OXJTT3FaN1hPV3kzTnBza2d6WjA2dDRqRV9SOWlVWXFpSW9NeHRNMHpvSlZIVWZFMHVTdkE5MTA4VzVyUm1wT3laVjU5TnZ0U2Rvb2RhUE1Yd0tibEs0V1l4dUc5WDlKNzNrdEJlQmU0T1ltU2c4OVNic3R4UGNtcDVRWlZqSE1CVHlpNThodEdwUE0zWDkyRi1UVmhYSGswRHV2WHBXV29XWnMyTll1RXBNa0plSVpfc1VLMkcxT3AzWFBqdnllclNJQ3dtOFk4S2hkX2RMeXpzSEFOTXdzOGdmUGgzTmZLV1BsMU14OWVsaWoyVGg2aVphNmZId2ZraDh2REIwS1g4cnY0SVg0dlg4Rl93M1JqMktWNG42M015OFh0MmtreUdTX0w2Tlprd21ycEdaTmpScnZTQndRcXlJcHgtbktUUkk3bUtzUmF4aDJWWV9zSE5aODIxSElHcl8wMGVDampINl9EZ3dyTFdhajhoVVdJNklralVOeUs0NzN1VlN3b1dzSDZ6OXY2WVBONEpDY1lHdE5JQldqZVlQQldNUkNhYXlUSlV1TGU5eE5RT09sTjBGUHpJWWp5Tk5aRVZfMUZUVzZJOU12VVFUSEF2SW5kX00yVFpkZF96TjF0NGpucDBpYXJGVEFnV1d0dzNDZ0h0eDM3dm9WZWxJal9ZRkJBNVBiUS11NE0tQnZSeDE1ZFdmSE9NazczeUNkWDdPRkYwdUFFOUhYMWo2U0JhU0xWVjlSM2Eydl9lcDFQek5GY0RGVzc4WXdxa3BpTGt4ZUppRlRTNnNKdVU3WGY3UkgybUhMaFJNd2tobS1VZlJZQnoyZVBKck5DN1E1QVdHYTdweU1RcE9YWERjWjRhelN1SVhLQTVxeVpwRzRhb09rMzJOY3AzYUlkekFFRHd2SlpibVZhRnFtd1VkcWNPUXUxWUZkZi1ldllaNFBiTlg5cDhMb09ra29ELTRXYVh1TjlQc0RuaU9oZ3NxVVdaS1loeUxVQ3AzQkcwbjFSdFlzSnN1cDU5SjJxU3F6QXJJMnQxNDd2NWZBNTAtRk1oQzVNR3dpaW00VVZYN2lIVzRGRmdhQWxxeTI4bHkxcVcxTHk4RWV4ckU5LWZjdUNOZEMxLW5KWmtKUDc1bUdvX0I1S2Jwd3Z6WkVqWWhnTWtLS2VILXVCMkI4RHFuSVd5WVdkQ0dIZzRjMUo5UQ?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-17T15:00+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [
+    "販售"
+   ],
+   "stores": [],
+   "resale": false,
+   "channel": null,
+   "sale_dates": [
+    "2026-10-17"
+   ],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "bc68898c606317fe",
+   "title": "售 UX-17隕星龍騎士 價格：800 BX-34蒼穹龍騎士 價格：600 BX-00猛瑪象 價格：1000 UX-03神杖 價格：650 CX-03英仙 價格：400 UX-20女武神 價格：850 BX-21 惡魔3合1組合包 價格：800 交易方式：彰化市可面、台中看地方、賣貨便 收多、全收優先",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qRjluLTRvczh6cmxQVUNIRWw1NXhjc1l5QlBsOUhHaHdoV1BMeEp3dURVRFNXU2dLOC1GV2MzX3RuUXptVnJINjUxWVJfS3NTQlh5R0pMWlBJWHFUN1ZQbmNKNnh5alpTOVNvMEtlLTl0blc1VWtUYTFVWQ?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-17T15:00+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [
+    "台中",
+    "彰化"
+   ],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
   },
   {
    "id": "e0b76d16d17607ba",
@@ -17217,6 +19076,93 @@
    "score": 2
   },
   {
+   "id": "78a60c20793e1242",
+   "title": "🔥🔥 【今日份陀螺準時來報到】 🔥🔥 天天有直播看、天天有陀螺買！🤣 就是要讓你們每天晚上都有期待啦！！ 不怕你們買不到，就怕你們沒跟到😎 今天一樣準備好陀螺，繼續跟大家熱鬧一波！ 今晚好貨不缺席，準備好來拚手速啦！🔥 ⚔️ 【今日陀螺販售名單】 🔴 CX-00 新",
+   "url": "https://news.google.com/rss/articles/CBMinghBVV95cUxOamoxSFBDUXEwb0JNOG9xQ0puY28wS21xWlJ5VEJ5b2pKMG5hcE5PWjhRQU5ULVBmSHhSTDlpdlkxZjBiVHpOWHVlZEhwbTA2X2xQUHl4bTZFY2l1WVFMMW5VZEtuNURRN2tIeFVScE93T2ZJQmw1ZUVwdW43WGtDLXZXcjBJbEFSY0pMek9fMkZnSDQ3QTk0bDZENGU1aDR4Mm9DSmZFSVlqaXdiNWgxeGQxdXZkWV9felk0d0tuSDhBNGRGUG1md3V3Nmo0V04tX3ZXcDdpRFJtQjY3ZTV6YmNvQVhZRzYxMUJ2MzVnc0NpcElVWEZhaU1ON0RLa3R2Z3RGeVRUNlZlWmNoZ04tTGVHQkJnM1JKRFpfTzUyTU0yUDRTSHlCZUlIZ1pKSlZJV3NoM09MUlpVNU53NFJwR2c1R3BmSE1kTTBXc2FONmtzbnlvNTFqZ0FjbkdPWXhJcTBjdXY4dUtXWnZUNkVWNDlQeHNvVk9jZ004blpSV0xmWHJJM3AzSXN2eHdRQXU0dDBCQjRmSjZia0otdHdUMEw1TzNrSk44Rk9ZV0s2R0RBdEJhTnp1ZlIzeHJyY0xjSUlFNnhOX3hpY0EzYnZudVF2SFlyV0lNQ29Ub2JkbEJMRVV5TnNHc04yVDVaaU5XMm51cHgtcmlGbVdjSWJXaXp3VXE4OXREVGVHSVJvNlZPODk2SDMzTGJPSllOWGtsbU8wNk1aMjNsM21MRktIcV9iOFJfVk5GMEJYd0xub2cxX0lTUVk0cTQyZUg3SlZwdUpleGhhbC1wc09BTlZrMzI1akJ5c2tzZXVwSHlEd2RvZ0pHdlpqU0RQaFIwcHFrSTRmbmJkSDFqdDF6enNCZHNsWks1NU1oWHRNSlZ6OW9HcTVPelBjSWpxMkd4WXBUNXZISlpBNXUxWjdjWHlWY3E0M0IzNF92dkRqX2RxTGxQalltOHdpQ2dvZUdvMXFFc2taTG9yY1BRdjlMTlR2Um10YmJzVzJzUkZfdGY0Y01OVWFHX2t0UnVIX3ZHNFRzRV9jbzNyejczbXhtU0d0OU90UHJRUkRCS0U1cjBmVXJnaWVCOG5Nd3R0b0FGUHJ2dXBhQTNSYjVpenpsUFRuWG83cmxxTjZNV3J0aHc4NnJuZXF4ZE5iNXpqVFBMb2swUG5pSkw5bGZuYWc1Uy1RNzNyWnR3dV9zYXpMZ2lzT0VYV1hBT3Z5SGkwSkJ0RjVVOVdkTlY3XzRuRWJQNm5WOFNLYklwRkd4SWJDRzZrZTFNejJLbTNyWDcyNGJhbFR2TmQ2TEN1ZUxSajcyd3FWN3Z3eGl4QXVNc3UwQzhpNkxnZGxZdFlCSHVDeHctU2EwT1hhNWRxaW45WWZncm9GRWxXblVRUzFVSmdUVEJR?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-16T15:00+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [
+    "販售"
+   ],
+   "stores": [],
+   "resale": false,
+   "channel": null,
+   "sale_dates": [
+    "2026-10-16"
+   ],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "df19c1568c482f7e",
+   "title": "售 限時優惠免運 全部皆是台版、港版、亞洲版，全新未拆QR可掃 【商品】： BX-49 蒼龍突擊 650 CX-18 腕龍鞭打 610 售出 CX-19 鱷魚裂甲 610 售出 【交易方式】： 先匯款後寄出，Seven店到店。 僅以上一種交易方式。",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hcnA4MFA3aGV3NURTMEFDRWRBdVozZmd4dEw1TzVPalV0YW9RYzVhWkJwbGlfek10eGR0SkZtMmFPeU1qNlQxcUZsUGdBczRiU0VPT2J1NnZXRm1MY3BsWkRNUkRRYXZGd1paX1lHTjZIMkc0QW1sTVZB?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-16T15:00+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": "store",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 0
+  },
+  {
+   "id": "b0f5aea19932a2cb",
+   "title": "戰鬥陀螺現貨販售 以下沒特別標皆為台/亞洲版 優惠組 CX01+CX02+UX08 1980 BX53 拆賣 黑色戰鬥盤 1300 發射器組（拉條+旋風）700 騎士重頓+魔導幻劍 1500 藍色空力天馬 38.69（正負0.06）2900 BX52 光輝龍騎士（亞）1450 UX00 藍色女武神 （亞）2900 *CX19",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fS2k1VTVzTVRiUy1UZDg5amxMdFZLZ0VzR1JhUUJ6LWJKTjFhRWVYeUhWVHRyR3c5Y21QQ1lVdmxjZWk1Z2lFZ2RrSFE4Q3YwQXdUUFhZU0hyQnVVVllyeU5uTGw1eXBRLVdtaElKLUozWE9CQzVYSFZR?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-16T15:00+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [
+    "現貨",
+    "販售"
+   ],
+   "stores": [],
+   "resale": false,
+   "channel": "store",
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
+   "id": "e789d4c66d0b2a2b",
+   "title": "#競標 競標文 【商品名稱】： BX-52 日版 等等陀螺 起標價750元，一標50元或50元的倍數 出價成功會點讚 競標在下面留言處，請務必打開所有留言 【競標時間】：10/17星期六晚上23:00結標 結單前五分鐘若有人出價，則延長五分鐘至無人出價為止。 （以我時間為準） 【交",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41RDFMV0tBX1pCTlgwTTFkZjlmS0dTT1F5V0NaX1lzd1BsaU1ZYUxpYlk5MjRGaExYTXppRnM1LVZ3LUd1UXd6ZE1zVzIzRXJKa0ItalF5OHVRdTNLd01wc0k2UWF1RnY1WjV3QWpJekRrM2NCdVkxWS1n?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-16T15:00+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [],
+   "stores": [],
+   "resale": true,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 0
+  },
+  {
    "id": "2f00eb1e5d993583",
    "title": "售（現貨） Ux-15絞鯊狂鱗（H標）2000 全新未拆 台南面交，其他地區匯款 店到店+60",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1waFNyUWlNbmRHWThuckhkSHZzTDVaLVJwYVRKa21GeDJ4Z3BTeXFfOGpOeEdlVTh2MFk3ZlFGemM4V2dCN3BseUk2ZG81NDRXc2NBZ3I5LXpmVzZtQmRLNUFPTXdIOXZwQkM0TG9KeWNFckl4VW9hVnZVUQ?oc=5",
@@ -18792,6 +20738,28 @@
    "score": 0
   },
   {
+   "id": "c099adc77ec88b61",
+   "title": "#戰鬥陀螺 #限量搶購 #需登錄 👉10/17～10/18",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVWtFSF91Rm5Ud2tXdWJabjU1bUJzdXVCczJqYzdJNW1tVGZocl9XYmotbVhURUhuOG1KbEwzOXR0NUNpOVo4UkZNVWx1Q2V3c0JqUWxlSHZRTFJkaTJVa2xXcGJPem9LekpJc2V2Zl9DdDQzMUVHb2Y1dWlIY0dsNmYtRFZMeW5DalV0ZXNUMk5sRWFONDlJLWVta1JMM2xBSjVkUHUyTm9odS05TWs5eUtsZHU4UGd0LXBrSVRFQXBKSTliNlh6eEFocmFKeXRFSXZPNzlZRkJGVmdfNkVDWTAyWGxKcnZVOGdlcTlHazRTOS1nd2swdDZaS3hRUnpMNnlrSzFn?oc=5",
+   "summary": "",
+   "source": "Facebook",
+   "social": true,
+   "date": "2026-10-15T15:00+08:00",
+   "first_seen": "2026-10-27T14:43+08:00",
+   "region": [],
+   "arrival": [
+    "搶購"
+   ],
+   "stores": [],
+   "resale": false,
+   "channel": null,
+   "sale_dates": [],
+   "event": false,
+   "shop": null,
+   "branch": null,
+   "score": 2
+  },
+  {
    "id": "27f9b3b2444e831c",
    "title": "販售 無標註都日版 UX-03魔導神杖700剩1 UX-11衝擊龍神1050剩1 UX-17隕星龍騎1050剩1 BX-49蒼龍突擊700剩1 UX-20榮耀武神1000剩1 BX-36巨鯨怒濤700剩2 UX-21惡魔幽冥1100剩1 BX-33皓戰白虎800剩1 有新上架上蓋固鎖軸歡迎逛逛 另售日版「黃蜂、雄",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EVjBLQmQxYmtKV3RjcFVoam9nNDBRSWN0Z1JQS24tZ2hudGU2SEx2eEliaEVuM3JoV04yR1VGYnVBYTZhRExmT19WQ1hKX0hxN0lfVTFXWkdSMnBiYndMUG5oUlQ2WEVCU2FQTU5SbWFSemdvUlhxQjgwZw?oc=5",
@@ -19320,6 +21288,10 @@
     {
      "source": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qUlJKcy1vMkgxMHg5a3pKZFU2SWpLWl9oY2RkTDRmUVdtVWd3X0FLSjd1Nk9kbkxvem9DS0hkcWFSdkNGVEhWU2JNU3hfUHNVQUd0YXR6Nl9ITDdCUDJjS0ZJTWM4cEloQkxUSGZYMDVtekRITEFRZlZlMA?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xX1NKS0htaDVOcEFxVTlUSmhYejNaTU1UMWFUc1dMbGM4aVN5YU1abmdGLWdZVV9BRlJWVUd3eUd2NzUybmhDTWRZM0Q0VVN0VXdWVlYycFNnZGwzZ21hc0NkM1NEZFB6Yk1TQWdZdmRBN05aZ3pSdm55RQ?oc=5"
     }
    ],
    "resale": true,
@@ -20331,6 +22303,10 @@
     {
      "source": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMi9gRBVV95cUxPVUFsUUh3STJMVERIOFplYU9RdHROSnp5enNqYzAwWWZpdllKajF1ck1BRWVzWldBcDZIZ09iVmpRMHIxaGVfNUZmV1M5d3dVMDN5YXFWOVl4TmN6c3hfWTB2N19tZVk2M1J1d3lWZUdsbGtWaVhkTVFLbVdBUWVxN0FfZnRuc2RPWmtXeHJjWmV1X1RhOVVEaGh3Z3BwNFNBQWZtUzBKSmNjV3hGQ2Jkb1hHX0x6TUtuNG1TY3FnTkluamk2eTJidDhpUjYxeUVTRnd2aWJ6YnBBNzNVVWR3dFN1OHJjOG0xWUVJR0tFcmpUUDNPOC1HN1RMeHpNMFp2bExDNlNvaTBLalAyajBMZ2Y5dGl4S1RqNlNiSVlFYzJyREUxNjJMMmNmcVVjRjdmOWVSSGRjUThDaGQ3a3JVU1Bxb1o2LWpfYmxZMmphVkhTZTFiZWk0d3RHUnd1NmhoREJ4YmwwYTRMNnR1X0JGSHZ1NmRIcHk0QkstZG9LVnR0TVVUbG12MlF6cC1rUXc3ZFZqUGRFRGdRbm5QbFpLS2R2c2hOUUJXMWxaSE9QbUVteFBnNExoWndhTldhdEJlNi1EcDZTV3RQVVJuQmxuRkUwbzl3TUtzcUlNX1UtWEp1eE9PMmw0dlQ5VTZDQk1UZ3hIbVF2bGoyVHIyc2lxakhMSVpGd2JSbnRueF9ocFVDTlJJN0xiN0dOSWJyb25iSHh3SjNYaFo4WjRaYnRiTEdaeXUtTTRPSGxDMFAxQllmTFh3Nk1hT1BWdjc4RDlHYTlmRlZkTjAwLXBwX2lpZW5Yb054cFlZUjVHM0xkWElJTTR5YUE?oc=5"
+    },
+    {
+     "source": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMi6AVBVV95cUxNNXgxU1dFX2g4UXRnM204a0I3bmhPcElBT1BmT3NGN1FJSl9UMXJzZ3RDVmVrNU5JY0J0ZDN6OHBsNHZuaEJLQjBQdnFjMHd2b1IyZndySi1hMWlsVDhJVXlIOUlpandVZzUwdncxUHhTZ3V3RDlqZER4N3ZGRjA0SzhLU1JhLUdYa2c5SHAzQ0dTNmdiYUN5UllZLTRJMzZsMWI5Q2ZtYm5SVUFrcVpoMDhtY0RISjZEZXNUZ0pzVmdnLUs5dHlEN25EbzJ2WVVUN0F0NTVlVEloU212SXd4NGg2ZFEwY2ttZEJJMURxZ0lBNTBxZm44NW1SU0JIS3htZTRvVS1fUG5FZGduWDJwNVFjOGZuc0JjcnNudlQtUDNoaTlzdUlsZlJNWjRIT0FJMjJlUkl1UGVVSkhzRDRuT3dNLVNoZW0td0VMckNKTE02ZTlRb0FxTkxIMVBLSHFhSTFZTTd3ZWFNaVFMZHZtS2J2Mjd1UlBabE9DNnBVRVBCa3NyV1lvWU9FQlQ4S1E5YmZxYXRzLURJRG9GRkxJS1o2bjFSendjSzRvOGJQazcwSWsxLWtwT3Y3U2J1ZjNpb0x2X0ZNQlg5QmRJaERPOEtWOUszbTNKdnpYcmExSk1tLUVhUlBqa0w3NkdBMXdldWVSaFI0UEhEdm16NkxGdWl3d2lZMHMzZVZ3VGdtVTJxcUlNVlZfOENwbzNRalNXUEw2LVZPOFVuN0k0dnRDckxfZDRheVNGTko3UF8wZlZnbHkwWExJOXFEWjRTWTNnTzNXa2tvTUY0a1FmMkFEY3Y5RFktckdWSV92cU1rQzJBMWZDOWdGMzJidjd2RndfbzZqNGhIU3RlTG5LUUM1akoxUm1scFpTT25Ncjc1ZmFmRFhWYnFlX3pvS196QnNaR3BmTEdnYThLTWRaMktSRURUYzBDSDR6VVJkN01ISEhiYWtYT3BjdXJLQWVlQXBVLUNjS3o3aXU?oc=5"
     }
    ],
    "resale": false,
@@ -29069,7 +31045,7 @@
    "title": "BEYBLADE X 戰鬥陀螺 BX-37 雙重極限衝擊戰鬥盤 豪華組",
    "url": "https://shop.funbox.com.tw/products/bb93948",
    "price": 2750.0,
-   "qty": 35,
+   "qty": 34,
    "in_stock": true,
    "sell_from": null,
    "shop": "Funbox",
@@ -29148,7 +31124,7 @@
    "title": "【森森文具玩具】口袋式電子秤 500g／0.01g｜LCD背光 多單位切換 去皮功能",
    "url": "https://www.sen-sen.com.tw/products/pocket-digital-scale-500g-001g",
    "price": 126.0,
-   "qty": 3,
+   "qty": 2,
    "in_stock": true,
    "shop": "森森文具",
    "upcoming": false,
