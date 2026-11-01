@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T03:27+08:00",
+ "updated": "2026-11-02T06:58+08:00",
  "updated_full": "2026-11-02T03:27+08:00",
  "new_today": 72,
  "sources": [
@@ -239,9 +239,8 @@
   },
   {
    "name": "網店庫存：森森文具",
-   "ok": false,
-   "count": 0,
-   "error": "<urlopen error timed out>"
+   "ok": true,
+   "count": 10
   },
   {
    "name": "網店庫存：玩具反斗城",
@@ -250,9 +249,8 @@
   },
   {
    "name": "網店庫存：Funbox",
-   "ok": false,
-   "count": 0,
-   "error": "<urlopen error timed out>"
+   "ok": true,
+   "count": 3
   },
   {
    "name": "網店庫存：PChome 24h（Funbox 麗嬰供貨）",
@@ -49491,7 +49489,7 @@
    "title": "BEYBLADE X 戰鬥陀螺 CX-16 極限衝擊對戰組C",
    "url": "https://shop.funbox.com.tw/products/bb09728",
    "price": 1995.0,
-   "qty": 70,
+   "qty": 67,
    "in_stock": true,
    "sell_from": null,
    "shop": "Funbox",
@@ -49559,7 +49557,7 @@
    "title": "【APP兌換】交換票券_戰鬥陀螺 CX-00 龍神勇氣G4-70I 金屬塗裝：水藍",
    "url": "https://shop.funbox.com.tw/products/bbpr08914",
    "price": null,
-   "qty": 34,
+   "qty": 32,
    "in_stock": true,
    "sell_from": null,
    "shop": "Funbox",
