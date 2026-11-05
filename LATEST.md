@@ -1,6 +1,6 @@
 # 戰鬥陀螺到貨情報（全台）
 
-更新時間：2026-11-05T07:28+08:00　今日新增 83 筆
+更新時間：2026-11-05T11:39+08:00　今日新增 87 筆
 
 ## 📍 基隆
 
@@ -471,6 +471,10 @@
 
 ## 🌀 未標示地區
 
+- 2026-11-05 [【Funbox網店新上架】【APP兌換】購買票券_戰鬥陀螺 CX-00 龍神勇氣G4-70I　目前還沒開賣／已售完](https://shop.funbox.com.tw/products/bbpr07739) — 網店｜Funbox 
+- 2026-11-05 [【Funbox網店新上架】【APP兌換】BEYBLADE X 戰鬥陀螺 CX-00 雄鹿戰角B2-60D 金屬塗裝：橘　目前還沒開賣／已售完](https://shop.funbox.com.tw/products/bbpr07736) — 網店｜Funbox 
+- 2026-11-05 [【Funbox網店新上架】【APP兌換】BEYBLADE X 戰鬥陀螺 CX-00 海怪扭擺S3-70O 金屬塗裝：藍　目前還沒開賣／已售完](https://shop.funbox.com.tw/products/bbpr07733) — 網店｜Funbox 
+- 2026-11-05 [【Funbox網店新上架】【APP兌換】BEYBLADE X 戰鬥陀螺 CX-00 黃蜂要塞R7-60T 金屬塗裝：黃　目前還沒開賣／已售完](https://shop.funbox.com.tw/products/bbpr07730) — 網店｜Funbox 
 - 2026-11-05 [討論牆 | 影音／戰鬥陀螺補貨秒殺！玩家漏夜排隊 黃牛「炒到7倍價」賣翻](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HaGlsTFZYUHFjZ0JSWXlXMlFYdlFnekltTFRJWUVFdzZDVnJGMDhRbUY1R19XTVRzUUdwcklsVVYxVDgteS10empqbXlQclNpRDhmX2k4TVctWkVOMkRHRDF3WGs?oc=5) — LINE TODAY 
 - 2026-11-05 [售 台版全新陀螺 CX-19 全新未拆含台版QR $480 UX-18 01木乃伊 無QR $1050 CX-00 龍神勇氣 內袋未拆含台版QR $2000 菜陀螺：盲盒確認款，內袋未拆 無QR $300 量大優先 賣貨便收10%訂金 優良賣家，社團多比交易紀錄](https://news.google.com/rss/articles/CBMie0FVX3lxTE9zdWVFcGtQZHc3cEx5N1hCeUpqb3JHenhLLTdmYWNuOXRhZGhNNVVPeEZUUW9KaTJTcFFtc3lzY053bko1ZFdZZm5GU1VqM09kTWc0dnBuOW9WQlFNUGhaaDRZb1VyTDVEZFYyMEFSbmhIN0hSc3R1WUsxZw?oc=5) — Facebook 
 - 2026-11-05 [[亞洲版] UX00 榮耀女武神（藍）💰2650 UX07鳳凰尾翼改造組 💰1000 BX34蒼穹龍騎士💰580 BX50天國日輪💰450 CX00迪迦狂怒 💰750 CX02魔導至尊💰550 CX06隨機強化組 💰450 CX08隨機強化組 💰450 CX-09焰神滅世💰550 CX19鱷魚裂甲 💰480 在台現貨，可掃Q](https://news.google.com/rss/articles/CBMie0FVX3lxTE9qNDZMV0VCUFBlMEhqTlRWMDRUZG04VmtSbzdYY1JKMnJvSTNpZzlWS1dsZThiS1ZORHdyVEJkNXdhV2d6WXJhWWpBeV8zXzY5Q3E1RkZ5Z2lUQmZ3aVFpbWY1YWtDYUlqdk51NkEtcmJjWU90OFhHYnktZw?oc=5) — Facebook 
@@ -497,7 +501,3 @@
 - 2026-11-04 [🔥售 全新主流陀螺 台 日版🔥 BX-53 藍空力盤 ❗️台版 ❗️$3500 A賞野牛 日版 $1500 UX-10 台版 $1350 CX-18 腕龍 台版 $700 BX-35 綠神杖抽包 台版 $700 UX-03 神杖 台版 $600 UX-01 爆刃 台版 $700 UX-17 隕星 日版 $700 BX-49 突襲 台版 $600 CX-08 抽包](https://news.google.com/rss/articles/CBMiekFVX3lxTFBRalBwMGZBNENOdlprMXRmeGJvVHhtdXNXei1EZi1QNm9yeWx3WW53MzZMQ1FFcEpZcHdZOVh0dWx6clJxa01femowZEVsQ3FlRUZrNThpb0N4endtNmNYWEc3RnducFlIdnF3enpyQ1VPSTNwVGFwcjRR?oc=5) — Facebook 
 - 2026-11-04 [BX-53 戰鬥盤幻箭組合 ‼️一日速標‼️ 【商品名稱】 亞洲版BX-53戰鬥盤+魔導幻劍V2組合（現貨） BX-53戰鬥盤（無QR)+魔導幻劍V2全新整條未拆 +拉條發射器 【商品狀況】全新 【結標時間】2026/11/04(三）23:30結標 ⚠️有無限防尾刀機制⚠️ 結標前 5 分鐘內如有有效](https://news.google.com/rss/articles/CBMiekFVX3lxTFBqMkd1SERjcFdZTGtwSWg2Z0pmQWRKOHFhMGxtTjNTTmkxUlJBV3NnSjdYb3h0R0VBcHFHZTNaX2FaY0lNUUItVVhsY09QWVFSN2ZJek1tcGdsR0lLSTZQV0VuVjhOQ3Flbkc1X3NBeGVqNXJfTmZ0RjBR?oc=5) — Facebook 
 - 2026-11-04 [☀️ 戰鬥陀螺補貨 ☀️ 代理版補貨，11/04 (三) 18:00 開放會員點數兌換購買權加購，數量不多售完為止 為了能讓更多人購買戰鬥陀螺，這次我們 `一人限購一顆` 補貨清單: 戰鬥陀螺X UX-15 鮫鯊狂鱗改造組 戰鬥陀螺X UX-03 魔導神杖 此為代理版， `只有會員點數兌換](https://news.google.com/rss/articles/CBMiigdBVV95cUxPMHdqRU53N1RaVmVyenFaQzFSWndsNUF5cHZSenZuLVZ2Z09mYUNrbUNVMXJBSE80WGMyQS01QTNXdmVWaEVNRHNGVmktb0k3UDVRS3ZCLW5Mc1A2MHdnWi04T0pSMzNwendhbHpva1JzR3ZYcGRKNHBnY2w3MC1TV2tJLThOSGdYNDRFbThmZXNZelJvWmhLT3R3Yzh4VGRUMmlaZzVxQmd3RC1PU0RUejZsUk5RZXhwZmN4eXB5UlRsVFNadjhSYjFvNVFIRkNmWkRjOE50NHVySHQwaERMYTBZMWxXTXQ5ME5jV2stcHFGX0ZHc0VMVFotaXAyZlVlak5ZYWpZUm1GV29hdXJGMmRYNVVnVjlZWWl0clpiX05lc3RCZHZiQkdnajRWUDRFWEtOdk14WmY3ZlVya2Njb1JTYThscGhSakdsSUhEYWo2Q3hkaEpjd3Y1dUs1ZkU5Rjc2Nm9UTVViNzBqVkxaOFpNZVNaUFhoRERTTDFXY0dFT0RLQ2t5TUFTc21XVzFvSjhESHR3WEZOd3RDZm51TXdkZy1sczNaLXR0ZFJnRVBOWHl4emg2M1pmT0RUUUhNNWlLTlVOU3IzbW1jNUFmdjdXa0kwUXhteDRWV0c0dmNJOGMzZm1SQ0VNalVsa2JZNHRKVnZwMXAxN2VJUmJLOC1mcmlicTN0cnVDdkhOdjZwakplQXBhUmxHODZCYm16NFZBaUdGY2NlUXljQUg3Y05CSGRveGdjWXNhRExGM2JURFFDb2RhcU1rMkZHTVBzRUxEeDlJN0VmdW5NYTNxd1hFM1l1T29weTlnM1JaWEVQN09fSUNWakdHcU94N0wtaEJ4d0VqcTJjdm9BSWRaeDZtTm1DOS1mRFZWSkF1QndqcHFGWElzcGFpbVh4Mmh4cVFSTHYydWtSM3NqWGlzTDE0WkdyVVJzMnNjMFRDdEs4TlFKZ2dvdV9rdnQ4NkNTOE5XOTVBMVIwYng4ODJwMVhiR1hPWG5JaUdMVEZ3NHYxMkNCZlZ6dW5DWF84TFVsa3VVckwwVS1qSUJKMWpjYmkzVjNwcEU5R1dwRjF1VEhpTmo4OWhtQk1WRmZNUHRMYVVNVktFazVPNDhnN1d2OUZRcjRvLXVNZVJQdXp6OEhPdUhlbzE0Qk1XWVRxeUg3NzIwczc1ZWdDdWF4VmpYTVRrTjBhRk45WWc?oc=5) — Facebook 
-- 2026-11-04 [售台版 BX-53 全新未拆封 $3600。有2盒 郵寄+100 匯款後寄出](https://news.google.com/rss/articles/CBMiekFVX3lxTFBIMWF6cnk5NWl5RzU2WTJKOHVtNTQxNWVLM0VINGZFdGZfeFQtSS1MNWlfamwtQ0t6OGJmUHRicFpVeXlrTDJkalk1ZFI5NDdzem5ESnY3a3otaURfVzNCcHdKWXpmNDRjdHBXS3lsbUc5VzQ3cTZWbDJB?oc=5) — Facebook 
-- 2026-11-04 [BX-53 台灣好像上市了 想問一下，台版定價多少？ 接下來盤子會不會越來越好買？](https://news.google.com/rss/articles/CBMiekFVX3lxTE9RX29za3diRlhKMTgzMWVNc2hvV1VpZFB2bFpHMHF4UmNMWTZ3T1FiaFdkSTc2OGFlaWRWalc3anRwNDZ3aDBOTE03SzlYcWtORXAyRklzQnZvVUJkTGlUb2UzbWh6UFo1SEZUWnZzU2xxSkpCRG1waFFn?oc=5) — Facebook 
-- 2026-11-04 [🔥 第二十二屆 AK鬥士盃 熱血開戰！ 🔥 ⚔️ 各位陀螺手準備好了嗎？ 這次不只要爭奪冠軍，豐富獎品等你帶回家！ 📅 比賽日期｜11/9（一）20:00 💰 報名費｜$300 👥 32人開賽｜64人收滿不加 🏆 前三名獎品｜勝者優先選擇 🥇 CX-16 戰鬥盤組＋BX-52 光輝龍騎士 🥈 BX-](https://news.google.com/rss/articles/CBMiekFVX3lxTFAwcGxnT3VTbm0zSldjaFFTOFVZWl90c2RpVnBSckVTWkxmU1R6X1RJdnZEZWxKbVRwdmZGWVAtcTljMjE0T0NvTU52bXJYUUVrNm5wQk93YTQ3MHl6Sk93WF9YTGdoc3YxNGJTaWFZQTBPRFBuNENTLXJn?oc=5) — Facebook 
-- 2026-11-04 [售 全新未拆 BX-53 魔導幻箭v2整串 $300 BX-53 藍色拉條發射器 $150 UX-17 隕星龍騎士無j軸無QR $400](https://news.google.com/rss/articles/CBMiekFVX3lxTE9rN0JmYnM4Znpab3RTalZLOVhJNC04RDdhMHp4SHBkQXhXbWNpcDNuWUg1ZkJ4VmpXVXItbmFwRmhoS0hfWDMtN0hSQmlEVFBveVdYUUlEc1NCeUV4WkhhUEJSakRNejBnTjN5UTB5eHFhelhESlVUVmRn?oc=5) — Facebook 
