@@ -1,6 +1,6 @@
 # 戰鬥陀螺到貨情報（全台）
 
-更新時間：2026-11-06T22:30+08:00　今日新增 140 筆
+更新時間：2026-11-07T04:30+08:00　今日新增 0 筆
 
 ## 📍 基隆
 
@@ -303,7 +303,6 @@
 - 2026-10-11 [【競標文/一日短標】 【競標商品】：BX-00 蒼穹龍騎士 會場限定 外包裝有點舊，介意勿喊 【結標日】：10月11日 22：00 【起標金額】：500 直購1500 【交易方式】：#先匯款 匯款留20元走 7-11 賣貨便+38 （留20貨到付款) 店到店 自付運費60 面交：雲林虎尾面交（需配合我時間）](https://news.google.com/rss/articles/CBMiekFVX3lxTE91bjA5bUdTdzlvc2ZSSmN0SHA5TFNyWDBNT3paWGdnQV9xaDdvTWI4X2xGX3dxUGlUS3kzOW8ySjQtZlozV0xzc0V0aVBaT1BfVVBpcklDU3Y5VF9qazR0SnAxQkR0dFBUQ2tRVk9zNE4wTi1TWVRvQXFn?oc=5) — Facebook `7-11`
 - 2026-10-10 [收 BX-51 & UX-11亞版 雲林面交或賣貨便](https://news.google.com/rss/articles/CBMie0FVX3lxTFBqdDdQSVppWjBUUXZGSFFmUF9RY2tJUUh2aTVaMEJfem9HNktFbHVqMXh6YzREaXlSNzV2c2ZvUWlxQTEzWmo0LUJDYnF2TnVxZWZURjJKRkxyeVhqUUlqdG4tdXhpLUdyZkFtMUV1RjNIU1NfVWxVRW5xNA?oc=5) — Facebook 
 - 2026-10-10 [售 UX-16時鐘幻象全新未拆有QR-600元 雲林（今晚到明天中午前）可面交 明晚後台北士林北投面交or匯款店到店+60](https://news.google.com/rss/articles/CBMie0FVX3lxTE1RLUU4OFdYbW1fR0drU2p1bGhtWkkwN0RPZUpnVU03Y1I1b1lJMXdMOUs4aW1Yd0JOcXVoajZwaXZORktiZ2wwQWszZzgxZWtmdzlEdE1QLWdCdzhleXB1bmlMUklTeVEwaUZ1aWk5MEF3MGdBMkNWc19mbw?oc=5) — Facebook 
-- 2026-10-08 [收收收收 【商品名稱】： 1.UX-13 鋼印G2826/G2926 2.H軸一根 3.綠神杖35.5上 【商品狀況】：全新未拆/整盒/一次膠/未拆袋 【商品售價】私訊報價回最低 【備註】：賣貨便/雲林可面交 可以沒有Qr但一定要未拆袋 謝謝平台☺️](https://news.google.com/rss/articles/CBMie0FVX3lxTE1DX2M1MGw5bUFWREJ6LW4wNE9uY3llSnZ5Q3JVM3JwOFNDVGN4MW0zY1p6WGVsQndpdUxNRHpkRFlKTHVqRjVaN3AwVzBGdW9pU0lyOTNqNmV0ZnRtV3FnZUE0MmNCRjRnTEVzX2w4U1dNQ21qNmJtQzV1NA?oc=5) — Facebook 
 
 ## 📍 嘉義
 

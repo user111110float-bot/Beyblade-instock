@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-06T22:30+08:00",
+ "updated": "2026-11-07T04:30+08:00",
  "updated_full": "2026-11-06T22:30+08:00",
- "new_today": 140,
+ "new_today": 0,
  "sources": [
   {
    "name": "Google 新聞：到貨",
@@ -61035,48 +61035,6 @@
    "event": false,
    "channel": null,
    "sale_dates": []
-  },
-  {
-   "id": "987d68471061dd96",
-   "title": "售 亞版含QR。 UX-15拆檢上蓋（37.4X） 其餘內袋均未拆 二手上蓋： 魔導神杖（35.3X) 霜輝銀狼 武士星劍 二手右旋旋風（白）*1 二手左旋旋風（藍）*1 全部一起賣2500元 店到店免運寄送。 沒有賣貨便！ 沒有賣貨便！ 沒有賣貨便！ 第一個私訊直接完成交易者，再送二手",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01Yy15TEtIZnRvRDVIc3B3UWJOT2pCcHZCYnVvczNSMEE2UWZtOUxLbEhQb1hmOFQxS1hfMTdSbHhqYnlyc0Rtam5JcTJkN2ExXzFENzBxRHVXbXcwNnRRNEVSZ3QtWlNubmZPQWs5VWc1b2FsaTNRZTBrZw?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-08T01:48+08:00",
-   "first_seen": "2026-10-17T00:12+08:00",
-   "region": [],
-   "arrival": [],
-   "stores": [],
-   "resale": true,
-   "shop": null,
-   "score": 0,
-   "branch": null,
-   "event": false,
-   "channel": "store",
-   "sale_dates": []
-  },
-  {
-   "id": "b15ec83a94afaf17",
-   "title": "收收收收 【商品名稱】： 1.UX-13 鋼印G2826/G2926 2.H軸一根 3.綠神杖35.5上 【商品狀況】：全新未拆/整盒/一次膠/未拆袋 【商品售價】私訊報價回最低 【備註】：賣貨便/雲林可面交 可以沒有Qr但一定要未拆袋 謝謝平台☺️",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DX2M1MGw5bUFWREJ6LW4wNE9uY3llSnZ5Q3JVM3JwOFNDVGN4MW0zY1p6WGVsQndpdUxNRHpkRFlKTHVqRjVaN3AwVzBGdW9pU0lyOTNqNmV0ZnRtV3FnZUE0MmNCRjRnTEVzX2w4U1dNQ21qNmJtQzV1NA?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-08T01:19+08:00",
-   "first_seen": "2026-10-17T00:12+08:00",
-   "region": [
-    "雲林"
-   ],
-   "arrival": [],
-   "stores": [],
-   "resale": true,
-   "shop": null,
-   "score": 2,
-   "branch": null,
-   "event": false,
-   "channel": null,
-   "sale_dates": []
   }
  ],
  "stock": [
@@ -61096,7 +61054,7 @@
    "title": "BEYBLADE X 戰鬥陀螺 BX-37 雙重極限衝擊戰鬥盤 豪華組",
    "url": "https://shop.funbox.com.tw/products/bb93948",
    "price": 2750.0,
-   "qty": 19,
+   "qty": 18,
    "in_stock": true,
    "sell_from": null,
    "shop": "Funbox",
@@ -61152,7 +61110,7 @@
    "title": "【APP兌換】交換票券_戰鬥陀螺 CX-00 龍神勇氣G4-70I 金屬塗裝：水藍",
    "url": "https://shop.funbox.com.tw/products/bbpr08914",
    "price": null,
-   "qty": 34,
+   "qty": 28,
    "in_stock": true,
    "sell_from": null,
    "shop": "Funbox",
@@ -61442,6 +61400,17 @@
    "restocked_at": null
   },
   {
+   "title": "Beyblade戰鬥陀螺 BX-17 極限衝擊對戰組",
+   "url": "https://www.toysrus.com.tw/zh-tw/beyblade%E6%88%B0%E9%AC%A5%E9%99%80%E8%9E%BA-bx-17-%E6%A5%B5%E9%99%90%E8%A1%9D%E6%93%8A%E5%B0%8D%E6%88%B0%E7%B5%84-10008186.html",
+   "price": 1599.0,
+   "qty": 0,
+   "in_stock": false,
+   "shop": "玩具反斗城",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:23+08:00",
+   "restocked_at": null
+  },
+  {
    "title": "Beyblade戰鬥陀螺 BX-15 雄獅獵爪",
    "url": "https://www.toysrus.com.tw/zh-tw/beyblade%E6%88%B0%E9%AC%A5%E9%99%80%E8%9E%BA-bx-15-%E9%9B%84%E7%8D%85%E7%8D%B5%E7%88%AA-10008185.html",
    "price": 389.0,
@@ -61453,8 +61422,8 @@
    "restocked_at": null
   },
   {
-   "title": "Beyblade戰鬥陀螺 BX-17 極限衝擊對戰組",
-   "url": "https://www.toysrus.com.tw/zh-tw/beyblade%E6%88%B0%E9%AC%A5%E9%99%80%E8%9E%BA-bx-17-%E6%A5%B5%E9%99%90%E8%A1%9D%E6%93%8A%E5%B0%8D%E6%88%B0%E7%B5%84-10008186.html",
+   "title": "Beyblade戰鬥陀螺 Burst#203 究極合體改造組DX",
+   "url": "https://www.toysrus.com.tw/zh-tw/beyblade-b-203-sp-starter-set-1175417.html",
    "price": 1599.0,
    "qty": 0,
    "in_stock": false,
@@ -61467,17 +61436,6 @@
    "title": "Beyblade戰鬥陀螺 BX-16 王蛇鞭尾 隨機強化組",
    "url": "https://www.toysrus.com.tw/zh-tw/beyblade%E6%88%B0%E9%AC%A5%E9%99%80%E8%9E%BA-bx-16-%E7%8E%8B%E8%9B%87%E9%9E%AD%E5%B0%BE-%E9%9A%A8%E6%A9%9F%E5%BC%B7%E5%8C%96%E7%B5%84-10008187.html",
    "price": 289.0,
-   "qty": 0,
-   "in_stock": false,
-   "shop": "玩具反斗城",
-   "upcoming": false,
-   "first_seen": "2026-10-17T01:23+08:00",
-   "restocked_at": null
-  },
-  {
-   "title": "Beyblade戰鬥陀螺 Burst#203 究極合體改造組DX",
-   "url": "https://www.toysrus.com.tw/zh-tw/beyblade-b-203-sp-starter-set-1175417.html",
-   "price": 1599.0,
    "qty": 0,
    "in_stock": false,
    "shop": "玩具反斗城",
