@@ -1,6 +1,6 @@
 # 戰鬥陀螺到貨情報（全台）
 
-更新時間：2026-11-09T10:00+08:00　今日新增 47 筆
+更新時間：2026-11-09T17:37+08:00　今日新增 47 筆
 
 ## 📍 基隆
 
@@ -32,7 +32,6 @@
 - 2026-10-14 [售 1-UX-15全新未拆有QR碼 H標 $1800 2-發射器圖片現況 全帶走$750 交易方式限面交基隆台北](https://news.google.com/rss/articles/CBMie0FVX3lxTE0tRTdmTmJNS0NDeTZBb0E4enBqUnY4YnMzdlluSHBvbmRaMEE3SEx2Z05oTUE5dWt3T0tVZHhiQTFsaWdqeXpJZUNjaTVFN3lQbUhUTE1PdXZTaWMyWG9hWjE1bVhkaFdHRXY5Q0tib1Y2SEs1RDQ3M0F6bw?oc=5) — Facebook 
 - 2026-10-12 [售代理版 BEYBLADE X 新世紀福音戰士 戰鬥陀螺限定套組 1600元 賣貨便可自行下單 或 基隆市區小麥當勞.台北內湖好市多附近可面交 https://myship.7-11.com.tw/cart/confirm/GM2610017258348](https://news.google.com/rss/articles/CBMiekFVX3lxTFBOclh6OUFLOV9HV25KSWhiOXd0T1lldVlGYTVVOXJvRUhzMzV2OWxsNXBibFkxRXBTdW90a292Q0tXMDdQWXhDZmhNeW40MEFtVm1keFdTMkFNcmxyWEI2aFNONWZvb3FaWTE0bFNOcDNIYnNrS1VMZGF3?oc=5) — Facebook `好市多` `7-11`
 - 2026-10-11 [售CX-00龍神勇氣 （無QR 2700 UX-08 霜輝銀狼 650 一起收可議 基隆汐止面交優先](https://news.google.com/rss/articles/CBMie0FVX3lxTE8xbktUUkFjbFM5am5iOWxhak5qZGhCQUhPSTZUNWpFdzhwNm1iYVlzYTFMckhpV1UxVW1pLTIzLXd6X0x5NlpvalJtdkt1b1IwTVp5NWhjVG1XN0VNbVpDcW1EdjJvQzItRTl5NkNhM2xjQnc2SGhYQmRTcw?oc=5) — Facebook 
-- 2026-10-10 [售 CX-00迪卡狂怒800 限基隆廟口、台北車站、松山火車站面交 明天面交送圖二對戰盒](https://news.google.com/rss/articles/CBMiekFVX3lxTFBmdFhGcjRRODE2RWl1Vi13b01Rcm51N1NPWGU2QXRjbTdWLVJ5U3lUV1FOQlFoalVQZTRtaGpIdk5FRGpyYmw2dUxKUG5idWpYNnZvMWcyekxTZEMzZ2gzbk9fc0xfNl9waTJDSjZvbHh6aTFSWUpxNkdB?oc=5) — Facebook 
 
 ## 📍 台北
 
@@ -312,7 +311,6 @@
 - 2026-10-13 [售 UX-00藍女武神 3000 BX-06跟CX-01 1000 匯款後寄出或雲林斗六面交](https://news.google.com/rss/articles/CBMiekFVX3lxTFBqQkRtTE90YXBrbS1pMm5PY3NvcXJXOERST2tnSWJ4c1N1WHdMV0pPQU5ieENyZVFvcmJwQ1o3Smo4NmF0UnVxb3N0M0szdjRLSzJoaWRVaTVjWWMtdllhSXV6UWdsc2J4NXhLOGxNRVZaNEE2U01xOHJB?oc=5) — Facebook 
 - 2026-10-11 [【競標文/一日短標】 【競標商品】：BX-00 蒼穹龍騎士 會場限定 外包裝有點舊，介意勿喊 【結標日】：10月11日 22：00 【起標金額】：500 直購1500 【交易方式】：#先匯款 匯款留20元走 7-11 賣貨便+38 （留20貨到付款) 店到店 自付運費60 面交：雲林虎尾面交（需配合我時間）](https://news.google.com/rss/articles/CBMiekFVX3lxTE91bjA5bUdTdzlvc2ZSSmN0SHA5TFNyWDBNT3paWGdnQV9xaDdvTWI4X2xGX3dxUGlUS3kzOW8ySjQtZlozV0xzc0V0aVBaT1BfVVBpcklDU3Y5VF9qazR0SnAxQkR0dFBUQ2tRVk9zNE4wTi1TWVRvQXFn?oc=5) — Facebook `7-11`
 - 2026-10-10 [收 BX-51 & UX-11亞版 雲林面交或賣貨便](https://news.google.com/rss/articles/CBMie0FVX3lxTFBqdDdQSVppWjBUUXZGSFFmUF9RY2tJUUh2aTVaMEJfem9HNktFbHVqMXh6YzREaXlSNzV2c2ZvUWlxQTEzWmo0LUJDYnF2TnVxZWZURjJKRkxyeVhqUUlqdG4tdXhpLUdyZkFtMUV1RjNIU1NfVWxVRW5xNA?oc=5) — Facebook 
-- 2026-10-10 [售 UX-16時鐘幻象全新未拆有QR-600元 雲林（今晚到明天中午前）可面交 明晚後台北士林北投面交or匯款店到店+60](https://news.google.com/rss/articles/CBMie0FVX3lxTE1RLUU4OFdYbW1fR0drU2p1bGhtWkkwN0RPZUpnVU03Y1I1b1lJMXdMOUs4aW1Yd0JOcXVoajZwaXZORktiZ2wwQWszZzgxZWtmdzlEdE1QLWdCdzhleXB1bmlMUklTeVEwaUZ1aWk5MEF3MGdBMkNWc19mbw?oc=5) — Facebook 
 
 ## 📍 嘉義
 
