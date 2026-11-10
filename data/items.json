@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T04:09+08:00",
+ "updated": "2026-11-10T10:45+08:00",
  "updated_full": "2026-11-10T04:09+08:00",
- "new_today": 63,
+ "new_today": 64,
  "sources": [
   {
    "name": "Google 新聞：到貨",
@@ -250,7 +250,7 @@
   {
    "name": "網店庫存：Funbox",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "name": "網店庫存：PChome 24h（Funbox 麗嬰供貨）",
@@ -259,6 +259,29 @@
   }
  ],
  "items": [
+  {
+   "id": "3b40d0226eb003ed",
+   "title": "【Funbox網店補貨】【APP兌換】交換票券_戰鬥陀螺 CX-00 龍神勇氣G4-70I 金屬塗裝：水藍",
+   "url": "https://shop.funbox.com.tw/products/bbpr08914",
+   "summary": "",
+   "source": "網店｜Funbox",
+   "social": false,
+   "date": "2026-11-10T10:45+08:00",
+   "first_seen": "2026-11-10T10:45+08:00",
+   "region": [],
+   "arrival": [
+    "補貨"
+   ],
+   "stores": [],
+   "resale": false,
+   "event": false,
+   "channel": "online",
+   "sale_dates": [],
+   "shop": "Funbox",
+   "branch": null,
+   "score": 4,
+   "kind": "stock"
+  },
   {
    "id": "a4074fce7a7599f9",
    "title": "[日版] BX-23鳳凰飛翼💰750 BX-34蒼穹龍騎士💰620 BX-49蒼龍突擊 💰600 CX-13龍王閃擊💰550 CX-15邪神狂怒💰380 CX-19鱷魚碾壓💰450 UX-01蒼龍爆刃💰680 UX-03魔導神杖💰550 UX-08霜輝銀狼💰550 UX-11衝擊龍神💰850 UX-17隕星龍騎士💰650 UX-20榮耀",
@@ -66806,41 +66829,6 @@
    ]
   },
   {
-   "id": "945ee583e85e6928",
-   "title": "預購一下 商品名稱：BX-52 光耀龍騎 日版全新未拆含QR 售價： $900／組 預購訂金：$100 商品說明： 預計下週五到貨 板橋江子翠站面交 或7-11 店到店寄送+60運費 訂金 $100，棄單不退 能接受再私！",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xQ0g1dHF3Y0RRQWdoeDNFOG81Si1fQU1rc0dFY3U2Q2stVWZldUJ2c0h4aEhqTmU3SG9JamVOTFVnR1BEUTVqOFJyTlJfXzBGS0JINWZvbGhKUE5rYW5fNXI2RjFCcklmdHhHRzRHTmxwMXJRUzdyVEZWZw?oc=5",
-   "summary": "",
-   "source": "Facebook",
-   "social": true,
-   "date": "2026-10-11T10:24+08:00",
-   "first_seen": "2026-10-21T01:55+08:00",
-   "region": [
-    "新北"
-   ],
-   "arrival": [
-    "到貨",
-    "預購"
-   ],
-   "stores": [
-    "7-11"
-   ],
-   "resale": true,
-   "channel": "store",
-   "sale_dates": [
-    "2026-10-16"
-   ],
-   "event": false,
-   "shop": null,
-   "branch": null,
-   "score": 5,
-   "also": [
-    {
-     "source": "Facebook",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RaXNTVVRNVEV6V2tZcFBkOTlrSWtTcUprOGFia2p0WmFIYzlNVXlvRkgzRjg0SnoxNmdPbmp1a0FVSDlBa2RwNjY0cTVJdk94OS1sZ0RFVDJJUXJVV242Ri1hTmV3dlAzNlc3VDJaRjJrVVVIUXZBeDBn?oc=5"
-    }
-   ]
-  },
-  {
    "id": "60e7304c847ed47a",
    "title": "【💥 BeybladeX 粉絲召集令！新品發售日特別企劃 🌪️】 各位陀螺戰士請注意！萬眾期待的 Beyblade X 新品即將登陸南華體育會！為了迎接 11/10 的發售日，我們準備了特別項目——即場試玩活動！🔥 ✨ 購買後立即開戰！ 當天購買新款陀螺後，您可以立即在我們安排",
    "url": "https://news.google.com/rss/articles/CBMi7wVBVV95cUxQM2xVMHo1R1Nfckx0WVU5MDFsT05iN0pZTVpPVGI1YnAwMExjNWNrS2pEZWNVaXJaNm04NVBmNmhkZ09jZ3NYM2ZfelZSWU11OXdoT3hIcFBEZXgtaDhOdnAxR0VsejhMUldtU0ZEYktOMTZ1TndwYWxIWXdTMGo1QTVIeXdKU1pTLUVKRkxlSXM1VHlOXzJLT0ZmRkhYS19XOVJTb20xbU5BUm9RMS1iclZaUE5LQ1phNTFMdUIwTXVXNWpWVXF3YjBkWEFKVVh4cU1hSWN5TTEybFdRZFVDMW04SVhWcDlleUZ2N3JiWkdRWmJtR0JWWFlvTU9EYldGUFRJeHptbTY5OEJaeWwwWUFmaXRHTTRIV25Eb1J6QlVLaGotcUhQc0d6UGxjNFdiYzBxVGtQV2syLWVrdHJKV0lxQl9ZZHpIa05qZGhoSTExOGhjQ2YxRUk1YlFkTDAwTDQzM3NnZ2ctazQtMjlXSE9TNk5WVlhnLUpIMXN6S1Y1Zl9CZE1KbTFYV1otYklQaEwzSExHeDVIYzNUZ1dHUURqVGs2bUJncHI3S3pQNkp5cHBLZzlKQkFmQ2RfX2RzRHowQjByUS1yNnVyejRzakpmcGdMLVZNRFFNSV80N0FkM0tWU1ljazBwQmVidlNkWm5SM1JoSm9zdm52UkNOYzlzNWNCOHdWSG82R3VNQ0loOGJNOTZfeTZCcndFbjduXzYxYi1UTXhqdkxzQVdyTnBFcUhmMXZBRXl0UlNpQ2gteDVwaUlmdFVmaEhja1dfVkZCelpIc3ZrbVM0QTJXcmUxUTR0ZzJ4eFlROXIwQ2R1VzBxZGNWQTBuZ29ob3owLUxYUDZ2Y0Q5VF9TcG9XeFdERXpHMURyWEd3OWlteGtuSkVDOC1kOG1qS3l5OG9nZFk4TWNQYWNGYnhkZUJTVWtlU3RUMGluVFFrUzlhVHFYM1N3a3hsbTZpN1ZZam9acnFHZ3JHSGM3bDRQSV9J?oc=5",
@@ -66867,10 +66855,22 @@
  ],
  "stock": [
   {
+   "title": "【APP兌換】交換票券_戰鬥陀螺 CX-00 龍神勇氣G4-70I 金屬塗裝：水藍",
+   "url": "https://shop.funbox.com.tw/products/bbpr08914",
+   "price": null,
+   "qty": 396,
+   "in_stock": true,
+   "sell_from": null,
+   "shop": "Funbox",
+   "upcoming": false,
+   "first_seen": "2026-10-17T01:32+08:00",
+   "restocked_at": "2026-11-10T10:45+08:00"
+  },
+  {
    "title": "BEYBLADE X 戰鬥陀螺 CX-16 極限衝擊對戰組C",
    "url": "https://shop.funbox.com.tw/products/bb09728",
    "price": 1995.0,
-   "qty": 25,
+   "qty": 24,
    "in_stock": true,
    "sell_from": null,
    "shop": "Funbox",
@@ -67202,18 +67202,6 @@
    "shop": "PChome 24h（Funbox 麗嬰供貨）",
    "upcoming": false,
    "first_seen": "2026-10-17T01:41+08:00",
-   "restocked_at": null
-  },
-  {
-   "title": "【APP兌換】交換票券_戰鬥陀螺 CX-00 龍神勇氣G4-70I 金屬塗裝：水藍",
-   "url": "https://shop.funbox.com.tw/products/bbpr08914",
-   "price": null,
-   "qty": 0,
-   "in_stock": false,
-   "sell_from": null,
-   "shop": "Funbox",
-   "upcoming": false,
-   "first_seen": "2026-10-17T01:32+08:00",
    "restocked_at": null
   },
   {

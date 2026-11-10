@@ -1,6 +1,6 @@
 # 戰鬥陀螺到貨情報（全台）
 
-更新時間：2026-11-10T04:09+08:00　今日新增 63 筆
+更新時間：2026-11-10T10:45+08:00　今日新增 64 筆
 
 ## 📍 基隆
 
@@ -483,6 +483,7 @@
 
 ## 🌀 未標示地區
 
+- 2026-11-10 [【Funbox網店補貨】【APP兌換】交換票券_戰鬥陀螺 CX-00 龍神勇氣G4-70I 金屬塗裝：水藍](https://shop.funbox.com.tw/products/bbpr08914) — 網店｜Funbox 
 - 2026-11-10 [[日版] BX-23鳳凰飛翼💰750 BX-34蒼穹龍騎士💰620 BX-49蒼龍突擊 💰600 CX-13龍王閃擊💰550 CX-15邪神狂怒💰380 CX-19鱷魚碾壓💰450 UX-01蒼龍爆刃💰680 UX-03魔導神杖💰550 UX-08霜輝銀狼💰550 UX-11衝擊龍神💰850 UX-17隕星龍騎士💰650 UX-20榮耀](https://news.google.com/rss/articles/CBMie0FVX3lxTE0zTUhNb2RSOThXUFJ1R2hicF9EV3hKbjB4TTg0dlNSRjFidmRhRW9fMExEQmE1T3VLcmdiVHZBRFJQR0lteHFmRmxPZ2U1WjNQdDJjTU1qc1FvOEtWY1JxXzZLZFhNNE5uT29YTW52YWFaSXdCdmJlNjMwMA?oc=5) — Facebook 
 - 2026-11-10 [售全新 拆檢神杖35.45整盒(+-0.06) 亞版有QR $650 BX-50 天國抽包 亞版有QR $400 BX-52 輝耀龍騎士 日版有QR(海關拆檢盒 內袋皆未拆) $700 CX-07 天馬爆擊 日版有QR $650 旋風發射器(武神) $300 旋風發射器(鳳凰) $300 T型拉條發射器一組（左迴旋） 魔像奇](https://news.google.com/rss/articles/CBMie0FVX3lxTE5VdVc0a1lVSEhiOVI5Ymlwa3FrdlJ6dWNXUTlfTXdkNVFhRWNrM1JmVUVCb05yZF8ydlhPbjk4R0VUOVlOdTA0Z0FRQjgxekRzdWtCVlJVZWpQc282dkdRYUt2c2JuWkdzaDcxeHVlZElfT0NiODRJclJqcw?oc=5) — Facebook 
 - 2026-11-10 [🔥🔥B-1 陀螺招待所｜11/11 （三） 🏆眾鯊狂奔& 斬盡鯊絕盃 ⚔️ 週三夜晚，眾鯊開戰！ ⚔️ ⚠️特殊規定 ： ￼必須上一顆 絞鯊狂鱗 💥 只要200元，就有機會把超人氣戰鬥陀螺 帶回家 🏆 UX-15 絞鯊狂鱗 🥈 UX-15 絞鯊狂鱗 🥉 UX-15 絞鯊狂鱗 🏆 本月 11月冠軍 （最多者）🏆 （](https://news.google.com/rss/articles/CBMie0FVX3lxTE1UUk0zaXRBZEZ2RWZjR0JKSkc1eDRSdGxSbDVCVU5WOUh1UHBaczh5X2RIc1F4YTJzLTBXY1QweDBTTTRKZHhYSEtqcUtmaHEtLWFfcWl6aDV1cUtUVk9Vd1BVUVNHaE9halpicVBIWml3dlRkQ3RCcFZBVQ?oc=5) — Facebook 
@@ -512,4 +513,3 @@
 - 2026-11-09 [出售～特殊品～日本限定 【黑色】BBLD蒼龍利刃 4-60R｜ 全新含發射器 【全新】最後賞野牛 ｜ 全新日版 ｜ 本週到貨 【全新】日版 應募鳳凰 ｜ 全新日版 無QR｜ 本週到貨 【全新】《釣魚精神 爆釣粉絲書 Vol.2》含藍鯨陀螺 【9成新】日版A賞飛龍｜ 9成新含軸心固鎖 【全新】](https://news.google.com/rss/articles/CBMie0FVX3lxTE9XQ0NDeUdFbnp6MHRFUGk5NEozQnQySzlaSXNSYXl4MGdXeVIwUjdYMmNBdDd6ZnpSbDh1cTlmUW5aMndfZW9sVmRWLTFQU0xEZzBQbllLejNoRF9VRGZ6MWlKQm43MnJETjJiNk5TVzFrc0oxc2xVY2dGSQ?oc=5) — Facebook 
 - 2026-11-09 [賣陀螺 及 配件（沒有美版） 不議價 資訊已更新降價 ———————————— 賣QR台版10萬點 $4990 ———————————— UX-15鯊魚(H標-台）$1750 CX-00龍神勇氣(麗嬰）$2190 CX-00黃蜂要塞(麗嬰）$1190 CX-19鱷魚裂甲（台）$490 BX-49蒼龍突擊（台）$](https://news.google.com/rss/articles/CBMie0FVX3lxTE9nWHh4SDh1RnYzcWk3MmY5a2tFX2ZueWR4MXN2azhYS2czNU5kYlJSR3Z1NVBBdERuYWh1QUNuWXZUQUV0Z3NNYmxOa3Q4emExZTZWcHlGS1ZoWU0zUGtEeENSQlJETmUySDBSeUpEcjFSS1lEVXJ6YUUwOA?oc=5) — Facebook `麗嬰`
 - 2026-11-09 [出售 全新內袋未拆亞版綠神杖有qr 1700元 全新內袋未拆亞版cx-06-01有qr 500元 全新內袋未拆亞版bx-50-03有qr 300元 全新未拆亞版bx-09通行證有qr 1900元 全新亞版握把有qr bx-42 bx-30 500元 全新未拆日版神杖ux-03 550元 全新未拆日版LR軸 350元 全新未](https://news.google.com/rss/articles/CBMie0FVX3lxTE8yVHpyQmcxSm5GOHRoNHROM0hmMkhOemUxZWVvYXRfa3RkVHFJUGJkbUFRZGEwVEtnR3VnQmxmdUliZTdIOWxJYTVjd245ZVhhdzdoRGJyT2Y5dFBPWXItTU9nOVRJNTNhTjNaeWtHNU00MFJEZTM3RGE3QQ?oc=5) — Facebook 
-- 2026-11-09 [收 BX-53 私訊報價 可面交&宅配](https://news.google.com/rss/articles/CBMie0FVX3lxTFBuNFhtWGlackZBT1BKamJray1SR1VZYXF1VEJqNy1TVDh0WHJFdFNOUE1BTzI3cGYtR0l2U0VTRy02bmdQT05Wb2MzZk9qUGZzTWw3QkQ3dWM5Mnd1dFFUQkxpUXVQa3lYMHFnNFQxbm1RM0NiYW1CRUdTOA?oc=5) — Facebook 
