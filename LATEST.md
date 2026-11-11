@@ -1,6 +1,6 @@
 # 戰鬥陀螺到貨情報（全台）
 
-更新時間：2026-11-11T18:35+08:00　今日新增 109 筆
+更新時間：2026-11-12T02:05+08:00　今日新增 0 筆
 
 ## 📍 基隆
 
@@ -437,7 +437,6 @@
 - 2026-10-20 [日版戰鬥陀螺現貨補貨到‼️‼️ 🌍地址：屏東市上海路5號 🔺️有開設line群組，想加入的朋友可以私訊或是掃QRcode,回答您喜歡的動漫或盲盒就可以加入囉🤩 (屏東火車站對面濰克早餐店隔壁隔壁～) 🕙營業時間：❗週一休息❗週二至週五 中午12:30～晚上20:50 週六日](https://news.google.com/rss/articles/CBMivgdBVV95cUxNSVhMdV9tRS1KS3FDWDcyR0lhX3ZwX2tBeEQzc0pDYXhMajhsRFZkZHd4YlpEc29NSjNEM2d2NEY3UkNnX09RcGdZTFdhSGVWMkQwMGdOTGlYdjJGUThSUkluNW5qOXZWRUUweVVfT0FNSG9mejV2ajBxRWJRZnhmQjRuOHF4Sm92LTdZSm1DRkZ4XzdUR1VtaHpyTzNXSGdseTlaR2xQTU5EOEpLTGtQYkNNeEZERF82TEUyOHFGdks0WTkyUndkdUxMVUZSZllMQ1QzX2EwTVo5WDF4UlZrcm96RTFpTzhhcEh3dEY1Tmt4SHlFQW9DeFRSMzdXSWJvZFFIOXVjV0JwNHZIb3ZZdEJ6bmsxRlpUZnA5OFJwYXRVa3ZFajhuWGVPNnd0eFA3c0w4MDNOZUFWS1QwYXJSZEtnX0t5RkhzUmowOHEzU1RWVkRKLTdqaDE1ZXBwNGNFUDJ4QVlmRXhNRDhKMGpoS2t4WUlDd0lob3plYkUzamkzU2EtTzRrc01XSEs0VjZYa1BsSGZtQlVSSkVRcDFlcHc5Z19JaVd0ZU13b01mZWJVZkdSM3VIeG5BMTdOcnZoVGwxNlkteG1zQ1JuVjRZYUtlQU05eWVLSFl4eEI3QVdIRXJuWDdzbmplZXJ2N2VzZkNNSEQ1SHRDUnZSZTZ3TndnaXlHclB0MkpwOXVJRkN4RHAwQ2FjbDJINEF5WXJIX1p3bzlySHRYV3BXLTluem5zVzRBNnB4bGlvdzdZWFhwakc5OFhvanRta2YxRlRKUHFvQm5HSVgwRTU0TTYxMFJ6MmpEekJ3VmFaSEF1cS1pdmdsTFVhVE1xcWFCM3U1NWs1T1EtaGw2QmNBWVI3OE8tZEhyNHNOcU5yNWktM0RnRm5PUlBQR2JCdUNQODg4cXNadlVlWklET0VIS0JWR3FSOUYtMm4wMERZWHZoUldUdzJORlFQdGhfdWZsanp2VlBVR054R1praDdHZXZFX3h5WmlMaVhHQThrcnNQV2VzRmtFNTJRVEtRdU9ZWXkzcl9hNE9SZ2R0ZGNPUWFVcDlGeEtfYzJzNEphU1NKdDFpUGt5YTMwa1pBcXBoLXZTWGRUQnVra2s3S29Ud0ZKdWI0R1BfalJmWE9yQ21UOUtkbFRQTXo2bExXQ3JKRnNHRllPQjlxRHdmUUNzUWZ1eW14dlpyYmpYZmhKR0Y2UVVwLTRXWkI0Tmx4N2NUdGxTX2VCOFVWSW5ENFNVWkhjMFVUbmhRNjM3N2p1aWtn?oc=5) — Facebook 
 - 2026-10-17 [《龜宿》來好康到相報囉～ 🔥低保🔥低擋🔥低均 ‼️一蘭拉麵🍜 ‼️新貨陀螺 bx-52 ‼️「正版」小米實用好貨 ‼️「正版」蜘蛛人owala 水壺 ‼️30週年寶可夢 卡牌 ‼️各家美食餐卷 ‼️野獸國存錢筒直接夾 ‼️低均衛生紙台 ‼️各式各樣的美女公仔 快來試試手氣吧！！！ 🔥屏東](https://news.google.com/rss/articles/CBMifEFVX3lxTE9uUHhBMjNCZERGTmZYT21sX3FOZjBUUWhZMUNkTFdxV2kwcmMwbnBpLUZYc3BabnQ2ZTNvYnBQbUNTellGVk1GcVduMEVKcEFMM2tyT3EwVXU3bjRLWkcwVFgzYUkyVzl3MHpXcmhXSHJycXhJWWpZRnpsR3Y?oc=5) — Facebook 
 - 2026-10-14 [賣全新戰鬥盤(亞)BX-10/1100，面交屏東，其餘走IOPEN](https://news.google.com/rss/articles/CBMie0FVX3lxTE9MS2FGa2dsa2l4aVpHcWhiUVVwendqMGVEczM3SjRlUGJfcElFZ1hFczBzVnNsNkp5YlpHaHVWR09wQzA1eUEtSk92TnY4b3RkZnBDSHRSd3EyS1p5MmQ2TmRMRkhsT2ROUjVraHBKNWRXT3k5S05Dd3lGcw?oc=5) — Facebook 
-- 2026-10-12 [販售一些閒置陀螺 1.CX-00戰神伏特 全新已組裝 沒打過 沒QR--3500 2.CX-13龍王閃擊 全新未拆 有QR--500 3.CX-17(06)赫燃天鳳 全新未拆 沒QR--300 1.需先匯款後寄出，匯完款後24H內寄出，可店到店+38就好，無賣貨便，屏東市可面交 2.買多顆可免運費~ 多個社](https://news.google.com/rss/articles/CBMie0FVX3lxTE53TEJ0TmlOS1ZCX3VxTkk0bjFLYWg2R1FzRmFySE9qOHhHdmlPNmdpM1Izb2QySFBlNmxKUVRDNnl3aUM2WG9WMDVxeTJmWktfVjd0SmRJY2owQmc2c2tvNFlWajFkR011ZUoyWWtRa3hpLWZWR3VJaEUzUQ?oc=5) — Facebook 
 
 ## 📍 宜蘭
 
@@ -477,10 +476,6 @@
 - 2026-11-01 [被棄單仔契丹重發 UX-01 BX-52 兩顆合售1300元 高雄、台東可面 其餘縣市匯款店到店](https://news.google.com/rss/articles/CBMiekFVX3lxTE5BVHdWZ2dEbGQ1eGw3VWp4Q1pwTTR2bnRtQmFFWnpBUDlHdWJoRlZvakVFQl9hX2NHY1dhZ2JuSkI2eGxWNWRrWVJ2bTNReTZZRmlNQlpxdzdUV3hfT2JJbThhQ0hoZWxjRzR0QnNVMjc1WDU4ektJTUtn?oc=5) — Facebook 
 - 2026-10-27 [售 全新未拆 UX-03 魔導神杖 650 UX-20 女武神（日版） 750 CX-02 魔導至尊 550 全收1900免運 賣貨便或台東市區面交](https://news.google.com/rss/articles/CBMiekFVX3lxTE45MHpxUzB3V3hicFdYcWx0MjVNa1Q4NnVFd2tuOTlPNUhFOGdMNUJKaUFSTlA2NURmc2gwR0o4aV9Yb21ZQ0pQcFBhZHdlTTRtSU5EWGNZd01WRmxUU0RKRGhMYVNrcWIxZGFlWUNrc1RmTHJISzUxdk1B?oc=5) — Facebook 
 - 2026-10-15 [售 全新未拆 UX-08 霜輝銀狼 600 UX-09 武士星劍 800 UX-19 子彈獅鷲 750 BX-04 騎士重盾 400 可賣貨便或台東市面交](https://news.google.com/rss/articles/CBMiekFVX3lxTE45N2hQejFuR2tmNG13MjV3VGFrakxwTGs2YXRfZXAwLWJwWHNzOWxSNlBvRFZ3bWhqejVUQm1HcFR1ODFfWE1idFdhODhuMHh3dUlscGZ6VzJRVVQ4RUg1UXVSSzJWd2xwVlUtdEh1TUEtRHNEd2dBcUxn?oc=5) — Facebook 
-
-## 📍 澎湖
-
-- 2026-10-12 [[售]戰鬥陀螺 麗嬰補貨忍不住亂抽了一堆 清一下抽到的東西(盒裝的話都有QR) 抽抽包7包 $2100 綠神杖+藍鳳凰 $2500 帝王威能 其他雜物等如賣場 當天出貨，賣貨便約 4～7 天送達 澎湖可面交 https://myship.7-11.com.tw/general/detail/GM2608184815339](https://news.google.com/rss/articles/CBMiekFVX3lxTFB5VEtQSzNIZk5BaHJkd0djanNXV2RRbUd5SVU4YkJ2dUJRdXdXNUlnY1ZidEV6ZUZJRTRZaHdIVmxSYzZJemRRU2hKZ0JVaE9fOTE1dVVkOGk4N3hsaEJVclJZamVJLVFiVGJHbkVlS0N1X1ZqUXB1cnF3?oc=5) — Facebook `麗嬰` `7-11`
 
 ## 📍 金門
 
