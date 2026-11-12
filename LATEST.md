@@ -1,6 +1,6 @@
 # 戰鬥陀螺到貨情報（全台）
 
-更新時間：2026-11-13T00:19+08:00　今日新增 77 筆
+更新時間：2026-11-13T06:25+08:00　今日新增 77 筆
 
 ## 📍 基隆
 
@@ -31,7 +31,6 @@
 - 2026-10-17 [「 換 or 售 」 售 1.UX-20 700 2.UX-03（有兩盒）400 3.BX-49 600 （亞版_未拆） 4.台版購買票券一組 or換 1.Bx-00 烈焰飛鳳、銀牙烈虎、堅甲戰龜 2.UX-15 鮫鯊狂鱗（全新未拆） ================== 意者私訊，如未回應請留言 七堵火車站面交 謝謝](https://news.google.com/rss/articles/CBMiekFVX3lxTE4tbERjeDQwSzZDX3JucE15cndzWWd6eGh3NUNjdkxJeF9jeEhpRGh2RmlndVlMNUVCeGRqSG9yemhXWlBlUm0wU0tINE5HSHdhbkcxSmNUdlBTbkNQV21EejV0ejJDc3dOSmViSXpRbzNIU0J5QTNwYWlB?oc=5) — Facebook 
 - 2026-10-16 [售 UX-21 1000含運 CX-00 800含運 奧特曼 BX-32 800含運 CX-19 550含運 美版陀螺 800含運 店到店+60寄送 基隆可面交](https://news.google.com/rss/articles/CBMiekFVX3lxTFBUOUZVbEYyczNVaVZHZUJYY2NSckNSMVhlQVRyVUlVS2VsUlQ4T3AzcUdqQWlEMlJwbWJCU1ZWWU9XNGVyTE1FaS1ZTWxERGJxTGk3T01TdEQxZ25mVHJVWk1HcVZzZUl4RHMtTzNHdERHSVlRLWxzdEhR?oc=5) — Facebook 
 - 2026-10-15 [售 BX-32 戰鬥盤 1100 BX-26 400 Bx-50 04 400 可議價 交易方式：1.面交新北 台北 基隆 2. 店到店+60運費（匯款後寄出）](https://news.google.com/rss/articles/CBMifEFVX3lxTE4yQ1pvenU2OEJTeTUzMDA4clloVnFiTmo1RHNKanNVMzJaSmdreGUtVTZwbHlUYWZKZ3JZMUZlRC1wbDdESjNuRTh4LUxBWUl2eE1iTXlVWW9DbGk1eld1OFdwMWQwbXBaQVRTd09fZm9IenlkaXVER1FqZFE?oc=5) — Facebook 
-- 2026-10-14 [售 1-UX-15全新未拆有QR碼 H標 $1800 2-發射器圖片現況 全帶走$750 交易方式限面交基隆台北](https://news.google.com/rss/articles/CBMie0FVX3lxTE0tRTdmTmJNS0NDeTZBb0E4enBqUnY4YnMzdlluSHBvbmRaMEE3SEx2Z05oTUE5dWt3T0tVZHhiQTFsaWdqeXpJZUNjaTVFN3lQbUhUTE1PdXZTaWMyWG9hWjE1bVhkaFdHRXY5Q0tib1Y2SEs1RDQ3M0F6bw?oc=5) — Facebook 
 
 ## 📍 台北
 
