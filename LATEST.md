@@ -1,6 +1,6 @@
 # 戰鬥陀螺到貨情報（全台）
 
-更新時間：2026-11-13T06:25+08:00　今日新增 77 筆
+更新時間：2026-11-13T10:50+08:00　今日新增 77 筆
 
 ## 📍 基隆
 
@@ -441,7 +441,6 @@
 - 2026-10-21 [出售全新正版陀螺 【出售】 CX-02 完全全新 未拆 有QR 【出售】 UX-21 兩顆一起賣 價格 ：「 1600 $ 」 完全全新 未拆 有QR ——————————— 屏東市可面交 有疑問、有興趣、可私訊我🙋](https://news.google.com/rss/articles/CBMiekFVX3lxTE9ocUlieDBMUVBEN2xmSFFUd001eXF1U2MxeHlOMHkwYnhuU2ZReklfT056a0dWeGhLVGhSdEh5TGt5SkhiU0JxMmsxUXJXWklMR25pSzBzcDVfSXhmci10SFFKX09ienp2RHhySzlqVXNXM1pYUnB5T2Jn?oc=5) — Facebook 
 - 2026-10-20 [日版戰鬥陀螺現貨補貨到‼️‼️ 🌍地址：屏東市上海路5號 🔺️有開設line群組，想加入的朋友可以私訊或是掃QRcode,回答您喜歡的動漫或盲盒就可以加入囉🤩 (屏東火車站對面濰克早餐店隔壁隔壁～) 🕙營業時間：❗週一休息❗週二至週五 中午12:30～晚上20:50 週六日](https://news.google.com/rss/articles/CBMivgdBVV95cUxNSVhMdV9tRS1KS3FDWDcyR0lhX3ZwX2tBeEQzc0pDYXhMajhsRFZkZHd4YlpEc29NSjNEM2d2NEY3UkNnX09RcGdZTFdhSGVWMkQwMGdOTGlYdjJGUThSUkluNW5qOXZWRUUweVVfT0FNSG9mejV2ajBxRWJRZnhmQjRuOHF4Sm92LTdZSm1DRkZ4XzdUR1VtaHpyTzNXSGdseTlaR2xQTU5EOEpLTGtQYkNNeEZERF82TEUyOHFGdks0WTkyUndkdUxMVUZSZllMQ1QzX2EwTVo5WDF4UlZrcm96RTFpTzhhcEh3dEY1Tmt4SHlFQW9DeFRSMzdXSWJvZFFIOXVjV0JwNHZIb3ZZdEJ6bmsxRlpUZnA5OFJwYXRVa3ZFajhuWGVPNnd0eFA3c0w4MDNOZUFWS1QwYXJSZEtnX0t5RkhzUmowOHEzU1RWVkRKLTdqaDE1ZXBwNGNFUDJ4QVlmRXhNRDhKMGpoS2t4WUlDd0lob3plYkUzamkzU2EtTzRrc01XSEs0VjZYa1BsSGZtQlVSSkVRcDFlcHc5Z19JaVd0ZU13b01mZWJVZkdSM3VIeG5BMTdOcnZoVGwxNlkteG1zQ1JuVjRZYUtlQU05eWVLSFl4eEI3QVdIRXJuWDdzbmplZXJ2N2VzZkNNSEQ1SHRDUnZSZTZ3TndnaXlHclB0MkpwOXVJRkN4RHAwQ2FjbDJINEF5WXJIX1p3bzlySHRYV3BXLTluem5zVzRBNnB4bGlvdzdZWFhwakc5OFhvanRta2YxRlRKUHFvQm5HSVgwRTU0TTYxMFJ6MmpEekJ3VmFaSEF1cS1pdmdsTFVhVE1xcWFCM3U1NWs1T1EtaGw2QmNBWVI3OE8tZEhyNHNOcU5yNWktM0RnRm5PUlBQR2JCdUNQODg4cXNadlVlWklET0VIS0JWR3FSOUYtMm4wMERZWHZoUldUdzJORlFQdGhfdWZsanp2VlBVR054R1praDdHZXZFX3h5WmlMaVhHQThrcnNQV2VzRmtFNTJRVEtRdU9ZWXkzcl9hNE9SZ2R0ZGNPUWFVcDlGeEtfYzJzNEphU1NKdDFpUGt5YTMwa1pBcXBoLXZTWGRUQnVra2s3S29Ud0ZKdWI0R1BfalJmWE9yQ21UOUtkbFRQTXo2bExXQ3JKRnNHRllPQjlxRHdmUUNzUWZ1eW14dlpyYmpYZmhKR0Y2UVVwLTRXWkI0Tmx4N2NUdGxTX2VCOFVWSW5ENFNVWkhjMFVUbmhRNjM3N2p1aWtn?oc=5) — Facebook 
 - 2026-10-17 [《龜宿》來好康到相報囉～ 🔥低保🔥低擋🔥低均 ‼️一蘭拉麵🍜 ‼️新貨陀螺 bx-52 ‼️「正版」小米實用好貨 ‼️「正版」蜘蛛人owala 水壺 ‼️30週年寶可夢 卡牌 ‼️各家美食餐卷 ‼️野獸國存錢筒直接夾 ‼️低均衛生紙台 ‼️各式各樣的美女公仔 快來試試手氣吧！！！ 🔥屏東](https://news.google.com/rss/articles/CBMifEFVX3lxTE9uUHhBMjNCZERGTmZYT21sX3FOZjBUUWhZMUNkTFdxV2kwcmMwbnBpLUZYc3BabnQ2ZTNvYnBQbUNTellGVk1GcVduMEVKcEFMM2tyT3EwVXU3bjRLWkcwVFgzYUkyVzl3MHpXcmhXSHJycXhJWWpZRnpsR3Y?oc=5) — Facebook 
-- 2026-10-14 [賣全新戰鬥盤(亞)BX-10/1100，面交屏東，其餘走IOPEN](https://news.google.com/rss/articles/CBMie0FVX3lxTE9MS2FGa2dsa2l4aVpHcWhiUVVwendqMGVEczM3SjRlUGJfcElFZ1hFczBzVnNsNkp5YlpHaHVWR09wQzA1eUEtSk92TnY4b3RkZnBDSHRSd3EyS1p5MmQ2TmRMRkhsT2ROUjVraHBKNWRXT3k5S05Dd3lGcw?oc=5) — Facebook 
 
 ## 📍 宜蘭
 
