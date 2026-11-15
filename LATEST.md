@@ -1,6 +1,6 @@
 # 戰鬥陀螺到貨情報（全台）
 
-更新時間：2026-11-15T09:05+08:00　今日新增 51 筆
+更新時間：2026-11-15T15:53+08:00　今日新增 51 筆
 
 ## 📍 基隆
 
@@ -32,7 +32,6 @@
 - 2026-10-18 [售 UX-15 全新未拆 H標 $1600 發射器 一起帶走 $500 限面交基隆台北 謝謝🙏](https://news.google.com/rss/articles/CBMie0FVX3lxTFB0dXhyM3ducGVhOERocFRTRXdWVVZ0UkxBZnk0ZE1GWkVyOFRUelJjTFNhUThVdHZtbm1xZnFfTWxsdlM3ZXpueDd3MWdhS2pNX0xKWVlFY29sa0ZiYkI4UmM0aXFOSFdPR0w4VHBzS1luUW8xSm10ZDZoZw?oc=5) — Facebook 
 - 2026-10-18 [售全新BX-53空力天馬豪華組 現貨有2 1組4000 另售 拆檢BX-53藍空力天馬（38.71雙A5）2800 只能面交 只能面交 只能面交 限基隆、汐止地區](https://news.google.com/rss/articles/CBMiekFVX3lxTE5RUGE1LUJPdEpwUnQtYzUtdzA4WFpqeGtRUXFfTFF0enFVbHQ5c1d4clI2N1NaOVZSOXNocHJqeTV0b1lDVHFNMzVHNzVxUV9YdWdVYlI5WU9SZ2Y3SFpXbzJJbVFFUGNQeXVxT0FURmVHZklUOG41LXdR?oc=5) — Facebook 
 - 2026-10-17 [「 換 or 售 」 售 1.UX-20 700 2.UX-03（有兩盒）400 3.BX-49 600 （亞版_未拆） 4.台版購買票券一組 or換 1.Bx-00 烈焰飛鳳、銀牙烈虎、堅甲戰龜 2.UX-15 鮫鯊狂鱗（全新未拆） ================== 意者私訊，如未回應請留言 七堵火車站面交 謝謝](https://news.google.com/rss/articles/CBMiekFVX3lxTE4tbERjeDQwSzZDX3JucE15cndzWWd6eGh3NUNjdkxJeF9jeEhpRGh2RmlndVlMNUVCeGRqSG9yemhXWlBlUm0wU0tINE5HSHdhbkcxSmNUdlBTbkNQV21EejV0ejJDc3dOSmViSXpRbzNIU0J5QTNwYWlB?oc=5) — Facebook 
-- 2026-10-16 [售 UX-21 1000含運 CX-00 800含運 奧特曼 BX-32 800含運 CX-19 550含運 美版陀螺 800含運 店到店+60寄送 基隆可面交](https://news.google.com/rss/articles/CBMiekFVX3lxTFBUOUZVbEYyczNVaVZHZUJYY2NSckNSMVhlQVRyVUlVS2VsUlQ4T3AzcUdqQWlEMlJwbWJCU1ZWWU9XNGVyTE1FaS1ZTWxERGJxTGk3T01TdEQxZ25mVHJVWk1HcVZzZUl4RHMtTzNHdERHSVlRLWxzdEhR?oc=5) — Facebook 
 
 ## 📍 台北
 
@@ -470,7 +469,6 @@
 - 2026-10-22 [售 ［商品］： UX-21 售出 ［數量］： 1 ［金額］：$ 1000 ［新舊］：全新未拆 ［商品］： BX-23 ［數量］： 1 ［金額］：$ 800 售出 ［新舊］：全新未拆 ［付款方式］：賣貨便+38 宜蘭可面交](https://news.google.com/rss/articles/CBMie0FVX3lxTE5xSmcxNTNqdzFfT1BMeXBySDFYWTB3LUJHOFQyX2tIdzdpOUwtNWtGdF9vVVAzbVd5RXZjcFQ0SFZ3MzBNckRPS2w3azFpOVl6V3ZVX0pXLTVuMXREcmxLQmtLaXNQek8tbW5kdXlJM1NFUXNuc1dTaTNvaw?oc=5) — Facebook 
 - 2026-10-22 [售 UX-03 神杖 台版全新 售價：600元 UX-19 子彈獅鷲 台版全新 售價：700元 宜蘭可面交/+60匯款後店到店寄出](https://news.google.com/rss/articles/CBMiekFVX3lxTE1JVl9zQW5GYmVEMTZrbHNINDE3SFlCYzN0N2Q4ZE5uU05MZHgxb3JHU1picG1iTDMwTTJFZF9tU2RtVHVkZV8xaWdxSTAyMTUxLW13dGhhM0dveEdldFZIOUJybXkxVzYtN2FxbVRJUlJXYzBRRVJjS0tB?oc=5) — Facebook 
 - 2026-10-20 [【售】BX-53 全新頂重青藍空力天馬（39.02g+-0.06） 售價：4500 依我秤為主 有附上影片 【交易方式】 1.宜蘭面交 2.賣貨便限取貨95%以上+38 3.其餘匯款+60 店到店 ⸻ 【注意事項】 1. 得標後請於 24 小時內完成交易 2.未成年無匯款能力者請勿下標](https://news.google.com/rss/articles/CBMiekFVX3lxTE1RaWlHd2lndEV5N3hNZWxSQjJidjU5ZVQ5NXhDbmlNdmNoeUYycmdCc25scU91eE9WczRxcTlueHVfQnBGMlJPS0RsWmt5TVA1VGhfSTVZdEZ2YnYwRGVYOXVTS0VhR281Zk54aDJ2ZGdnY2ZLXzl5MWNn?oc=5) — Facebook 
-- 2026-10-16 [Funbox宜蘭新月戰鬥陀螺 宜蘭今天沒有補貨！ 大家不用趕了，網路消息真真假假 #Funbox宜蘭新月 #Funbox戰鬥陀螺 #Funbox #戰鬥陀螺 #Beyblade #爆転シュートベイブレード #takaratomy #tomy](https://news.google.com/rss/articles/CBMi3gVBVV95cUxPa3BkM2hXeDRhUk10SDk2SmwzbXF4bTRfQ1VKdHBvX3JTWWFtc3dycnlJMTFOM0R4MnNjTGNYN3JycVZUNEJLeGlyT3I4MlZUQ0ZvdDZhMEV1NXhhei1VbkFjbVN1UEJLekxjcUl6MElsY3RJUHo4eHhfNGZEV0Z2cjRIVW5hejV4RUR6SXd3OTFxWUkxbXhLT25QZ3Iybm9ON1NoQmphR1VmZ2QzeFNPTUhKcjFjNG11NzFHNk1UeTNtd2lhbFdvaHl4am1ncUNvazJiX09RNE9QVWtWVmpJbnVHQ1J2ME5wX2owYW5nOHozWDF6YmsxR1ViT29xckVhRk1rc0E4ZHBBM213Z01wandvZ2ZoZDQ1ZUtOVlBzSFR1bzJ0LWQwVjdyTlpvSWdwbkZfUDg4bTNWZTJ5VUd4bC1mcXBSMlhURU9RR0JkMUVGeGpRTi05S09SRnh6c3NJcUdlXzUxdlhVUDlJZU9JSVJIUkNVRWdQekVXaFlfa3I4NUtMUTlXY201X2EtdkZUTERIV09CN0dGYlFIMFNWTGt0ZGw2R3pic3gyTXJTS2VVYmoxRTVQeEk0M2l3THhHN0RndWNBR2RQR0V4N2ZYZHJLelFPeWRZNEo5eEJsek5zWEVPSzJ6dl94amFscWlVcjNwanZySC13MkYtYkpyRnljWGk2MkFUSVRYT1JacnczaHNSSnFHa3dweXFvYk1DWmU1R01FeElOWU0wc3pDendkSUZqRGJUczYwMS1WZEZ1c1NJYkxBbFk0eU5acHBWeFVmd2xRWjFXYXVkSjJXNXhzVDZFUjFPRHM2WHY1aU5kcHEyTzRtMXRWN09iZ3BpSDhnQUhMRXhrZUo4ZXBBRERaVXZ3anZHV3dhWXMtMEYtTGtpZDFIaVNjVmhQWXpkdlBmcUhNYThfbzNLbUlUay1oNmRpeGRTRldJNk1TdDVhQUNqUnJYVlF0OGdzQQ?oc=5) — Facebook `Funbox` `TAKARA`
 
 ## 📍 花蓮
 
