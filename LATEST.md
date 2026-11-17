@@ -1,6 +1,6 @@
 # 戰鬥陀螺到貨情報（全台）
 
-更新時間：2026-11-17T08:24+08:00　今日新增 85 筆
+更新時間：2026-11-17T16:22+08:00　今日新增 87 筆
 
 ## 📍 基隆
 
@@ -33,7 +33,6 @@
 - 2026-10-23 [售 Bx-53藍空力整顆（僅上蓋拆袋） 藍空力上蓋38.8±0.03未下場 $3500基隆可面 匯訂金可賣貨便](https://news.google.com/rss/articles/CBMiekFVX3lxTE1SS3FVdW12VXpBMDl4dEoydFZGZTkxTUNkS0xSNlhJSlVtYWJrOFBrUDlfdUJpaDNSbWJHSUhKdTdVM1RCUVlkdXJPR3hXT09XbVNBR1BYWmxYRmkwN21wQUVGbjBtdnNaUWluaWs5U1hueG5XNVFxbEh3?oc=5) — Facebook 
 - 2026-10-21 [「戰鬥陀螺專用收納盒」 全新 剩3組。售完為止 500元/盒 基隆七堵面交 🉑私](https://news.google.com/rss/articles/CBMie0FVX3lxTE43Ql85OXBpMldRRjJueTQ5aURsNXBVTEN4ZU4xQlJ5YzZmdXNKMGpCTkxuLVRxb2J1NmFHbUY3UjFfaFNNT1l2S2JraWNUZEVOVm1nN2pZaGRlT1Z5R0Rka3JYbEphUko4aVBtU1lremtKNmZYX2JfT29Qaw?oc=5) — Facebook 
 - 2026-10-18 [售 UX-15 全新未拆 H標 $1600 發射器 一起帶走 $500 限面交基隆台北 謝謝🙏](https://news.google.com/rss/articles/CBMie0FVX3lxTFB0dXhyM3ducGVhOERocFRTRXdWVVZ0UkxBZnk0ZE1GWkVyOFRUelJjTFNhUThVdHZtbm1xZnFfTWxsdlM3ZXpueDd3MWdhS2pNX0xKWVlFY29sa0ZiYkI4UmM0aXFOSFdPR0w4VHBzS1luUW8xSm10ZDZoZw?oc=5) — Facebook 
-- 2026-10-18 [售全新BX-53空力天馬豪華組 現貨有2 1組4000 另售 拆檢BX-53藍空力天馬（38.71雙A5）2800 只能面交 只能面交 只能面交 限基隆、汐止地區](https://news.google.com/rss/articles/CBMiekFVX3lxTE5RUGE1LUJPdEpwUnQtYzUtdzA4WFpqeGtRUXFfTFF0enFVbHQ5c1d4clI2N1NaOVZSOXNocHJqeTV0b1lDVHFNMzVHNzVxUV9YdWdVYlI5WU9SZ2Y3SFpXbzJJbVFFUGNQeXVxT0FURmVHZklUOG41LXdR?oc=5) — Facebook 
 
 ## 📍 台北
 
@@ -494,6 +493,8 @@
 
 ## 🌀 未標示地區
 
+- 2026-11-17 [【Funbox網店新上架】BEYBLADE X 戰鬥陀螺  CX-11 帝王威能（$995）　目前還沒開賣／已售完](https://shop.funbox.com.tw/products/bb09877) — 網店｜Funbox 
+- 2026-11-17 [【Funbox網店新上架】BEYBLADE X 戰鬥陀螺 UX-10 騎士圓甲改造組（$1250）　目前還沒開賣／已售完](https://shop.funbox.com.tw/products/bb93954) — 網店｜Funbox 
 - 2026-11-17 [A賞售完 2️⃣Bx35-04綠神杖全新未拆袋（有QR)有二個💰一個1900 3️⃣Bx35-05藍鳳凰全新未拆袋（有QR)💰950 5️⃣CX17-02 獨角極變確定款，全新未拆袋（有QR)💰1000 6️⃣CX08-01 魔犬烈焰確定款，全新未拆袋（有QR) 💰800 7️⃣CX-00 魔導至尊（闇黑版）/ 巫師](https://news.google.com/rss/articles/CBMie0FVX3lxTE1oTkcxTU9xSXFwdVpGZVVoTk11NkNiTGtTUkpWWVRLOXBZYzd5U204OG0zSGwzY293MjhnaHdBU3BZUGVLTGhlR0gyUkFnOWYxYkg3LWFEckszX080RVdvTGkzUDF0RXJac0V3dHNQeFNJb3gxdWhDSlpnTQ?oc=5) — Facebook 
 - 2026-11-17 [交流 BX-49 UX-20 對戰盒 一起走含運](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTm1kV1FnYWZwUjlfelRHWkhiQ3BtcVNCQnBZdDlVbloxY3dPaW9YUmFqNThqbS1aWHdDb3BPWWNLWGpfa3I0dTVUMnBEQXdSX2Z4OUhPenV4Z1Y2RDlKV1hrX01hb1E3b1B1VGFnUk15YWU5ZXFhRDNZbnZ3TmhCRnYyLThUbUV6bi1uWlZBQ0UyQQ?oc=5) — Facebook 
 - 2026-11-17 [售抽包確認款黑袋都未拆 Cx-05-04 9-80 k軸無qr 1000](https://news.google.com/rss/articles/CBMikgFBVV95cUxOcWVLOERvQmw3S3A5WThnZGhGMWJScC12RTdObTZMNVNYeFc0VVB1MEFZVjhUWXhoYm1IQjJuTGJRMEllMC1FLVMtOEJ2R2w3cVFpTmNVQ09GSUFHVHNfNjRvcHA3aFBLMVZwd2VMOVpxSzEwMC1VczdfTm9kaURRekdBd3hwb3JhdkctTU1ma1lhQQ?oc=5) — Facebook 
@@ -522,5 +523,3 @@
 - 2026-11-16 [退坑便宜售 全收皆可談 ！如二手使用過會標記註明！ 其餘100%全新 收去轉賣都賺錢🫠 都比市場價低50-200 二手槍箱 $1000 三個上蓋 $100 4-50$150 附UF軸 售出🔥 美版暴龍9-60$700 附GF軸 CX-05-06 7-60$450 附GF軸 R $300 售出🔥 K $800 P $100 B $100 L](https://news.google.com/rss/articles/CBMie0FVX3lxTE9qdlVsOVZBcG1sQ2o4RExhUl82bGdfTVdkVVIxSmp3UGNpLWxrSl9jMkZ1X1JUZmNFb1VLSld3MWg5U0lfV1gySjMwYktueEstSnlic05pQ3lzNHZIVnBnRWN1QTJmaWZPNTlkNVBvUkdBbE9yNTlBODBfZw?oc=5) — Facebook 
 - 2026-11-16 [全新未拆日版BX-53 現貨一個 機捷A8 自取 2600 可用藍武神/紅戰神 貼換](https://news.google.com/rss/articles/CBMie0FVX3lxTE9XNjdja3M1X1B2aHYxMmVZVVJNVG1zTTNJSVg2c0lpQTNMUlE3cnJwcm0xLUZ3Z09yel9EYkVNbmRrckMtVjhZWXZldUgxOXBWS0dQTTFkU0t1UmVvS0JQVHI5UTJaT2ZTMXFDRzRoRU5Kcm1zVzZtREJaWQ?oc=5) — Facebook 
 - 2026-11-16 [野牛、38鯊魚競標 【商品名稱】 1.UX-00 A賞野牛+B賞發射器 (全新未拆有QR) 起標500 直購價2100 2. UX-00 A賞野牛+B賞發射器 (全新未拆有QR) 起標500 直購價2100 3. UX-00 A賞野牛+B賞發射器 (全新未拆有QR) 起標500 直購價2100 4.38.00鯊魚（正負0.06）「僅](https://news.google.com/rss/articles/CBMie0FVX3lxTE5QNUxLY2FqMWRwZ3VDN2JVdmZJal85eFg1SGRFSFZid3lQS3JoczkxUnZnb05ORXBFekdYaWs0bjJqUnVkTk1CanFnVTh5Z0pGb2I4ZXBmUVBZdkt6RVFwb2ZMVTNhWkJaUmlQdHgzQmlvaml6ZWNuOUJfbw?oc=5) — Facebook 
-- 2026-11-16 [#售 為了兒子買太多，整理買到重複的 當初也都是溢價購入😣 全部全新未拆 UX-07 台版有QR$950 ❌UX-11 台版有QR$750 UX-08 台版有QR $600 UX-08日版 $500 ❌UX-16台版有QR$550 CX-07 台版有QR$700 CX-09 台版有QR$700 CX-10*2台版有QR$500 ❌B](https://news.google.com/rss/articles/CBMie0FVX3lxTE54QW5sdnNmYVhjSkp3bHBWcnZWbnAxTFN5M0FxeDlqZjZUOTFfWExwdmVSU0tVNTYxLWQzSUFYeHp3UTlMUXdJV25yM2xJbWZiOWlyeFA4QnNUMG92SVhTSVJKdGdfY1FLWTNaTGxwODlfY29icThqR1AtNA?oc=5) — Facebook 
-- 2026-11-16 [售UX-15鯊魚、UX-17隕星高重上蓋&發射器、CX-11&UX-13石頭上蓋、CX-05抽包*2、日版點數 🦈UX-15 H標僅拆檢鯊魚上蓋（36.98未使用） 其餘全新未拆袋含QR 整組售1100 🐉UX-17 隕星龍騎士單上蓋（39.36僅拆檢未使用） 600 附贈的龍型拉條發射器 200 合購折5](https://news.google.com/rss/articles/CBMie0FVX3lxTE4xVGl5ODAtM3dkMHg4SE5HVi0tZnVXZXNqRWZYR2ZBY1FvenotXzkzWEpYZmstc0xOb0RuSGhKN3MzeG5zUFlGdVVfa2hsMlh6SkRhMUhiZXRpMUZpSVNmaHRIY1UzYm9TSDAwdU5Ec2txZXZBdWdBV3FWRQ?oc=5) — Facebook 
