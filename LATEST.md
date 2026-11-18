@@ -1,6 +1,6 @@
 # 戰鬥陀螺到貨情報（全台）
 
-更新時間：2026-11-18T08:00+08:00　今日新增 86 筆
+更新時間：2026-11-18T15:07+08:00　今日新增 89 筆
 
 ## 📍 基隆
 
@@ -501,6 +501,9 @@
 
 ## 🌀 未標示地區
 
+- 2026-11-18 [【森森文具網店新上架】12月新品【BEYBLADE X】戰鬥陀螺X CX-00【B4商店限定】龍王閃擊 BK1-50I 金屬塗裝：黑色（日版）　目前還沒開賣／已售完](https://www.sen-sen.com.tw/products/beyblade-x-cx-00-bahamut-blitz-bk1-50i-metal-coat-black) — 網店｜森森文具 
+- 2026-11-18 [【森森文具網店新上架】12月新品【BEYBLADE X】戰鬥陀螺X BX-55 隨機強化組 Vol.12 荷魯斯碎擊 Horus Shatter（日版）-暫譯　目前還沒開賣／已售完](https://www.sen-sen.com.tw/products/beyblade-x-bx-55-random-booster-vol-12) — 網店｜森森文具 
+- 2026-11-18 [【森森文具網店新上架】12月新品【BEYBLADE X】戰鬥陀螺X UX-22 消滅路西法 Vanish Lucifer WW 防禦型豪華組（日版）暫譯　目前還沒開賣／已售完](https://www.sen-sen.com.tw/products/beyblade-x-ux-22-vanish-lucifer-ww) — 網店｜森森文具 
 - 2026-11-18 [#販售文 #請詳閱狀況及敘述 #喊收後請私訊（留言有時收不到） 提供賣貨便，旋轉拍賣(貨到付款) (貨到付款請麻煩四日內完成取貨，感謝) ✨日本限定品 ✨假面騎士x超人力霸王 聯名款 ✨一組兩入可直接開戰 【商品名稱】：🇯🇵日版 日本限定 超人力霸王 x 假面騎士 陀螺組](https://news.google.com/rss/articles/CBMie0FVX3lxTFBuYUFubkd3U3JuNkpTY09BLVNlbXlpM3U5S3dQNlJ6YndTNjZ2RkRkTlg3WVIzMHR3V0FpTk1rdVRZb0tPNVFoVWF3ZDRYcFhiZS1JMVREWC13SDhwRGtIOVlvYWpBeV8xWWRqVXB6bGVIUUI5UC1OSFlPRQ?oc=5) — Facebook 
 - 2026-11-18 [【競標】 【商品名稱】 UX-11衝擊龍神 台版全新未拆*3 拆3個競標樓 【競拍規則】 • 起標價：$300元 • 直購價：$800元 • 增標金額：$50元的倍數 • 出價方式： 請於「各標競標區」加價。 • 防尾刀機制：結束5分鐘前有增標自動延長5分鐘 【結標時間】: 11/20（五）下午6:00 【交易方](https://news.google.com/rss/articles/CBMie0FVX3lxTE5fckRzN0d0bWJWTWtZWWJ5ODl1R1RzeHRfNFdEQWk4VFJScVRDS1lUVnR5WmRaMUx3ZFNYdk9UcENWMGRfN0dhOWw2NlhOTHNHSW9GRzJJQ3AxTzVfaGNMaTgwaER6NDI3N09UTUN0MXZSX1ZNWHJrbUFYOA?oc=5) — Facebook 
 - 2026-11-18 [#售 皆現貨 🇯🇵日版 BX-23 鳳凰飛翼 全新未拆 $690 UX-17 隕星龍騎士 全新未拆 $680 UX-20 女武神 全新未拆 $750 CX-19 巨鱷碾壓 全新未拆 $400 🇯🇵和牛一番賞 A賞 全新未拆 $1300 最後賞 全新未拆 $ 3100 最後賞+D賞（款式如圖） $3200 🇯🇵日版 確認款 BX-50](https://news.google.com/rss/articles/CBMie0FVX3lxTFBGRUZzam5fTWd2OVUxWmQ4dGZCOVNKOC1WZm5Ld0xkVEVDVWF0SUwxMmhJcVJ4bHJ1SHZQOEF4T3F1NHNXN0VqMUNSUzlnRVdzaXdrNFcxbk9LSVlsT0RFZTUyaXJlc1dERHkzR2kweDAyS04xWTVyNXV6NA?oc=5) — Facebook 
@@ -528,6 +531,3 @@
 - 2026-11-17 [【Funbox網店新上架】BEYBLADE X 戰鬥陀螺 UX-10 騎士圓甲改造組（$1250）　目前還沒開賣／已售完](https://shop.funbox.com.tw/products/bb93954) — 網店｜Funbox 
 - 2026-11-17 [收 cx-02魔導至尊、ux-16時鐘幻象 雙北可面交，意者留言或私訊，感謝](https://news.google.com/rss/articles/CBMie0FVX3lxTE53MU41ejFRVVdRU0JKYXAtU3hBUERrMXJTOWY0NFBsLXE4NExFb2pfZ2ltNnZOdUFwVkpKWEt3QlJOc002b29YUjJNa281eVNJOUdDSUhTUEFkbDhuNzBSTGI2ZFotSlByTTdJc3dnUUQwWU9kRUEtYktVOA?oc=5) — Facebook 
 - 2026-11-17 [競標文 【競標商品】 1. 全新 UX-15 鯊魚上蓋37.26 A1 A4 2. 全新 UX-03 神杖上蓋35.39 A2 A3 全新整盒有QR 3. 全新 UX-20 女武神上蓋43.63 A3 4. 全新EVA福音戰士 全新未拆整盒有QR 5. 全新UX-21 全新未拆整盒有QR 【結標時間】 11/18 22:00 【起標金額】 全部0元](https://news.google.com/rss/articles/CBMie0FVX3lxTFBjeFNJRGRZNzRnNlR3Ul90RWpDMzlPamRRNXJvN240TGdxQ0UxdFNGYWdLckdGamxrdnNRT29KZXBWanhOQ0c1NG5rOFF2NDhjOVQzdmE5cVRSTTlLdmZEdzBnQ0VCLThKRzNKY2RMY1F0NzUtNTVEVjBpaw?oc=5) — Facebook 
-- 2026-11-17 [🦈單日競標 全新鯊魚全家族 🦈 1.無賣貨便 2.結標時間以我為主 3.沒樁腳 4.有興趣直購整套可以私訊我價錢，感謝 【競標商品】： 1️⃣BX-00 熔岩黑鯊 整顆全新拆擺 （全球限量6000顆） 2️⃣BX-14 小黃鯊魚 整顆全新拆擺 3️⃣BX-00小藍鯊魚 整顆全新拆擺 4️⃣ BX-31小](https://news.google.com/rss/articles/CBMie0FVX3lxTE5kTXNLZDh6dXIyV2h5dEpfWnItZ3MwM3N2UTF5Y043LWZvQkVtTG16TFF5ZWYzNHlkOWl2VFprVHQ0YVIwdk9ic0dqa3RoRGRHemJiZzVaZjJhLUNDTEdZWTV0dElHX0xMODUyZHBCYWFDOURFLW93ME1YSQ?oc=5) — Facebook `全家`
-- 2026-11-17 [本單為「預購」項目，請看清楚確認哦～ 品名：CX-00 紅戰神伏特日版全新 有QR 單價：2600 數量：共有二顆，請PM私聊， 若一起拿5000，付定1000即可。 ----------------------------- 覺得上帝太體貼我了， 昨天我幸運抽中的官方BX-53到了集運倉... 結果.....材積爆大！整個付](https://news.google.com/rss/articles/CBMie0FVX3lxTFBfZjZxRnZuOUE1UzJVOXAxTi1BR1I4NUZFa3hLNXktdnVBbExxTGc4QWdkQzdJWHJFZmRUdjdkMUtBSG9TQy1Ncl9FcFpqQS1jN1V0ODAyYkswaU54V3BjLVhuaS02WWJLYU82UFVTU29mNUhsa1FBYjRkOA?oc=5) — Facebook 
-- 2026-11-17 [🔥CX20 預購（6盒） CX-20 豪華改造組 $3300 👉預購需先支付 50% 訂金，尾款到貨後支付即可‼️ 🔻11/23晚上或11/24大雅面交，詐騙不用來，感謝🙏](https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ua29OV3N3dnVYaG9XX01FUkd4azJ5MzhPSjBQN0hySzk2SEVJZGVzNjNMeWJYSlN4RlkzYW5YdFY3T2VVQkYwQ1VibEwtb2dOS1VGTnZGblhXS3JNZkhjbW5SMHlYMGdsY3ZQeVNjYUxlOXd1UmM1SGExTQ?oc=5) — Facebook 
