@@ -1,6 +1,6 @@
 # 戰鬥陀螺到貨情報（全台）
 
-更新時間：2026-11-21T08:19+08:00　今日新增 74 筆
+更新時間：2026-11-21T15:37+08:00　今日新增 74 筆
 
 ## 📍 基隆
 
@@ -289,7 +289,6 @@
 - 2026-10-24 [售 CX-07 700 BX-52 1000 南投 台中面交 不遠可幫送](https://news.google.com/rss/articles/CBMiekFVX3lxTE85UzdFYWVLeHh6OVZXT3BJX1UweFZ6N3R3ay12ZFp4LVpBUlVrSkVBbnh6dVZWVEtndkN1clVIV2hIempQeG9zXzdyYVJkSHlGWFV2NFRtUDRCM2dhdlY1Z0laS2RCTmtYM0MwRVBKRldUZnBFUHl2SWlB?oc=5) — Facebook 
 - 2026-10-24 [安心賣家B1403 全新台版正版戰鬥陀螺組-南投市面交 1️⃣CX-00 EVA 聯名款 每盒裡有（3顆陀螺+2個發射器+1個收納盒+集點QR碼） 直接上場比賽‼️ QR碼可掃台灣app集點⚡️$2199/盒⚡️ 台版剩5盒 2️⃣CX-19子彈獅鷲 每盒裡有（1顆陀螺+1個發射器） QR碼可掃](https://news.google.com/rss/articles/CBMifEFVX3lxTE9IVE1xT2lZNHpkdF9aS21qd0pfakJRTXNncW5udUVaekx2NFZ0S2hla0JSNk9waVY0LXYwT01MTF9RVzlRRmc3Vnlid1J2NEpSRE9tZW5yZzJmczk5VGJGalM0Z04xUVZqZFdxajBSeGczS1dXYVhrMkJoRmY?oc=5) — Facebook 
 - 2026-10-22 [售（暫售） UX-20 女武神 日版 UX-03 神杖 日版 CX-18 腕龍 港版 BX-50 確認款04 內袋未拆 限全收2千 南投市可面交 其餘賣貨便+38](https://news.google.com/rss/articles/CBMiekFVX3lxTE1lSlR3a2l4a0JHZFVUSDRjVlgwbVZDa1ZFN3hRUUtmYURZS2Ffc1FQVjBGRUZQTFdXeWdIU1kxVzk0TEw3VHZWMUtlb1FwZy1CZ0hXamZXajliR1RDN2pqT3ZwNmxiZy1wRktOUVlPN2xiU09XcG9hR1dn?oc=5) — Facebook 
-- 2026-10-22 [午安颱風天來個一日藍鳳凰競標‼️‼️‼️ 【商品名稱］BX-35-05藍鳳凰 【商品狀況】 全新未拆含QR 【交易方式】：南投.台中北屯可面交，或賣貨便 直購價：1000 【起標價】：100 【出價增額】：每標增額100元起 【結標時間】10/23 20:00結標，無延長 【注意事項】 取貨率未達90](https://news.google.com/rss/articles/CBMiekFVX3lxTFB4allXVk0wbFB5NmRsdlFjMzNCdnhDRHJLRHJkZ2FQT1hxSVp0aFlCRFF4Mk16VmFnMFVqRElrNEZvVWE1Z1Vtc2Z2UzJlc2pzRkpKazk2cmNlZnJuVlluT1JDX2JYMzZsVlo0R2w3YTViUkxSY2lkdnF3?oc=5) — Facebook 
 
 ## 📍 雲林
 
