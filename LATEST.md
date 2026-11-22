@@ -1,6 +1,6 @@
 # 戰鬥陀螺到貨情報（全台）
 
-更新時間：2026-11-22T16:40+08:00　今日新增 57 筆
+更新時間：2026-11-23T00:40+08:00　今日新增 0 筆
 
 ## 📍 基隆
 
@@ -33,7 +33,6 @@
 - 2026-10-24 [出清商品 UX-15鯊魚$1600（QR在） CX-11帝王威能$1400（QR在） CX-05-02確認款$350（QR在） CX-08-03確認款$800（QR在） UX-16時鐘幻象$700（QR在） BX-35-03確認款$350（QR在） 基隆/台北，皆可面交 其餘地區可賣貨便、好賣+](https://news.google.com/rss/articles/CBMifEFVX3lxTE5QSVVwLXJxM1VuSHVlWFFwVHlZcHdrYjhWcnpZczhyWlNCc05rekxrZG5mTVV3UlowTU9JajFOaHpmMVVFMjBuSlBiOHNySHh3ZW11b1Mwbml6aVlaQWlUQThwZkhJMnNHa2EzcGhlRkNkNGR6TElhZW9WU00?oc=5) — Facebook 
 - 2026-10-24 [售 戰神伏特（全新未拆） 商品名稱：CX-00戰神伏特 商品狀況：台版/未拆盒/有QR可掃 金額：4500元 交易方式：賣貨便or基隆面交 備註：取貨率太低會取消！](https://news.google.com/rss/articles/CBMiekFVX3lxTE40VTRvWTd6cmdEVnBvYXNsd0FiWnE2U0ltcXNyNUtlYnBLbE5URVhKc21tRXFPQlprMERQdTJNdkVIVTQzNDJQaU54TmtPaFRULTNoM1A0dlR0eXJpVm1zYjhra3NxNEdiWlBLajRDckhhZkFSRGtxUGtn?oc=5) — Facebook 
 - 2026-10-24 [全新 不拆售 藍武神 龍王盤 BX-37電動盤 紅爆擊 鯊魚E標 鯊魚H標 通行證 帝王威能 迪迦 BX-50 基隆面 詐騙勿來](https://news.google.com/rss/articles/CBMiekFVX3lxTE1mQ2RHN0JjUEVkNDJUUWYzVmh4dXlkZ19WT2gxMi1HYS1HVlZpZ1BLRUZlOGlMbmd3N052bnRHUlhwMGZ6RXRBTDFVSVJtRG5NVmpzTlhfbW51NXQwXzhqLUQycjFZQ3RMZlpmNFU5SG5sVU9hUDR6VTRR?oc=5) — Facebook 
-- 2026-10-23 [UX-20榮耀女武神 UX-08霜輝銀狼 兩盒都全新未拆封 合售$1000 基隆東明路面交](https://news.google.com/rss/articles/CBMiekFVX3lxTE1RLUstSG8yU0FwcWpXNFJzZXYwZ0VDR2I5UTZJbzc2R1hjU3doYmNHX3NvVHRmY3BBeEVCZXNvd0l5cG5yVGd4SDdUMlZoeUtsMnFvN1gyTndDUVFhTUdTU0ZsbVlKUm9HN0F5XzIwWEp3c1lDWGxtS2Jn?oc=5) — Facebook 
 
 ## 📍 台北
 
