@@ -1,6 +1,6 @@
 # 戰鬥陀螺到貨情報（全台）
 
-更新時間：2026-11-24T07:56+08:00　今日新增 41 筆
+更新時間：2026-11-24T17:23+08:00　今日新增 41 筆
 
 ## 📍 基隆
 
@@ -471,7 +471,6 @@
 - 2026-10-30 [被放鳥重PO 現貨品項： * BX-23 690 * BX-34 690 * BX-49 590 * BX-50 490 * CX-12 390 * UX-03 550 ✅ 全新未拆封 ✅ 現貨快速出貨 ✅ 賣貨便／宜蘭五結面交皆可](https://news.google.com/rss/articles/CBMie0FVX3lxTE9HVEN5YmR5dkdsdWVSUGgtbVpfTG5Sb0tLd1BGQ1VqR0w5eGxPMWd1Zkh6OE5VRzJpeXJJeWFnVXV2WWJVYkZ2UTVxVEFpbFBEZnBDcHI0QXJxdElPTnNFV0pyd2s2bjNFMmhhbGZHVnV4WnhRTXZTN2g1RQ?oc=5) — Facebook 
 - 2026-10-29 [[#售] 【商品名稱】 全新台版有QR 1.CX-19 鱷魚01 1/500 (僅確認款式 2.UX-01 爆刃 1/700 (全新未拆 日版無QR 1.BX-00 黑蒼穹龍騎士 1/1300 【商品狀況】 皆全新 【交易方式】 1.7-11賣貨便+38運費 2.蝦皮取付（需加手續費） 3..北捷/宜蘭可面交 【備註】有興趣留言或私訊](https://news.google.com/rss/articles/CBMiekFVX3lxTE9HY19ITXdZeHBWMHg3YzdQOE96aVlTbFBRNEJMU0RULTkzcGRRYTZ3TVY5V2xqdkZGRWJMakdpU21iT3dtSTNPLWlmdXBUV0J1VDE0VWp6Ni0xSXpMV1dlVnpVSU1lWjhta0tBVnl6NFVNRnVhWE9xM2JR?oc=5) — Facebook `7-11` `蝦皮`
 - 2026-10-26 [售現貨戰鬥陀螺（日本 Bx-53 一盒3800元 BX-52 左迴旋 一盒 950元 羅東鎮中山路一段385號可約時間面交](https://news.google.com/rss/articles/CBMif0FVX3lxTE10NTJZNW84VVd2eGpxX3lWYnctcEhBVXhReUVCajhyZ2dlNDNPNVNMOTd3QmxGUDNYMGxtRU5uU2JZNGFXbGlYa0ljUlk5NnVOc202a0U4bXNSTDZxVGQ2Z1RDYWw0NVNDazJkV3A5WW9Zb25Dci05NkVTS3Jkck0?oc=5) — Facebook 
-- 2026-10-25 [剩下一點點 出清賣 📦 剩餘品項： • BX-49 590 • BX-50 490 • UX-03 550 • CX-12 390 ✅ 全新未拆 ✅ 現貨在台 ✅ 可賣貨便／宜蘭五結面交（依雙方方便）](https://news.google.com/rss/articles/CBMie0FVX3lxTE1HMVltclBaWmhwLXJSU2pXUWl5dkhTb2NjTE9QSUtEVlEzbldwUndLZUhrUkJNbEFVT184Qi1paFdIQXBQdENxLVlYMElVQmIyOVcwVXUtakRYSXAwQ2ZPVHk5MUhRcEQ3NGtpckRSUzlPUEk1ZU5OYVNvWQ?oc=5) — Facebook 
 
 ## 📍 花蓮
 
@@ -479,7 +478,6 @@
 - 2026-11-23 [售 BX-52 台版全新未拆封 有QR 650 交易方式：賣貨便+38 匯款店到店+60 雙北週末面交or花蓮面交 賣貨便貨到付款需取貨率100% 搭配以下零件一起收共1200 CX-11帝王威能 上蓋 二手 下場五次內 120 CX-08 03 魔犬幽冥 上蓋 二手 80 CX-08 05 玄冥戰甲（梅毒龜](https://news.google.com/rss/articles/CBMie0FVX3lxTE5pczBkbHJYOTF2Y3Y3dWVnV3VjOHlTUzBjaThXZFRaWHZHWHgwRGJSRS11OGEtYi15YnE3dzZhVGJWcG9JZTVkanJBajJvTmJlOElmZkdOVk1kcXVKZzdHSXc2dDYtcE5qTnJ3dmRLVGJYWjFxcFRVa3lnaw?oc=5) — Facebook 
 - 2026-11-21 [BX-53藍空力「上蓋」 $2800 39.18 以我的秤為主 為了這顆買全新的秤 「賣貨便」或「花蓮面交」](https://news.google.com/rss/articles/CBMie0FVX3lxTE1uNjBpUG01c285eHE1LUppblM3THA3anFROFFYV0hNeGFJWmtBWWQ0UGxwbE1nc0xWTGxCM3lfNVY2WDNINGV4NExQbFRZZTVoUjRMT3EtNndyc2tacEU5RF9GYkgxbHBvaDVfSmFBUFoxaWdHZFBickM5cw?oc=5) — Facebook 
 - 2026-11-10 [售原價陀螺 Cx-08-02確認款有QR350 BX-35-06確認款無QR250 BX-50-04確認款無QR300 BX-50-06確認款無QR300 有QR原價，無QR-50 花蓮面交或賣貨便](https://news.google.com/rss/articles/CBMie0FVX3lxTFBrUWd3Tk9iX05NQXRKdTBwd0pwOW9ubXZxVVVsWktueTNkejZtX0owRWJ0RXdORHZrbERpelZLYTM1SVdXcEZFcEk3Zm00elNKZS1CXzRrcFlQeFNVX0Z4QU1TTEF6QWFhX29saWFzVjJjUm9qNUNpNUx1TQ?oc=5) — Facebook 
-- 2026-10-25 [只換不售 全新日版未拆BX-49交換全新未拆（台日皆可）UX-13 限花蓮面交](https://news.google.com/rss/articles/CBMiekFVX3lxTE9CUnRBQUFDbEE3Q1VTdFNvV2tIcDh6QjNRdHBXbEdSWUE4dmwxWHdXYWlPWFlFekcxQ3RhRmlkYmpOaTZ5N0JZa3FwNnFsWHRIdl9CZGpHMFJmNGMyckMtS29vc0hVVXJHd2FtVmpyWlZ2bTdpZ3RXeGJR?oc=5) — Facebook 
 
 ## 📍 台東
 
