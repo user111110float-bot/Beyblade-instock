@@ -1,9 +1,21 @@
 # 戰鬥陀螺到貨情報（全台）
 
-更新時間：2026-11-26T22:15+08:00　今日新增 51 筆
+更新時間：2026-11-27T07:03+08:00　今日新增 80 筆
 
 ## 📍 基隆
 
+- 2026-11-27 [原來基隆也有戰鬥陀螺圈！🤣 這週六晚上6點義ㄧ路還有陀螺比賽，連 CX-20... - Steven LU Da-hong](https://news.google.com/rss/articles/CBMikgFBVV95cUxNay1OZG1qaGRXS0VVMU9TQ0V2dGJBbW8wcHhUckl3M0lSbnVYZVExX1JFLXJyeGVjMTlyWElxOXRmalpHMURMYTVDQm1Ia180aTIwcldfWGtTWk8wVTNTMy1scWg1VG1QVWFhcnB2Z2J6LUVFNElPRTlFYVZTTWZpeDNtM2tNeWd1cDRnWlNjWUpOUQ?oc=5) — Facebook 
+- 2026-11-26 [哇塞！現在基隆戰鬥陀螺這麼夯嗎？😂
+這週六選舉日，晚上基隆居然還有陀螺比賽，大獎還送 CX-20 這種厲害的😳！
+
+沒想到基隆還有這麼多陀螺同好，真的很欣慰欸！
+
+不過投票還是要擺第一！大家記得先去投下神聖的一票，盡完公民義務，再放心去享受比賽！
+
+白天投票，晚上開戰！🔥
+
+基隆人還有誰在玩戰鬥陀螺？](https://news.google.com/rss/articles/CBMikgFBVV95cUxPV0JMd1FzQUZzT29WQTVhd2M5c0tJZHcxN0RGb1g1UnJkT2xmZ1hMR1hMcWFXU1RLbkVINmZGRzYtSFY1SDNkdEF0b3RLWTBVVkcwcEFxbV9aOS1vdFV0WVN4U2hXcHBrYXRKSUdiMzZwaGVGTF9aTlh5TUZuX1R1OEpiQnotTEdpN3ZzSnJRRWRPUQ?oc=5) — Facebook 
+- 2026-11-26 [售 CX-20 一盒2500！基隆台中高雄皆可面交，約時間，現貨！ 加開剩8盒！後面的排下週！先私先贏！](https://news.google.com/rss/articles/CBMikgFBVV95cUxQV2ZYdUQxc195X0MxaTdMYml2SFdSTzBHb1pPZmQxMHNhWnRNR0tkOEo1Z0Z6Y3p3MUg3SGdVdElWZndfTlUxVkpuTFB5UEc3UEgyOHBlYUE3STRPQUpVdnd5WVRsMVFZSGp6dU1ILWpfTnFpYjNuTVBvR3ZMb0xPb2hWb083V3dMalg3aUdkS2lIQQ?oc=5) — Facebook 
 - 2026-11-23 [收購 CX-01 UX-15 UX-03*2 BX-49 UX-19 有貨私（全新） 雙北、基隆面交](https://news.google.com/rss/articles/CBMie0FVX3lxTE1QRlpYQ1hYM3dxQXloeUl2RER3bkpNODJqNVZRck5FcGFNOV9yUTZBQTlwNEpGYTl3T1pBazE0TU5jVjhPQ3dXZHFuMWF3MFU0LU1DMDRmM3hLZ013VkszOUJtbjVhOHhZYkpsT2xBMW0zb2ZXSklLdlFqaw?oc=5) — Facebook 
 - 2026-11-23 [戰鬥陀螺X販售，基隆市區可以面交 、賣便貨運費自付](https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ3BIbWtYT0FFZ0NWeS1NMlN1TFhWdkxITHF4WnBJX09lcGZlZXFIYXdRT0pEbUptYjZMVUItSVZqWkRURm12YThiMHRqTE0yQklmckV6U0xUelZZQ0MxYmxWRnU2a2ZJS3ZUUGVFMUlrMUxtQ01hbzlIODFpb0pxVm04aFRQY3J0Sl81d3FDUjBpUQ?oc=5) — Facebook 
 - 2026-11-22 [❗️基隆市比賽 兒童賽❗️ 【即時兒童盃✨】 ⏰時間：11/21（六） 1️⃣14:00報到 2️⃣14:50候補 3️⃣15:00開賽 📍地點：基隆成功橋下運動公園 👤人數：24人開賽，滿人48 💴報名費：200元 ／人 🎁【前3名獎品(照排名選擇)】 🔹BX-53新天馬組合包 🔹UX-19子彈獅鳩 🔹BX-09通](https://news.google.com/rss/articles/CBMie0FVX3lxTE5kRm5mV29uY1hfSlVTQ3BxcnpESGxONU5UNFg1V09BMnR5alVnNjFFOUVyU0h1d1NrQkhkOTFlQlEyUGRUeG95dlFhUkR5YUhyQ2t6YjJwMnpCRFd1RnJxaDNmU0tLNzNlaFZBWWVTcEtlUjVlVl9fVWhtQQ?oc=5) — Facebook 
@@ -33,6 +45,24 @@
 
 ## 📍 台北
 
+- 2026-11-27 [售: UX-03魔導神杖
+1/500 有6
+
+6顆全收2900
+
+台北面交 其他問題歡迎私訊 謝謝](https://news.google.com/rss/articles/CBMikgFBVV95cUxQR2RnbWNGX1BrbDZzdURxdFRMTTBvbU4tVDgtQmdrS2xlVk5yNkJGd3daWUxxWjB5c2dvVnU3OWRtbjdlSTE0NUI0bE9GeDlkemFxdEFwTzlKNjBxa3JfZ0lqQ0czMEhSWXRoR0Z3YzdjNTJXeFM3cm9Hd3R1cmVpZ2VsS05zMmNZS3E1dTlycENVQQ?oc=5) — Facebook 
+- 2026-11-27 [出售:
+
+UX-10 全新未拆含qr 售:1300
+
+台北市士林區自取或轉帳後店到店寄出
+
+詐騙勿擾](https://news.google.com/rss/articles/CBMikgFBVV95cUxNd1VvZ2Q4dlE4cUJqNHZEOGhhYVl2ZU82UERlVUtUM1poQVJNejdDeXNjWDBnY3EtREx6dHNwWnFpMVc5UGRNNmJjamFnOEpEcUlNY3FBS1ZuZHF3VTZ5WDQ5VmVQWHAydXRXRWhzZDdzS0V1MHpXdmFTRHN1cGUzVUVoR3dJWjJXczEzYUVTUGR0UQ?oc=5) — Facebook 
+- 2026-11-26 [日版全新未拆 🔥 UX-17 日版全新未拆 有QR code 售價700元 可松江南京站面交 或賣貨便（+38）](https://news.google.com/rss/articles/CBMie0FVX3lxTE9mdm03SU1yUEhUX2E2Y0ozY25BVFpQc1VpWE5MUjMtMUt4bEFTdmZMVXZSSExyTndwemZka01lQlAyVFZmY0lCc2R1MmtzQnpKLUUtUW43X1BIZWo3X0JRaEpieUZzZUU4Z3AyV2VzSFQ2Y0p0M1JyaWVCYw?oc=5) — Facebook 
+- 2026-11-26 [**#售** A+B賞2000有兩組D賞收納盒$280 E賞腕帶$80 F賞$90 G賞陀螺吊飾$160 cx-15 邪神狂怒600 以上都日版現貨在台匯款後賣貨便或是台北內湖面交](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVFkxWFQ4ODBzMmQ5OFZYM1lnRjhCZG9SN3ZSd0hyOWJoXzJXbER0Z1pmZFliSnhyYWNvNXR2eHc3NFB4Qnhmb2dxNXJ0cV9qU2ZJemlkYXFYMDE0MUVkc2kxRmdtcEh3Nk94ZGoyWHlhc05PMUUyR09pWjdXRzVBSWQ4VDA0U3h2ZjRCMTRGTU4?oc=5) — Facebook 
+- 2026-11-26 [售 全新 CX-11 1100 UX-14 無qr 450 UX-08 550 CX-18 01 600 CX-00 紅戰神 2000 CX-13 550 UX-11 700 BX-48 05 700 BX-48 02 1000 E軸 BX-49 500 BX-09 1450 台版 士林北投面交 寄送賣貨便 會看取貨率 收多優先](https://news.google.com/rss/articles/CBMie0FVX3lxTFBnWGM3Nk0xYV9mc0RTcXV1MDhjbUVpTGp5Vlp0RWhxQVN2MzY5am9rUmVCN2tGTzdWb2o3Ymw1dFh2TFRtNURlR3I5dXJCY3pfRTlIRi1TQ29STG9Bd2JsMVJ4dDZzeGw2VXAwT2NfdkROWjAybkg4bm0zYw?oc=5) — Facebook 
+- 2026-11-26 [交換 全新未拆有QR CX-00 紅戰神 附手冊和提袋 換Cx20+BX54 或是龍神勇氣換CX20 BX52換BX54 台北中山區行天宮面交](https://news.google.com/rss/articles/CBMie0FVX3lxTE4wRDZGSElna3ktUzE4YnlKekZUaFM1UWljV2dzelJ2RUdTYW81UDBTQnRIZGVYemoyOEVoMUMtQ3ZKano3X3g5V19ORDlUMUlNY0swNmZIRmgwb1FCQUdLYVB3aTRXcDRyUlVLWExONTE4RDE3ei10Y1FOMA?oc=5) — Facebook 
+- 2026-11-26 [售以下 圖一帝王，龍王皆全新台版未拆，BX-50-04、BX-35-03皆為台版含QR。 圖一售1400 圖二碗龍，龍王日版有QR全新， 巨神、CX-05-02全新無QR， 圖二售850 圖三鱷魚，龍王日版全新未拆， 天蠍無QR全新，幻箭V2整條 圖三售850 台北或新莊配合地點可面交，其](https://news.google.com/rss/articles/CBMie0FVX3lxTE9pazZEVXlpWlI3LWo0ZzhTVXM1dVlScVRXZFhpYWdEck93bk55dGhVOF9hdHFGaEFVcXVyelFFLTBkeE83M2Y0VzZqMnRsemNqbzJKYkF3VXVIRU1CUEFyams3aWtVSjNMN2YwNjRfOTRPajRfY1pwZkFTUQ?oc=5) — Facebook 
 - 2026-11-25 [收CX-20 現貨報價 台北可面交](https://news.google.com/rss/articles/CBMie0FVX3lxTE1QTlNiQzBJLXNxMEFYUU5teVJEVkkzX1lVazJVMWFra1Fjdml5WUMyaU5XdHE5WjRMLTBIWjBHQXdIMUxuSUgtSjRWUVp6S0NFQVdsX2t1VGFtODNqTXUwbEpMMTlYV0gycm41QXhqRGxyNzhOTG4xU1l0MA?oc=5) — Facebook 
 - 2026-11-24 [【出售｜BEYBLADE X  特賣3】
 個人備品出售有興趣可以參考
@@ -83,17 +113,99 @@
 - 2026-11-20 [BEYBLADEX BX-37 雙重極限衝擊戰鬥盤 豪華組 戰鬥陀螺 全新未拆 台北葫洲捷運自取 1200元](https://news.google.com/rss/articles/CBMie0FVX3lxTE0xcnEzM3c5UkVXaFNpOWFkY2EtaThZdzhTNE5UOXE4ZU1OelBRY3BfOGIyRW5Mb2l4U21mWkN2aTgyQ2tKemhuWGJYSnBDLW9fc1pMd2J0TE1OVWNPZmRCbk5xSVhZWUNOY2pWczF0M1pxM3JaN1VhUTVEQQ?oc=5) — Facebook 
 - 2026-11-20 [全新Cx-20 亞版連Code@3200 鳳凰戰壓 WHM-65MT 金屬塗層:紅 @1000 烈鯊鱗甲 1-70LR @1200 巫師幻棍 8-80HN @1000 25號內湖面交/匯款後留20開賣貨便￼](https://news.google.com/rss/articles/CBMie0FVX3lxTE91dHFmUXl3bGJ1RjhSYm5fN2JldUxxdExxR0szUnpDNlUxUkNQanhNdFRpbWM3LUpVLW1WcFhOQUktNXI3QnN1WFRoQ2pDOFFUTjVFb3lwdHVGeGtsV0FSM2ZiMlV4RFBqTTBZaml2NHhOS3oyVUtERTBHdw?oc=5) — Facebook 
 - 2026-11-20 [售台版 BX-53 (無QR) 2500 CX-05-06 （全新有QR) 1400 BX-53 台北配合我面交 CX-05-06可賣貨便 面交 全收優先](https://news.google.com/rss/articles/CBMie0FVX3lxTE5GcWVqMlE2NmxpSHdGeW1MM2FjVWJXdUJKbmJ3R0IwUWVXTVhRTFc0Z1RqaWRXNGVoeHlEQ05mNUZfOTIwWmp2UVloR2pNTzlrdVY1R1lQUS02Z2E0SVNYYXdVdTlscmx5eXp4ejZvMzFsOXVDNlFvOE9wcw?oc=5) — Facebook 
-- 2026-11-20 [#售 【品項】 cx-17-04 有一 bx-35-01 有一 原價出售 【交易方式】 賣貨便（匯款留20開賣場） 北投淡水面交](https://news.google.com/rss/articles/CBMie0FVX3lxTE1WLWhzNUU5LXRCSXFoSkxtN0lVUDQ2cjBicnpWZ1ExVHpjMm9fMHVkM3ViWHNUc1FFbE53aTNRem4tUDk5aE12SGVyQU5fbFE3STJFemJhNmFZX3FKY2pjVHRiZjd2NFBhUGhMRWpROFVMSDRodEhmbnp3SQ?oc=5) — Facebook 
-- 2026-11-20 [售陀螺（皆是機台打到） UX-20 $800 BX-49 $500 BX-00 堅甲戰龜 $600 G賞 *4 $200 全帶 $2000 多帶優先～ 台北可以面交 匯款店到店+60 詐騙勿擾～](https://news.google.com/rss/articles/CBMie0FVX3lxTE5hd1YwLXB0S0FlNklFdFBBQVRjZHZqTWYzYWNkc3JqZjhOWF80eE9JZmM1bW83YUJFRndOd3owTWNLcGpWMkEwU2lDYVZ0OGY0MlR0YlEyVU9zUzZ0cjhRUHp6SUtQSTd0anAxWklUOWlGSHV4S2ZuSldyQQ?oc=5) — Facebook 
-- 2026-11-19 [UX-11 衝擊龍神 960 LR 全新未拆含QR 有兩組 起標價 $600 一標$50 直購$1000 結標時間11/20 12：00 防尾5分鐘 西門 宜蘭可約面交 賣貨便+$38運費](https://news.google.com/rss/articles/CBMie0FVX3lxTE5iTlVGMVVDM2ZXLUNUU3BPQU5iSUhJSlhLQ0c0NlpYeVU2TkZScFVuTzROWENhbE1WMVNieEYtaEI1YVRVNVFqZ1JsX1NQREFVNzlMazU5WDB3VGdHc3czdnRQTHF5cGJIS2NKRVd4aGdiV2UySzlhMkpibw?oc=5) — Facebook 
-- 2026-11-19 [合售（不拆售 CX-16龍王盤台版有QR BX-53 藍天馬盤日版有QR 3900$ 皆未拆 僅台北大同區面交](https://news.google.com/rss/articles/CBMie0FVX3lxTE9CdmFZcEJkM3FUSS1LbmtBSmZuU3o4NFBnNGFmLWJfRW5fUnFqcHhZRU1POWNxTzE5Q0w1d2g2bDZTYlRFVUxxemYydGV1VFo3Mnl5RmkwSUtTQ21mb2RaaXl3S095QVB4MDcxZVByUk90NldwTVRTMWY4QQ?oc=5) — Facebook 
-- 2026-11-19 [#售 BX-37，台灣代理版-全新未拆 $1750 天母石牌地區面交 謝謝平臺](https://news.google.com/rss/articles/CBMie0FVX3lxTE5ISUxPZUZLa1o4MW5YQjZ5S3RyYlJ3X2tiMlltdVFzOW1TVzJ4MV9vQjQ1d3VVYWFwM19vd3RVc3VBSDRXZDhPWE05M1hyanlwYlkzVGRWQ1lmUFN4MlBQcjkzdjhGUk8wUTRHQ2hvTzQ2MTRyOVFLaE1QTQ?oc=5) — Facebook 
-- 2026-11-18 [收 CX-20 自出價 台北面交](https://news.google.com/rss/articles/CBMie0FVX3lxTE1PZGxyMUNSZ09EZHpVZTFRcVdERHZrOTRIRXhHcU1tcm5HQ3IyVkdhR25HMzBzcUxPbDBPenB5ZTFTUDhHckVvdlFzY3F1UmJVQWRHNlRoUzFpUzJJVzkyRzNpb2UwbDgyZ3c0QWliUVVERllKNHhUdVItQQ?oc=5) — Facebook 
-- 2026-11-18 [收一盒全新未拆 CX-20 11月底前能到台北就好 預算2400 賣家請私訊 感謝🙏](https://news.google.com/rss/articles/CBMie0FVX3lxTE1yakpKcXpIVVZnbEthNXJlRW4zZVhOeWhYSUh3N0w5eVo1SnE1S0tXeUhENHpEM0xJdXdrb2xnSUgzTFlob3ZOdXdtWHhnMmtSVEtfc29aanRRMTFLam9UWlF2d0VaWXlUYzFXLWwwT0Y3S0tQNl9BU1VQVQ?oc=5) — Facebook 
 
 ## 📍 新北
 
+- 2026-11-27 [售 UX-15 H標 1500 UX-00 藍女武神 2500 CX-00龍神勇氣 2000 UX-10 1300 CX-18 500 CX-19 500 中和面交](https://news.google.com/rss/articles/CBMie0FVX3lxTE45NFlxVFZpR2V2WUp6SDN5bWpoWS1DUW4tWEQyYkRpS2JFeTY0bVl6MXF2U0s2Wkx3LVV2dVJNOTAxbm54Y2tYMDRMRndMaWtmUWlrRVl0VEFVM0tHdDhPbVZMM3lCdXBDblNycURRYm5VMTZLdTNKSG0taw?oc=5) — Facebook 
+- 2026-11-27 [#售  全台版有QR
+BX-28發射器
+
+💰350
+
+UX-08「霜輝銀狼 3-80FB」
+
+💰600
+
+BX-23鳳凰飛翼豪華組
+
+💰650
+
+先匯款賣貨便
+
+#要的請私訊
+
+#全新未拆台版含QR
+
+#蘆洲面交
+
+#先匯款寄出](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWGd5dFltTE9GeVQ3NTNGb2ZLX1l1TWZTZXRRc0dNWHEydVV1dkMxUG5helE0V0MzOU9jUTlwMlNFVlU2aU9FNG9yNmlvWG53aWx6eXpocUlJM1prWTRGWHpPY3JTUVRGbXNJeXd5YU9HdUUxbVdQOUs5ZDZXNWIwWEJUcUpQTFRNQXg5Z0NCZ1JmZw?oc=5) — Facebook 
+- 2026-11-27 [全新日版拆檢有QR BX-52 上蓋42.7 $600 全新未拆雄鹿$500 全新未拆軸心組$350 新北中和可面交](https://news.google.com/rss/articles/CBMikAFBVV95cUxOYTV2V3A5RUxlM0lobFBoY1FWcFJQZUcwZjBGTV9pc0lPSmNEeDBOSDAyZGx4b3hsVGhUNVlKMFlEa2NFWHQ3R3ppSDVfVHZQOGhrWnp2R0tGU01rdTk3V0hOZVpnOURmX0ozOURGbDJXYzVFNTVteHFmazZibHNGcURKaXBJU19GMGExa29kN2w?oc=5) — Facebook 
+- 2026-11-26 [【售】 01天堂日輪 都有Qr 2個$800 全新未拆 CX-14 都有Qr 2個$800 兩圖一起收-100 共4個$1500 永和自取/匯款店到店+60](https://news.google.com/rss/articles/CBMie0FVX3lxTFBrRzlfbjBXX1NHUkE5T2pmbEhFdXN2VmdWN3BYaEhZME5JWThxWkNSLU9BcC1MTGFIUXQzdlFtMkU3Z05lLUlFOXQzQ3gwRFMyQlBjZlZ1UklJUzd2Um1yMEZWVGdLbl9iX2JPVndoUXpJY3FrLXR4OGlrcw?oc=5) — Facebook 
+- 2026-11-26 [現貨CX-20亞洲版 新北八里面交 可私訊詢問。](https://news.google.com/rss/articles/CBMie0FVX3lxTFBLZFZGRUw2UW02X1dOYVRGek5xX2x0UE9uRGx0Y04tS05PT1YtaHdQaTFoVGdoNVIyMHc5QUFTTWY2RGNJb1cxclZySHBtWldGYktsdHdqRWYyRXlTd0JGR1hHRGNLZ2ZNNTAxZjBxVWVSeHlHNVN4V21COA?oc=5) — Facebook 
+- 2026-11-26 [🔥 戰鬥陀螺 X 一番賞第二彈｜野牛系列
+📦 賞品價格・最新庫存一覽
+
+🥇 A賞｜英勇野牛 DB（DMM原創配色）
+
+需搭 E、F 各 1：$1900
+
+庫存：最後 2 組！
+
+🥈 B賞｜DMM原創配色線繩式發射器
+
+需搭 E、F 各 1：$950
+
+庫存：最後 3 組！
+
+📦 D賞｜迷你尺寸收納盒
+
+・D-1：$280（庫存 2）
+
+・D-3：$280（庫存 3）
+
+📁 F賞｜透明資料夾＆Bey Battle Pass替換紙
+
+・$280／個
+
+・庫存：10
+
+🌈 E賞｜彩色橡膠手環
+
+原價 $100，優惠價 $90／個
+
+・藍色：庫存 3
+
+・黑色：庫存 2
+
+・粉色：庫存 1
+
+・橘色：庫存 1
+
+🔑 G賞｜壓克力吊飾＆貼紙
+
+・惡魔：$180（已售完）
+
+・堡壘：$180（庫存 2）
+
+・邪神：$180（庫存 2）
+
+・龍王：$180（庫存 2）
+
+🚚 交易方式
+
+・賣貨便寄送
+
+・中永和可面交，雙北其他區域可私訊討論地點
+
+・下單後一天內立即出貨！
+
+A、B賞數量有限，E賞也有優惠價！
+
+喜歡的朋友歡迎私訊詢問，售完為止！](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVGlNLU5NS1BKSU1zazI2QUVMWmUwb1I1TVZ1azI0ckxuOV8wWU9KbEtmOU5XeGZOWjlTQ3lsS3lqUjF5aEJnVG1uUjVZb1dBS1NqWkpIV1ptRDhSMFlhVFFKVDRQeGROekxSejhsTFRoU0RhSHA3MDJKTk9GZl96SDdPLTN6c0xVR2tsN3RpaWxjbzg?oc=5) — Facebook 
+- 2026-11-26 [限新北市新店區面交 在台現貨，日版全新 意者私 CX-20/BX-54](https://news.google.com/rss/articles/CBMikwFBVV95cUxPN2Y5aWlBOG9TbnlHSkxvOGhGN2sxT2pWa2VhYmhpanZIbmNJbWg2VEp5ZmxFeXVSTmN3Q1ZTY0dqUEkzYU5mRWZ6Vm1TcVNaSkhPc2dMSG11SG1QOUlIam5YOHBwSEVIano0RWFmeWNlMjR4bi1TSlJiN0lzWkRlNjc1TU53Q1JxUnUtZ2VabXJYazA?oc=5) — Facebook 
 - 2026-11-26 [售 戰鬥陀螺發射器-台灣公司貨 BX-28:300 BX-56:300 新莊面交或店到店+60](https://news.google.com/rss/articles/CBMie0FVX3lxTE5RM1dTMnpFUVJ0VXg0RVFpN0NvVnVUTERVNFZfSzB5QTcxc0dIWnBfNWt0dElocktyR1hJYjBqZVBxczFJWWktVFNYMDJEVzQ0TWdRZkZFcnVsdzlBZHhZWGFsZ2FKTFJWcjN5d0tKYW9YeWZrRkhUY2lFQQ?oc=5) — Facebook 
+- 2026-11-26 [售以下 圖一帝王，龍王皆全新台版未拆，BX-50-04、BX-35-03皆為台版含QR。 圖一售1400 圖二碗龍，龍王日版有QR全新， 巨神、CX-05-02全新無QR， 圖二售850 圖三鱷魚，龍王日版全新未拆， 天蠍無QR全新，幻箭V2整條 圖三售850 台北或新莊配合地點可面交，其](https://news.google.com/rss/articles/CBMie0FVX3lxTE9pazZEVXlpWlI3LWo0ZzhTVXM1dVlScVRXZFhpYWdEck93bk55dGhVOF9hdHFGaEFVcXVyelFFLTBkeE83M2Y0VzZqMnRsemNqbzJKYkF3VXVIRU1CUEFyams3aWtVSjNMN2YwNjRfOTRPajRfY1pwZkFTUQ?oc=5) — Facebook 
+- 2026-11-26 [桃園/林口龜山 售 UX-15 台版 全新未拆 H標/1500 UX-15 拆檢無QR 37.1 /1150 UX-15 全新未拆 C標 /1400 UX-00野牛A賞 全新未拆 /1300 B賞發射器 全新未拆/600 CX-19台版 全新未拆/450 BX-49台版 全新未拆/550 UX-09全新未拆/750 面交優先 or先匯款留20賣貨](https://news.google.com/rss/articles/CBMie0FVX3lxTE1wNVVOVGxDUVhsZk1yLVJBQlM2dDA5UTJjdXhrQUY4Z1p2RmNWTTZLbUViSmhFalBRd19VVnBuZXI4Z3B3RVZ5QURGMVRHaEtZeTdrUXRqZGdHUk90MXNwRVY1cXdKYWRza25SYUpreUN0Z1BiOENPVVliMA?oc=5) — Facebook 
 - 2026-11-25 [CX-20以及凱旋極神的新品盃就在下週啦！
 地點在 新北中和的「抽選主義」
 
@@ -159,9 +271,31 @@ BX-34 ➕紅戰神 $2500
 土城市區面交 時間地點以我為主](https://news.google.com/rss/articles/CBMikgFBVV95cUxNRE5tSzRna0xkZmZTMnJ4QjJJYTRDSTI0TGVWRGx4NWlvVGZ4amg1eWxaNklEZG5LTEM5VjRPNVRlTVdBdXE2MWZxSjFLMmlhdkQyRUp4bjJ2d0YxamhFaW1IRDFIcTlVX2J1STRlbWh1LWhkYzN4YjlGcWd0WXRuTzlUNDI4blBaQXltSW9XQkgxZw?oc=5) — Facebook 
 - 2026-11-25 [賣 CX-07 2次膠不保QR $600 CX-17-06 確認款不保QR $300 CX-18 $600 BX-49 $600 以上皆夾物 以外觀看有沒有拆過 介意QR勿買 新莊可面交 賣貨便+38 4盒全收-100 感謝平台🙏](https://news.google.com/rss/articles/CBMie0FVX3lxTE44dUNydHVIR0FTelpGcjlIcy10UGtjTkRTWU11VEU5ckduNS1ISEg5SzVQZW50V0VId3AyM0FnNjNLVDZ5Mmo1Vk5mNG93NHF5cEFKZFRQckNVZ2x0SVVBb1hTYU1PUHk3TjNHcTVRYnl1NXNIT3YwNVZ3UQ?oc=5) — Facebook 
 - 2026-11-25 [#售全新未拆陀螺✨ CX-19 鱷魚裂甲$500 UX-03 魔導神杖$500 BX-52 光輝龍騎士$700 限新北板橋/土城/中和面交](https://news.google.com/rss/articles/CBMikAFBVV95cUxOMUptV0JhWUhOcnR1MEw2LThVTDBQTTlvVFVhZ0YwYnFFTU1iNkZiR25iU3NpWTVyRF9vM2ZYWlo2ZlREMWhleU1RMUtHa29jd0VlbmY0cUoyQV9MRm5MSmxBamIycUN4X1NMc0xQTHVkNERYQXllT1lCS1NaUFBoVVFaekYzbjc0bXpsSnZ3ZHc?oc=5) — Facebook 
+- 2026-11-25 [#出售 日版 戰鬥陀螺全新現貨 UX-17 $600 BX-52 $700 UX-11 $700 UX-03 $550 BX-33 $500 CX-19 $400 BX-49 $500 BX-56 $300 交易方式：匯款 店到店+60、蘆洲可自取](https://news.google.com/rss/articles/CBMifEFVX3lxTE00LWp5YjZxNkdmMmZ5LTI1UHkyLTNYUEpKYnB4OXl4TnZ1MlE2cVNXQ3c3VklwZGg3eVdjTS1sclo4LXFDc2ZUdGZOVnlVNDgxbWlWcGNKNk9mZ2gzX1JqZFNYU1doMjhuc0VXckxiUlFOVzNLTzl6cE1uajc?oc=5) — Facebook 
 - 2026-11-25 [🔥【BEYBLADE X 陀螺大賽｜板橋熱血開戰！】🔥 🏆 冠軍獎品：CX-20 日版客製化套組！ 📅 11/27（五） 🕖 報名時間：19:00 ⚔️ 比賽開始：20:00 💰 活動費：$250／人 👥 8人開賽，最多16人 🥤 活動當日飲料無限暢飲！ 📍 貓六爪娃娃屋（板橋） 冠軍只有一位！ 帶上你的最強](https://news.google.com/rss/articles/CBMie0FVX3lxTE53R2dScFRmbkl4WXFiblZnZ2lLekN4YTlWU1VvU3hDX2xZZlM2OUtZS0s3R2lldkdHQWh3MThyTHRld2RRWEt4M19FUHRycURBczkzTmhVekw1bzRFMzRvVFBDOUtvREktS3pWdWhLWmNtYVMwTVAtWmUzVQ?oc=5) — Facebook 
+- 2026-11-25 [售「BEYBLADE X 戰鬥陀螺 CX-00 龍神勇氣 G4-70I（金屬塗裝：水藍／台版麗嬰代理」$1,200 限三重面交](https://news.google.com/rss/articles/CBMie0FVX3lxTE5JN0pqX2xxYk5JR2dCRXBYUEE5WUx6QkZRVkZPaXhtTDF3TUs4MnU1SkRILUZrREJIM2poTXBwZEluUHc5dmdHN2ttMDA0NWkyN1JuYlZ4T21wX2ZxYUFwbXNhczZhVjVGMTdWNmRSY3JDbmhOdG9IeXdRQQ?oc=5) — Facebook `麗嬰`
 - 2026-11-25 [嗨！快來看看『🔥新北現貨🔥升級8入組 盒裝 戰鬥陀螺 x戰鬥陀螺x 競技陀螺 戰鬥盤 發射器 陀螺盤 爆裂陀螺 兒童禮物 生日禮物』，售價只要$389 - $888！立即上蝦皮購物逛逛=> https://s.shopee.tw/4LLCbAl5G6?share_channel_code=3 #嬰兒床 #健身好物 #伴手禮 #](https://news.google.com/rss/articles/CBMi3gZBVV95cUxQVnpXV0lBMkd0RUtKX05MNHdFeElLQUJuTkV3T01fVWg3Ui1MR2VNMHo2QXZrNVIzdEdCeXlrUWJwNE1ybF9vMmJpLU9IQ1lnMTNISkxwdFE3eWZuci1relFJVXgyTXl2UkwxSWk5TjRMQ1NWMVE2YnF4Ry1LZ3hjejZBSDFLZHk3SlFEZHNIY2VnTzJqYUpaTGpwZTVXUkRXdXBnUHphWTd6Q25xeC0xcWlacWZ4Y1I1dGVlSWJNMjVLZ1k2Z0Fma29lcjkxcnFmUW1nanJJeDZnTTVoaGQ1YVNsNmQwVThWNmpsVmZweWFybEhVbXFMMEhuV3loQjhwLWVrUG9NZGN6Rk41MXByam9DS3BqdktveHNFcnhnV3pKVjNJODEybXRESlBuN2VhQ0xCbS1NTUl2TjZaY3prWHRReFk1QUoyLVV2Mk5DMjhuSXNrTDNnd2JJOUZRclF4QXJPcTVIeTh4YVJ5WmV5R01oYndrY1J2cWR3elFDM1p2X3BYbm5nX29wUmhFekdqb1R0dWZ6VGFEQnFObXRQMHlPMkltUFQzWDh3aEVDYV9heG5fSXZkSjV1LXd3bEtWbDRMNzJBVU9fZ20wODJ3ci1sdlRmY1RLRTQ3WUFRRGVFc25yOU52UWxNOUVWa25xWUdrRDY5dm12WGhBLUVOR2FEOFgxVGZMeTRTWmI3N1VFaVVmQlplQlAtZzZ4NjNzVC02LXR1N0M1Tm5QWFkxLVlVRjVSMVVBS25Vd09hM05Db3RWYmJodmJiYzJXYWV3NWttM3JPamdhTDY5dm44U19fczFPeGh2bUhNZXJHQnBiLXY0TnItR3FzeWNkUmdvUHRmSnotVTZsUDdEdURtVFVQMF8xQTVLbmZVdHFmTFZMaTBYRl82RVh5UDltU3pHQV9iZk9FVF9Bb0VDMnRacmpyNFVNS29JSjZzWF8xczVtNnI4aDk1T2VKNTNjSVNkVXV4NEV6MlZNeVJWclNrdGVwWVlCWl9PQUF2T3lhMEhWSnZzNy02VjJVMUNRTkNMSTNMZTg4X01PQ0w3VWFOQ1lNX2dvNGxKWXBOeWdjSGIyNDNzekV6eGtPSFQ5TFBTNHpLeEFReTE0WHpWUDdPVlFnWmpGWlBRczlUOEdn?oc=5) — Facebook `蝦皮`
 - 2026-11-24 [【售】 UX-04 透明異色魔導神杖二手純上蓋(模具雙A4) 價格:2000元重量:35.63 依賣家秤為準面交三重蘆洲，意者私~](https://news.google.com/rss/articles/CBMikgFBVV95cUxOVGl6MkF0Z2FaMnp4aC1sQVNkSzRtS2dHTnIwWXZCOUhVUVV2WDJtRWdzT3Y0SlV5eUhFOWk2dE5SNU1WVWxDVHRHYzN1MXJoYVd1X1VpMWhlYUJGWkJzSmI1X2Fhd3F2VjVGWWJnVC0wYXM5eEstWjkxLXB2bFRqSUtLQ0d5SVR3dk9UcWZnd1FGZw?oc=5) — Facebook 
+- 2026-11-24 [🔥 戰鬥陀螺零件出售 🔥
+1️⃣ CX-20 藍神杖｜1-60 H軸
+
+2️⃣ 鯊魚｜3-60 LR軸
+
+3️⃣ 紫銀狼｜9-60 MT軸
+
+雙A2藍神杖上蓋全新 （35.55）
+
+2000 全收優先  
+
+匯款店到店+60
+
+三重面交
+
+📌 皆為實物拍攝，細節及重量可私訊詢問。
+
+📦 店到店寄送，運費另計。
+
+💰 有興趣歡迎私訊，誠可議！](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQkVGM1h1Qmhhd2syS1Bud016aWxXMnhCaW1FcWVzdHh0QnBBZlphMVRPQ2tsNUtIUjJWSzMyM0FYSnpDczY0WW5sTGhEallra2hpN0d6T01kY3NTY3EtZ1JTOVhLdkZuZGluRVY3Ukc0SHpQeHo5QngyYzJtZGpnMEthSDgxbUdQMS1va0N3R0o3ODA?oc=5) — Facebook 
 - 2026-11-24 [賣 BX-53 日版 2700 藍武神 台版2500 新莊面交](https://news.google.com/rss/articles/CBMikAFBVV95cUxOWHZXczQtam5JSkQ1aEEwQlRDbHpkajhnVTdTOXVyNGsyVGJlWXFRTlM3WXhOQWk0cjRJX2h6SnZJcXBXT1ZIUzNWWFF1cmpPbF9UMUF0UEtwclk2REVDcFJreWJNenJYZk9KVkt3TWxNMXpRczBRc1pzTFB4TC1ESmlPUlNnTVdKa0NtZWlmN2g?oc=5) — Facebook 
 - 2026-11-24 [售
 便宜賣
@@ -178,22 +312,12 @@ Bx-50 04
 - 2026-11-22 [售全新日版陀螺！ 單顆： UX-08 已售出 UX-11 $700 UX-20 已售出 UX-21 $1000（有2） BX-23 $700 三重北市可約面交 其餘運費另計](https://news.google.com/rss/articles/CBMie0FVX3lxTFBzSU1VZGg1bXRtYUNNWGF6ckNDb1pRbUNGMFg1YnF6RjI1OHJjcDUwR1dha3J5YlVWcFRta0h5bXkwREhVNjB3SDlMSzdvcmthZnZCaDJHRC1URTlTTnBVZ1VIUFlnQ040Y0IwUXM4Tk5HaVY4U2Q0S183VQ?oc=5) — Facebook 
 - 2026-11-22 [售日版 全新未拆 現貨 CX-00紅戰神$2050（售出 BX-53天馬盤$2550 天馬不要qr-100,其他不要qr-50 板橋可面交](https://news.google.com/rss/articles/CBMie0FVX3lxTFBPVW1IeVRzLXNuY01tN0tBdW53clp6VGFNR1F6cnEtdnRxbTlYeEVTME00SEVJcWJITTRUVzVYUWJQUl9MVGtqVUljQkxoZ3FadDFlMDBNblFLckh3a29lcVVxUDlodGVNUUJtd3Fhanl4LWtEY0hWYVBPbw?oc=5) — Facebook 
 - 2026-11-22 [韓版BX-53現貨在台🔥 土城今日面交一組$3050（只有2組） 台北行天宮、新北土城🉑面交 其他地區郵寄 北北基+70 其他地區+80￼](https://news.google.com/rss/articles/CBMie0FVX3lxTFBGeFNCMkJDejRScW1KWTNNbU1PZHN6aHhvaUZsNGpDYjk3Umd0VEIzam1UcWZIUmxKbjlYVjlqbDVhZXBhNDJ4UThyZ1dwUjR1SkVSZGVHblBSSXJvazRvSmFhQVB2cVVPNXNQdWZLOTBsaXR0QWpxdG0zNA?oc=5) — Facebook 
-- 2026-11-22 [亞版CX-20現貨剩2 $2900 永和可面交 再開個預購 11/23。20:00結單 大約11月底到貨 永和可面交 亞版CX-20全新未拆 依照量會先收一些訂金 單盒2700 三盒 2650 五盒 2600 有興趣的，歡迎私訊 溫馨提醒這一批的鯊魚，平均體重真的偏輕 目前鯊魚戰績 37.91 37.52](https://news.google.com/rss/articles/CBMie0FVX3lxTE9sei01dWpIbm5za1BSV25sTTdwaDBIeUE5WG1obXVvZFBCNVNXSDl4ZEctdzRGd0VtNjJsM1llM1lUSFVFeDQ1NUl3eWQwS1E0cDVDX3pwbE9VS2xINGVyTDhwc0xIZk5LMXF5TUVDRnR3Y3NTZEcwYVpucw?oc=5) — Facebook 
-- 2026-11-22 [📢 陀螺玩家們～小公告一下！ 從 11/24 起，胖寶貝陀螺對戰區暫停開放囉！ 因為老闆要開始忙著準備聖誕節啦🎄🎁 店裡要整理、聖誕商品也要陸續準備登場，所以陀螺台暫時休息一下～ **真的很想打的話，在不影響用路上之下，可跟老板借到騎樓打** 怕大家特地跑來](https://news.google.com/rss/articles/CBMi6AdBVV95cUxOVnRjQ1dkd2lmVzdXZjhESEhRWVZmbUhPTXQ0NVl0MW9PaTF2bFkyUmRlN3ltYjRtdF9CV2tMODlJb0c5TXZGU0pmUnVDN1dnYW5yR1l2TGlJRmUzNDFtT21nelN1dUp3cldnV1NhVWpKYURvaUhnNWk5X1JtaXBQcGRIaUJkeGNyYlNkdUl3NTIzV3BxQkh2a1U1eDJXS2hQbDFZSS12U3V4eVdMWlVBZWVMODNFU3NTUXVaVjJYa1lYUDNINzdVN0dLYUh2bTBZTm4wQld4a1hOUnhGS0JCYkhHUTE1ODZOam1MN1RQNC0zTWhfN3N0NU1TUG9heXN3MGFlX0ptMmZWbEtkdmJ0X3hrR1ptVmFfUldSQ2N5VW0tVFVzd1ViLUR6NkozU2k4V1NEY0N5ZUN4dWdSa3Q1LVozQklQdEh6Q21ubGFpRl92bDhyM3p5OTYzcV8wVVluRHp4N1NhQzl0SVZ6czcxQXRZeEtLUDVYUzVycGI3ajFtYWsxMHdzMWlQaFM1V3VJekRnaEh2bDNJcS1jU0JLdXdTS1E2WTlYVnZkSlNQMjU4MDhsRmVsMGprd2tNY05RSFp4V2xWdWtPRVV4Z0h3RmlyVnRiTUtLVUxlWEdHYlZyRFp3OVNTSkp2WmNIS1lpQVB4aG8wRnI4dGF3ODNHbTJvQ0lucjVFRWZIQVRQTzRrSlc1OVJZSVFSY1RmVGozTWFsQVZkeTRzRVgzeHc1NnBYUmtNU01BSjg3VUs4M3lybnN0M0NsOEpZRGFvbDB1RzFoWUVKUUR3a0tFeXZyTzJlOEhVNHBmRlZxbkhFbkl6MXFxcHlhaGZScG5NRHlmY2lMYWF0UVlwSVdXZ3BVRFJrT3A0ZjA3Z2VfZFBtMWF1TE1IQVV1aGY2WDl6WlBiVldyUk1GRGR4THNXQjZlbTlkWDRkT2tKdDd6UmtBWHlIaldzMnFZZmtlcncwMW4wNWdwVHNHOWdfQlVCVFV2LUR1YjJEZ2NoWjhiQlJoX1pvT1RGOC1mWTU2SE0ycUlKclpsaTY0YkhtdVRvQ3ozSWVWOHpjQzg0NWJRYXJOTVdMVExzMERreE1kc1pNTkdrNjhzdlRnellfWF9NWkJFdlJtMGU4TmhpRXlDbVFtRVBzSXR2YnRqOTRnZXFHNENENXNPQlRVbkRKNjJaZktBM3lab3RXVFZZNURtRDB5UUFBT29GYUdrb29sSnpBbVVFMnp3bEEwYUhWQS00dmxnYU1JYmkyUy01UXpTWTFHZ3dhczE4NmIwWkVNQktMcWI0S00yZ2dBRGxJblpMX0YzYWZDbUh5NEZl?oc=5) — Facebook 
-- 2026-11-22 [#售 #紅戰神現貨 日版全新未拆含QR CX-00 女武神4-70V 槍灰色 1:$2600 剩兩個，板橋面交為主 賣貨便需匯款留20後才寄送，100%取貨率可全額到付](https://news.google.com/rss/articles/CBMie0FVX3lxTFAtYnJUSjhPTFlIejZWV0hMM1VvZDM1QW5UVGJtTFFNcUh3eW03NGVDMnkxWnoxN1NCY3IwTHpySWFpR05Fdzl6Y2JxN2tJSFh5dDUwN2JOejQ2VlIydzVSMzdTcWswNUJmWmp5V2VLalNlbS0yVWJQaE9nTQ?oc=5) — Facebook 
-- 2026-11-22 [#售三重或南京微風面交匯款快遞宅配免運/店到店+60 #全新發射器拉條發射器100（兩個150 衝龍炫風發射器250 黑龍左旋旋風發射器300 #全新整盒（無QR) 海妖里格爾S3-70O 700（有QR 蒼穹龍騎士550 光輝龍騎士650 隕星龍騎士650 龍神勇氣G4-70I 1800 BX-36](https://news.google.com/rss/articles/CBMikgFBVV95cUxQVmt1Q040UldzM0tHaFRldndjTnF4dFh1MXBPM3duZE9VMDU3cmZIS1pjZUZuRTVnbDJVQTZIOUVVeTFWQ1lEa1pUeHhCMFk1TmpPQXM3Z3FXZXk5ZVplUzRPX3VHdDkzaGhZTWlqekZOSE0xdWJoYUMxaE1pcGNJaGU5Z0FxRTRIUEdpanBaUzlkdw?oc=5) — Facebook 
-- 2026-11-22 [# 一日短標 單社競標文 #競標 現貨蘆洲 1.UX-17 隕星龍騎士 2.UX-11 **[衝擊龍神豪華組](https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:29,mid:576462858138281809,imageDocid:1724357197224639681,gpcid:9662301187917676869,headline](https://news.google.com/rss/articles/CBMie0FVX3lxTE1vZ09RdFdnTkdyaXhBcEl1a3VwY0o0LW50cDhBc0hrUTA2Z3MtLVE0TG9aT2JkMnpFLUdMMjNKOTBvNTdDV3ctTk4yVm5UTG9TQkJ4WENoYXMxTDFJY081MkZ3ZTlRZnRkNElZMWxFTXRaT25uR2p2Y0FGbw?oc=5) — Facebook 
-- 2026-11-21 [售 CX-19-03 CX-08-02 UX-18-05 BX-35-03 BX-35-06 CX-13 內袋皆未拆，皆無QR，整圖一起售1500 ————————— CX-18 日版 全新未拆 售出 有需要麻煩直接私訊喊收，謝謝 交易方式：土城面交、匯款店到店（含運）](https://news.google.com/rss/articles/CBMie0FVX3lxTE5pMlFseDRhMEM4cnEyUFJBbU9MSXBaWDB6aVhFMV9feDk3UTBRcS1EUHlDQlhMUWg5SDFZcExWaHpFVjNKd0FfT20yMk5NQnlnYTFTSEFYTlJzUUQ0cEZRYzFDR2dlR3dxd0ZBWmszVlAyTjBCTW9GLUJNbw?oc=5) — Facebook 
-- 2026-11-21 [售 (新北新莊、板橋面交） 1、全新戰鬥台，可客製顏色 厚度3mm(自取650，其餘方式取件800) 厚度5mm(自取800，其餘方式950) 2、全新拆檢紅鳳凰上蓋（38.7） 3、全新未拆bx-11手把 4、bx-50-06日版](https://news.google.com/rss/articles/CBMie0FVX3lxTFBfYlZaNVJDVjFXSVRPNWlBSGo0azlkdDFIMzhJUXNuQm1GR21CWW81amNTZ3ljcHNzbGY5ZG9OOFJ4aGxmVW9RNnZwYXF5Y3loTlI3YmktejVUMWFhaTRXQS1rR3M0cF9XLUhMcHVSNEFCQWNETGVuM0RBTQ?oc=5) — Facebook 
-- 2026-11-21 [#出售 日版 戰鬥陀螺全新現貨 UX-17 $600 UX-09 $800 BX-53 $2900 BX-49 $500 UX-11 $700 UX-03 $550 CX-19 $400 BX-56 $300 交易方式：匯款 店到店+60、順豐宅配、蘆洲可自取](https://news.google.com/rss/articles/CBMif0FVX3lxTE5NZXJpSmNYOWNPMll6ZlJhektSWXFUQWtLblg1MXVHUmlMQ3phcTZfSklpSFVNZ25ZZ3FCNG4zb0xneVNRcDA3czljTHFLY3d3bmFSWERkNHdhN21oSEtZWDl6TkRoWEY5dTNnY0lERm9TT1ExSkZQNXd0U2w2dVU?oc=5) — Facebook 
-- 2026-11-21 [賣賣賣 UX-02+ CX-18一起賣 不拆賣 都全新未拆 面交優先 新莊 時間麻煩可配合佳 價格1000 僅一組 要的快唷](https://news.google.com/rss/articles/CBMie0FVX3lxTE1RQXhMOEMzSlM5cTJxRXlPeFpzQTA3cGFPTGRCWkxJYWVCM242RVFIRWV2ajNTS004NFFISDF5T0k5QVh0clJrZUNLUHctdndVR2s4d2g3Q2s1U2pRTnJXbTdzVWNRdkc0eGZueEpBZ1UxX1Z6MUxXTDNDUQ?oc=5) — Facebook 
-- 2026-11-21 [CX-20 週一早上抵台 中和面交 CX-20 *3 BX-54*3 週一早上抵台 中和面交 僅面交](https://news.google.com/rss/articles/CBMie0FVX3lxTFB5U1NJVGlDYjNHNEhRbkJGaFlKZkRnNzlDUlNDNmY3WjYxTXNGRWpGeUNHa25SRU9yUV9leEZ6YmUzNHNCcm9uZ0ljSU4tUEp6TWhmcUFoTEFoOUdsTTBfY3BlNkRIbUFBYlBaYWlYRVZRX0JEX3o0djhXbw?oc=5) — Facebook 
-- 2026-11-21 [售CX-17-03 紅武士／武士星劍（9-65LO）+女武神發射器+女武神台版qr • 版本／狀態：台版麗嬰公司貨，僅拆外盒確認編號，黑色內袋全新未拆，QR Code 未掃 合售650 新北面交優先或 +60匯款後店到店 🈚️賣貨便](https://news.google.com/rss/articles/CBMie0FVX3lxTFBhdUczNjJtRDNBUUo5S05fWGk1Ukp0YVpOd2R4WFY5OF9VMGpWRk5FSW4wMElSQUJfZUFsRVlLc196VHR2TkVndlMzenhzczdxM01Udi1MeS1LV1dVTFN2ZC1LWWQ2X0dtMUxlSFNvbDl5Rnd2YnUwX3JjUQ?oc=5) — Facebook `麗嬰`
-- 2026-11-20 [售 台版 全新品 確認款 有QR 現貨 BX-35-05 鳳凰飛翼 $1200（有4） UX-18-02 古屍詛咒 $1200（有5） CX-05-04 雄獅巔峰 $1200（有2） BX-50-02 天國日輪 $800（有2） CX-08-04 蒼龍爆刃 $800（有3） 新莊馬上面交 或 賣貨便貨到付款](https://news.google.com/rss/articles/CBMie0FVX3lxTE8wOFFveFdMRWNTSVBQOHZKQ19CNTJjRDZHYWtBSVJyY1BRd0xIcWNxXzJKYkxDZTNYRERnNUN0YTJYb0VmUWdmUTdkYnVIb1M4ZFpvcnJLM05HZ0Z5bnJFblVwY0t6c2FUTnFrT05nUXoxbXlXcENiZ2hmZw?oc=5) — Facebook 
 
 ## 📍 桃園
 
+- 2026-11-26 [直購文 日版白銀軸心 商品價格：1/350共7組 日版CX-00 黃蜂要塞 R7-60T 金屬塗裝：黃 商品價格：1/900 共1個 商品說明：皆全新未拆、無QR code（方便￼帶回台灣沒留紙盒 交易方式：匯款711全家店到店+60或中壢面交](https://news.google.com/rss/articles/CBMie0FVX3lxTE5DbmhiNHphUF93SmQ3T0tXR1pJajZiZVpDcjNrVDFrQzZJSFdEVmhiZTJ3Y1kyVjZyaXV2QUE4QmJwb2FGOFhwYWdqV0ZMQmpOYkxmaHJsSXdZa0pqSnA0TWg5c3RQT0d2VFpLcWFpcFZaLW1LWVJKbm12NA?oc=5) — Facebook `全家`
 - 2026-11-26 [降價售 1.全新未拆BX-53 $2500中壢限面交 2.全新藍武神 無QR發射器 $2100 3.UX-15 H標日版整盒僅拆檢 有QR鯊魚上蓋 37.34g$1300 4.95新梅杜莎9-60打2場而已 跟其他60系列一起賣 3-60*3 1-60*1 9-60*1 合售$1100 可賣貨便或中壢面交](https://news.google.com/rss/articles/CBMie0FVX3lxTE9VeUdIWlRHVFZCeUJ2ekczNG1wSGUzM3F0VEtPTzFVWnY5YlBybG11bVR6cWtXMWxYVkkyeVE2VHZXYjVsUEk1dzdpRlV6bmRuU1RaRnZjbE03RjJ5RDduakdfQUVkTFVIS014Tjlhd3hwU0lxWjJXZVJxNA?oc=5) — Facebook 
+- 2026-11-26 [桃園/林口龜山 售 UX-15 台版 全新未拆 H標/1500 UX-15 拆檢無QR 37.1 /1150 UX-15 全新未拆 C標 /1400 UX-00野牛A賞 全新未拆 /1300 B賞發射器 全新未拆/600 CX-19台版 全新未拆/450 BX-49台版 全新未拆/550 UX-09全新未拆/750 面交優先 or先匯款留20賣貨](https://news.google.com/rss/articles/CBMie0FVX3lxTE1wNVVOVGxDUVhsZk1yLVJBQlM2dDA5UTJjdXhrQUY4Z1p2RmNWTTZLbUViSmhFalBRd19VVnBuZXI4Z3B3RVZ5QURGMVRHaEtZeTdrUXRqZGdHUk90MXNwRVY1cXdKYWRza25SYUpreUN0Z1BiOENPVVliMA?oc=5) — Facebook 
 - 2026-11-25 [cx-20拆賣現貨當天出 bx-54巨神+cx19鱷魚不拆賣 全新 1350 藍神杖880hn 未拆袋 800 鳳凰原力whm-65mt 未拆袋 900 黃鯊170lr 未拆袋1200 紅蓮v2 uf lo k 未拆袋1000 未拆袋的皆未量重量 野牛a+b全新未拆1900 賣貨便 取貨低於95不出貨 面交平鎮中壢](https://news.google.com/rss/articles/CBMie0FVX3lxTE9zaHNBV2h2dUd1dzAtMEt4YVV5cE5UQ04zWjVSMVdURjFkaXFLVGhINGUzaEg2dzhaM2Rrb0dfYkUzS2g4NXhibzNaMHZwdGJRbThEMmxiTVI3cWltUlRmcTNVaXBKMmVEWThaXzZKbVZ6VHMtTEJuMC1HQQ?oc=5) — Facebook 
 - 2026-11-25 [售CX-20亞洲版本一盒$3500，五盒一盒$3400，十盒一盒$3300，桃園中壢可面交其他店到店匯款後寄出，是現貨不用等收到款馬上寄出！另外兩盒UX-15拆檢上蓋37.85g+-0.05一盒$1800，紅戰神福特一盒2500剩下八盒數量不多了！](https://news.google.com/rss/articles/CBMikAFBVV95cUxQaF9MWGRIVFpDMnNoVnVGSUwxWXBBRDBGM1ZrMDRxNVFLemsxdm5FMnRLemI3MFk0TnU4cGdEcVYxTnJkdlAtdm5kZlRxb1JlaUZqaHhBN1E5Um1mdDJLanZBQ1d4QWpQU0xVc3ZoZldidkNXSWlVUG5vRlhvRElOb0c4V3R3UGl5VjNYQW91Nmg?oc=5) — Facebook 
 - 2026-11-25 [收 需要全新未拆 收:UX-21.UX-20.UX-03 交易方式：賣貨便.中壢面交](https://news.google.com/rss/articles/CBMie0FVX3lxTFBUTkxRZWo2enBEamNld3NYcGUwaEY2U3I5dU5YVExMbjBSZUNhcWx6OEkwS0lDQTl5SmtQS2FBUXc1WUoybC1iUHg0bXlyYWR6MlQ3WDBCNTJvVzR1YW9oUFpiZEwtX0ZPbDVmUUJKWE1iM0poaTZQNEdpRQ?oc=5) — Facebook 
@@ -214,18 +338,44 @@ Bx-50 04
 - 2026-11-20 [Ux-21有三1:1000 Ux-15. 1400 迪卡狂怒. 700 Ux-20. 700 A賞野牛. 1300 Cx01. 500 Ux03. 400 美版爆刃。400 Bx24Bx35. 兩個500 收多自取優先 中壢](https://news.google.com/rss/articles/CBMie0FVX3lxTFBaZG1mVVJFcEh1Vk1pYWFLUW0xUVFhbUR1RWxTdnFSYnNxQ09uRXUzQ25Sc09oN3hSMDZtZ0k4aGFjRVpzMldFLWwxVkp5ckg1UTREakRLV21pY20yc1k4WDlmZjc0SmZtdnIwRlhTaWs5LXRyYjJ2eURLVQ?oc=5) — Facebook 
 - 2026-11-20 [【商品名稱】： （1）BX-28旋風發射器x2 (1:$350) （2）武神旋風發射器 $300 （3）衝龍旋風發射器 $300 以上皆全新未拆袋 （BX-28QR都在） 交易方式：桃園龜山、新北林口面交或賣貨便+38運費（面交時間地點以賣家為主） （取貨率100%才會出貨，否則一律匯款後7-11店到](https://news.google.com/rss/articles/CBMie0FVX3lxTE1QQVphYjB3MkFFdmtIcElseTdibDVSYVVaQlN0U3FsUlFya2kycm91bnQtaWl2dHFEN0hlWW1ONjNGUEZzUGhUYjZ5TDV2cXFhR3JxdmdiNnh0UVVFMlpyWVRtUHo0SV9GaGdMbnNDb2VlNDR6QzVieE5qTQ?oc=5) — Facebook `7-11`
 - 2026-11-20 [出售 BX-52 光輝龍騎士 全新有QR 750（有兩盒） CX-00 奧特曼 全新有QR 750 CX-17 全新抽包 有QR 450 全收2500 桃園面交或匯款店到店](https://news.google.com/rss/articles/CBMie0FVX3lxTE56dUV0SXU3emJXYUVhZUNSQVBNOG1ZNXRNNHBsdTRJNHJmMzU3SVMxU1pMazdtTnM4VXVNdVc0emltb19QMjlnczNsM1k4eHdLbGM4dVBTV0NRXzJNR1VTZ3FCY29hMHNoTDRtX1FoTG0wOTZJcWRhZXBTUQ?oc=5) — Facebook 
+- 2026-11-20 [🔥🔥 今天就是金華盃陀螺對戰大賽！ 🔥🔥
+🎯 還沒報名的朋友看過來！
+原本來不及報名也沒關係，現在還可以報名！
+
+⚡ 線上報名：直接填寫表單
+👉 https://forms.gle/vvfwesA27pXhGsTBA
+
+⚡ 現場報名：今天直接到比賽地點報名也可以！
+
+🏆 豐富獎品等你來挑戰！
+🥇 第一名：A賞 野牛
+🥈 第二名：B賞 發射器
+🥉 第三名：UX-17 限星
+🎁 滿32人再加碼抽 CX-19！
+
+📅 比賽日期：今天 11/20（五）
+🕖 19:00 開放報到
+🕢 19:30 正式開賽
+📍 桃園市楊梅區金華街33號地下（婆婆館餅對面貨櫃市集）
+
+💰 報名費：200元／人
+（滿32人優惠150元／人）
+
+📣 不用猶豫了！想玩就來！
+不管是高手還是新手，都歡迎來挑戰！
+今晚一起來場熱血陀螺對決吧！⚡
+
+#金華盃陀螺大賽 #BEYBLADE X #現場報名 #最後召集 #今晚見](https://news.google.com/rss/articles/CBMie0FVX3lxTE53a09ZdlpVYl9GUGtyT3Vxd1dvVkVGVzF4UjVjRnlucUhNaFJpMy1PVGpiYWVob3FCUUJ4TkpVdVQ1aWFKVm83VzZ2UkZIWnJuc1phV3VxM2dIdEVTY1pNVWN5S3dzWVdnb3RDaGNjNEwweFE1clhUNDJKZw?oc=5) — Facebook 
 - 2026-11-20 [玩具e哥八德大潤發- 戰鬥陀螺再次到貨🔥品項/數量恕無法提供❗️販售規則以各門市為主，各門市不一定相同❗️...](https://news.google.com/rss/articles/CBMic0FVX3lxTE5sSjJNT0ZGYjN4LXh3Z3IxZmE4cDlpTENDV1dGNmZkRHh2Skd4bTMwU0Zyb2NnV3pVUnZwQVJnS09YUEFyWkpEc1NQZEdzYWtydi1pU2YyQUpXUXZIek1xRlpSX2ZxbFBYMzg1MTRXVjFWRXc?oc=5) — Facebook 
 - 2026-11-20 [『全日版/賣貨便12H內發貨/青埔面交』 CX-19 鱷魚裂甲：490 -全新秤重隕星上蓋- 隕星上蓋39.01g ：290 隕星上蓋39.06g ：320 隕星上蓋39.11g ：350 隕星上蓋39.16g ：370 隕星上蓋39.19g ：390 隕星上蓋39.23g ：420 隕星上蓋39.25g ：440 隕星上蓋39.27g ：460 隕星](https://news.google.com/rss/articles/CBMie0FVX3lxTFBfbDBWQlg3clVDNG5hekgzZ0c3cXFhUTAwXy12YVAxRVB1RXU4Q2J4ckFTZjhsSzlhMGtlaTRoSk9pUmI0Y2xLcVNrRy1KaDNkX1Q4VzhWc3hiR3h6T25YMDYzbHRjN1lpWWplRXBfODc2VmItWWtmRlhZOA?oc=5) — Facebook 
 - 2026-11-20 [「售」 聖誕禮物好選擇 UX-01 蒼龍爆刃 ， 正版台灣公司貨 H標 售價 ： $600 / 個 桃園 / 中和 面交 ，賣貨便+38運費 有多個，私訊數量 也可直接賣貨便下單，會看取貨率，太低不出貨 https://myship.7-11.com.tw/general/detail/GM2611209920990](https://news.google.com/rss/articles/CBMie0FVX3lxTFAyaThyZU9zWWNfN2pXWWVrMUp0Yy1rZ0NPUUpHdEdlY1BFRDFFajBVMlBfeF9aa1VHbC1feDBUR0hFaGEtUjdRN3FkTWMtTWZmYWZRdjR5U1JjNDNWVExoR21QSmQtNTdCYkZMZlRxYVZ3NFZxOHJEVmgybw?oc=5) — Facebook `7-11`
 - 2026-11-19 [出售 全新陀螺 BX-50-05 NT 350 CX-05-03 NT 350 CX-13 NT 495 UX-17 NT 700 全新 皆有QR碼 大溪 八德 平鎮 面交 賣貨便+38 意者私 #詐騙勿擾](https://news.google.com/rss/articles/CBMie0FVX3lxTFBaeW1pMzFyTW9OczQteGpwQlBIejdHRjVBNFIzeGNOanN0cVppUHBPVlNzdUJwZGcxUFd0MjlxMnpWaW55aXRxZ1dxM3pXVGdycFRwR0czXzRfRlpnQ2NFZEpUY2pYNFpEcmRwdmhESF8wSUFrMmdoZi01bw?oc=5) — Facebook 
 - 2026-11-19 [出售 上蓋全新 軸二手 出售： 1.全新未下場 BX-53 藍空力 38.74(+-0.06) 2.全新未下場BX-53重盾V2 36.40 (+-0.06) 3.二手粉紅E軸 價格： 1.1300 2.800 3.700 交易方式：店到店+60.中壢面交](https://news.google.com/rss/articles/CBMie0FVX3lxTFBaWE05TEhpRHNZT010VnNHNjNURmp5eGtZNlAyeE52VXRIV3N2ZVpqUlJWTkU1cGJCbTVHMTNRSFVaY3g1OUNxZkVlYndJdjUtY3RTU1NwZFR4WlY0ZGNzVm1BUmlVTzZId3l0WUFkTzBHVUc2c0NxWVF6dw?oc=5) — Facebook 
 - 2026-11-19 [「預購」 BX-54 凱旋極神 （650$） CX-20 豪華改造組 （2700$） 港版全新未拆QR可掃 開放少量預購數量有限 「預計12月初到貨，貨到寄出 運費+60$」 收訂、桃園可面交](https://news.google.com/rss/articles/CBMie0FVX3lxTE8xeDg2SXUzTUhaQkRkbVdHX25QUTJ2M1MtUDJvUmx6REJfaHpSX091QlgzdUhyRDZmbEVYd2hwazU1TlBxLTB3RFVtU2R2ZHBJdG83X2Y5SVNmWXQ0Q1haemg5dFhuSGVsZDJHNWR6bDhnZ1ZrbWxoYnVCOA?oc=5) — Facebook 
-- 2026-11-19 [售現貨BX53全新日版 BX-53 $2800，只有三盒！ 原盒未拆！！ 其餘寄送+400，桃園新竹可面交！](https://news.google.com/rss/articles/CBMie0FVX3lxTE0yUkxaRnJqS0FpYkltVnhRNU9ZNHBHTlRsa3RZbUh1T2tnTlpWejN2d18xR0M3ZF9SdDQ1UXBhY2dEMDg0V0tmYXlVTWJUTlg1dTBHZzFHUS10S2VBQWpSRnp2NTR6dHhFNXpZVWVXcjNMOXBxVHZvcDZIMA?oc=5) — Facebook 
-- 2026-11-19 [#售 BX-00暴風天馬💰650元 桃園面交～～有問題可私訊！](https://news.google.com/rss/articles/CBMie0FVX3lxTE5PWlk2VDFKUFBQQU1MTlk2OUpWMnBRTzhrbEV2WGxfN3AwS1hUanQ0TGdkRUVTeS1VUll2UUFPa3JMVDVlcU0xQXpZeGs1dFlJZWJNallpQ3VTa3R6SzFlY1NXNnZid0pUM1luekpNMFhlV2ZlUGJHVlpGaw?oc=5) — Facebook 
-- 2026-11-18 [小孩的陀螺有夠多！ 全部便宜販售包含盒子 桃園平鎮 全部800元](https://news.google.com/rss/articles/CBMie0FVX3lxTE5RdE9NOFBEWjhZT0RubDNpRWZBVDZuYUdXVndUSVA4bWp6NV9Qa0FhbzkyUzVDaGtmaVZoTmtwMGV5MmREanBjc1BhVGhCWHNwQVl5UEpmVGd6cGtGTFp0TjBtTWowRUxpY1N0S0VGMjJZcVZ3dFptM0lHRQ?oc=5) — Facebook 
 
 ## 📍 新竹
 
+- 2026-11-26 [🔥🔥🔥直購文！！！！！ 亞洲版陀螺特賣會，台版可掃QR code皆為全新品一次膠，各式陀螺、各式把手，歡迎下單選購 新竹可自取 🔥現貨全新亞版CX-20 $2999 🔥現貨全新亞版BX-54 $999 🔥UX-15 鯊魚H標鋼印款 $1499 (有客戶開過38.6g) 🔥UX-15 鯊魚E標鋼印款 $](https://news.google.com/rss/articles/CBMie0FVX3lxTFBMN1JudVVNMWlkSGFuMEd5S0FwUUR6aVZRdmJ4b3JCdXpSMVVIRVBEaWRDeTZjTWZES1IxeGhFUFRwblZyS2NhQTNJVzlUWWowaE1GZXFfWDdILU1UZV95UGRVRzNQcGZuOVVyaGhlajc0TkNWVTd5eElQYw?oc=5) — Facebook 
 - 2026-11-24 [＃一日短標【商品名稱】：BBLD聯名陀螺1. BX-00 飛龍旋翼580GB （橘色） 2. BX-00 騎士長槍4-80HN (綠色） 【競標時間】：11/24晚上22:00結標（以我時間為準） 【商品狀況】: 皆全新未拆含發射器【起標價】：0元起標【增標額】：100的倍數【交易方式】：新竹縣市面交或+60元](https://news.google.com/rss/articles/CBMikAFBVV95cUxPZzl4Q0tpdzI2aUVMMDc5QUFnd3JhR1pObkg1STdnN0lTYWR3Tm9WYnpRckhWWFNLa3h6bDdXcy1sd3V4cGZxal9MbDBlTlJNaGo1VFFnd1QxdllVbXlSeHpEX2ZpZndoc0tXUTFOWUN3a1BkOHdlcnVnZ2R1S3FOLUZTVjZDMDJVLS1UaURUNjk?oc=5) — Facebook 
 - 2026-11-24 [賣貨便售 UX-21$1100 CX-14$450(無QR) CX-03$400 BX-37$1500(限新竹面交）](https://news.google.com/rss/articles/CBMie0FVX3lxTE9Rc0FJa2NlNEsxS1FPV1RiUWJmMTFJbEdWaGFzTDFDSVRGUmZlQ0xIMlZwSkZFelpVT21uS0wxeDZDUk9OSzBTancxeFJ3cGxNOXJvVmg3U0RrZTBVdkhsaURuOTZTSzNXSjRleDlucXZuakhERVBIVTJ6NA?oc=5) — Facebook 
 - 2026-11-23 [現貨日版陀螺 全新未拆日版，現貨在台灣！ UX20:750/1 UX19:700/1 BX54:1000/1 尾款賣貨便+38 新竹可以面交！ 帶量私訊，大量可談！！ 歡迎玩具店、台主長期合作！](https://news.google.com/rss/articles/CBMie0FVX3lxTE9xZVFONU1DZ3hvVzkyYU5ibXdYUnBBcUtvdGYwMTZaYkN0TmNCeDhuc0Y2UUhfazRXZzlNY3JjSkFpN0U3Vjg1NGlvQW02LURvMkVrTVpxa3dWZnljbTVfSTk1alFHYXdzRlBDT3FGd3JhbGZDTjZWQWY4NA?oc=5) — Facebook 
@@ -255,10 +405,10 @@ Bx-50 04
 - 2026-11-11 [#售 全新陀螺 （暫售） UX-00 異色女武神（日版全新） BX34 蒼穹龍騎士（日版全新） UX-17 隕星龍騎士（亞版全新） BX26 獨角刺心（台版全新） BX-35-06（台版僅拆盒確認） BX-24-06（韓版僅拆盒確認） 全收不拆賣4500（可🔪 交易方式：賣貨便、新竹竹北面交￼](https://news.google.com/rss/articles/CBMie0FVX3lxTE1jcVVBaGhNRTNIbmxWbGVtZU1SbVZObWZEVy1rUWpNcmF2TnViNXh4V3ZkWm9YUTVsQ0tGSlo5MnQ4Vy1keVI4bnhDcjgyX0xJSzY0V2U2dHdPeGFLWE9KbllkREE1VENSU2hOblFwb2JyVXZJblpyM1hVVQ?oc=5) — Facebook 
 - 2026-11-11 [11/28 新世紀-戰鬥陀螺G3大賽 我們要決戰巨城啦！！！ 名單公佈啦！ 請正取玩家 當天13：10-13：40 報到抽號 時間內未到視同放棄資格喔！ 如果當天不克前往記得通知我們！ 不然12月會取消您的抽選資格喔！ 「公開組_6歲以上_共340位投籤，1位重覆填失格」 「通](https://news.google.com/rss/articles/CBMi6gZBVV95cUxQTFpGRzVnTE12TG1LMUZaYXg2RzRzN0g3eDkzREFnQnNXYUJUOXJLdmNIaF9SZmtaQlhGQUhEM1FjMEVJaFg3T2ttM204V3MwWW1iY1lxQXl1eWZMdUhKSjd5NTNWMjRHWlUzMjEwbVZ5RHRGbUVOR0txZGNiVDdYSXp2SjVTV3J1X2k4Y0tBZkh0aFMtdWN6Unh4UkxaYU16NFVCLUpFckNFcnZWM1JFMjVoX0pvREVnMGJsMmlYSFRlcndlaVNWRVFSb3dCaXpIa2RhQnNHWFk0MkhIcmJ5d3JVMVZhSE1rSnBFS3BVNUNDejJXZjNKVjBnaVBrRDhhR2pzR2JUOEtMRGhRbHgyWGFEVkFTVE5ublBTY3JrLVhqVjZHME9PdHpYMlBabHpxdXVxWS1kc2oyVHlKMnM1Vkp3N2ljZUpLUE44T1prdlR6c21zV3htMXVzLXI4WnZ2eDM4M1BYQUNubmN6T3BkeG1oV3ZQSnR0ZkpRd01OeWlPZDVkd01Xb255UDVjdG1mVjlKTmhLeVRZaFNtbHZjZm4zWmdFTU1XeU9SYmM2STZjR1I0MWV5ZnB6YURZTXVId1N1UUJXeTUxbDljZzk5T29na0JWNHVDaFRJNklwQ2dFLXZncF92REc3YWllamxFSHNWUFdLalp5YmN2RkVEUmUycjNIWWlVMmVKdDN0dHhYNUljamxoM3JXME4zZGFLMlZRMFhHSUdOLVZ5RmdKSmlyRmNvMkFSWkdYSDVLMi1sdzBoc3pMdjBRTEZlS3BwUWJUeTdmSXJ4UzQ0NzRudUdNd2dROW9xWjhpRkR3aHpjT3FIdG9nNjdFbVRoazNhNW8zYy13YS1nX19ORVdlYkVnWndRdXNwYlV1Z0lXVFZOVjlLV0VYY0dCTmNGaXFSaW9SMURHbDZDdERYYlZycHljeGZKMFZXTHNlSGo5M05aSUo1TFVGMExsMkVrYzJIX3prWThyc2liQVltWHB0VkRKN1luZHd3dWFyTFdVTjl2YzFkcEtkMjNoMHo5cmNwcDR4Z2xaS0YwZVk3SjZ4VjE1SGVZVE5nN1p4ZERvRzJTT1pxUnhQUmZmdWZfVjJYMEh1VFFOM0UxeUVWSW5tVkd1Znh6bERXY0UxWktLNTU1S0hDc3ZMZ1VB?oc=5) — Facebook 
 - 2026-11-11 [賣貨便售 台版龍神勇氣$2000 UX-19子彈獅鷲$800 CX-12$350 B-199加特林天龍$400 可新竹竹北面](https://news.google.com/rss/articles/CBMie0FVX3lxTFBRSlc3VmFpTmFqZzlQalFFN003Rk85dndOZkpDb3o5REt6N1Z2V2RXaWxWem9fMDFUNUVZd1FvNXlwZU5hOExUWWVvVFllbHhoZzYzWUpTdGFRbDBKX1p6T2hEbGo2cU9wNFJhSWZJa0JjZUhxVXU5bnVObw?oc=5) — Facebook 
-- 2026-11-10 [🔥 BEYBLADE X CX-20 限量預售開跑！ 🔥 陀螺玩家注意！這次 CX-20 絕對不能錯過！⚡ 💥 三顆直接上場，開戰不用等！ ⚙️ 多種零件自由搭配，打造自己的專屬配置！ 🔥 不同組合、不同玩法，玩出自己的最強陀螺！ 📢 限量預售，數量有限，售完不追加！ 📍 新竹地區](https://news.google.com/rss/articles/CBMie0FVX3lxTE0ybUl0Z19zVExDMk9OQjlYZDQ3S3N0ektERXVTZGFMN3hIS0IxdXdzQm12cGw2RzBMWENfME0wU09haEstV1daaGZGU0lvLXlKNG9ibjB6clJiWlFRY3RlVXltN01KX2dKaVFjR1JBZUctTm1OYkhHVEZ0QQ?oc=5) — Facebook 
 
 ## 📍 苗栗
 
+- 2026-11-26 [售 Ux-11 700 Cx-13 500 Cx-14 500 Cx-09 550 Ux-20 750 A.B賞 1600 Bx-50-01*2 1:550 Bx-50-02*2 1:570 Bx-42 350 Bx-34 650 Bx-05 250 Ux-21 1000 通行證 1300 Bx-52 650 Ux-17 750 紅空力二手上蓋38.75*2 1:1400 Bx-53 2750 多收價格可談 頭份、豐原、后](https://news.google.com/rss/articles/CBMie0FVX3lxTE5jTFhzcU5KLVlhTVhlNTB3QXlGRWlnTlQzMkxraFBCWTBOT0ZJUklDMldjcnkyZ3BSOUtDUnVFdzlSUFhMaXJkaEc1YmxVQ1U5aWVVRW1iS0NCNG4xTWVhaDNIaU9PTm9TRTAycVM2VkhxUExncXRvcWkxWQ?oc=5) — Facebook 
 - 2026-11-26 [CX-20 苗栗面交/賣貨便/交貨便免運
 只有兩盒代友售 I標
 
@@ -291,10 +441,22 @@ Bx-50 04
 - 2026-10-31 [- #原價出售 CX-03 英仙幽冥 $350 竹南面交/匯款店到店](https://news.google.com/rss/articles/CBMie0FVX3lxTE0zcTVvcm5vaFpDY3lzVWZqZ1owVXdKbVlDVVNYcnp6WkJjMUtiUmJNNURWUmREOGR6aFFVa3ZuT2VpaU1YWDN1NWxtMHF0a2NNWmdHMl91bGg2MmdHbWFoc0NYRU1jWllib1hTTWZNNFFRcWgtRXNYbmZ5WQ?oc=5) — Facebook 
 - 2026-10-30 [售 CX-16 全新未拆 $1995 竹南面交 自取 詐騙就別來亂了](https://news.google.com/rss/articles/CBMiekFVX3lxTFBqR2FhZjdPZDdlbU55cDU2YzhKNHlSV0NOVlR0dVVWeUpnWl9OdS12NXJCbHhhb3E4WFJGaTBaWXdzVjJuLUx5dDhKOHNQdzRYSDlxRU1peGVwLWVGWWRRaHNGbE9GT0NnQTZ0d201azlfMjZTM2F4SVpR?oc=5) — Facebook 
 - 2026-10-30 [售 CX-19確認款剩02、03（已售），400元（有QR)，沒有賣貨便只有店到店 嘉義市、竹南鎮、苗栗市可以面交！](https://news.google.com/rss/articles/CBMie0FVX3lxTFB2MTR3OGx0RDl4MVZzbGo2UExqUWFFeHo2RjExN29CbnFWUjFiOWVfSDBjMXJDVXNuX3pucklFYzNKYnpZRE1oZUl4b1dVd3dYVDJMVnRnNHAzRTNWbVR1S2EwVnFuMHdDeXVZS3VzbmMxcjJySTNvc3BuRQ?oc=5) — Facebook 
-- 2026-10-30 [Toy world竹南佳瑪店- 🥳戰鬥陀螺到貨🥳 戰鬥陀螺販售公告10/30(五)11:00開始販售本日開賣...](https://news.google.com/rss/articles/CBMic0FVX3lxTE9MS2UzR3JobmkyeWNzbnJzYk0zajh6aE01SzNFNWdiQlZXNmpwUmNfNWFGUTc0Z0JoNlBQWjBGZ1lYa3JNS0Z3YTVsZDZoY0w4bVdveU1VSmRvR2dKcGZKMnJDSndDZEw1TDkxejNBSzFNVnc?oc=5) — Facebook 
 
 ## 📍 台中
 
+- 2026-11-27 [#徵收文
+誠收 ‼️Bx-54 巨神 亞洲版 全新未拆‼️
+
+預算600不含運or700含運🙏🏻
+
+台中大里面交or賣貨便（取貨率100%）](https://news.google.com/rss/articles/CBMikwFBVV95cUxNenlLQVhvQXJMSEJHMHdiektLTVY5R2otOUxNYWY5OGJqM3VvVHBEZXFhX1p5eFNVdEZmamNPSDNTbDJDbGNENEpMY01PUGUtOG04M1RpWFdENktJUUhLcFFjTkVPMXdmSWNUZXRuVEhjRndsbjBNbThrNHZYZGZ4OWJWanpUdVlibldwRVh2YVI5NUk?oc=5) — Facebook 
+- 2026-11-27 [售 亞洲版 紅空力 內袋全新未拆有QR （或換亞洲版 藍武神 全新未拆） 亞洲版 EVA福音 原價出 騎士重盾V2 36.43 僅拆擺 日版限定小籠包 內袋全新未拆有QR 藍9-60、藍LR 全新未拆 另收 亞洲版 藍武神 全新未拆 CX-17-01 台中/賣貨便](https://news.google.com/rss/articles/CBMie0FVX3lxTE1IZFk4c05qcU9lVW9ELTRnM2Y5X0xTNXMzQzlTUEUtVnZtS1JyNU1CbE50d0h6bFpSV05neUpPc0hvRHBGUktDLTBGelJyMnBFQXdDU2R2RjYtU1NadUwyRWJrOXBnWXRSWXlSYkRtcGZVTWxmNTBEY3RGMA?oc=5) — Facebook 
+- 2026-11-26 [售 CX-20 一盒2500！基隆台中高雄皆可面交，約時間，現貨！ 加開剩8盒！後面的排下週！先私先贏！](https://news.google.com/rss/articles/CBMikgFBVV95cUxQV2ZYdUQxc195X0MxaTdMYml2SFdSTzBHb1pPZmQxMHNhWnRNR0tkOEo1Z0Z6Y3p3MUg3SGdVdElWZndfTlUxVkpuTFB5UEc3UEgyOHBlYUE3STRPQUpVdnd5WVRsMVFZSGp6dU1ILWpfTnFpYjNuTVBvR3ZMb0xPb2hWb083V3dMalg3aUdkS2lIQQ?oc=5) — Facebook 
+- 2026-11-26 [都是日版 合售不拆賣 全新未拆cx-14+cx-12 cx-14+bx35 03確認款 盒子都有一些盒損不影響 合售一組價格$800含運 匯款店到店/台中面交](https://news.google.com/rss/articles/CBMie0FVX3lxTFBUakNrZEpKc2l4NVN4eEJfWlJoM2lwRUFnVlUyTHFjdFpYazdMSTFYYU9YWVhTQTl4UGlPV1ZIeVBJOU9LajlfdlMyczExRVpFY2xFTkxBdEpFWHZhMmVHMEZBVXU0ZjRmcThBVkE4clZiSi1CdjVlaWhvRQ?oc=5) — Facebook 
+- 2026-11-26 [售 Ux-11 700 Cx-13 500 Cx-14 500 Cx-09 550 Ux-20 750 A.B賞 1600 Bx-50-01*2 1:550 Bx-50-02*2 1:570 Bx-42 350 Bx-34 650 Bx-05 250 Ux-21 1000 通行證 1300 Bx-52 650 Ux-17 750 紅空力二手上蓋38.75*2 1:1400 Bx-53 2750 多收價格可談 頭份、豐原、后](https://news.google.com/rss/articles/CBMie0FVX3lxTE5jTFhzcU5KLVlhTVhlNTB3QXlGRWlnTlQzMkxraFBCWTBOT0ZJUklDMldjcnkyZ3BSOUtDUnVFdzlSUFhMaXJkaEc1YmxVQ1U5aWVVRW1iS0NCNG4xTWVhaDNIaU9PTm9TRTAycVM2VkhxUExncXRvcWkxWQ?oc=5) — Facebook 
+- 2026-11-26 [CX-20台中現貨！ 原箱貨！ 店家面交 數量多可優惠！](https://news.google.com/rss/articles/CBMie0FVX3lxTE9PeHdlWXdPYzdaclBRY2otWGQ1VTZZTGpGNlQtazYzSzJvWVRtWWVFaV9DNlppTW5UbDJmd3Z5N3JjTU03STFQbkxqbWptb0pESWQwbTQtT2JLODlPaFhQNUl6Z2U3NEdjOHQwRnJvQ0U1NmtoVHBtdmxLNA?oc=5) — Facebook 
+- 2026-11-26 [我要賣 標準盤 空盤＜盒裝＞ 600元 宅配+200 豐原面交 我發現超棒的東西「日版戰鬥陀螺X CX-16龍王盤組合拆售」，售價NT$150-NT$9,999！快來賣貨便下單購買吧！https://myship.7-11.com.tw/general/detail/GM2601111806056](https://news.google.com/rss/articles/CBMie0FVX3lxTE5lUHNsdWdRaEdsUDhyczVRZGI1UEZ0Z2x3MTdtRjJqeDNTdlFCZUx3MVRjTjFSS0lyV0Zybk13YkxNOE5KUzVIODVHdGU0SC1mU2xoemViblU3V3ZvV1E1UDBLd09mWkUxTmRNaU9EWXE4c3lJUFAzLVprWQ?oc=5) — Facebook `7-11`
+- 2026-11-26 [出售最後一批 UX-00藍空力天馬 台版全新未拆含QR $9000剩沒幾個囉 台中可面交](https://news.google.com/rss/articles/CBMie0FVX3lxTE5pUmpTd0o4Ym83bl9XT3o4QVp3YkVXd0Y2VkdnMzluY1BTaDdjenRkb2w0NExUNGFpRTZmLWlzSTJBaEhoTmRqeHFHNWZ0YWQwSWtwdno5a3hydTE4V3BwNTNPQnJSWVFTNzdqb25vdkpraWxhd2N3WkFqRQ?oc=5) — Facebook 
 - 2026-11-26 [#售第二批現貨: CX-20鳳凰改裝套組C （ 都市傳說的J 標） BX-54凱旋巨神港版、港版（台版APP可掃QR） 注意：溢價較多,詢問前請三思，理性溝通,買賣你情我願台中潭子、烏日、南投民間台中海線可面交有意購買者請私訊](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTjdBelA5NkxEclBMY3hqNEZJVjRibkhzdGQ2MlNoakhpZjd5eEtGSkhuMUVtc3BncnpzZklUdjhBWmNycnRIOG1RRWZJMWxXOXBxdG93NUlIbWVqX3B5bTFWel9hY2JXV1RUM0tBWFJIdktBSjc1THpjTDgwVU1veEw4Nnh0dGNkX05yS256eTFhdw?oc=5) — Facebook 
 - 2026-11-26 [🔥 【出售｜戰鬥陀螺 X】 🔥
 🧞BX-54 | 1,780元 | 高重
@@ -337,8 +499,10 @@ https://myship.7-11.com.tw/general/detail/GM2606151114527
 💬 有興趣歡迎私訊詢問！
 
 🎥 可私訊索取商品影片，方便確認商品細節與實際狀況。](https://news.google.com/rss/articles/CBMikAFBVV95cUxOYWVpZmk0a1o4RlUxLVk1VW9SWFJfNm1zOXh6c0tqc1VCaW1qX01nRm1EaW1sY1FmV2l3Y1p4OHpzejZnaWNLbU82ak1nWDYzTi1YQXoxRkxQNWlNWk1Ec2xCLW9RTmFuaVNWOWoxTlktMUt4V3NlTXpxWVlZbHNHb3ZDZ1BvVWJBT09NUmdjQzg?oc=5) — Facebook `7-11`
+- 2026-11-26 [美版陀螺 又又又到貨了 韓版UX21 1100 三角龍K軸組合 1100 美杜莎 960固鎖 900 變形金剛 360固鎖組合 1200 折200 售1000 變形金剛160固鎖組合 1600 美版大補帖6入組2000 古古E軸2入組1500 以上皆為現貨 價格可議 台中大里可面交 可賣貨便 意者私訊](https://news.google.com/rss/articles/CBMie0FVX3lxTE5CdnFFTzQ0RFpuUldtenhubjh5WnZUUi1UOF8taVg2b0h4MDJZR29YcmVMYzhoQnJhZG5JV0dSUThwdlZHUEVNdi1mSVlDTXhuR05XSUFOdjlnaTQtSUVwR1ZRS2lBSWRlOTlUOTJETXJRaWVaZ0k0UFMxNA?oc=5) — Facebook 
 - 2026-11-25 [**【售】戰鬥陀螺X 全新備品出清** 多收的備品釋出，皆為全新未拆袋1. UX-19 子彈獅鷲H，無 QR｜$700 2. BX-48-05 紅爆刃，無 QR｜$550 交易方式： • 台中沙鹿地區可配合面交• 7-11 賣貨便（ +$38，限取貨率90% 以上買家下單出貨）](https://news.google.com/rss/articles/CBMikgFBVV95cUxNblNRdEhKZW1RaVpqVzNYMUJxTjVURTJPdWk5WVZXWHdSdkdGd2VieG96a3hUWG9ham1JOEpaQmZKS1pjdDFqLU5uQ193ZnNTWnhyWEdKZVJGbW1zQy04LXNBSXQ0dUIwWV83ZzZxSGN4OEltak1xdFg2NHc3dnFGVmRhRm0wSko1eExNZWg0TDROUQ?oc=5) — Facebook `7-11`
 - 2026-11-25 [購買或交換 想用9.5 成新 BX-00 燦金 雄獅獵爪 交換BX-00 燦金 惡魔紅鐮 全新也可以貼換或購買 台中可面交或是賣貨便](https://news.google.com/rss/articles/CBMie0FVX3lxTFBDSWMtTF96dmJReHl1aTBETnVSLUZpX3htVFZxQ1I5cE02VnFJOU9FR2VwTnpRNjBzbEpkSXlBNUVoX1NXcGpjRkh0VEE0WlNDNWswWVBwR1JaQ2NncUlJVk4zTkRoanVWaEp4QlZlZTJ5aVRYaThId1BzOA?oc=5) — Facebook 
+- 2026-11-25 [陀螺台600 台中大里西屯面交 僅剩一組現貨](https://news.google.com/rss/articles/CBMifEFVX3lxTFBhUmUxaGJRQTUyYkItczZaUXF4czFiQkJ1TGliaEZqLUtlTERhVU9zZno5a0RSeF95anplbDJ3UFBrRmhkYzVqY2ItSFhOU3dHOFFsTXJSQldFdXZYMXVMNk9oVWItSG9LNTZ3eXpVakdmRXNQZ1VQWmp3dFM?oc=5) — Facebook 
 - 2026-11-25 [售台版戰鬥陀螺（全收可議價） CX-00龍神勇氣 $2000 UX-17隕星 $600 UX-01爆刃 $600 台中可面交地點時間需配合或店到店+60](https://news.google.com/rss/articles/CBMie0FVX3lxTE1QbkM4WDhWT1ZrdHVIcF80dE92QUR6dU1DeEtFRXVvSko4SHJmWkVUYjlIX1ZZdFdEM3BHLUw0cWJhVVVZT00yRlhDSVZRU3ZSYTNVSGxVekd4MkNDTnQtZ1F0VDFUUTdEMGMxSzVzejZCUDRnSXROR0VMOA?oc=5) — Facebook 
 - 2026-11-24 [售全新日版 BX-54 780💰 現貨十盒 台中沙鹿面交 賣貨便 711店到店 匯款後寄出](https://news.google.com/rss/articles/CBMie0FVX3lxTFBaeFdNU28zYUJaNl9jRXFSYl8wZHlrY2N5QjdyaDVxTjdwdkhiTTY5RExkVy1PWVBCTm1FMzJPSW1qcjZQUnFjem1MMEZ6U2JnMFg0TkJPWmE3V3FPX29mZ1M3ZkhDVTQ2U2RMNDhwRTZiOEozTGdCRDN6TQ?oc=5) — Facebook 
 - 2026-11-24 [🔥國外特價🔥美版大蛇簇擁一千有找美版戰鬥陀螺現貨/都是現貨/台中可面交/沒辦法留言可加我好友直接私訊我就好謝謝🙏](https://news.google.com/rss/articles/CBMikwFBVV95cUxNQUQyMTk0V3ExbUJ5U1FuSHhiLVE0emFUcDFSX3phdzcyenBNTlMyQ1NaQWFCYnN5YXZwU1Rrb0Y5VXkxbnhwQ0VrZTNDa1d2MlVic2xiM29lOEhLRl9HbkRLUENPQVIyaUo2Z3A5Tk5xd0xLdnFGTlJ1bFF1Z1FwRFBSemhWYW1Cem9HMUN5aEVmNXM?oc=5) — Facebook 
@@ -368,38 +532,6 @@ BX-53 衝擊對戰組 $2800/盒 只有面交自取
 - 2026-11-23 [預售CX-20 BX-54 晚上才到台灣CX-20 亞版一盒$2000;有5(一盒自留) BX-54 亞版一顆$700;有7 台中海線自取(大甲梧棲)其他地方可論不保留先來先拿收>私詐騙太多不點任何連結](https://news.google.com/rss/articles/CBMikwFBVV95cUxORXdicUdaSjhjRWRnYnhBUEd2MWtrdHp2RVY3V2V0N0FQelJTTkdRSDRCWDliaWh4SWJKdWtPdnRRcUR0TnJ5X1hnYWFRSFVwa3BXejhkQkdIbk96Y1hrQzdqa2Z2MXdGUjVMdkw3bXV4MFRpV2pXNWRqX241STBBWWxyZkFCWVI4Rlg4Z1JjdWg3WW8?oc=5) — Facebook 
 - 2026-11-23 [\\ 售只台中面// ・CX-14 騎士堡壘/ 亞版未拆$500 ・CX-12 鳳凰閃焰/ 日版未拆$400 ・UX-16 時鐘 / 日版未拆$500 ・UX-00 A賞野牛/ 日版未拆$1300 **＊全收2500** 面交位置711新墩興店(東興路二段98號) 謝～](https://news.google.com/rss/articles/CBMikgFBVV95cUxOTWFnc3hFQ3dfa1R3dWxGU1ZoNzdIQTBpbWRPUjcyZUtGNlFGZkxtcENWZzJWdXVqSEEzMFEwX2kyc1M5MUFwX3FZWmdMYjlaZW5yUFpRbEtEcVppVjhjRkliZGdjRUFEQlBvZGZrdlRfekVpUkF6YUNXaHN6ZkNiV014NGltOTJTX2U3UUtNbkZMdw?oc=5) — Facebook 
 - 2026-11-23 [售全新未拆亞洲版含QR BX-23鳳凰飛翼 $650 UX-20女武神 $750 UX-00藍武神 $2300 台中豐原可自取 其餘賣貨便](https://news.google.com/rss/articles/CBMie0FVX3lxTE9NY3RlOWNfOC1JOW5vRmVreVR1QkhUSmdtX1VZSFIwNzZYTkFzVGNWUFBidXdrQ09Lc1NVWFJ2NHJfRzIyb1hrMmlIZ0gwWjhzcW5Kd3RQMUJVLUIwLW04dHM1VktiaW1FRzNRNHU2YVhHRHNpX2tLeVFpcw?oc=5) — Facebook 
-- 2026-11-23 [售全新現貨陀螺 BX49 550日版 CX17 460 亞版 Cx11 1200亞洲 BX23 650亞洲 BX34 660 日版 BX52 750日版 CX07 650 日版 B賞發射器 800 台中南屯面交or賣貨便+38 我發現超棒的東西「陀螺現貨」，售價NT$380-NT$4,200！快來賣貨便下單購買吧！https://myshi](https://news.google.com/rss/articles/CBMie0FVX3lxTE1nSGRNWlZhRmtFT2ZsaFdUTFdENVNZMEwtWFEweUlNWm1qNW1BSXBWem1RNVQxaHZMV1lPeDR4dENGa1czU1lJZ18xeWxzVFJucEdNNG9JaWp0WlVtYjBYVzBPR3l2cXhtR3hNczA5OEF6QmhubXhrU2VOTQ?oc=5) — Facebook 
-- 2026-11-22 [售
-UX-21 全新未拆 $1000
-
-UX-03 拆檢神杖 $500
-
-BX-38 全新未拆 $400
-
-台中可面交或店到店+60](https://news.google.com/rss/articles/CBMikgFBVV95cUxQUjhXQ2k2Vi03Ym8zTnQwRWI4X2tzWTItdFJPM0lGRHY2QlRxZUpHYUFmREM2ZnZJTWtCMlJySjMtSEZqaXhKTVY5TDRHbk1EZmp3Q2h2YjBWUnozWDJkQ3hySkxPUWtVbkVCOHA0N3NFR3RleTF0NEhuUlZDbHVxNDg0UmpQbGRpWk1TOVduUWZUZw?oc=5) — Facebook 
-- 2026-11-22 [🎉售 ✨ 🔥國外特價中🔥兩組組合價不用1000元台幣🔥美版戰鬥陀螺現貨/都是現貨/台中可面交/沒辦法留言可加我好友直接私訊我就好 謝謝🙏 🔥組合價不用1000元台幣🔥 1.大猩猩Vell kong 緊360固鎖 2. 震擊美杜莎Stun Medusa 緊960固鎖梅杜莎 3.美版鱷魚🐊綠色握把](https://news.google.com/rss/articles/CBMie0FVX3lxTFBsbFFpZHZNZnhhX0pVVW9vbmdPR3JvcW5DM00tX2VrYjJGQTBsakh4UFV6VGJxaUpFVjRNek9qN2dLYVdWeTlhVE1BcnpYSkN4MVpNdHh4M2p1aU9UOXROdWRBbWwtUVR3Q0N3dnV5STN2bW83RlliOVRTcw?oc=5) — Facebook 
-- 2026-11-22 [售 Ux-15(無鯊魚上蓋及360固鎖）qr🈶 加一個發射器 500 台中面交](https://news.google.com/rss/articles/CBMie0FVX3lxTE5Scm8taS1Qakw2UTVYVlE2UTVZMG5wRzN1Uk9ZcU9vSjZvRWVwZ0x0U2tmT1lpUkxTMWdMOTl3NHlhb0hiXzJIRmxGWGVSYkRTYTQ5aFFIU0xFN09YQ2VhUUs0ZkFRc3FJNEd5VVN5bHR5NXA1N2l6dEotYw?oc=5) — Facebook 
-- 2026-11-22 [售全新未拆台版 Bx-53 All-in-One Set / 極限衝擊對戰組 含QRcode 💰2800 限台中面交（太平、北屯、豐原） 🈲詐騙 ⚠️運送途中多少會有碰撞，在意盒子的請先私訊細圖](https://news.google.com/rss/articles/CBMie0FVX3lxTE5xZlNWb2FBR3h0a1RSZmtnQURKTFNSZi1aUHNhT0xzakEyWHhLa25QTkFrZlpDdE1mb01oN25CRTZPdElDQVpnWmxRY0d6STBZUHBoZk11OGxxRy1LQzAxS2JxLUdEdEcyVFFVMWJVa1JLT3V6LWtaSmNiSQ?oc=5) — Facebook 
-- 2026-11-21 [出售 全新未拆日版CX-00迪迦有QR 全新未拆台版CX-14有QR 全新未拆日版 CX-12有QR 韓版BX-24確認款03 台中可面交/賣貨便+38](https://news.google.com/rss/articles/CBMie0FVX3lxTE9uZFFuZlNGZDdGczQ3RXdibUxVN2JBUkJVN214OWRZbWIyc3BTNE9VLU10akk5aVowRU1ReEZNdThuUXJXdjVQdkNQbDlxcW1qQkNIWDctV0t4cS1VTGxOTXRraGRfMlp2bmNveHdSOW53ekJiVDJ5di1EQQ?oc=5) — Facebook 
-- 2026-11-21 [亞洲版 UX-15 H標 1600一盒 台中北屯/中區 可以面交 其他地方賣貨便/店到店](https://news.google.com/rss/articles/CBMikgFBVV95cUxPLW90ZWljeEgyQVVNaTVPY0FTQTN2R3RfNllMWGs4enIxaGMtSWo3WWlPNWNTcmdQTTh6ODRIbEF1QWZhSm5lNExWV3FYYVNsQVFRY2FpWGZoM0FJbW9PdFVBMDJXSFVvRWtSWE9SQ2RVbVFYb19rRXViXzlQUWtycnJMbS01SVF3amd2TElfbnlidw?oc=5) — Facebook 
-- 2026-11-21 [【目的】：售 【商品名稱】：UX-03 魔導神杖 【商品價格】 ：日版拆檢35.55 $450、台版拆檢35.4 $400、其餘日版全新1： $450，全部皆有QR，全收1：$400 #台中大雅面交 #賣貨便+38 #全收優先](https://news.google.com/rss/articles/CBMie0FVX3lxTE5EbHBxNjFxRlcyY0lLclpUdDlCdkhyZVlzb1h3b0w4SE0wemdKLXAtNUROYkNGVllPSHEwY19wWHctRkRtWkgzZWZZWHVZU1VTRklRM2JBd2MwcENncWRFcTdtYy1uN3FSamZfTldDQ09LQnRfb2NZYmREcw?oc=5) — Facebook 
-- 2026-11-21 [售 皆有QR 台版 Cx-18 02金腕龍 $450 （售出 BX-34 蒼穹龍騎士 $495 （售出 Cx-17 04 菜陀螺 $200 （售出 日版 Ux-17 隕星龍騎士 $580 （售出 Ux-11 衝擊龍神 $700 ‘’喊收為主‘’ 賣貨便+38 天氣很冷只有豐原可面交](https://news.google.com/rss/articles/CBMie0FVX3lxTE1vZExVU3pQaGszNWh3R0NqR212VjkyWmJuWk1ud09TS2RhcDhWREMta1ZmdDY2QXVFQ3hUUGpaenlJUV93aXhXcUl0bUhlTElFd2JsOWpiWkZLVkpUZTU2U1ZTQmpqNkhwRlAxN2dTZzdhWDlZMnNKZjhidw?oc=5) — Facebook 
-- 2026-11-21 [競標
-【商品名稱】CX-00龍神勇氣 金屬塗層水藍
-
-【商品狀況】台版全新未拆
-
-【交易方式】
-
-2200匯款
-
-7-11店到店+60
-
-台中可面交
-
-有疑慮請勿下標
-
-售出不退換](https://news.google.com/rss/articles/CBMikgFBVV95cUxPTkRjNHNkdFBNM2hjRWhhem9ERXIyeFdpSEJldXg0ellncFFoY1daMVR3NjFJOUVob0V0UlNYcmhHaFFKX21GZ2NEczNfQWVDQVlxZmtNWmJBNGlsa2pEdzduQjRfZE1KVVlYWTluTThmZ3VJamdxa2tBcllBaE5GaFc0SWw2NmZZYzY4ZmJ5TmtWUQ?oc=5) — Facebook `7-11`
 
 ## 📍 彰化
 
@@ -436,6 +568,7 @@ BX-38 全新未拆 $400
 
 ## 📍 南投
 
+- 2026-11-26 [售陀螺 CX-11 帝王1200$ 台版 CX-00奧特曼 700$ 台版 BX-43陀螺包 850$ BX-28發射器 300$ BX-53 藍空力套組3000$ 韓版 南投竹山市區面交 7-11運費+60$ BX-53郵寄+100$](https://news.google.com/rss/articles/CBMie0FVX3lxTE93M1d3QU9IanF0b0hBMWxFamlpVDBObk9STlktRFpUckdBOF9TOWthRmF0RXBtRkhlbXI3cjk0dUFxRXVzeWVqQjVCbDBncmI3QUk2VHdKeFpqYm9UcjFUSkR3SnNtR2Nvd3RNQThhNDNoRk55UmF6WDNpUQ?oc=5) — Facebook `7-11`
 - 2026-11-26 [#售第二批現貨: CX-20鳳凰改裝套組C （ 都市傳說的J 標） BX-54凱旋巨神港版、港版（台版APP可掃QR） 注意：溢價較多,詢問前請三思，理性溝通,買賣你情我願台中潭子、烏日、南投民間台中海線可面交有意購買者請私訊](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTjdBelA5NkxEclBMY3hqNEZJVjRibkhzdGQ2MlNoakhpZjd5eEtGSkhuMUVtc3BncnpzZklUdjhBWmNycnRIOG1RRWZJMWxXOXBxdG93NUlIbWVqX3B5bTFWel9hY2JXV1RUM0tBWFJIdktBSjc1THpjTDgwVU1veEw4Nnh0dGNkX05yS256eTFhdw?oc=5) — Facebook 
 - 2026-11-23 [「出售」 UX-17 $650 BX-49 $550 UX-03 $550 CX-19 $450 BX-50 $450 BX-06 $250 交易方式：賣貨便+10、南投市面交。 以上多收優先，他團同步，要的私訊。](https://news.google.com/rss/articles/CBMie0FVX3lxTE00c1VZTzNsVnNUZHkzbGh6LWFOcUg1dEgwR0trNjl5TFppNDlwVDFQWWhZZDhmckJnS0JyMmRDZmtyMFNaZUVZOFB5UjdpSVJmQnpfTDdkWnZqR281dE1wemZTWTllaUFtNFdMTUsyXzc2dFdfX3duSjBVaw?oc=5) — Facebook 
 - 2026-11-22 [售 全新未拆 BX-52輝耀龍騎士650元（日版） UX-19子彈獅鷲750元（陸版） UX-17隕星龍騎士750（日版） 埔心、南投可面交 店到店+60，匯款後寄出](https://news.google.com/rss/articles/CBMie0FVX3lxTFA2ME5yRkJVMzdJSWE5d3FaV0tHNDVMWUF2MlZfWmVuOFZhSVhMcWJldlhKMWpPN1lCY1ROSEp4WmhVOFdwdWw5NWx2NDN2NWNhZWc0LVBvWERqbkFmc0l6RGJfSEs4NEZTN3MwLWNoODBYSDdweU42Rk1BMA?oc=5) — Facebook 
@@ -525,6 +658,37 @@ BX-38 全新未拆 $400
 
 ## 📍 台南
 
+- 2026-11-26 [售 a賞野牛$1300（贈g賞確認款） G賞確認款$100 Bx-53戰鬥盤 $700 皆日版 賣貨便或台南面交](https://news.google.com/rss/articles/CBMie0FVX3lxTE9RU0FfUjlPVzV4VGI2bmRONTVSeVZNb21SSE1GQnN2dVg3dVJFQVFtNUJaVm00ckxBZ0hGT095aEtMMk5ubk9nQmxmcE9KbG5DRDRnWDhDR3pMcG5ZbDJSbXg4R244NTlfam1ldkpMaWM0QzdPSGo2eVdOZw?oc=5) — Facebook 
+- 2026-11-26 [影影熊 - Cx-20 亞版全新未拆有QR 2300元一盒 最慢12/4 台南面交or寄出 一共12盒](https://news.google.com/rss/articles/CBMikwFBVV95cUxPdmZMazMzeGZlUzY3UXR0N3hvRkxQQ0liTVdoSEhzaGZNVDZMalV3bXRIdzBpWXhQd3VJZWNPU3FhdjQwbk16eGQ4bXpjQkxYSDd4T3k5TUxLUFF0cklqaFc4ZzZmaEF1Qnc2UGxJSVFzMzQtZnhQNHhQd2lpSFZrenNBQmZSMXAzQWZ3V1ZJT1p3MkE?oc=5) — Facebook 
+- 2026-11-26 [#售 日版全新未拆有QR 1.UX-20女武神$760/1 有4 2.UX-21 惡魔幽冥改造組$950/1 有3 台南可面交/沒有賣貨便 匯款+$60店到店](https://news.google.com/rss/articles/CBMie0FVX3lxTE1xY0VqZ0VsTHVfM2IxOFNJVC1Lb3Q0WERDZlpiWXdDeW9FRFZWU0doSWszUi1YeG5wTzZ3dnpqVkhDVHg1NHBwWWpMMEVxSXNiYmRYRDV6S3VtV0ZGLTNjSEhrYnpwZDF0ZzE5eWJCN3dIX0pDbU1UOXo5VQ?oc=5) — Facebook 
+- 2026-11-26 [萌兔寶第14屆戰鬥陀螺報名開始
+✔️報名費：350元／人
+
+✔️比賽時間：11/27周五晚上9:40-9:45
+
+✔️當日正取報到時間為9：10-9：30
+
+✔️報名人數：滿12人開賽，最多24人（網路正取16名，現場開放八個名額報名）
+
+　  ▼備註：網路報名16人，備取4人，現場臨時報名8人，晚上9:30開始會先讓備取遞補網路正取未到，若網路正取16名都到，備取可轉為現場報名，但如果現場報名人數過多，需要抽籤決定
+
+✔️比賽地點：台南市東區崇善路460號
+
+✔️公布名單時間：11/26晚上九點到十點之間於社群上統一公告
+
+🔸得獎品項如下：(冠軍優先選)
+
+一等獎：CX-00(日)戰神伏特 S4-70V 槍灰色版
+
+二等獎：(日)B賞限定原創湖水綠旋風線繩發射器
+
+(滿16人加開獎品)UX-00(日)英勇野牛
+
+(滿24人加開獎品)CX-20(日)豪華改裝組C
+
+報名表單：
+
+https://docs.google.com/forms/d/e/1FAIpQLScOhjtIMLwhuOHERaEoc0_eKhjpnDz6sYYd3Qa7J0mU5iQFOw/viewform?usp=header](https://news.google.com/rss/articles/CBMikgFBVV95cUxQVkFoZTMwbW9hVUJ2TWdNLUFXUWphUEtKdGF0WERTMjR0UFFqakFvZ3VCU2ZHb1E5V3FyWVcyeGVlblZxVXgxNlFGclAwUEt6TnY2U0dOX2tEMkh1TWEzblYxTDFuY1NYOFhqOEltS0ZQS2tRYXNLd2x1VmJjUDdON0FRU1gyRUM5UnJSMFlqSG5iUQ?oc=5) — Facebook 
 - 2026-11-26 [戰鬥盤供貨逐漸穩定 可以考慮買一個戰鬥臺回家遊玩喔
 上架一個白橡木紋戰鬥台（簡易折疊式） 隔板是立體木紋板 比較防刮
 
@@ -611,13 +775,35 @@ BX-38 全新未拆 $400
 - 2026-11-18 [全新 BX-35 04 綠神杖 台版 無QR $1700 ① 台南面交 ② 店到店+60 先匯款後寄出 建議「面交」 較不會有爭議🙏🏻 注意⚠️他團同步、售出不退、詐騙去S！ 謝謝。](https://news.google.com/rss/articles/CBMie0FVX3lxTE5FTHlYalZvTmxGZDhjVXdUbWJNUlIzVWFiY3FuRl9QdkpzQzZMZ0FQVFBfdmFHMXdRWERGNWcwVGNnMnBtWEUzSWF5SldXNjcwcHFULUE1Y3hteGtDLVhvRzVKMVExa3BpcVlJU3JyRGdBekswNDdzbUtHcw?oc=5) — Facebook 
 - 2026-11-18 [🔥【Beyblade X 戰鬥陀螺｜全新陀螺、戰鬥盤出售】 全新 🌀 BX-53 戰鬥盤 $680 （日版，無QR Code） 🌀 UX-15 角鯊狂鱗 $1,200 （H標已拆檢亞版有QR，僅鯊魚上蓋拆開秤重 約37.3g正負公差0.1），其餘整條全新未拆） 💰 全收或收多的優先！ 📍 面交地點：台南東區、歸仁](https://news.google.com/rss/articles/CBMie0FVX3lxTFBzcE1UVUVuSVBWNDBEWVFqdmpwcHh0aFJ5OTV4ZldwMTlLVFRHelRIb21FREkyR3dKRWl1a25XbjAwZUVJN1BNSWNycGI3MWo1SFQ5TE5ya0FXT2Z4UnlJemxzVm5vRkhuSEtOVlV6a2U0X3RHcDlMX2FLaw?oc=5) — Facebook 
 - 2026-11-17 [嗨！快來看看『隔日到貨🏆拼圖玩具 陀螺 DIY拼裝 兒童3D立體陀螺 玩具拼圖陀螺 鍛煉寶寶動手 寶寶手工 玩具 卡通D74979』，售價只要$1 - $2！立即上蝦皮購物逛逛=> https://s.shopee.tw/3LST6rgv2Y?share_channel_code=3 #台南美食 #送禮首選 #蝦皮大促 #耳環](https://news.google.com/rss/articles/CBMifkFVX3lxTFBWenc5WFVHQ2t6ZFRQS3VhRVRydGVwdDJyLW43Um5ESzc4eEZRSmQ5eXMwZHphaUxBeXlYMWtEVUk3ZFljLVJ0aXQ3cW5Tb0QtZmQzUm5FVTZXT3NOQk5YUHhTRzA2c0NHanpHWHRSc2xrblRyZW1nT0lhMVZqQQ?oc=5) — Facebook `蝦皮`
-- 2026-11-16 [戰鬥陀螺新品預購中🔥CX-20&BX-54最後接單中，台南店面可取貨，其他縣市711寄送，直接訊息找我就可以了。](https://news.google.com/rss/articles/CBMie0FVX3lxTE03MnJXRGRFY2xCdFlqWkY4bmM1R2xLc01ocVhzSnVzaXNvM3NrcnVHeGMySXlvWE05bzBUUjdGNmltWmt6cjdyUTBDLWhnZVJlc1h5d0VEX2R5elFoUldmY1djNnd3cDhoWEpROUhEdXJzZDRoenRJMkRsQQ?oc=5) — Facebook 
-- 2026-11-16 [售全新未拆 BX-52 700 UX-19 子彈獅鷲 750 UX-20 女武神 800 BX-10 戰鬥盤 850 CX-14 騎士堡壘*2 495 全收優先，全收4000 限台南面交](https://news.google.com/rss/articles/CBMie0FVX3lxTE0zeWVlZEdnWXY2a1pEZmpTZlFManlHN0dPckgySzdZRF83ZGxmQXFhSkluT21YTzZtSU0xYW9Idl85M3VIb054Uk1XeVhvTEliNjRrZEtkNzRZYW1SUXdKc2NZOVlONHFTMUktM1NjOElTSnlKbHMxOW1jaw?oc=5) — Facebook 
-- 2026-11-15 [售 以下陀螺僅拆檢、無qr、已保護 BX-35-03$100( 獨角刺心 3-70 D) BX-50-05$300(銀狼烈焰 D 9-65 黃L軸) 台南、高雄可面交 賣貨便，要加38](https://news.google.com/rss/articles/CBMie0FVX3lxTE9CVE5yMUx2TVVDUF90NUd0V3I1dWIxM0FBNElGNVV0UWw2bVpROU1vNzcyWFpmbUN5Q1Q1a1JNRDk4a3NWcVlicXh4QTBfY2c0YXBiTnJxRXJPQkkzLTlTRWJ1UUZBMkpJWGhuWXNLbV9SR2wyWGJ0UEpfRQ?oc=5) — Facebook 
-- 2026-11-14 [售BX-53藍天馬 38.7 2000 BX-53 重盾 36.6 800 CX-15 450 台南面交](https://news.google.com/rss/articles/CBMie0FVX3lxTE1ySWwwaGxJYVZ5N1hGcXJnOHJELXBXQVg2VWpsZmUzQVdBbm9tbVlRcXpWQk9uU3lEaXVhaGQtTkp3WGdYNWkwb1UtbmRraWJ4RVNBcHlGcmdMS3UwZWJyUFlaTzN5ZHBVLUhWUUpwUnVhVVFVM3BnSGc1bw?oc=5) — Facebook 
 
 ## 📍 高雄
 
+- 2026-11-27 [競標高重黃鯊，雙A藍杖，CX-20整盒。
+黃鯊魚，A3+A8，重量38.03（+-0.05）
+
+藍神杖，雙A4，重量35.50（+-0.05）
+
+CX鳳凰整顆，重量46.03（H環7.91）
+
+整盒全新含其餘配件一起出售！
+
+7000起標，一標100。
+
+直購14000（需留言及私訊）
+
+11/28，晚上11：30結標
+
+（尾5分鐘內出價延後5分鐘結標）
+
+高雄市區可約面交，其餘先匯款7-11店到店
+
+得標者私訊，24小時內付費交易
+
+理性出價，同意在標，得標者棄標會公佈](https://news.google.com/rss/articles/CBMikAFBVV95cUxPckNiUHZRS3lfSFltOTc1dVAtc3o0TVl0T1ZncnUtSGkxYzRaS3BnZ3l0UmhjM2xWN0ZhMTBVa3JJTUJpNnpDLWFOdkY2ZzdTQmxPaWtnSDA5OFZ0V1hGN3BBaG1XMDZlcFM0ZnRzM3lqaExmQlNiV25Ia0U0ZW9JVDdDSnZDcVd2bWxyOVl1YmE?oc=5) — Facebook `7-11`
+- 2026-11-26 [售 CX-20 一盒2500！基隆台中高雄皆可面交，約時間，現貨！ 加開剩8盒！後面的排下週！先私先贏！](https://news.google.com/rss/articles/CBMikgFBVV95cUxQV2ZYdUQxc195X0MxaTdMYml2SFdSTzBHb1pPZmQxMHNhWnRNR0tkOEo1Z0Z6Y3p3MUg3SGdVdElWZndfTlUxVkpuTFB5UEc3UEgyOHBlYUE3STRPQUpVdnd5WVRsMVFZSGp6dU1ILWpfTnFpYjNuTVBvR3ZMb0xPb2hWb083V3dMalg3aUdkS2lIQQ?oc=5) — Facebook 
+- 2026-11-26 [售 日版 UX-20 $700 以下亞洲版 UX-21 $1000 UX-49 $600 UX-11 $700 UX-18-05 $350 UX-28(白色發射器）$400 衝擊龍神上蓋$100 以上QR都在 未拆 高雄三民區可面交](https://news.google.com/rss/articles/CBMie0FVX3lxTE4wZlJ2RFJadWF4T0dCdXdrM3RsV1FmZ2kzcm15UzZXak5MNnpROGQzRFdzNGdYVTl6MW1TZ1ctQXlCaFFSWF9fNHFGUVVjdjhWLUJoSVVzZjNlcVhyaGlNUGh5NWxPV0NkcGF5VXJEekNpU19FNmVPQTg2TQ?oc=5) — Facebook 
+- 2026-11-26 [日版全新未拆 UX-17+BX-56一組$900 BX-52+BX-56一組$900 BX-49+B賞發射器一組$1100 高雄可面交，賣貨便+38](https://news.google.com/rss/articles/CBMie0FVX3lxTE53NHN4UGk0aEdxRzQ5bVNXRW1jbm9IWkR3bVRVVlU5Zkh0SlRUS1JGR1BKek9RdC1nWGFtVUxvZTVBbWZnLXBpNGEtUnl1ZnpneHdnd2FFNTQ2VU9jQlRnU3JkUWlLbUNOZGRNZFJ1NFVmUmhHMFNZdkFYUQ?oc=5) — Facebook 
+- 2026-11-26 [高雄面交/賣貨便 UX-21 💰1000🈶5 BX-52 💰700🈶2 UX-11 💰750🈶6 UX-20 💰750🈶7 UX-19💰750🈶2 UX-17 💰650🈶3 UX-01 💰650🈶3 手把區 黑手把💰400🈶12 藍手把💰450🈶6 綠手把💰900剩1 BX-51發射器💰350🈶7 左旋發射器💰300剩1 日版通行證1300🈶5](https://news.google.com/rss/articles/CBMie0FVX3lxTE9IYl85eGhBS0l3SktLZUVkUXh1VjhsSWlYVDVNVXc3T2pLZk45blBvUWJLWUxrazdBYTB2X2NuUTg4M2NheVBzUGN2UlVsS3ZyWU8ySlJFd243bWphSmdkVkhzRS11UE9MOXl6emRVRHN2alZ4X0Z2UHJMTQ?oc=5) — Facebook 
 - 2026-11-26 [還在為你的陀螺們找一個舒適的家嗎？
 🌟🌟全新高質感槍箱🌟🌟
 
@@ -685,11 +871,6 @@ BX-38 全新未拆 $400
 #高雄大立 #戰鬥陀螺挑戰賽 #冠軍賽 #BEYBLADEX #FUNBOX](https://news.google.com/rss/articles/CBMioAdBVV95cUxQdjBZMXpOTTF2cGFMQ2FSb2ZDOEVkNWpwdlNPTHBzdG0wal85NHdISXpwRXNRd3dLdHlKa180VnVWOHludlBBZ3dzcGg4WlNZSXRjSWZLOUZiSTBPR01zbXdWTEpQUmp4dmNLclVwY2FCYW82Unc4bDFmSXZYekJzV05jLXhBeG43M0VROFZZVkpiNUZHVmdzN2Z0cDN5d2R4QzBYX3o1UURSYjdpMFpqUTdJa2xDYXFPN2xvUkZVZ0RkVTJ5UExET2FJMUxYNzdSRzlwckdBVUhKZ1VYTWJyZ245MVU0c1NYZmhNanc2alhLU0lmRGhHeWFYZ2FKQUVaZGRkelo4UlZHVXJjdDkxeEl1MllFVnNucWJmTVROVFFNbElkVGtjTU5iV3FjTDRQcUV3c01TcmpCWjdoUjV4YWVkMzZITTdnRXhJT0dGQXdhODY5RzlMaDZiZjVTUWxUd1RWOF8yRVpmUDdaZTY3Tm5nWHBrZ3cwSnNFZTlCQmFrU3BiVnItRTNHZldnZWpMb2h6NlY1NVBQTlZmdEM3N01PLUJMTHk5WllHM0JnQTRZRmpUNWlsSHB6cE9mNWFRNFBSY1RXRzR0WUk2aUhHd1R1bGVQOG42WXFJcndTOURTTXYtUHQ4TkQwcWtNNXNKc0Z0dldoVWRGaHk5SUU2cGE1WmI5cUoyQldBNG9Yd295QzQ5cWlXeDFld0JObnhxc09qUTBZS3JFb0VpekcwbVdhOGNSMzVKVkN0eTNYR014UnVhOWdjRzV6OHB3N2NLTmt3QThwLTNVa2hQSXZrUllSU0R4ZE52eEFSUGFPcG8wX1Mxd1BxSEgxdEx2bF9CUDVDMDhOckgwWENsRHdQcUo3dVZ4c20tLWlKVGRZZWx1WURielF1THY3ckJxUG5OUDNiT0dIbjJ1M2drWDBmSzZTc2Y3aEFPZXpRcW13VjlLdFhnenpPc2hxWXNhLTUtZHZLNDdoZU9hQ1J5SU5LeDRZLVI3Q01Pc2E4bmdqQTgyWV9UbGpQUmlyU2tnZ1BRUzJ4T2drOXpVSkZ4SDVjemhpZXhWbTI1aE9xa2xJT2tqNnRSaWhjXzlsYkYtTXgxRE9TVWpuNnNsaG1zQV9QWjdxV3B3TnV1NWROOVNHbU9CVVE5MDFhdGk4LTQyUzFBZ2ZOQ18wM0RmQ0lZZm53SHMyREhyU1lCNFdmaWZyTnh1Y2dWWXRmMVk0RHM5d0JH?oc=5) — Facebook `Funbox`
 - 2026-11-21 [UX-20 750$$ 高雄可面交 匯款+60](https://news.google.com/rss/articles/CBMie0FVX3lxTE1YamhoOWpERVpGaVRvQWZsZGxxSDN4czUzWHR1cWM5aFVwNWNRMERVVFdmUXBRVDZCUFNyTV9hcEFEbHVuMnRZWFBkaDR2SUx1LTRJcnEwYTRjRVpzbkQ3Z2VCOWtLcEpEUGFCS3dxSlRXNDVzS0UxaEJsRQ?oc=5) — Facebook 
 - 2026-11-21 [出售 UX-11 1:$650 有兩顆 交易方式：高雄面交，匯款寄出](https://news.google.com/rss/articles/CBMie0FVX3lxTE04cUJWNFBzTGQ3YnBaTUdqaFlubHhVM3VCYUhuWEIxeU1rbXY5QzlCVS1QUTBVVUpYdFFxUnFTQ0dESGtMSEFCUkRDQUZTSHlVTFRfd1ZpREdheUl0Y0t5Q0Z3V0ZUa2FzOWMtMVFDR2ViMWtnTEtDTl9RTQ?oc=5) — Facebook 
-- 2026-11-20 [售 戰鬥陀螺UX-08，UX-10，UX-19 價格如圖 高雄可面交 其他賣貨便](https://news.google.com/rss/articles/CBMie0FVX3lxTE5rbzZYaVgwV1NDUUU1QnJwZXhFbVBWSDdjZkFkSjVnYm9TMHJtVUdxaDl3dW9aUDd2ZzdRVF9FNnp4bDZvSGc0em5TSGxwN19DM0J4YVRsaTk1c2t4dUVfOHFpNHozbEM2WFRTQkJlaEJNbExkempQWElqRQ?oc=5) — Facebook 
-- 2026-11-20 [售 全新台版含QR UX-11 衝龍 960 LR 含旋風發射器 $800 BX-23 鳳凰 960 GF 含旋風發射器 $700 CX-00 龍神勇氣 $2300 全新01 腕龍 無QR $400 售出 賣貨便 南高雄可面交](https://news.google.com/rss/articles/CBMie0FVX3lxTE0xakJGOERtZU9SSE1OZ2VkRGRTVUUxMlJ4elZIcXpCUHV1Uk5ZN1BLVXhfb1h6eEFjb3dtRkRvSGw0bWJ2eGNoejA2d3pOREN5eXMxUExfQnJZN1BnZm5FbHRGMlc3WkJQZG1sUGljLXVMV0hyNC1MZ2JkUQ?oc=5) — Facebook 
-- 2026-11-20 [售 CX-13 700 UX-03 600 UX-08 700 CX-19 550 全收 2400 高雄面交（全收優先！](https://news.google.com/rss/articles/CBMie0FVX3lxTE5vV2lQZmxWZlQ2NV9PMFFZMmEwSENfRHVNR2lFOHlubWNPbXFXTE1ucUN2N2kzVDhKX0x1aTkweU5VNDRHNVBpZlhLREFubHk5c1ktWXNpdjF2WWltVzQyWUQySUJDWHJVV0g5M19WaC1xbks4WWJVLWdCOA?oc=5) — Facebook 
-- 2026-11-20 [BX-53$2850，2個以上2800 BX-09$1350大量可議價 UX-20$750，5個以上720 BX-00黑蒼穹$1000售完 BX-52$700售完 BX-56$380 全部皆為日版 以上皆有複數，BX-53、BX-09大量 交易方式：711點到點、尾款50開賣貨變、郵寄 屏東內埔可面交、今晚可送高雄](https://news.google.com/rss/articles/CBMie0FVX3lxTE5sMzdPV0hOWWwtaTNadm9OUDBvTHNKOTh4OUdmUExwSHlVUWZOcW1feGMycG1KemtIY2E5NTJGRmVnZUwxVGtSSm9NQW5uUnVaRVV4azJGbnpMM0taR1BOMzJYMTZZbHZRdm84SEUyLVFuY2FXOFFyOWJsQQ?oc=5) — Facebook 
-- 2026-11-20 [日版現貨（高雄面交/賣貨便） 日版BX-09通行證💰14006️⃣ CX-13龍王💰550💰1️⃣ UX-13石頭人💰6502️⃣ UX-21惡魔💰11002️⃣ 左旋⬇️ BX-51發射器💰3001️⃣ BX-52💰7001️⃣ UX-17💰7002️⃣ 綠手把💰10001️⃣ G賞鑰匙圈盲盒8️⃣個（💰500）不拆](https://news.google.com/rss/articles/CBMie0FVX3lxTFBwR0NrUFdUNU44cy02VXg5aXRpRXFWdW5UM19fbHZxb3hZdjdSS29rdFpMMDRaYXZERWl6bWFyZF94bi15WkFCeUd0RHNoLXladGxfZHdNWndSME5iSHJ5ZWVzbEhWRERZazJBMzBRSExkTWZ6bXFKbWVJWQ?oc=5) — Facebook 
 
 ## 📍 屏東
 
@@ -806,7 +987,6 @@ Bx-53空力天馬 $700
 - 2026-11-07 [【目的】：出售 【商品名稱】： UX-08霜輝銀狼 【商品狀況】：台版全新未拆 【商品售價】：$550 可交流全新台版BX-23鳳凰飛翼/UX-21惡魔冥淵改造組/CX-05-06巨鯨怒濤/UX-06雄獅巔峰 【備註】：店到店+60/臺東市面交](https://news.google.com/rss/articles/CBMie0FVX3lxTFB3ZmNRaThtdWVxcEJlVUJwdEFTM2dTa3pSZkIwR0EzVUFocjBkQUZZbUFMOFNYRnp6dEt4SUxpalZkZ2dGUFJUY2FibERDNVV2czBWVHUtbXg3TjBTenRRZUpYUzI5RzcyRnV2Wk5iQ2NWZUkxSTdkcmVZSQ?oc=5) — Facebook 
 - 2026-11-02 [已售 野牛A賞 1500 UX-03魔導神杖 600 一起帶走2000免運 賣貨便或台東市面交](https://news.google.com/rss/articles/CBMiekFVX3lxTFB0ZXc3UTBKbmFIR0x4QjJlZkU2Yjh6bWd3WFh5NDdhUXluV1V1aHhVUWJsaGQ2dkxVM1NnNkJ3VXp3bC14NjVjSnI2QXB4Uk1IdDBndzlMRDQyOXBEdVl6Wk9fUGxNR1FmTFRYWUVqb2pmRTBqM3RqMF9R?oc=5) — Facebook 
 - 2026-11-01 [被棄單仔契丹重發 UX-01 BX-52 兩顆合售1300元 高雄、台東可面 其餘縣市匯款店到店](https://news.google.com/rss/articles/CBMiekFVX3lxTE5BVHdWZ2dEbGQ1eGw3VWp4Q1pwTTR2bnRtQmFFWnpBUDlHdWJoRlZvakVFQl9hX2NHY1dhZ2JuSkI2eGxWNWRrWVJ2bTNReTZZRmlNQlpxdzdUV3hfT2JJbThhQ0hoZWxjRzR0QnNVMjc1WDU4ektJTUtn?oc=5) — Facebook 
-- 2026-10-27 [售 全新未拆 UX-03 魔導神杖 650 UX-20 女武神（日版） 750 CX-02 魔導至尊 550 全收1900免運 賣貨便或台東市區面交](https://news.google.com/rss/articles/CBMiekFVX3lxTE45MHpxUzB3V3hicFdYcWx0MjVNa1Q4NnVFd2tuOTlPNUhFOGdMNUJKaUFSTlA2NURmc2gwR0o4aV9Yb21ZQ0pQcFBhZHdlTTRtSU5EWGNZd01WRmxUU0RKRGhMYVNrcWIxZGFlWUNrc1RmTHJISzUxdk1B?oc=5) — Facebook 
 
 ## 📍 澎湖
 
@@ -818,33 +998,177 @@ Bx-53空力天馬 $700
 
 ## 🌀 未標示地區
 
+- 2026-11-27 [售
+BX-39-02 250 無QR
+
+CX-08-04 350 無QR
+
+BX-35-03 200 無QR
+
+BX-24 300
+
+紅空力 2000
+
+紅空力 2000
+
+藍武神 2200
+
+透明龍神 800 無QR
+
+UX-15 僅稱重37.1  1100
+
+UX-15 1300
+
+UX-21 1000
+
+UX-21 1000
+
+CX-11 1100
+
+CX-11 1100
+
+UX-03 500
+
+CX-00 700
+
+CX-00 700
+
+UX-14 550
+
+BE陀螺盒200
+
+三創陀螺盒100](https://news.google.com/rss/articles/CBMikAFBVV95cUxOV2NZRHg1N244Uzl0alFudHdyZ3VlanFkSTVMVUwyTmtITWpYNE1mbzEwX29SRUVwYkJyX3ZyaVo5ZnlpNFFWNUNBRUZiVE5ObXh1UXQwTm01cXFYcFA4elU1aDd4ak5Zc0Zmd1NoUk56R0pUVWhPa2dpV01sVEJKbW85N2NrN05KN2p2c2lOcUk?oc=5) — Facebook 
+- 2026-11-27 [🔥【實戰 T0 神機＆日版通行證超值組現貨】Beyblade X 戰鬥陀螺 熱門精選 🔥](https://news.google.com/rss/articles/CBMikAFBVV95cUxNeXZMUjBWTkFUbFdER0NoSzBHUzN4OThral90Q0N0WmF6SE83aHdEbUYyOHVFVmpjeWFBZ1B5NW9OaHBMcm9EX3JZTzkxYUtfcVRldFhqYmRVRlVFRG1FRTF2VUItaHE4Uzk1N3ZuUFczaksyVUZxVFYzMGVxZlNZMzFCUjlyMzVyMmk2VHhwZ0w?oc=5) — Facebook 
+- 2026-11-27 [收 全新未拆 CX-20 只收現貨 日版亞版都收 收5-10盒](https://news.google.com/rss/articles/CBMie0FVX3lxTE5hVkRKa2pwVERBS3VpU0Y0NldDd29lTWJPMnFvcGJhMWRjWmhYdWJLQ1RfWWZWRDhEZjR4STBjY1I3YURwbVVWZUhGSGN2M1lZZEdrUktpNVNoXzdPUzAxV1BIMEFhdmpKQWlxRWo2RzlvRlQ3Z0RuX1ZpMA?oc=5) — Facebook 
+- 2026-11-27 [BX-53拆售
+魔導幻箭V2  $200
+
+騎士重盾V2  $700
+
+藍拉條+黃旋風發射器  $450
+
+搭賣一個黃蜂要塞 上蓋  $200
+
+運費$60，全包免運](https://news.google.com/rss/articles/CBMikgFBVV95cUxNVlVDWDgtQ2s5VlhvMmdYUTBUazlfNmotUXhSM3dWUE1NR1dQOExnZFU4ZGtjelgxWXp6SU5wN2ZBbHRpQlpDLWFWRVhsUmZjQjY4MFBDVnB6UGYtSVFsaHlrMWw0eU92cUNxaGlGVllHbzNYYVZqZERJaEpHSHdWdGJOcVBySWdiclZldHVlcTQ4dw?oc=5) — Facebook 
+- 2026-11-27 [BX-53拆售](https://news.google.com/rss/articles/CBMikgFBVV95cUxNVlVDWDgtQ2s5VlhvMmdYUTBUazlfNmotUXhSM3dWUE1NR1dQOExnZFU4ZGtjelgxWXp6SU5wN2ZBbHRpQlpDLWFWRVhsUmZjQjY4MFBDVnB6UGYtSVFsaHlrMWw0eU92cUNxaGlGVllHbzNYYVZqZERJaEpHSHdWdGJOcVBySWdiclZldHVlcTQ4dw?oc=5) — Facebook 
+- 2026-11-27 [🔥 螺旋門 BenBenBen｜我是非主流！ 11/27（五）雙場賽事正式開戰！ 🏆 第一場｜20:00 開賽 * 報到時間：19:00 * 32人開賽｜上限64人 * 報名費：300元 * 特殊規則：神杖、鯊魚、空力天馬，擇一上場！ * 🎁 獎品：CX-20、CX-20、BX-53、BX-54 巨神 🔥 第二場｜22:00 開](https://news.google.com/rss/articles/CBMie0FVX3lxTE1KRFFhWHFOMTZaVUQ3NG12RE9SRHNDOXlwVG1SOHhRTGVvM3dFTTFYVGJGVjBLbGQ1Tm5zelgxNlVjTk9HaEFxbmpiY3g3TzQyQm16TFh6TlFUUmhLbmY2UzN3UTBQOE1tQkVSSDdSSUNQOGlOaGQ3TG5sQQ?oc=5) — Facebook 
+- 2026-11-27 [**11/26 賣場更新／價格調整**
+
+**售以下物品（T0、T1 賽場零件、平衡器）**
+
+​
+
+【UX-03 魔導神杖】
+
+​
+
+全新含台QR｜35.18g｜$450
+
+全新含日QR｜35.15g 雙A1｜$500
+
+​
+
+【上蓋、主副戰刃區】
+
+​
+
+二手｜UX-21 飛龍颶風（頂重35.29g）｜$600
+
+全新｜UX-10 騎士圓甲改造組 上蓋｜$400
+
+二手｜UX-21 銀狼（36.70g 外A8）｜$350
+
+二手｜UX-21 惡魔幽冥｜$300
+
+​
+
+【固鎖區】
+
+​
+
+二手｜3-60（綠）｜$120
+
+二手｜3-60（藍）｜$120
+
+二手｜9-60（紅）｜$250
+
+二手｜9-60（藍）｜$250
+
+二手｜1-70｜$150
+
+全新｜1-70｜$300
+
+全新｜3-60｜$280
+
+全新｜9-70｜$300
+
+​
+
+【軸心區】
+
+​
+
+全新｜L軸｜$250
+
+全新｜LR軸｜$300
+
+二手近全新｜UN軸｜$50
+
+二手｜H軸（藍）｜$450
+
+​
+
+【抽抽包區】
+
+​
+
+全新台版未拆含QR｜CX-19 鱷魚戰輪｜$450
+
+全新不含QR｜CX-19-02 鱷魚戰輪｜$400
+
+全新台版含QR｜UX-18-01 古屍詛咒｜$1100
+
+全新不含QR｜UX-18-06 皓戰猛虎｜$400
+
+​
+
+【配件區】
+
+​
+
+全新拆檢｜右迴旋旋風發射器（灰）｜$250](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSEpyMS1YRE9Ed1E2bzVZYzVpUDRZUl9Mc3R5VnByUHhDWkpTeHF3Mkp4ZWNPRVVMUlpNTkhUVTBMbFUxNE9vcGFaMlp0cTZFd2xFX0pJR0p1UlNBczlkbnU5U005U1RfTjQ3VUhQdHY2MmNjWlhhS1cteHhCOHRleDAtNTE5Z2FRdjFkNnVaLW4?oc=5) — Facebook 
+- 2026-11-27 [出售
+日版BX-54全新未拆
+
+700$僅有一盒
+
+禮拜六到貨
+
+匯款後寄出，運費另計](https://news.google.com/rss/articles/CBMikAFBVV95cUxPTWJJSnhnVzdCczBrM3pMZWxQbnAtUGYxNHdXblVKWGw2VWE2TzlQQ1NCeGxjVkRqa2t0akZvSlE1VDlQbjR1T1dCUVp2S1dMdGM3UjBMbnFxMFBfcF91Z1VTazE3RndTYmFuVjBUNTNEakMwUzM1QWpxNEhFdGs3MjYwSUxlZ3N5dDZWSmNmRHo?oc=5) — Facebook 
+- 2026-11-26 [『售 全新秤重隕星上蓋』 隕星上蓋39.01g ：250 隕星上蓋39.06g ：280 隕星上蓋39.11g ：310 隕星上蓋39.16g ：330 隕星上蓋39.19g ：350 隕星上蓋39.23g ：380 隕星上蓋39.25g ：400 隕星上蓋39.27g ：420 隕星上蓋39.28g ：430 隕星上蓋39.30g ：470 日版 CX-19 鱷](https://news.google.com/rss/articles/CBMie0FVX3lxTE1pa09laVB4WV94OW9zRk1QOTdyLWtrVUQ2cndaaDZTTjNwQXV5S1lrVk9fSk9LTEFLRTR1bUJrY19oNTk4M1plWlZlb3A2ZnVhUEZxTnlUODBNZnczNC1nSVlWNlVUYkQwSktIM1FnZDJ4ckNCVElRNHcyMA?oc=5) — Facebook 
+- 2026-11-26 [售台版
+CX-05-06 1200
+
+日版UX-15(H標） 1400 or 我貼100換通行證 （台版優先）
+
+雙北面交 賣貨便 全收 面交優先](https://news.google.com/rss/articles/CBMikgFBVV95cUxNTzBISV9BMGZHRHc1T0x2cFN2OThLSThEaVNEVW1KdnBzZ2lrVGZucEFpWFhNLXVTT3dVMTdyWmhSTmwxZy1GeG81SHVSSG94QUF5UnhIWUREajFma2FTbTFXb0FEWFkxRVhqMFNBcmRiZmpxVWdPUlRBQWg2VngtLWJhb0VPRmRBRl84cHBvMGUyUQ?oc=5) — Facebook 
+- 2026-11-26 [🔥現貨🔥限量版「藍色時鐘幻象UX-00 4-55S 」](https://news.google.com/rss/articles/CBMijwFBVV95cUxQaVVaNkNocmV6MEhaQVVIM1ppWGJFbTR1Sm96eVczbVY2aVFxYWVGMjRkT1V0WXh0a185QlpxWUphRTJLZ1JIZ3VIWHM4aDlXZ3cwMl9QNWtLdVBLNjY5bHZUT1ctdElpbFJCV0YyWnlOZm82TlVJQjVuZmVtT3dlOS1xdk12TWRsZHM0U0otTQ?oc=5) — Facebook 
+- 2026-11-26 [UX-11 衝擊龍神（台版全新未拆.售1200元 限時加贈： 全新高級感磁吸式對鬥盒（如照片圖款） 賣場見留言](https://news.google.com/rss/articles/CBMie0FVX3lxTFB6SGtkYlJISVRoaUdLaklIUzVUekdsamFYX2VGcDJrVi00UzAza3hsNEp5WkJ6S01IdlBjcXFKUkdQa21Nak8tbjJFd0hwN1RNSGlXSE8wc1d3T2ljRnpvbWotcnNMTzBlNVdqRGg1V0FsMG9hQVdFQWszOA?oc=5) — Facebook 
+- 2026-11-26 [出售 Cx-00黑金蒼龍無qr Ux-00粉天蠍無qr](https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWFwdmI0X2hldWdra3pnd0hvdEF0SjhhMVl4cVdKc3RIWmdOVEEtOXdXQkY2bE1kVmhLNENLSnFGbTVEQ3NRcExBQXZTTG1uSmJaS3NCNTljRWVlMHd4NkJIZXl5dlJEY2pCQTVsbms5aHh4Wkt0eEZTS0VjTEJfVHFMVGlCRUU5SE1NeU9kYVRyQQ?oc=5) — Facebook 
+- 2026-11-26 [【現貨出售！三幻神之二來臨，UX- 20女武神、UX-03魔導神杖；BX- 52輝耀龍騎士】](https://news.google.com/rss/articles/CBMikAFBVV95cUxQbmp6d2RmWXhDZVVNT1Y3VTNaZ0ZsYTVoQUFjcUtVSE8zcU11Z3ZfWDlSX2F5LXA0T0hMS3lsRkItazlnMzROUGtlY2c1R0d4RVRNNkJoM1NYTHBxVjFMUjJUMkNZSlRpRkMxZDJtRHdRcWVHaEswX3dyaWtGOVc4OXNvMm41eFp5MFdKQlJqa0s?oc=5) — Facebook 
+- 2026-11-26 [😍【原價搶陀螺｜免費補貨監控】 ⚔️ #不是詐騙社群滿千人](https://news.google.com/rss/articles/CBMikwFBVV95cUxNYmtxOXB1bm1XaDlqblBLMUpDOHI0aFlxbXVqeEZ2R2xTOHlSSngxTWd2VW9jZmRBNHBhbXJCajJ1NVpaNjFOdnlmR09GT3lyVmE4YjZ3STFwMkZHNmo0MGJlWG9oc2pUcGxCbjliTGxYT0h1Rm9QbDE2R3JWbk44bzB6UjE1SFRDRkpPR3FNTVdwYjA?oc=5) — Facebook 
+- 2026-11-26 [🔥 BEYBLADE X 港版現貨](https://news.google.com/rss/articles/CBMikgFBVV95cUxOSU5UNHJjSndFdVdmSndORE5ocUU4eFlaTWRhdVJQQ2YwUWdpVkU3SWk1RWRfc1Y5ZG96aWNJbnN5Z3ZMZ2NVNTlJQ1p3eGNiN1BrSENyeDZ6eWVTZ0NWMkhMaEFncmRleWxmZWd5Z1RvN1hvaUpKWlN1d295a25KNXVDeTZSSXJBb3lubWxOa29qUQ?oc=5) — Facebook 
+- 2026-11-26 [競標 全新現貨 留言區有幫推抽獎 【商品名稱】CX-20想要什麼標什麼 異色女武神.綠神杖.紅空力天馬.H標鯊魚 福音戰士.湖水藍E軸 1.CX鳳凰上蓋 2.黃鯊魚上蓋 3.藍神杖上蓋 4.惡魔紅蓮V2上蓋 5.固鎖組(M-65.8-80.1-70) 6.軸心組(MT.UF.K.LR.LO.HN) 7.UX-00異色武](https://news.google.com/rss/articles/CBMie0FVX3lxTE5mSU10STIwOXd6aGZRTnpRRmwzcmxyLTdpQkZ1VjNoWHBrS0V1VGZPa0VFR3dCSnVFb2dQVzFBb2hpNzBJb1ZwN3A1SU1lNjBzRS1oYXljOGV3c0QyeUhvY3Q1M0dlR2R3NGVkTGpONVhZOTlQS1N4R3V5Yw?oc=5) — Facebook 
+- 2026-11-26 [郭郭- 【競標】BEYBLADE X CX-20 客製化套組C 全新未拆🔥 【主要陀螺區（共 4 項）】 •...](https://news.google.com/rss/articles/CBMikAFBVV95cUxQX3F6WERYX3Y0VFRnYTlfc255dFVva3k1M1JlSXNUaXM0cmdPbGtFRmNIakNrNEpRTkV2TC0wOU5QV19mQmg0MFlXT21tZmJ4c1B0UEFsNXpkWjdBdjhEY28xS0YtSlppeEpoQWFNVkxGYmVGY3gtRkt1ZXl2cTJQekhkZXllNE42Mm9CRHFTeEE?oc=5) — Facebook 
+- 2026-11-26 [售 BX-09（日）通行證 無QR1200$ 賣貨便+38 需先匯款訂金](https://news.google.com/rss/articles/CBMie0FVX3lxTE8tcXNha3BMVDc1eDRTaWtBUVQzMllLTGpERV80cU9TcWtMS3k3Qldob1pwMWdHbkJlSEVwSlFTSXo2TUJYUFNfNnkxdk1jazE2X2xMdTVyeU9NNGQtbGRmZ0VUTXdIYWFJQnJRT0U5TlhCS2hHR1cwM0VURQ?oc=5) — Facebook 
+- 2026-11-26 [競標 #單日競標 【商品名稱】 CX-17 04 06含Qr僅確認未拆袋 【商品狀況】 全新台版含QR 【競拍規則】 • 起標價：0元 • 增標金額：50、100的倍數 • 防尾刀機制：結標前 5 分鐘內若有人出價，則自動延長 【結標時間】 11/26（四）20:00 【交易方式】 賣貨便 北部面 店到店 【注意](https://news.google.com/rss/articles/CBMie0FVX3lxTFBxckp1RlVmLWlaZWwxRkxtbnlZT2hyUldMTkt3RHdyOFlKM3JuZHQ1UTBYMnlHMXR0MU1lNjRxVlFvWXpJb2RLREJlaTA1YUhiS3BmX1E1MFF4UHhLQ2c5YnlTdGgzdGo2bWNuLUtxaVdXNkJoRmVtb1A2RQ?oc=5) — Facebook 
+- 2026-11-26 [100 元。 一張紅色的鈔票，換一次挑戰 CX-20 的機會。 這週日 11/29 加開一場 100 元賽 給 16 歲以下的小選手（16 歲也可以） 前四名照名次挑，第一名先選： 鳳凰原力、絞殺狂鱗、魔導神杖、惡魔紅蓮 V2 都是 CX-20 拆出來的 沒寫錯，報名費就是 100 元。 13:00 報到，1](https://news.google.com/rss/articles/CBMie0FVX3lxTE1BWjdiZ3BKSWFndDk3cUlQbUI0bmtHby1uV0xvb1VvQmoyRFRiOWJQRGdqRDVKWVBWcDA0bi0xSk03MVZndWx0dnBmMzBnbGZzbWZHVmZGZlNRMi16dXk0S0FZeDRHV0NlNlJSVnZSbW0yOWFrVWpEVE52cw?oc=5) — Facebook 
+- 2026-11-26 [🔥 競標｜BEYBLADE X BX-53 極限衝擊對戰組 🔥 一組直接擁有 3 顆陀螺＋拉條+旋風發射器＋戰鬥盤，買回家馬上就能開戰！ 全新台灣代理版含QR盒況完整 💰 起標價：[1500] 元 📈 每次加價：至少 [100] 元（需為 100的倍數） ⚡ 直購價：[3500] 元（直接喊或私訊「直購」立](https://news.google.com/rss/articles/CBMie0FVX3lxTE5lYlBlNkxFQXY1cTY1dmZURDl3Z0VEOE1FWUFCTnBkUGdEVV9wYkZ4SVhJaWtueDZHaGlreHhia0g1ZG5PSDhKRnhHTGQtdUxqMkl1ci1BamlSZ1BLaXo1QzZsa1NOWGM1NFJtMVp6NFg1THBCV0JxQWNDYw?oc=5) — Facebook 
+- 2026-11-26 [售 賣貨便 BX-02 400全新沒拆過 CX-15 400全新沒拆過有兩個 UX-08 400全新沒拆過 UX-18 400全新沒拆過 BX-57 150裝陀螺盒子](https://news.google.com/rss/articles/CBMie0FVX3lxTFBhTlhkeUhqVndBQUJqSXNPUWN2UVdTMUJ3dU1HODV3bzBMelgtUGsyY2hZQzk4dDRMTXVRcTZWNnlucWliRERPRjVfWE00bEtCVFVrbHJLOVEwbzRYQzUyalh3XzRCZ1hwdklCUi01clRiaUNfOVJsaERzdw?oc=5) — Facebook 
+- 2026-11-26 [【售】日台全新戰鬥陀螺 滿一千五以上免運費，一率紙箱寄出！！ 賣場網址：https://myship.7-11.com.tw/general/detail/GM2607122690995 (台版)BX-52 光輝龍騎士 $650 (台版)BX-56 左旋旋風發射器 $300 交易方式： 1. 7-11 賣貨便（直接下單） 2. 雙北地區可私訊討論](https://news.google.com/rss/articles/CBMie0FVX3lxTE01ZWVjbUhsTlQtZTR3QkdLVTNDZmJMbzRQTEJtbnI4YXJybVY1QjJiUFRFakNGYzR1UWxrMWlCRUU0SG9WRzdXNHoxWHNXZDNwU3F5R2FTSDdaeEtVV3pSVHpKanExNVpxeUJDTjYtRGdXaENOS0huZV96UQ?oc=5) — Facebook `7-11`
 - 2026-11-26 [售 （10跟01是拆賣不是完整） UX-10 不含160 跟770 UX-01 不含發射器與160 CX-17-05 完整全新 僅有拆開確認型號 賣貨便自行下單 可以下單就是還有 https://myship.7-11.com.tw/general/detail/GM2611240152190](https://news.google.com/rss/articles/CBMie0FVX3lxTE9VYXJjY3hQRk9qWTNXNFJpVk90Y01USEc1Tng0VnJ1OVdRelcyNVZqNmVvSHc2R0hETFc1dUU2bVRJWFlkMEp6cFRPRzlKUVdDa0x0ZEluNEVvZzQ0YllDNURWZWM1WWVsSnJpNnFmMXVTcXROVExObFcyVQ?oc=5) — Facebook `7-11`
+- 2026-11-26 [售以下日版全新未拆封 BX-51黑綠旋風/450 BX-09通行證/1500 CX-19鱷魚抽包/500 野牛一番賞區 C賞托特包/400 --------------------------- 以下全新無QR 魔導v2整顆/120 BX-53雙色發射器/500 青藍空力38.61 雙模A6整顆/1500 青藍空力38.85整顆/1900 青藍空力38.9](https://news.google.com/rss/articles/CBMie0FVX3lxTE9DVnlxeFJ0OXZ0TDd6U2N4Y2FSXzhlNm1PQ2JPdHBrREtLOVlGakRhM3VJUVJtYzVQOFZXZmk1bTNXMllMZHAyekNGX2NmSU5BZUNsb2FnWWtlMVFoaVVadGstNE1mUDZWUTZMTXpLamlPS0tzVEdGUkRIUQ?oc=5) — Facebook 
+- 2026-11-26 [[換or售] 全新未拆 UX-01 蒼龍爆刃 BX-23 鳳凰飛翼 BX-50-04 幽靈元魂 BX-53 透黑戰鬥盤 ======================== Cx-17-01 獨角極變 上蓋 拆擺無傷 Bx-45 武士魂斬 上蓋 全新未拆 Bx-50-05 銀狼烈焰 上蓋 黑袋未拆 朋友也多換了一個極變上蓋， 整理了身邊](https://news.google.com/rss/articles/CBMie0FVX3lxTE9GM3VwYzFTX21hMDEwMFc3TUVTMDVhbHB2MXdTcFhTVkFqdHg3d1F4S3hUUkdaT210VDNPaURkSmpRMVBuekFXc3Iydm12Nkd1RTdYdkgzZGxMMklVVUVvbVJoNWx6OEp2dE1KbXhiYlBBLUcyMWUyQ0ctMA?oc=5) — Facebook 
 - 2026-11-26 [售 全新未拆袋 主流零件 陀螺 清倉 1️⃣CX-08 (01)上蓋+W環 一個$250 4個800 2️⃣黑綠3-60 全新未拆袋 一個 $300 3️⃣黑L軸 全新未拆袋 一個$200 4️⃣紫J軸 全新未拆袋 一個$300 5️⃣B軸 全新未拆袋一個150 四個$400 6️⃣紅暴龍上蓋 全新未拆袋 一個$200 7](https://news.google.com/rss/articles/CBMie0FVX3lxTE5mRktEamJMRUhYM0VoaTFBSEs1RnhmNmcxUFRuS1YtcG8xZkNhdzg5bjdlSncwLVdqODVBallrNVdQcFowdDVPVXM3bHRicjk2QlNST1QxVGVUYXBveV9Xc1hUX3FQNHYydFdVNXVfRWtRNTBUVWpxMVdSdw?oc=5) — Facebook 
 - 2026-11-26 [售 全新未拆 cx-20新貨神杖鯊魚鳳 cx-00新貨紅戰神福特 ux-00藍武士 cx-16陀螺盤組 全部合售不拆8000內壢面交 收貨我再送一顆全新陀螺加碼送](https://news.google.com/rss/articles/CBMie0FVX3lxTE1aaENyZDUxOFRVcFJfVTNVc2JLX0pBQ0dfS0ozTkwtZHRUZWN5RkdvRldqajVmWGgydVlWZjU0Zi1ZcTZzWDE0Wkt0aVBwRXpFRGJXVkVfQVppM19KV3hTNThxdF9VQTUxNUIxNXFTVGU0d1NQbnlnMTBfbw?oc=5) — Facebook 
 - 2026-11-26 [BINGO盃 週末深夜戰＆假日深夜戰 滿16人開賽，上限28人 報名費350 （一輪遊可續命，續命費用250，一人限續命一次，僅第一輪使用。） 獎品：如下。 冠軍（16人）CX-20客製化強化套組 亞軍（16人）BX-54凱旋巨神 季軍（16人）UX-21惡魔改造組 比賽禁用盜版陀螺及配](https://news.google.com/rss/articles/CBMie0FVX3lxTE1NLTRmSGVmMnVQWXhWZF9KV1FyU3VHZEtRemwtQl9GZURsTzhSbnhCWmhLTlVlS1lyaEpCcVRwM21ZUkV5UkptaWoxQTM2N3p3X3VsNXBib2ZpeUF1T09OSTVTOEp1RUM4YlNQNTBoclF6NmF3bWI4eVRwdw?oc=5) — Facebook 
-- 2026-11-26 [#售 UX-10全新上蓋×4](https://news.google.com/rss/articles/CBMikgFBVV95cUxPakNaRDVkRUxwQVpHTGNKeEhYWFJLMjFPWlpFVy0tc1UwN042RU5CTnAydWdWNXJSUkhLMm5OLXcySFBqOTEtalpEMnNTUVNVemNRcG9PNVpHRVB5M0VUMzk2ZUZ3NzU4WElrdThKMWhqMEdUdXZBMmVvOE9WLUM4b0l4VVpmbTZ0RDl5LXVRdENJUQ?oc=5) — Facebook 
-- 2026-11-26 [Cx-20 整組、無盒、散裝、有QR、塑膠膜未拆！ 2380元/1盒～ 有需要的可以私～多買有折扣！ 11/30賣貨便出貨～](https://news.google.com/rss/articles/CBMie0FVX3lxTE5CUngzckRrM0E4bzV3VE53MWpMZHRIUk1lanFpMDlKaG0wT0h0RFhzcXhMMjQ5cTBma2doeDlaLVF5YzZsOW1pU0RqRTE4VFdVdnl2LTJqeG9JMzRYMk1BaHhsb2J2R0VqV2dfRGVtb0xCb2o3ejZQREE3TQ?oc=5) — Facebook 
-- 2026-11-26 [CX-20 藍神 橘鯊 鳳凰 惡魔](https://news.google.com/rss/articles/CBMikAFBVV95cUxONXNDUWptampuYXo0V1lFOVdJcVp0NGhHbkkzd29tMGtZT1dpRUxfNGk1RGRqekxVcXprVUVaYkpXZ2pEWEd5OE5EUF9fZ05XcjBnZnhGZEtGT3FOelFib05wRnZnX0E2QmhGc3BsTTJ1eng5TGhaLUFLUzRialZpaWFzWnRiSVVjLVFiUUZPcU0?oc=5) — Facebook 
-- 2026-11-25 [收 紅戰神紋章2000 紅K 800 售 CX-08 04確認款400](https://news.google.com/rss/articles/CBMie0FVX3lxTFBvdFF0ZC1tMTlUcVFYbTMzRmhxQVNZM0xHbTFZMFV3UXlDeThkLUtMSWtlWkNFSDM1WjM2eVVkRG1nWkt6aWFjbHRiMGxUbGVCRnFIZmg0U255Zl82RXB2WHhGZG5WbUozeThEa291cno1X21OM3FiOXRmcw?oc=5) — Facebook 
-- 2026-11-25 [全新日版有QR僅拆檢 H標 偏高重37.74 UX-15鮫鯊狂鱗 有意者私訊我](https://news.google.com/rss/articles/CBMie0FVX3lxTE94bDNSbU53cE1TbllPMGhybVpGdGF6QmNaTHFEVmw1OFVxUm9ObTZqRE9kNUFXZXotbW5ZVmJQSE5GWmtmb1I0RVFLcUxBTGNxaDhRME5JRzhlYjZ1eG4tM2NMb2JkaTByUC1NT3k1WUNlVy05alplYVhYUQ?oc=5) — Facebook 
-- 2026-11-25 [販售文 全新未拆日版BX-53 $2580 雙北可面交，可宅配+80](https://news.google.com/rss/articles/CBMie0FVX3lxTFBnOXkwWmNNTDh0c3hVMmt6NTJxWkJYYnFoNFlFUE1udG9pWXdIRGNZeWlxMDk3R2lZaTMxeV9uX1VFQmlKRHFmTHJpTXUzM2RvcFg2T3BVRi0xOTA0b0lvUm9oWElzNFNnVjAtNmF2NW8wUG5VcmFZdjFfYw?oc=5) — Facebook 
-- 2026-11-25 [誠收以下全新陀螺 UX-01 UX-02 UX-08 請私訊我報價， 感謝!](https://news.google.com/rss/articles/CBMie0FVX3lxTFB3SGN6RjJHS0VTYkpneXc4cUJCaEZPYVQyb1VLT0JUVWxPN05XLWlWRVJVUnVQbURCUjRhZmdMTzhkRGVDX3hhRjJhMmdxUnRjY1FRRV93VFRZdWZ2RXRGOS00c2o0LWd3ZXFqdWwwS1RpQkdhVHVoLWcwNA?oc=5) — Facebook 
-- 2026-11-25 [售 全新未拆陀螺 & 抽包確認款 －－－－－－－－－－－－－－－－－－－ 全新未拆 台版🇹🇼 BX-49 蒼龍突襲 $550 台版🇹🇼 CX-07 天馬爆擊 $600 台版🇹🇼 CX-00 福音戰士改造組 $1400 日版🇯🇵 BX-23 鳳凰飛翼 $600 日版🇯🇵 CX-13 龍王閃擊 $550 日版🇯🇵 UX-01](https://news.google.com/rss/articles/CBMie0FVX3lxTE8wOWFuWE9LZllkQ3JfTlZrMTVmZV9XVTNicHcxY1pOUUVkUHA4c29KWVdpbGV5VDlnZFFLNHU1RGdtelFoM3VlZ3BkVlhtRElrYUFWZHRuRGotNVBGSTlVRFJLRjQxOFp4aXVmdDUxODVwN0ZxaTVhYUdFcw?oc=5) — Facebook 
-- 2026-11-25 [買全新未拆CX-20 有五盒 一盒2650 可雙北面交或寄送 預計12/2到貨 感謝](https://news.google.com/rss/articles/CBMikgFBVV95cUxQWG1sQ2YtWHBpMlFqQkZoZDNNMmlUTjRLRVhqcFNXUHNlMng2MWlJLXBmcDRDTWxTdnZJLVpabU5pak44RTBCcThsNlhGVXFjY0NyTEhJZWpuZWc4MW5rVGtKMEFaNjZHSVBXUGRiQkNMWlBNTW41ODBZek9NTzl2NzlpR1hwMGdlVGg1aVpqd3BSdw?oc=5) — Facebook 
-- 2026-11-25 [美版現貨✨️消費滿1200免運費✨️ 特價★美版恐龍2入包 $800（粉色K軸!!） 特價★美版大補包 $1700（兩個超緊760+超粗FB/U/T軸) 特價★美版爆刃 $800（緊160） 特價★美版金剛 $520 (緊360) 紅鳳凰+左龍組包 $1400（陀螺*2+左右旋風+超緊960） 美版鱷魚 $750 (](https://news.google.com/rss/articles/CBMie0FVX3lxTE1NeVUxb3RtNm93eFQwd0pNajM1bEhzTll6VTlCSXUtODFSVUQ1VlRweXVtWE95cFdaSUpjN0F6OVZIQjRTZ0pveHVBSS1SUTQ0bHM1MVhlc3JQTURib1UzVTBKR2VFMzJTRWU0b2xOblNYS09XLXpvUW55aw?oc=5) — Facebook 
-- 2026-11-25 [售：BX-09通行證，和一些陀螺](https://news.google.com/rss/articles/CBMikgFBVV95cUxOcXJmLWRtVmpqODFWRENWLTRkbXdoRzZpbjY4N2J5NmhobXoyTThVR1Z5ajlFQXR1NjBaSjlKWFJCeURhQTMxdHpPdm1JT3lKMUxYeGdlUnRPVC1DLTY1UXdZQldaOFkwY0t6VGhyYS1EaDNGVEctTEh2dUxrZlo1SmVfb2dCQmw2dkJocFJhUk5lUQ?oc=5) — Facebook 
-- 2026-11-25 [CX-20各期所需來啦！！！](https://news.google.com/rss/articles/CBMikgFBVV95cUxOLTB5ZVlrMGpFVUIxLTVSenFqTWJBb1haTEd1bHp4Ung4OVM3X24xRGxUcnNiZ3pNQjU4c25QRi1IaXl5Q2ZuenJRcXVaZi1ndTZMQ21qNUlkYVFrRE1Sa0FpSWRNVnBDR2hpZnF6TkdvY3Bnd0dYT1ZvYnk5bV9DRkFnS2xnVDBNS2pMbXdtVDM2UQ?oc=5) — Facebook 
-- 2026-11-25 [二手陀螺賣場 BX-00透明蒼穹龍神4-60/750 BX-38赫燃天鳳TP/300 BX-20小綠鯊/380 BX-14小紫鯊3-60/950 BX-23鳳凰飛翼9-60/360 BX-08惡魔紅蓮3-80/320 BX-26獨角刺心5-60/320 CX-05惡魔獵魂含紅K/1000 CX-05雄獅巔峰含白K/1000 連擊型雷霆天龍1-60/1](https://news.google.com/rss/articles/CBMie0FVX3lxTFB1WC1ObzRfYWFrOEFiaVJDeUJYbnltekRKREJDVWxJVDBBdDlxbGpBb0xEMHRDUVJhSlNBR3RXN010a1ZhVUM3ZUxZTkgxVzFYN2pWYzQ4Y2FqdFJONE9Cbi0wRkN5MktuMjRFeHAyZjBmbHlpZlh6VnB3TQ?oc=5) — Facebook 
-- 2026-11-25 [# **出售 CX玩家必備!! 日本 Premium X 會員專屬特典-CX-00 鎖定紋章／蒼龍透明黑版 限量只有一個** 【商品內容】 **1. CX-00 鎖定紋章（蒼龍／透明黑限定版）只有一組!!** **・極致酷炫的 Clear Black 透明黑外殼，質感爆棚** **・下方印有尊榮「X會員」專屬標誌，裝上](https://news.google.com/rss/articles/CBMie0FVX3lxTE8xSUNFSWlYeG9YcEl5X2p4eHo2MVNXMklabk54blc1YUNvMXFqSlV1X0lyc1hYS05taWxDS3NHSFFUUy05WnJOVERQYmVDZ0h4UFZjeE1HT2VtOHdlbWMweE1EZXRVQmppb0QxLWxLa1IxMW00MENZVEVBYw?oc=5) — Facebook 
-- 2026-11-25 [CX-20各期所需來啦！！！ 全新現貨！！下單秒出貨 或許我不是最便宜，但你一定不會被騙 CX-20各期所需 以下全新未拆袋、未秤 藍神杖上蓋 鳳凰🐦‍🔥上蓋 黃豆鯊上蓋 惡魔紅蓮v2上蓋 軸心整串販售UF/LR/K/LO/HN 固鎖整串販售最緊170/880/M65 私訊要連結！ ！](https://news.google.com/rss/articles/CBMie0FVX3lxTE5uUEx3ODFZMk5JS3ZhcUVOMnZPWmNTLWk0dGVsaDRERFA2QWEzQzh3dy05dG9QaTVpczRKMVFTRWdWek1qdXQ5S1JjeXlwenFrQzc5WHd0NV9ybTdoWTd5R2ZXcjlEd01MYWx1cW5faVN1R2JuRGNZYVpyaw?oc=5) — Facebook 
-- 2026-11-25 [《戰鬥陀螺BEYBLADE X》暗黑戰神降臨！CX-00「戰神伏特S4-70V 槍灰色版」APP與活動限定，黑紅配色霸氣爆表！](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDVjdLd2IxbFVGSVFhTTJKcXFPYUNITTZXenZEYUwxLXdWWDJwbjQ1MXBaOGVweGVRcUVoeXpQemZ6eWZIb1hwMVNHcm1WVEltWnFF?oc=5) — oneone宇宙 
-- 2026-11-25 [【競標文】 短標 在台現貨 競標時間：11/25 20:30 結標 競標商品： 1:Premium X 會員特典 CX-00 透明黑紋章 起標價：100 直購價：1000 2:CX-20軸心整條 （MT、UF 、K、LR 、LO、HN） 起標價：100 直購價：1500 3:CX-20鳳凰武力 WH 起標價：300 直購價：1000 4:CX-20](https://news.google.com/rss/articles/CBMie0FVX3lxTFBCcDZ2UVV3ZndlMFU4SVF6bWU5RzF4TDlDZHVwa3F2bVBoRl94cUs1dlNxOUFFNjRza2hEMjR0VHJPMHJIOWZhb211Zml2a3NtUlcwb2phT215OUN5aDI3N3ZFa1pqRU5Rdkp6cVRYNnlnUUgwMHlnTHJXdw?oc=5) — Facebook 
-- 2026-11-25 [#單社競標 #超級短標 【商品名稱】CX-20各取所需 1.CX鳳凰上蓋 2.黃鯊魚上蓋 3.藍神杖上蓋 4.固鎖組 5.軸心組 【結標時間】： 11/25(三） 22：00無限防尾5分鐘 【起標金額】：0 【增額】：一標50或其倍數 【直購金額】： 直購只接受匯款後寄出 1.$600 2.$800 3.$800 4.$500 5.](https://news.google.com/rss/articles/CBMie0FVX3lxTE95OW9xVHlnNmVsYlRIeDVUTUpGNmx1amdWOW00Z2kyRWdtSk9KSUJHaUZjS0NfTVRqWEpuUFZDSU9MUHZOSFRTcVlEaDZ4dmxQbjRmekhXR3J1clpRVEpKZ2RRaDRtQTRYNWY3M0x1anZqeE41UG5vUzZxOA?oc=5) — Facebook 
-- 2026-11-25 [收以下整顆戰鬥陀螺,謝謝報價 1.收CX05-06可無QR無盒1000 2. 收BX35-05 可拆無QR500 3. 收CX-08-05可拆無QR350 4.收黃金櫃戰鬥盒1:500二手請報價 5.收CX-08-03可無QR盒500 6. 收福音戰士盒組可無QR無盒裝 1:1200 7.收APEX二手槍箱需現貨請報價 8.收](https://news.google.com/rss/articles/CBMie0FVX3lxTE0tWE9kaGJPTVJvZ1NoSTdtWU9PWjltU19CODVmaWFoYjFJaWtuNXdzbjlmQjFmNHZhSWowX0U0eXZSaFlMU1ZUS0NLbWlFbnNEdnd0UWpyR2trRjRHaFBMSkF6bC00ei1tU1lCR3NwME1Ea0VDd2JyaXlONA?oc=5) — Facebook 
-- 2026-11-25 [【競標】CX-20內容物拆開標❗️現貨 ❗️半日速標❗️0元起標 ❗️1標50 今晚22:30結標，匯款後明早就能寄出 【商品名稱】 1.鳳凰原力WH.M-65固鎖.MT軸 2.鮫鯊狂鱗(橘)1-70固鎖.LR軸 3.魔導神杖(藍)8-80固鎖.LO軸+HN軸 4.惡魔紅鎌V2.UF軸+K軸 【商品狀況】全新未](https://news.google.com/rss/articles/CBMie0FVX3lxTE8yemFLWGVCUDhfWTNKbEtxMzhpdGIzanhEUGV6Z1lza2RieU5zRVBITUcwSVR6MDdGd2RDQkozY1UxTmk5QkF3ekF0Z0Nwa0FfaHRjd3dDTjVCQVRLbVlsanM4RFBwT1VzTENHOVRjZ2duYm41cUxvV2xFUQ?oc=5) — Facebook 
-- 2026-11-25 [售 - 日版 BX-52 光輝龍騎士 全新未拆 有QR $700 - 賣貨便+38 連結直接下單 賣貨便取貨率低於90%將不出貨 - 賣貨便連結:](https://news.google.com/rss/articles/CBMikgFBVV95cUxPU0h0VXB5cl8xS000YVNPT2V5WGdEM281SkpxVU4xZVYxN1Nzc2kxaWFaajdYWWVXVlpGcVQ3eDdKWm9sS29LUUI1VDhFVkY0dncyZzhWdUM3RjZpcXI4V2Q3Tzd3UE9ISTN4REc2R3RBTkZaOS1iQlJJaVZEd3NkdkZJTGgxQmZxX2lKV2F3RDRvUQ?oc=5) — Facebook 
-- 2026-11-25 [戰鬥陀螺BX-54凱旋極神、UX-20榮耀女武神，攻擊、防爆、高尾速T0、T1推薦配置來了，比賽實戰給你看 #戰鬥陀螺 #Beyblade #新手 #攻略](https://news.google.com/rss/articles/CBMigAVBVV95cUxNaGloX3hmTWNLeklFSzZFWkhNTDNySzU2SWx1aDEtVm94QmZxNkp2WVdxWDUxeXBjV2dZTzh0MVBaanphMGN5VlNaODhLMGV0UHItY2FteDZyY0tuMXFQQXhGMEkzZmZTeXIxUHg5b0xkeFl0cWpRUWNXZ3BaZ3B5dzc1eGt4MFVpNUtXUVdCQi1yeTJqUzFxQWd4N2VSb01LVjY5dHd2ZDFTME5wclpPalJuX3lMVEUySjRBZWJlZDV1YUhMQ1U4Wi1SS1o2RDY5VDRSZ3F1VHFqUGEzSUVNWExMZkJ5eHhIUndIYVh1anF0Z0drUE83bXByLWJXdFBLd1RyaGVuRHRsdUxJWXhHYUpxQWxBZGcxZzVxSXdkSURCUTM0Ykc3VkFJZWxTc2tHcHdxcXg2c2dqSzM3SjJpaTQ5U2pobE5qLTRZcTRSb2xhZS03R3pFQmRyZWprWGlEZl9EeUNQQnAyWFlFOERFbUQzaGJKVEZkSWFDbW1NSE81YWFMNmlONzRSVU9fY0tvdWo1UUxROEk1cVVVSk53ZXA5V1VEUEVWT3hCWUlTZlFYYmJpVm5Ec25RS2JkUjVONndUZXF2N3NVYnJsQTkzQmE1bVE4V3FUZG53VXEtWGcwQjNBLXVXZUZxVkloYzZFQnhUNjRZcW9EUXhySDc5TzlXdU5XdlpTVzZIR0pSbzVBRUh5SnVsVDRIdVc0cjdzcHBBS203MGFmLTFXWUJCUVNJY3JRTmVEQjFLbGE5X0pOd2hxVjJCSmZPU1JEX3lKQnFkVm4tM2YxdGFsd0FMR3dkM0ZZdGhEbC0xZUR1ejVoQTJrVUtVY0RVanpsb1M4?oc=5) — Facebook 
-- 2026-11-25 [日版 BEYBLADE X BBLD 限量愛馬仕橘T恤＋全橘飛龍旋翼＋全橘發射器 在台現貨 可馬上寄 1:5000 全新未拆 S號M號L號各一組](https://news.google.com/rss/articles/CBMie0FVX3lxTFBzeEo5NnN4bXgxaUtaY1EyYUJacnRkYWNjWldaTFNxbTBGaEpDSXBjWU82T1lHTE9lbEN5TDNCVWpHcFpndFo4cGg4bWd0dnZRdW82UE91RTRCQXVvR3Z2RGdQTXRIZnVKUXcwYmNxbkEtcDRaTVVBR1JRdw?oc=5) — Facebook 
-- 2026-11-25 [單日競標 今晚結標 藍女武神 綠神杖 紅K軸 【商品名稱】 1. 台版藍女武神全新未拆 2.綠神杖全新整顆雙A2 35.37(+-0.06) 3.CX-05-01 紅K軸整顆全新未拆僅確認 【商品狀況】 🔸全新有QR。 【競拍規則】 • 起標價：0元起標 • 增標金額： 100元的倍數 • 出價方式： 請於留言區](https://news.google.com/rss/articles/CBMie0FVX3lxTFBXQ3AwSzdvam9vUGJneDVDYWdkMUI5UUcwdWctc3gwOHVWMTl4d1FfX3hLbmMyQ1U3Q2NWYmd6bWUwQ2xLdm1YWEw0NTFiWmNlcURHX3gyQVlsWFRwLUtMV3pDUWhsU3I2MkEtYVVXZXJHeGF0Y1dDYVlvWQ?oc=5) — Facebook 
-- 2026-11-25 [BX-53、鳳凰、木乃伊02、BX- 33、960固鎖LR軸、炫風發射器、拉 條發射器](https://news.google.com/rss/articles/CBMikgFBVV95cUxNeTJQX2FBVTVpYW9wbk14TUM3Uy1jdUNIOXp0dUtnQ2V6dVQ1c3E3WWJCcHEtWV8zRlVTTzZGNFozNU9vd1RNdFVuR2pXYXpVVUFwZUxsM2xscVpTUG42c09ld2JjanlFQkFJQWtsWjdFdWIySTZVNGRyNTJQQm04OUltUE1YaDBqSHQ4Q3Vwdm1Odw?oc=5) — Facebook 
-- 2026-11-25 [扭不停期間限定快閃登場！ 這次還有超萌的三麗鷗、寶可夢耶誕限定款🎄 可愛程度直接超標，每一款都想帶回家！ 還有超人氣戰鬥陀螺，已經被搶購一空啦 沒買到的朋友別擔心，之後會再陸續補貨🔥 扭不停｜大道東1F中央廣場 ⏰即日起－12/9（三） ※寶可夢耶誕限定](https://news.google.com/rss/articles/CBMinghBVV95cUxQRzREODVLaTBvYkt5NDJ2cWJrTkw1OVJTOVBxdTlCUE54cUI4WUQwTUdMWjdrQ2NHS0hzOERnS21BempPZ09maWN3RzFSUW5MeGtkT01KenFjLUlEZ1dPbmRzVFdxX3RnTjVGNlNsOEUwZjR0TWl2V3VDZW5IOTJWdEJZQ3JsOG9CSFd5NHZFTUVOc2J2bC1GN3pvRHdyVHdPTDlTZWZmT1EyOFRzVVRxNDNVMEVTX2NYaHlyR21KNi1na0dscUR6UTZxWVI3dDBQX0podXhVOVdSRjVpblp5LTRDRzc1YVBxY2ZUZ3NXYmVuTlVhcUVJWGl6UURtYnVoLTRiSDRDMnROTmtYM3NMVjE0dFJnQWVrbGEwdTlhQ1NhUjFlenlVQ0ZPbWx0NTVsdTZqdmhELWE1ZjBZNC0xcjZsc01MaVYtRjRNS2dsdXBIeWhMMExfWWRkeG41UkRfMlg0eTJoMG1KWGlQNi0yenVUc0dndnFzYk5MclZZd05zZGJjdHgtUUdxMXVwMkNKOW94M3VtUzJNcXhNakJRNFVGNktZZy14bl9XOU1Md0s0Zm5BeDVZXzhZU2lpQUYzejJfbE5ZUGh4VFZZWFdxZnRBUDhxQXNVcVJnekpMR3dBTVk0UTlTdmF1WTBDTkwtQ2hySVgzQ3FCaWY2a3ZkMVVOelhaQUFTZVF0N2hrdzd3LTZSVFI3VDZudUVxNVVteldyMDdQZXVXLXBEN193NzJ0MkpIMmw3Y3d5dzVrNTJWdEM2SEh0VG9mTGc1TGVHZXRnSmFoMU1iSWh0UDBkcmh5ME0tNDROUTN1NHp6TEpFaVp3ZU9PMV9Mb3MyTUU2WHM3U2p6TFhzZ1l5N1JBNnp5UzBJcmJFLVhjd2c3TWxGdjJrSzNkLTR5cmFtem5XRUtQMXNPWmw5WUlTcUx1SkVQcjA0dF9jOWVRaEg1TzY4bTRRdjZ5Q3dYUXEtYzNrcm9JNFJvYXVqaHNWNFFhOTl6VzlURFlVVHVaZ1NQa3BhY2pKTUEtNTBoSW96MlFPa0p5Vy0yMEFLYTlrbVppZUJyajJfS3dQSXpDaEdGbm0wdGhnUHlTSWFWc2p6SDZZd2lYelllaFQzcnkxZUczQ0ZQZ21oNTFoVHctemc4UG1ubVFxNnhpUnRoX1NrSmFwd3d1eW5XZ3I0R0x6RG1VMnFvRE4xUEFjbjJjdWZyUXNNd0VxTGhHN2ljVVlzQjY4QW1RMG1ReHZ0MDlpMkt5UFNZVjJpQWtzamMxUkdHNGFmSlV6Z2JxR3ZnaF9VZjJhU1ZhenVyR2VoNndBZVhzaU1UaF9xUXlLVk50ODdZNnIwb0xaZkV5Z1VrODhDWVZsUmZlM3dVSWwxNXd6MVFpMmU5T1NhVGhlSFhqOGlR?oc=5) — Facebook 
