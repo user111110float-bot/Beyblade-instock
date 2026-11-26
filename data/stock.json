@@ -132,17 +132,6 @@
   "restocked_at": null
  },
  {
-  "title": "10月新品【BEYBLADE X】戰鬥陀螺X BX-52 輝耀龍騎 6-60LC 左旋強攻啟動組",
-  "url": "https://www.sen-sen.com.tw/products/beyblade-x-bx-52-luster-dragoon-6-60lc",
-  "price": 495.0,
-  "qty": 0,
-  "in_stock": false,
-  "shop": "森森文具",
-  "upcoming": false,
-  "first_seen": "2026-10-17T00:37+08:00",
-  "restocked_at": null
- },
- {
   "title": "【2026 G1 賽前必備】極限戰鬥台X 3.0《陀螺對戰台》- 3秒快速收摺",
   "url": "https://www.sen-sen.com.tw/products/xtreme-battle-table-3-0",
   "price": 683.0,
@@ -264,6 +253,17 @@
   "restocked_at": "2026-10-19T09:46+08:00"
  },
  {
+  "title": "X-比賽盒（爆刃款）｜磁吸戰鬥陀螺收納盒 三入裝 霧面防刮 6色可選",
+  "url": "https://www.sen-sen.com.tw/products/x-battle-case-blade-magnetic-beyblade-storage-box",
+  "price": 780.0,
+  "qty": 5,
+  "in_stock": true,
+  "shop": "森森文具",
+  "upcoming": false,
+  "first_seen": "2026-11-26T12:27+08:00",
+  "restocked_at": "2026-11-26T12:27+08:00"
+ },
+ {
   "title": "Beyblade戰鬥陀螺 BX-37雙重極限衝擊戰鬥盤-豪華版",
   "url": "https://www.toysrus.com.tw/zh-tw/beyblade-bx-37-dual-extreme-impact-combat-disk-deluxe-edition-10058492.html",
   "price": 1498.0,
@@ -381,7 +381,7 @@
   "title": "【APP兌換】交換票券_戰鬥陀螺 CX-00 龍神勇氣G4-70I 金屬塗裝：水藍",
   "url": "https://shop.funbox.com.tw/products/bbpr08914",
   "price": null,
-  "qty": 194,
+  "qty": 191,
   "in_stock": true,
   "sell_from": null,
   "shop": "Funbox",
@@ -393,7 +393,7 @@
   "title": "BEYBLADE X 戰鬥陀螺 CX-16 極限衝擊對戰組C",
   "url": "https://shop.funbox.com.tw/products/bb09728",
   "price": 1995.0,
-  "qty": 95,
+  "qty": 94,
   "in_stock": true,
   "sell_from": null,
   "shop": "Funbox",
