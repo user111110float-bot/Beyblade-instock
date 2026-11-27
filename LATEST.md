@@ -1,6 +1,6 @@
 # 戰鬥陀螺到貨情報（全台）
 
-更新時間：2026-11-27T12:55+08:00　今日新增 80 筆
+更新時間：2026-11-27T22:51+08:00　今日新增 80 筆
 
 ## 📍 基隆
 
@@ -41,7 +41,6 @@
 - 2026-10-29 [［售］戰鬥陀螺 有一些BX-53的庫存，分享給大家都有得打 目前決定拆賣陀螺、空力盤 價格如下⬇️ 可談，搭配底下有優惠 台北新北基隆🉑面交 其餘可面交可走賣貨便+38 BX-53內的東東 ⬇️（都全新未拆） 魔導幻劍V2 🈚️篩檢 350（剩3） 藍空力 🈚️篩檢全新 2200 空力](https://news.google.com/rss/articles/CBMie0FVX3lxTE1mcG55R0hsWkh4cVdvLThJQkxBMnpJc0x2QmtDY3hhZlJwTnpESUJuUlU2MFN5Tk01UU1JbWdCaXZEU3JVZnJha09Hc2dMS0Y4TE13NFF4ZElMZ3k5ekFOSEpOVXdVVWE3T2tkT3Naek00MUNSMHJjbk1aUQ?oc=5) — Facebook 
 - 2026-10-29 [售戰鬥陀螺槍箱 15.18.24位歡迎私訊 基隆汐止可面交 （現貨）](https://news.google.com/rss/articles/CBMifEFVX3lxTFA5OUx3Y2N2ZS13NDR0Vmw1MjkxU1Y0RFlCZnh2OFlOaG04NDJETHg3ZllnMlpvMTlnaFBneUxQMk9jYmZpQURNcFlUVGhlZTg5ZDRERFpSOUpTVVZyRnF1RmpFemtuYV9ibEtJQjlVNmxJOF9vSWpSenl4Smo?oc=5) — Facebook 
 - 2026-10-29 [🎃鬍子伯伯之萬聖驚魂盃👻 📅 比賽日期｜115/11/1（日） 📍 比賽地點｜基隆市信義區深溪路8號（孝忠里里民活動中心） ⏰ 14:00～14:30 報到 ⏰ 14:30 後開放候補 ⚔️ 15:00 正式開賽 🌟成人組(48人開賽/$400） 第一名：BX-53 All-in-one全方位 第二名：BX-53 All-in-one全](https://news.google.com/rss/articles/CBMie0FVX3lxTE1uOTdNbmRaY05NWTZSMVRsTmFTRnZSQThxcXRzNFdXbk1QQmVUZ29SUW95cGd4aTNnY3dtN3NlemIyVklMWjVITEtnN3c4cU9oSnFIbE4xckhyVWhuTDVOSTU2VUFkYzhyWm9rMV9JeFlUbXNUU08xTGxBRQ?oc=5) — Facebook 
-- 2026-10-28 [出售 BX-53標準盤 800 Bx-52 1000（不要QR 900) 全收再折100 走匯款店到店（如果買標準盤走宅配，運費另加）、面交（基隆）](https://news.google.com/rss/articles/CBMie0FVX3lxTFBxaUloTEV6bEtGRWFtM3dfM0hRSWsxZXBlTU9Dd0hKNy1yZTR6ZlZhSGpoQVpPRDIzTzloSzVRX0FYRWNtZHlibWlMMmtzZzNZbjNpek9KR3BHYThNcEpEeDI0dU9nZTEzYmZudmFZQnhWWmlCX2x6b3Zjcw?oc=5) — Facebook 
 
 ## 📍 台北
 
@@ -587,8 +586,6 @@ BX-53 衝擊對戰組 $2800/盒 只有面交自取
 - 2026-10-31 [《收收收》 BX-53一盒 一盒 ВХ-53 價格:3500元 3500元 價格： 要全新的 南投 投草屯面交 నవಾజ್ಮ](https://news.google.com/rss/articles/CBMiekFVX3lxTE1nbHd2UksxN3pSeDZyalRxeV9vLVh3NWg4eTBFOE81dkhXM25kUjJFLWtfdWZfZFZjNXBmREYtdHVrcjNrWHBxZE5xX3lCOHNSckdSNkpUVFFPZFIyYkpia2xfYmhaaElBa0QyVGtCamlnWnV3LVlWLWxB?oc=5) — Facebook 
 - 2026-10-30 [販售文 Cx08 - 01 確認款（有QR) 800 Cx08 - 03確認款 （有QR) 800 Cx08 - 04 確認款（有QR) 500 UX-03 拆檢 35.34 （有QR) 350 南投面交 或匯款後店到店+60](https://news.google.com/rss/articles/CBMiekFVX3lxTFB1azA0MlNsWUtMdlJ6Rm9tOE9KYnYtNTdqdWUwNDJHcmY0T0JsVDdURVVaMFMyUmtrSTE3UU5wdUFWVllLdmpJc2VUQnZjUzlzWDdFSEREZGdFTFBaeXpkd3A1SWVPZ2dZcWRmYkFCVDNEWFVzRllpY2R3?oc=5) — Facebook 
 - 2026-10-29 [售 全新未拆現貨 UX-20榮耀女武神 UX-15 絞鯊狂鱗 C標 UX-19 子彈獅鷲 三顆一起賣全部3100 不議價 只限草屯 南投 面交 不幫寄 不幫寄 能面交者在私訊](https://news.google.com/rss/articles/CBMie0FVX3lxTE5leHlpUy03b1F5NWFYbzFHOXljQmxmaC1xRTZzeWV2OTk5N2xGT3o0UnlQVzdBRXh0M1ROU2hrSlh2V3ZQSi1GMkN0QWZzU2R3U3pNTXNKbDFLR0VEWnl1aVVGN1pHeWJaTy1sbFliZlpjNDJteTcxa0hwWQ?oc=5) — Facebook 
-- 2026-10-28 [【集集站戰鬥陀螺賽｜10/31（六）開打】 第一場免報名費，三場一次聯報只要 NT$400！ 13:30 報到，14:00 開打，64 人額滿。 📍地點｜南投縣集集鎮本草自然觀光工廠 獎品如下： 第一場｜冠軍 CX-16 異色龍王戰鬥盤組、亞軍 CX-13 龍王閃擊、季軍 CX-15 邪神狂怒 第二](https://news.google.com/rss/articles/CBMifEFVX3lxTE9yVWNVVkZjNlJ0RGFUVUZWSXNUTE5SQXI3Zy15VUVKeDJSLUJFVVJQZHU2YWNpVUpVSEV4cU92RE9zd0JwTmFCUTBVNGljNi1NUFVtdENmNVExWmd1WDhpMWwtVFA5YVduNUNSQnRDQ21DbUpwME11YXAxM20?oc=5) — Facebook 
-- 2026-10-28 [埔里墊腳石書店- 今日到貨陀螺🎉...](https://news.google.com/rss/articles/CBMickFVX3lxTE1DeGJ1ZUdheVJWZnJJQWEwRmw4Y3dtRXk0bU1sZ2NEU05yZzRRY2tmTVNVeVNUdDhuUE5TWDRFNXk2anJyNjFVQzVMY1RVUTZMN3BPRHBZajdlY3h0UXR2TmhmVDhRd01IZER4dzJreUZBdw?oc=5) — Facebook 
 
 ## 📍 雲林
 
