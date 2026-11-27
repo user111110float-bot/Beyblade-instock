@@ -1,6 +1,6 @@
 # 戰鬥陀螺到貨情報（全台）
 
-更新時間：2026-11-27T22:51+08:00　今日新增 80 筆
+更新時間：2026-11-28T07:18+08:00　今日新增 0 筆
 
 ## 📍 基隆
 
@@ -617,8 +617,6 @@ BX-53 衝擊對戰組 $2800/盒 只有面交自取
 - 2026-11-03 [售 cx-17-01 獨角極變上蓋 未比賽，只在家打3次 $：990 雲林可面交，7-11店到店+60](https://news.google.com/rss/articles/CBMiekFVX3lxTE9zWDVwVGc2ZW1uZ2RfM0R4UmhIMU1Ca2hSZXNFS0hsY2ZGZ3J6dXAtRjdCNzVpcHNDQldhaHBfX0I2WFU3b0t1UUJBcjQ0Y2puRVpLd1NzUzRkb2xnZllRYm5lNGNvZzlvVnRlbzJPRFMzTUNzbFRuNktB?oc=5) — Facebook `7-11`
 - 2026-11-03 [售 UX-03 魔導神杖 UX-20 榮耀女武神 CX-07 天馬爆擊 CX-11 帝王威能 CX-13 龍王閃擊 CX-19 鱷魚抽包 BX-34 蒼穹龍騎士 BX-49 蒼龍突襲 BX-50 天輪抽包 交易方式：雲林/嘉義可約面交/郵寄/先匯款店到店+60 商品狀況：全新未拆 備註須知：對商品有疑慮可發問，](https://news.google.com/rss/articles/CBMiekFVX3lxTE1XOTE4WUp1ZjBEODc5czRCOGItSmt1RGx4LUZWTzFaNXgybGVsQ0pDUTZ5azc4RWZhSUwwM0UxOVZPNS1JSjRwdDUwTy04SFhPTXFpSTN0ZGUxM3NUUHc4eEdhT3NqaFYtOWtqMC1rem5yb3p5cC1TUmh3?oc=5) — Facebook 
 - 2026-10-30 [售陀螺 UX-18-06 不含軸 100 售cx-19 鱷魚碾壓沒有5-50 qr 300 隕星發射器加3-70 350 隕星整盒 上蓋39.06 🈚️j軸qr(自行開價） 二手W環250 🔥二手1-70 250 二手3-70 200 二手旋風發射器（需自行整理）+ 全新子彈獅鷲拉條發射器350 限 雲林虎尾 嘉義市 面交](https://news.google.com/rss/articles/CBMie0FVX3lxTE8xNk1Kd01RLWktQloxaHhWQ2NSampwUVRabHJLTmpfNTcwcF9aMUJMX0pwZGtnTUxCOG9DX0x6ZFhNQTdMZ3labHhlTjlDeEZJU2REeF9ZNFFMV19zMjNJN2JvOWQ1NzFKTm4yRHoyMjVIYTNLWGdNbGU4SQ?oc=5) — Facebook 
-- 2026-10-29 [售 UX-03魔導神杖（2顆 UX-16 時鐘幻像 UX-17 隕星龍騎士 BX-50 天輪抽包 交易方式：雲林/嘉義可約面交/郵寄/先匯款店到店+60 商品狀況：全新未拆 備註須知：對商品有疑慮可發問，請勿擾亂賣場。他團同步販售中](https://news.google.com/rss/articles/CBMiekFVX3lxTFBqemFlWGFma2NuZUNSQzdtXzhCb0VzcVNuYmtBRmZnOGdjc0dpU3dMbmlyTmJHbXRQXzUyVmJjWURYekx3Mlhmd19VamduQXpkbXFlZlRiYktHaFg4SGlSQXZfaVZTMl83Z0F0Mjc4V2dXem9sSlB6YWhR?oc=5) — Facebook 
-- 2026-10-28 [售！ 皆全新未拆 戰鬥台700 BX-52 850 UX-17 800 BX-24 400 手把 350 全收價格可以討論～ 台南/雲林面交or 711匯款後寄出](https://news.google.com/rss/articles/CBMiekFVX3lxTFBvZG9pZUdUVlU4Sk5VT3NSeWhkLTRva29WT1EyTUJmQlQ3LVhEMk1tckxCM2ttMGpYTjNkNTJNZ0FJRVEzQTllR0hzdDA0ekhEeGZyajBYRXpkc0FPZ0g4bkl4eC1KZ0RwMUZOcEJMUXo0RWlNTG00RHJR?oc=5) — Facebook 
 
 ## 📍 嘉義
 
@@ -651,7 +649,6 @@ BX-53 衝擊對戰組 $2800/盒 只有面交自取
 - 2026-10-30 [現貨 日版 BX-52（全新） 嘉義市可面交 1：950 或 賣貨便 1：1000 （含運） 有需要請留言後 私訊](https://news.google.com/rss/articles/CBMie0FVX3lxTE9velVhUUo1cmJZMFcwRGF6c0tiQlVJRDZ5TVBwT2hnQXo2aU80UXJuT29UOFVGUjZGakZOdFdaTjV1aHN2SmtOdXp6LW9tc0o4R1FXaFkxakdxb2dmNWxQcXdBRVFralc3dEJ2d0xhbzd4eWlGUWxmc2M2SQ?oc=5) — Facebook 
 - 2026-10-29 [#售 被棄標 全新日版39.47頂重隕星+未拆袋左旋發射器、370 售800 Cx-10+bx-35 01 02全新台版含qr 售900 兩個一起：1600 嘉義市/苗栗市 可面交 其他賣貨便 註：圖3的人會私訊下標然後封鎖你，大家可以小心一下他](https://news.google.com/rss/articles/CBMiekFVX3lxTE8tcmZUSVNUWGVZdWg4MWhpSFJzRTNxbFdOc2JvbnRPZTg0cEVKaS1rQkw5dGVkY0pGNjdQMXZwNE05SU9RYU95UkJqaFFDSldWZURvVV9kUV80LW1DdU5MR3FRSFd0T21oLVJQcGpZQTBDRE9yNHF3V213?oc=5) — Facebook 
 - 2026-10-29 [⭐️全新台版未拆⭐️（已售出） CX-05 $480元￼ CX-08 $480元 🎈商品售出不退,全收優先 嘉義面交或匯款店到店+60](https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZbURSWkdDYjJONDF6YjJ3MUVhaDlZUkEzUmpkSl94ZjJPVFFkbmdidS1jcURJUW9zTjdhR09odFIySG9ZQklldHlaTFhzVFhHMllmREZ6UGZLTGdUZWxOQjVUMlRiaS1iTjdxUXdrbkJrdHJEREUzYVlR?oc=5) — Facebook 
-- 2026-10-29 [售 UX-03魔導神杖（2顆 UX-16 時鐘幻像 UX-17 隕星龍騎士 BX-50 天輪抽包 交易方式：雲林/嘉義可約面交/郵寄/先匯款店到店+60 商品狀況：全新未拆 備註須知：對商品有疑慮可發問，請勿擾亂賣場。他團同步販售中](https://news.google.com/rss/articles/CBMiekFVX3lxTFBqemFlWGFma2NuZUNSQzdtXzhCb0VzcVNuYmtBRmZnOGdjc0dpU3dMbmlyTmJHbXRQXzUyVmJjWURYekx3Mlhmd19VamduQXpkbXFlZlRiYktHaFg4SGlSQXZfaVZTMl83Z0F0Mjc4V2dXem9sSlB6YWhR?oc=5) — Facebook 
 
 ## 📍 台南
 
